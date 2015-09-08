@@ -1,0 +1,25 @@
+/* arrows for links and buttons */
+.icon-arr-s {
+	background-image: url('/img/arr_s_l.svg');
+}
+
+.act .icon-arr-s {
+	background-image: url('/img/arr_s_m.svg');
+}
+
+.icon-arr-e{
+	background-image: url('/img/arr_e_l.svg');
+}
+
+.icon-x {
+	background-image: url('/img/x_l.svg');
+}
+
+/* special cursor images */
+.carousel-control.right[role="button"] {
+	cursor: url('/img/cursor_e.svg'), e-resize;
+}
+
+.carousel-control.left[role="button"] {
+	cursor: url('/img/cursor_w.svg'), w-resize;
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="60" height="60">
+    <desc iVinci="yes" version="4.6" gridStep="10" showGrid="yes" snapToGrid="yes" codePlatform="0"/>
+    <g id="Layer1" name="Layer 3" opacity="1">
+        <g id="Shape1">
+            <desc shapeID="1" type="0" basicInfo-basicType="0" basicInfo-roundedRectRadius="12" basicInfo-polygonSides="6" basicInfo-starPoints="5" bounding="rect(-24.8406,-1.60001,49.6812,3.2)" text="" font-familyName="" font-pixelSize="20" font-bold="0" font-underline="0" font-alignment="1" strokeStyle="0" markerStart="0" markerEnd="0" shadowEnabled="0" shadowOffsetX="0" shadowOffsetY="2" shadowBlur="4" shadowOpacity="160" blurEnabled="0" blurRadius="4" transform="matrix(1,0,0,1,28.486,26.4973)" pers-center="0,0" pers-size="0,0" pers-start="0,0" pers-end="0,0" groupID="6" locked="0" mesh="" flag=""/>
+            <path id="shapePath1" d="M3.64538,28.0973 L53.3266,28.0973 L53.3266,24.8973 L3.64538,24.8973 L3.64538,28.0973 Z" style="stroke:none;fill-rule:nonzero;fill:#040606;fill-opacity:1;"/>
+        </g>
+        <g id="Shape2">
+            <desc shapeID="2" type="0" basicInfo-basicType="0" basicInfo-roundedRectRadius="12" basicInfo-polygonSides="6" basicInfo-starPoints="5" bounding="rect(-13.0647,-22.7967,26.1293,45.5933)" text="" font-familyName="" font-pixelSize="20" font-bold="0" font-underline="0" font-alignment="1" strokeStyle="0" markerStart="0" markerEnd="0" shadowEnabled="0" shadowOffsetX="0" shadowOffsetY="2" shadowBlur="4" shadowOpacity="160" blurEnabled="0" blurRadius="4" transform="matrix(1,0,0,1,44.1741,26.6367)" pers-center="0,0" pers-size="0,0" pers-start="0,0" pers-end="0,0" groupID="6" locked="0" mesh="" flag=""/>
+            <path id="shapePath2" d="M33.316,49.4333 L31.1094,47.116 L52.6001,26.636 L31.1094,6.15731 L33.316,3.83999 L57.2387,26.636 L33.316,49.4333 Z" style="stroke:none;fill-rule:nonzero;fill:#040606;fill-opacity:1;"/>
+        </g>
+    </g>
+</svg>

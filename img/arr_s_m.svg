@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="60" height="60">
+    <desc iVinci="yes" version="4.6" gridStep="10" showGrid="yes" snapToGrid="yes" codePlatform="0"/>
+    <g id="Layer1" name="Layer 3" opacity="1">
+        <g id="Shape1">
+            <desc shapeID="1" type="0" basicInfo-basicType="0" basicInfo-roundedRectRadius="12" basicInfo-polygonSides="6" basicInfo-starPoints="5" bounding="rect(-2.66701,-24.8399,5.33401,49.68)" text="" font-familyName="" font-pixelSize="20" font-bold="0" font-underline="0" font-alignment="1" strokeStyle="0" markerStart="0" markerEnd="0" shadowEnabled="0" shadowOffsetX="0" shadowOffsetY="2" shadowBlur="4" shadowOpacity="160" blurEnabled="0" blurRadius="4" transform="matrix(1,0,0,1,30.3793,25.3399)" pers-center="0,0" pers-size="0,0" pers-start="0,0" pers-end="0,0" groupID="2" locked="0" mesh="" flag=""/>
+            <path id="shapePath1" d="M27.7123,50.18 L33.0463,50.18 L33.0463,0.5 L27.7123,0.5 L27.7123,50.18 Z" style="stroke:none;fill-rule:evenodd;fill:#040606;fill-opacity:1;"/>
+        </g>
+        <g id="Shape2">
+            <desc shapeID="2" type="0" basicInfo-basicType="0" basicInfo-roundedRectRadius="12" basicInfo-polygonSides="6" basicInfo-starPoints="5" bounding="rect(-23.5694,-14.206,47.139,28.412)" text="" font-familyName="" font-pixelSize="20" font-bold="0" font-underline="0" font-alignment="1" strokeStyle="0" markerStart="0" markerEnd="0" shadowEnabled="0" shadowOffsetX="0" shadowOffsetY="2" shadowBlur="4" shadowOpacity="160" blurEnabled="0" blurRadius="4" transform="matrix(1,0,0,1,30.2407,41.434)" pers-center="0,0" pers-size="0,0" pers-start="0,0" pers-end="0,0" groupID="2" locked="0" mesh="" flag=""/>
+            <path id="shapePath2" d="M30.2403,55.64 L6.6713,30.908 L10.5343,27.228 L30.2403,47.91 L49.9473,27.228 L53.8103,30.908 L30.2403,55.64 Z" style="stroke:none;fill-rule:evenodd;fill:#040606;fill-opacity:1;"/>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="60" height="60">
+    <desc iVinci="yes" version="4.6" gridStep="10" showGrid="yes" snapToGrid="yes" codePlatform="0"/>
+    <g id="Layer1" name="Layer 3" opacity="1">
+        <g id="Shape1">
+            <desc shapeID="1" type="0" basicInfo-basicType="0" basicInfo-roundedRectRadius="12" basicInfo-polygonSides="6" basicInfo-starPoints="5" bounding="rect(-1.59998,-24.8401,3.19995,49.6803)" text="" font-familyName="" font-pixelSize="20" font-bold="0" font-underline="0" font-alignment="1" strokeStyle="0" markerStart="0" markerEnd="0" shadowEnabled="0" shadowOffsetX="0" shadowOffsetY="2" shadowBlur="4" shadowOpacity="160" blurEnabled="0" blurRadius="4" transform="matrix(1,0,0,1,30.7028,25.6801)" pers-center="0,0" pers-size="0,0" pers-start="0,0" pers-end="0,0" groupID="4" locked="0" mesh="" flag=""/>
+            <path id="shapePath1" d="M29.1029,50.5203 L32.3028,50.5203 L32.3028,0.840008 L29.1029,0.840008 L29.1029,50.5203 Z" style="stroke:none;fill-rule:nonzero;fill:#040606;fill-opacity:1;"/>
+        </g>
+        <g id="Shape2">
+            <desc shapeID="2" type="0" basicInfo-basicType="0" basicInfo-roundedRectRadius="12" basicInfo-polygonSides="6" basicInfo-starPoints="5" bounding="rect(-22.796,-13.0647,45.592,26.1293)" text="" font-familyName="" font-pixelSize="20" font-bold="0" font-underline="0" font-alignment="1" strokeStyle="0" markerStart="0" markerEnd="0" shadowEnabled="0" shadowOffsetX="0" shadowOffsetY="2" shadowBlur="4" shadowOpacity="160" blurEnabled="0" blurRadius="4" transform="matrix(1,0,0,1,30.5642,41.3676)" pers-center="0,0" pers-size="0,0" pers-start="0,0" pers-end="0,0" groupID="4" locked="0" mesh="" flag=""/>
+            <path id="shapePath2" d="M30.5642,54.4323 L7.76815,30.511 L10.0842,28.3029 L30.5642,49.7949 L51.0442,28.3029 L53.3602,30.511 L30.5642,54.4323 Z" style="stroke:none;fill-rule:nonzero;fill:#040606;fill-opacity:1;"/>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,61 @@
+---
+layout: home
+description: Numrich Albrecht Klumpp Gesellschaft von Architekten mbH 
+---
+
+    <section id="promotion-slides">
+
+		<div id="carousel-promotion-slides" class="carousel slide" data-ride="none">
+		  <div class="carousel-inner" role="listbox">
+
+{% assign counter = 0 %}
+{% for post in site.categories.startseite %}
+
+		    <a href="{{ post.url | prepend: site.baseurl }}" class="item{% if counter == 0 %} active{% endif %}" data-image="{% for image in post.images limit:1 %}{{ image | prepend: site.url }}{% endfor %}">
+		    	{% if post.news %}
+			    <div class="news">{{ post.news }}</div>
+			    {% endif %}
+		    </a>
+
+	{% assign counter = counter | plus: 1 %}
+{% endfor %}
+
+		    <a href="projekt_Berlin_BAL.php" class="item active" data-image="projekte/Berlin_BAL/01.jpg">
+			    <div class="news">News Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum.</div>
+		    </a>
+		    <a href="projekt_Borgsdorf_SHB.php" class="item" data-image="projekte/Borgsdorf_SHB/01.jpg"></a>
+		    <a href="projekt_Eberswalde_BBZ.php" class="item" data-image="projekte/Eberswalde_BBZ/01.jpg"></a>
+		    <a href="projekt_KoenigsWusterhausen_AFZM.php" class="item" data-image="projekte/KoenigsWusterhausen_AFZM/01.jpg"></a>
+		  </div>
+		</div>
+		<header>
+			<div id="header">
+			    <div id="logo">
+			    	<a href="/" class="logo">
+				        <strong>Numrich Albrecht Klumpp</strong>
+			    	</a>
+			    </div>
+				<nav id="menu">
+		    		<a href="/projekte/" class="no1 btn btn-default">Projekte</a>
+		    		<a href="/buero/" class="no2 btn btn-default">Büro</a>
+				</nav>
+			</div>
+		</header>
+				
+		<a class="hidden-xs left carousel-control" href="#carousel-promotion-slides" role="button" data-slide="prev">
+		    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+		    <span class="sr-only">Zurück</span>
+		</a>
+		<a class="hidden-xs right carousel-control" href="#carousel-promotion-slides" role="button" data-slide="next">
+		    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+		    <span class="sr-only">Weiter</span>
+		</a>
+		  
+		<div class="contact" itemscope itemtype="http://schema.org/LocalBusiness">
+			<nobr class="hidden-xs"><a href="buero.php"><strong itemprop="name">Numrich Albrecht Klumpp</strong> <span class="hidden-sm hidden-md ">Gesellschaft von Architekten mbH</span></a> &nbsp;|&nbsp; </nobr>
+			<nobr class="hidden-xs hidden-sm"><address itemprop="address" itemscope itemtype="http://schema.org/PostalAddress"><span itemprop="streetAddress">Kohlfurter Straße 41-43</span>, <span itemprop="postalCode">10999</span> <span itemprop="addressLocality">Berlin</span></address> &nbsp;|&nbsp; </nobr>
+			<nobr><a href="mailto:info@nak-architekten.de">info@nak-architekten.de</a></nobr>
+			<nobr> &nbsp;|&nbsp; <a href="tel:++493061676920"><span class="hidden-xs">+49 (</span>0<span class="hidden-xs">)</span>30 616<span class="hidden-xs"> </span>76<span class="hidden-xs"> </span>92-0</a></nobr>
+		</div>
+
+    </section>

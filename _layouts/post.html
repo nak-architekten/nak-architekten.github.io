@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html>
+
+  {% include inc_head.html %}
+
+<body class="project" id="top">
+
+    <section id="promotion-slides">
+
+		<div id="carousel-promotion-slides" class="carousel slide" data-ride="none">
+		  <div class="carousel-inner" role="listbox">
+
+
+{% assign counter = 0 %}
+{% for image in page.images %}
+	
+		    <div class="item{% if counter == 0 %} active{% endif %}" data-image="{{ image | prepend: site.url }}">
+			      <div class="carousel-caption">
+			        <a href="#project-detail-content"><span class="hidden-xs">{{ page.shorttitle }}</span>
+
+{% assign captioncounter = 0 %}
+{% for caption in page.captions %}
+	{% if captioncounter == counter %}
+		{{ caption }}
+	{% endif %}
+	{% assign captioncounter = captioncounter | plus: 1 %}
+{% endfor %}
+			        
+			        <span class="icon icon-arr-s">&nbsp;</span></a>
+			      </div>
+		    </div>
+
+	{% assign counter = counter | plus: 1 %}
+{% endfor %}
+
+		  </div>
+
+		  <div class="carousel-navpanel">
+		  <ol class="carousel-indicators">
+{% assign counter = 0 %}
+{% for image in page.images %}
+			<li class="hidden-xs totop {% if counter == 0 %} active{% endif %}" data-target="#carousel-promotion-slides" data-slide-to="{{ counter }}"><span class="circle"></span></li>
+	{% assign counter = counter | plus: 1 %}
+{% endfor %}
+		  </ol>
+		  	<span class="totop next" href="#carousel-promotion-slides" role="button" data-slide="next"><span class="icon icon-arr-e">&nbsp;</span></span>
+		  </div>
+
+		<header>
+			<div id="header">
+			    <div id="logo">
+			    	<a href="/" class="logo">
+				        <strong>Numrich Albrecht Klumpp</strong>
+			    	</a>
+			    </div>
+				<nav id="menu">
+		    		<a href="/projekte/" class="no1 btn btn-default act">Projekte</a>
+		    		<a href="/buero/" class="no2 btn btn-default">Büro</a>
+				</nav>
+			</div>
+		</header>
+		
+		  <!-- Controls -->
+		  <a class="left carousel-control totop" href="#carousel-promotion-slides" role="button" data-slide="prev">
+		    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+		    <span class="sr-only">Zurück</span>
+		  </a>
+		  <a class="right carousel-control totop" href="#carousel-promotion-slides" role="button" data-slide="next">
+		    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+		    <span class="sr-only">Weiter</span>
+		  </a>
+		</div>
+
+    </section>
+
+
+    <section id="project-detail">
+    	<div class="spacer"></div>
+	    <div class="container-fluid">
+			<div class="row">
+				<div id="project-detail-content" class="col-xs-12 col-sm-7 col-sm-offset-4 col-md-7 col-md-offset-3 col-lg-7 col-lg-offset-3">
+				
+					<a id="close" href="#top"><span class="icon icon-x">&nbsp;</span></a>
+				
+					<h1>{{ page.title }}</h1>
+					
+					{{ content }}
+
+				</div>
+			</div>
+		</div>
+    </section>
+
+
+    {% include inc_scripts.html %}
+
+</body>
+</html>

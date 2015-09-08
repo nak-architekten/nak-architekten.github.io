@@ -1,0 +1,34 @@
+---
+layout: post
+categories:
+- projekt
+date: 2014-12-01
+published: true
+title: Zweifeldsporthalle Borgsdorf
+shorttitle: Zweifeldsporthalle Borgsdorf
+permalink: /projekte/SHB_Borgsdorf/
+tags: 
+- Schulen + Kitas
+images:
+- /projekte/SHB_Borgsdorf/01.jpg
+- /projekte/SHB_Borgsdorf/02.jpg
+- /projekte/SHB_Borgsdorf/03.jpg
+- /projekte/SHB_Borgsdorf/04.jpg
+- /projekte/SHB_Borgsdorf/05.jpg
+- /projekte/SHB_Borgsdorf/06.jpg
+- /projekte/SHB_Borgsdorf/07.jpg
+- /projekte/SHB_Borgsdorf/08.jpg
+captions:
+- 01 Mensa für das Bildungszentrum der Finanzverwaltung des Landes Brandenburg
+- 02 In context of the running paid content
+- 03 Lorem Ipsum
+- 04 Lorem Ipsum
+---
+Adresse			|	Bahnhofstraße 33b, 16540 Hohen Neuendorf 
+Bauherr			|	Stadt Hohen Neuendorf
+BGF				|	2.400 m²
+Bausumme		|	KGR 200-700, 3.900.000 € 
+Fertigstellung	|	Dezember 2014
+Projektleiter	|	Arthur Numrich
+Mitarbeiter		|	Ulrike Vogel 
+Projektfotos	|	Nina Straßgütl 
