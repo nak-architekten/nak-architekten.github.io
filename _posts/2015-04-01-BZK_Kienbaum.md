@@ -7,7 +7,7 @@ date: 2015-04-01
 published: true
 title: Trainingshalle im Bundesleistungszentrum
 shorttitle: BLZ Kienbaum
-news: HEUTE mit Luftballons
+news: BLZ Kienbaum HEUTE mit Luftballons
 permalink: /projekte/BZK_Kienbaum/
 tags: 
 - Schulen + Kitas

@@ -732,3 +732,13 @@ address{
 .active .circle {
 	background-color: #040606;
 }
+
+.home .icon {
+    display: inline-block;
+    background-size: 100%;
+    background-position: 0px 3px;
+    background-repeat: no-repeat;
+    min-width: 24px;
+    padding: 0;
+    margin-left: 3px;
+}

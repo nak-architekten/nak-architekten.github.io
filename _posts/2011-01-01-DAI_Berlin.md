@@ -7,7 +7,7 @@ date: 2011-01-01
 published: true
 title: Deutsches Archäologisches Institut Berlin
 shorttitle: DAI Berlin
-news: HEUTE mit Luftballons
+news: DAI Berlin HEUTE mit Luftballons
 permalink: /projekte/DAI_Berlin/
 tags: 
 - Schulen + Kitas

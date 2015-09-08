@@ -18,11 +18,11 @@ permalink: /buero/
                             <nav id="menu">
                                 <a href="/projekte/" class="no1 btn btn-default">Projekte</a> 
                                 <a href="/buero/" class="no2 act btn btn-default">Büro</a>
-                    <div id="filterpanel">
-                        <a class="act hidden-xs" href="#Partner">Partner</a> <a class="hidden-xs" href="#Team">Team</a> <a class="hidden-xs" href="#Preisrichter">Preisgericht</a> <a class="hidden-xs" href="#Impressum">Impressum</a>
-
-                        <div class="hidden-xs clear"></div>
-                    </div>
+			                    <div id="filterpanel">
+									<a class="hidden-xs" href="/buero/#Preisgericht">Preisgericht</a> 
+									<a class="hidden-xs" href="/buero/#Impressum">Impressum</a>
+			                        <div class="hidden-xs clear"></div>
+			                    </div>
                             </nav>
                         </div>
                     </header>
@@ -46,13 +46,13 @@ permalink: /buero/
 
                                     <div class="carousel-inner" role="listbox">
                                         <div class="item active">
-                                            <img class="img-responsive" src="img/Team/21.jpg">
+                                            <img class="img-responsive" src="http://res.cloudinary.com/{{site.cloudinaryaccount}}/image/fetch/w_960,q_88,f_auto,fl_progressive,fl_force_strip/{{site.url}}/buero/kontakt/01.jpg">
                                         </div>
                                         <div class="item">
-                                            <img class="img-responsive" src="img/Team/22.jpg">
+                                            <img class="img-responsive" src="http://res.cloudinary.com/{{site.cloudinaryaccount}}/image/fetch/w_960,q_88,f_auto,fl_progressive,fl_force_strip/{{site.url}}/buero/kontakt/02.jpg">
                                         </div>
                                         <div class="item">
-                                            <img class="img-responsive" src="img/Team/23.jpg">
+                                            <img class="img-responsive" src="http://res.cloudinary.com/{{site.cloudinaryaccount}}/image/fetch/w_960,q_88,f_auto,fl_progressive,fl_force_strip/{{site.url}}/buero/kontakt/03.jpg">
                                         </div>
                                     </div>
                                     <!-- Controls -->
@@ -95,7 +95,7 @@ permalink: /buero/
 										<div class="container-fluid">
 											<div class="row">
 												<div class="col-xs-12 col-sm-6 col-lg-5 col-no-padding">
-													<img class="img-responsive" src="img/Partner/01_Partner.jpg" />
+													<img class="img-responsive" src="http://res.cloudinary.com/{{site.cloudinaryaccount}}/image/fetch/w_960,q_88,f_auto,fl_progressive,fl_force_strip/{{site.url}}/buero/partner/01_Partner.jpg" />
 												</div>
 												<div class="col-xs-12 col-sm-6 col-lg-5 col-with-padding right">
 													<div>
@@ -116,7 +116,7 @@ permalink: /buero/
 										<div class="container-fluid">
 											<div class="row">
 												<div class="col-xs-12 col-sm-6 col-lg-5 col-no-padding">
-													<img class="img-responsive" src="img/Partner/02_ArthurNumrich.jpg" />
+													<img class="img-responsive" src="http://res.cloudinary.com/{{site.cloudinaryaccount}}/image/fetch/w_960,q_88,f_auto,fl_progressive,fl_force_strip/{{site.url}}/buero/partner/02_ArthurNumrich.jpg" />
 												</div>
 												<div class="col-xs-12 col-sm-6 col-lg-5 col-with-padding right">
 														<p>
@@ -143,7 +143,7 @@ permalink: /buero/
 										<div class="container-fluid">
 											<div class="row">
 												<div class="col-xs-12 col-sm-6 col-lg-5 col-no-padding">
-													<img class="img-responsive" src="img/Partner/04_GarntKelly.jpg" />
+													<img class="img-responsive" src="http://res.cloudinary.com/{{site.cloudinaryaccount}}/image/fetch/w_960,q_88,f_auto,fl_progressive,fl_force_strip/{{site.url}}/buero/partner/04_GarntKelly.jpg" />
 												</div>
 												<div class="col-xs-12 col-sm-6 col-lg-5 col-with-padding right">
 														<p>
@@ -167,7 +167,7 @@ permalink: /buero/
 										<div class="container-fluid">
 											<div class="row">
 												<div class="col-xs-12 col-sm-6 col-lg-5 col-no-padding">
-													<img class="img-responsive" src="img/Partner/03_TiemoKlumpp.jpg" />
+													<img class="img-responsive" src="http://res.cloudinary.com/{{site.cloudinaryaccount}}/image/fetch/w_960,q_88,f_auto,fl_progressive,fl_force_strip/{{site.url}}/buero/partner/03_TiemoKlumpp.jpg" />
 												</div>
 												<div class="col-xs-12 col-sm-6 col-lg-5 col-with-padding right">
 														<p>
@@ -204,34 +204,21 @@ permalink: /buero/
 
                                 <div class="carousel-inner" role="listbox">
 
-                                    <div class="item active">
+
+{% assign counter = 0 %}
+{% for post in site.categories.team %}
+
+                                    <div class="item{% if counter == 0 %} active{% endif %}">
 										<div class="container-fluid">
 											<div class="row">
 												<div class="col-xs-12 col-sm-6 col-lg-5 col-no-padding">
-													<img class="img-responsive" src="img/Team/21.jpg" />
+													<img class="img-responsive" src="http://res.cloudinary.com/{{site.cloudinaryaccount}}/image/fetch/w_960,q_88,f_auto,fl_progressive,fl_force_strip/{{ post.image | prepend: site.url }}"/>
 												</div>
 												<div class="col-xs-12 col-sm-6 col-lg-5 col-with-padding right">
 													<div>
 															<h3 class="hidden-xs">Team + Aktivitäten</h3>
 															<p>
-															Lorem Ipsum Team/21.jpg
-															</p>
-													</div>
-												</div>
-											</div>
-										</div>
-                                    </div>
-                                    <div class="item">
-										<div class="container-fluid">
-											<div class="row">
-												<div class="col-xs-12 col-sm-6 col-lg-5 col-no-padding">
-													<img class="img-responsive" src="img/Team/22.jpg" />
-												</div>
-												<div class="col-xs-12 col-sm-6 col-lg-5 col-with-padding right">
-													<div>
-															<h3 class="hidden-xs">Team + Aktivitäten</h3>
-															<p>
-															Lorem Ipsum Team/22.jpg
+															{{ post.title }}
 															</p>
 													</div>
 												</div>
@@ -239,6 +226,8 @@ permalink: /buero/
 										</div>
                                     </div>
 
+	{% assign counter = counter | plus: 1 %}
+{% endfor %}
 
                                 </div><!-- Controls -->
                                 <a class="left carousel-control" href="#carousel-team" role="button" data-slide="prev"> <span class="sr-only">Previous</span></a> <a class="right carousel-control" href="#carousel-team" role="button" data-slide="next"> <span class="sr-only">Next</span></a>

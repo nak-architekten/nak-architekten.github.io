@@ -13,19 +13,13 @@ description: Numrich Albrecht Klumpp Gesellschaft von Architekten mbH
 
 		    <a href="{{ post.url | prepend: site.baseurl }}" class="item{% if counter == 0 %} active{% endif %}" data-image="{% for image in post.images limit:1 %}{{ image | prepend: site.url }}{% endfor %}">
 		    	{% if post.news %}
-			    <div class="news">{{ post.news }}</div>
+			    <div class="news">{{ post.news }} <span class="icon icon-arr-e">&nbsp;</span></div>
 			    {% endif %}
 		    </a>
 
 	{% assign counter = counter | plus: 1 %}
 {% endfor %}
 
-		    <a href="projekt_Berlin_BAL.php" class="item active" data-image="projekte/Berlin_BAL/01.jpg">
-			    <div class="news">News Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum.</div>
-		    </a>
-		    <a href="projekt_Borgsdorf_SHB.php" class="item" data-image="projekte/Borgsdorf_SHB/01.jpg"></a>
-		    <a href="projekt_Eberswalde_BBZ.php" class="item" data-image="projekte/Eberswalde_BBZ/01.jpg"></a>
-		    <a href="projekt_KoenigsWusterhausen_AFZM.php" class="item" data-image="projekte/KoenigsWusterhausen_AFZM/01.jpg"></a>
 		  </div>
 		</div>
 		<header>
