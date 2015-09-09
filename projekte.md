@@ -38,7 +38,10 @@ permalink: /projekte/
 					</header>	
 				</nav>
 			
-			<div class="col-dyn-right col-no-padding">
+				<div class="col-dyn-right col-no-padding">
+			
+					    <div id="project-tiles" class="container-fluid  col-no-padding">
+							<div class="row">			
 
 {% for post in site.categories.projekt %}
 

@@ -1,44 +1,35 @@
 html,body {
 	height: 100%;
-	}
+}
 
 body {
 	background-color: white;
-	font-family: 'Fira Sans', sans-serif;
-	font-weight: 300;
-	color: black;
+	font-family: $font-family;
+	color: $text-color;
 	-webkit-overflow-scrolling:touch; 
 	overflow-x: hidden; 
 	overflow-y: inherit;
+}
+
+h1, h2, h3, h4, h5 {
+	font-weight: normal;
 }
 
 .btn {
 	font-weight: inherit;
 }
 a, a:hover, a:active {
-	color: black;
+	color: $text-color;
 	text-decoration: none;
 }
 
 a.act {
-	font-family: 'Fira Sans', sans-serif;
-	font-weight: 400;
 	background: none;
 	border: none;
 }
 
 section a, section a:hover {
-	color: black;
-}
-
-strong,b {
-	font-family: 'Fira Sans', sans-serif;
-	font-weight: 400;
-}
-
-h1,h2,h3,h4,h5{
-	font-family: 'Fira Sans', sans-serif;
-	font-weight: 300;
+	color: $text-color;
 }
 
 h3 {
@@ -56,16 +47,9 @@ h3 {
 	margin-top: 20px;
 }
 
-h4.xbold {margin-top: 20px; margin-bottom: 3px;}
-
 h1 {
 	font-size:30px;
 	margin-top: 10px;
-}
-
-.xbold {
-	font-family: 'Fira Sans', sans-serif;
-	font-weight: 700;
 }
 
 .home section {
@@ -128,7 +112,7 @@ header {
 }
 
 #logo{
-	border-bottom: 1px solid black;
+	border-bottom: 1px solid $text-color;
 	display: inline-block;
 }
 
@@ -187,7 +171,7 @@ header {
 	display: inline-block;
 	background-color:#fff;
 	border: none;
-	color: black;
+	color: $text-color;
 	padding:5px 10px 5px 10px;
 }
 
@@ -210,7 +194,7 @@ header {
 
 a.logo,a.logo:hover {
 	text-decoration:none;
-	color: black;
+	color: $text-color;
 }
 
 #logo .logo {
@@ -373,8 +357,7 @@ a.logo,a.logo:hover {
 }
 
 .project-tile h3 {
-	font-family: 'Fira Sans', sans-serif;
-	font-weight: 300;
+	font-weight: normal;
 	font-size: 14px;
 	position:absolute;
 	bottom:-25px;
@@ -412,12 +395,10 @@ a.logo,a.logo:hover {
 	right:15px;
 	top:11px;
 	font-size:small;
-	font-family: 'Fira Sans', sans-serif;
-	font-weight: 300;
 }
 
 #filterpanel {
-	border-top: 1px black solid;
+	border-top: 1px $text-color solid;
 	margin-top: 20px;
 	padding-top: 7px;
 	margin-left: 0px;
@@ -435,7 +416,7 @@ a.logo,a.logo:hover {
 		margin: 3px 0 0 0;
 		z-index: 20;
 		background-color: white;
-		border-top: 1px black solid;
+		border-top: 1px $text-color solid;
 		padding: 5px 0px;
 	}
 	
@@ -466,8 +447,6 @@ a.logo,a.logo:hover {
 dt {
 	float: left;
 	padding-right: 10px;
-	font-family: 'Fira Sans', sans-serif;
-	font-weight: 300;
 	
 }
 dd {
@@ -622,7 +601,6 @@ h4.justify-to-img {
 
 
 
-
 /*
 	Größerer Abstand von Logo und weißen Balken zum Rand bei großen Auflösungen
 */
@@ -664,6 +642,7 @@ h4.justify-to-img {
 	z-index: 250;
 }
 
+
 #carousel-promotion-slides .item .news {
 	position: absolute;
 	right: 0;
@@ -697,8 +676,7 @@ address{
 }
 
 .carousel-caption .icon, .carousel-navpanel .icon {
-		background-size: 65%;
-
+	background-size: 65%;
 }
 
 
@@ -731,14 +709,4 @@ address{
 
 .active .circle {
 	background-color: #040606;
-}
-
-.home .icon {
-    display: inline-block;
-    background-size: 100%;
-    background-position: 0px 3px;
-    background-repeat: no-repeat;
-    min-width: 24px;
-    padding: 0;
-    margin-left: 3px;
 }
