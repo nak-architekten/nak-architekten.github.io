@@ -312,8 +312,9 @@ a.logo,a.logo:hover {
 }
 
 #promotion-slides .carousel-caption a {
-	  padding: 3px 10px 1px 10px;
-	  display: inline-block;
+	padding: 3px 10px 1px 10px;
+	display: inline-block;
+	text-overflow: ellipsis;
 }
 #carousel-team .carousel-caption {
 	display:block;
