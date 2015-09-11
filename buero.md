@@ -38,7 +38,7 @@ permalink: /buero/
                                 <h3 class="visible-xs-inline-block">Kontakt</h3>
                             </div>
 
-                            <div class="col-xs-12 col-sm-6 col-lg-5 col-no-padding">
+                            <div class="col-xs-12 col-md-6 col-lg-5 col-no-padding">
                                 <div id="carousel-kontakt" class="carousel slide" data-ride="carousel">
                                     <!-- Indicators -->
 
@@ -60,7 +60,7 @@ permalink: /buero/
                                 </div>
                             </div>
 
-                            <div class="col-xs-12 col-sm-6 col-lg-5 col-with-padding right">
+                            <div class="col-xs-12 col-md-6 col-lg-5 col-with-padding right">
 
 								<h3 class="hidden-xs">Kontakt</h3>
 
@@ -93,10 +93,10 @@ permalink: /buero/
                                     <div class="item active">
 										<div class="container-fluid">
 											<div class="row">
-												<div class="col-xs-12 col-sm-6 col-lg-5 col-no-padding">
+												<div class="col-xs-12 col-md-6 col-lg-5 col-no-padding">
 													<img class="img-responsive" src="http://res.cloudinary.com/{{site.cloudinaryaccount}}/image/fetch/w_960,q_88,f_auto,fl_progressive,fl_force_strip/{{site.url}}/buero/partner/01_Partner.jpg" />
 												</div>
-												<div class="col-xs-12 col-sm-6 col-lg-5 col-with-padding right">
+												<div class="col-xs-12 col-md-6 col-lg-5 col-with-padding right">
 													<div>
 														<h3 class="hidden-xs">Partner</h3>
 														<p>
@@ -114,10 +114,10 @@ permalink: /buero/
                                     <div class="item">
 										<div class="container-fluid">
 											<div class="row">
-												<div class="col-xs-12 col-sm-6 col-lg-5 col-no-padding">
+												<div class="col-xs-12 col-md-6 col-lg-5 col-no-padding">
 													<img class="img-responsive" src="http://res.cloudinary.com/{{site.cloudinaryaccount}}/image/fetch/w_960,q_88,f_auto,fl_progressive,fl_force_strip/{{site.url}}/buero/partner/02_ArthurNumrich.jpg" />
 												</div>
-												<div class="col-xs-12 col-sm-6 col-lg-5 col-with-padding right">
+												<div class="col-xs-12 col-md-6 col-lg-5 col-with-padding right">
 														<p>
 															<strong class="justify-to-img">Arthur Numrich</strong>
 															&nbsp; <span>Dipl.-Ing. Architekt</span>
@@ -141,10 +141,10 @@ permalink: /buero/
                                     <div class="item">
 										<div class="container-fluid">
 											<div class="row">
-												<div class="col-xs-12 col-sm-6 col-lg-5 col-no-padding">
+												<div class="col-xs-12 col-md-6 col-lg-5 col-no-padding">
 													<img class="img-responsive" src="http://res.cloudinary.com/{{site.cloudinaryaccount}}/image/fetch/w_960,q_88,f_auto,fl_progressive,fl_force_strip/{{site.url}}/buero/partner/04_GarntKelly.jpg" />
 												</div>
-												<div class="col-xs-12 col-sm-6 col-lg-5 col-with-padding right">
+												<div class="col-xs-12 col-md-6 col-lg-5 col-with-padding right">
 														<p>
 															<strong class="justify-to-img">Grant Kelly</strong>
 															&nbsp; <span>M. Arch.</span>
@@ -165,10 +165,10 @@ permalink: /buero/
                                     <div class="item">
 										<div class="container-fluid">
 											<div class="row">
-												<div class="col-xs-12 col-sm-6 col-lg-5 col-no-padding">
+												<div class="col-xs-12 col-md-6 col-lg-5 col-no-padding">
 													<img class="img-responsive" src="http://res.cloudinary.com/{{site.cloudinaryaccount}}/image/fetch/w_960,q_88,f_auto,fl_progressive,fl_force_strip/{{site.url}}/buero/partner/03_TiemoKlumpp.jpg" />
 												</div>
-												<div class="col-xs-12 col-sm-6 col-lg-5 col-with-padding right">
+												<div class="col-xs-12 col-md-6 col-lg-5 col-with-padding right">
 														<p>
 															<strong class="justify-to-img">Tiemo Klumpp</strong>
 															&nbsp; <span>Dipl.-Ing. (FH) Arch.</span>
@@ -210,10 +210,10 @@ permalink: /buero/
                                     <div class="item{% if counter == 0 %} active{% endif %}">
 										<div class="container-fluid">
 											<div class="row">
-												<div class="col-xs-12 col-sm-6 col-lg-5 col-no-padding">
+												<div class="col-xs-12 col-md-6 col-lg-5 col-no-padding">
 													<img class="img-responsive" src="http://res.cloudinary.com/{{site.cloudinaryaccount}}/image/fetch/w_960,q_88,f_auto,fl_progressive,fl_force_strip/{{ post.image | prepend: site.url }}"/>
 												</div>
-												<div class="col-xs-12 col-sm-6 col-lg-5 col-with-padding right">
+												<div class="col-xs-12 col-md-6 col-lg-5 col-with-padding right">
 													<div>
 															<h3 class="hidden-xs">Team + Aktivitäten</h3>
 															<p>
@@ -239,7 +239,7 @@ permalink: /buero/
                             <div class="col-xs-12">
                                 <h3>Preisgericht</h3>
                             </div>
-                            <div class="col-xs-12 col-sm-6 col-lg-5">
+                            <div class="col-xs-12 col-md-6 col-lg-5">
                             	<p>
                             			Neubau der »Pestalozzi-Schule« und einer Dreifeldsporthalle in Wetzlar<br/>
 										<em>Lahn-Dill Kreis</em>
@@ -269,7 +269,7 @@ permalink: /buero/
 										<em>Senatsverwaltung für Bau- und Wohnungswesen</em>
                             	</p>
                             </div>
-                            <div class="col-xs-12 col-sm-6 col-lg-5">
+                            <div class="col-xs-12 col-md-6 col-lg-5">
                             	<p>
 										Neubau der Wohnsiedlung »Schlierbacher Weg« in Berlin-Neukölln<br/>
 										<em>Senatsverwaltung für Bau- und Wohnungswesen</em>
@@ -296,7 +296,7 @@ permalink: /buero/
 						<div class="row subtext-content" id="Impressum">
                             <div class="col-xs-12">
                             </div>
-                            <div class="col-xs-12 col-sm-6 col-lg-5">
+                            <div class="col-xs-12 col-md-6 col-lg-5">
                                 <h3>Impressum</h3>
 								<p>
 									Numrich Albrecht Klumpp<br/>
@@ -325,7 +325,7 @@ Alle Texte, Bilder sowie das Layout dieser Website sind weltweit urheberrechtlic
 								</p>
 
                             </div>
-                            <div class="col-xs-12 col-sm-6 col-lg-5">
+                            <div class="col-xs-12 col-md-6 col-lg-5">
 								<h3>Datenschutzbestimmung</h3>
 								<p>
 									Das Hosting dieser Website erfolgt durch GitHub Pages (https://pages.github.com/). Durch den Zugriff können grundsätzlich Nutzungsdaten durch GitHub erhoben werden. Mehr Informationen für Erhebung und Analyse von Zugriffen finden Sie bei GitHub Pages (https://help.github.com/articles/github-privacy-policy/).
