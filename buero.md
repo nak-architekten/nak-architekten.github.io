@@ -86,7 +86,6 @@ permalink: /buero/
                             </div>
 
                             <div id="carousel-partner" class="col-xs-12 col-no-padding carousel slide" data-ride="">
-                                <!-- Indicators -->
 
                                 <ol class="carousel-indicators"></ol>
 
@@ -99,13 +98,13 @@ permalink: /buero/
 												</div>
 												<div class="col-xs-12 col-sm-6 col-lg-5 col-with-padding right">
 													<div>
-															<h3 class="hidden-xs">Partner</h3>
-															<p>
+														<h3 class="hidden-xs">Partner</h3>
+														<p>
 															Das Architektur- und Generalplanungsbüro wurde 1981 von Arthur Numrich und Werner Albrecht gegründet. Seit 2013 wir es geleitet von:
-															</p>
-                                                          <a href="">&gt; Arthur Numrich<span></a>
-                                                          <a href="">&gt; Grant Kelly<span</a>
-                                                          <a href="">&gt; Tiemo Klumpp<span></a>
+														</p>
+                                                        <a href="#">&gt; Arthur Numrich</a>
+                                                        <a href="#">&gt; Grant Kelly</a>
+                                                        <a href="#">&gt; Tiemo Klumpp</a>
 													</div>
 												</div>
 											</div>
@@ -241,10 +240,56 @@ permalink: /buero/
                                 <h3>Preisgericht</h3>
                             </div>
                             <div class="col-xs-12 col-sm-6 col-lg-5">
-                            	TEXT
+                            	<p>
+                            			Neubau der »Pestalozzi-Schule« und einer Dreifeldsporthalle in Wetzlar<br/>
+										<em>Lahn-Dill Kreis</em>
+                            	</p>
+                            	<p>
+										Neubau Sporthalle »Ruppiner Srasse« in Berlin-Mitte<br/>
+										<em>Senatsverwaltung für Stadtentwicklung</em>
+                            	</p>
+                            	<p>
+										Uniklinikum Leipzig<br/>
+										<em>Freistaat Sachsen</em>
+                            	</p>
+                            	<p>
+										Städtisches Klinikum St. Georg/Robert Koch Klinik in Leipzig<br/>
+										<em>Stadt Leipzig (Dezernat Planung und Bau)</em>
+                            	</p>
+                            	<p>
+										Prüfzentrum für Bahntechnik in Henningsdorf<br/>
+										<em>TZB-Technologiezentrum Bahntechnik GmbH</em>
+                            	</p>
+                            	<p>
+										Neubau des FU-Instituts für Informatik in Berlin-Zehlendorf<br/>
+										<em>Senatsverwaltung für Bau- und Wohnungswesen</em>
+                            	</p>
+                            	<p>
+										Neubau einer Sporthalle im Sportpark Berlin-Wilmersdorf<br/>
+										<em>Senatsverwaltung für Bau- und Wohnungswesen</em>
+                            	</p>
                             </div>
                             <div class="col-xs-12 col-sm-6 col-lg-5">
-                            	TEXT
+                            	<p>
+										Neubau der Wohnsiedlung »Schlierbacher Weg« in Berlin-Neukölln<br/>
+										<em>Senatsverwaltung für Bau- und Wohnungswesen</em>
+                            	</p>
+                            	<p>
+										Neubau einer Wohnanlage und einer Kindertagesstätte in Berlin-Kreuzberg<br/>
+										<em>S.T.E.R.N. Gesellschaft für behutsame Stadterneuerung Berlin mbH</em>
+                            	</p>
+                            	<p>
+										Neubau eines Handels- und Dienstleistungszentrums in Berlin-Reinickendorf<br/>
+										<em>Senatsverwaltung für Bau- und Wohnungswesen</em>
+                            	</p>
+                            	<p>
+										Neubau der Seniorenwohnanlage »Seniorenhof Plagwitz« in Leipzig<br/>
+										<em>Stadt Leipzig (Dezernat Planung und Bau)</em>
+                            	</p>
+                            	<p>
+										Neubau der Wohnanlage »Grünauer Straße« in Berlin-Köpenick<br/>
+										<em>Senatsverwaltung für Bau- und Wohnungswesen</em>
+                            	</p>
                             </div>
 						</div>
 
