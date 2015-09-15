@@ -100,7 +100,7 @@ permalink: /buero/
 										<div class="container-fluid">
 											<div class="row">
 												<div class="col-xs-12 col-md-6 col-lg-5 col-no-padding">
-													<img class="img-responsive" src="http://res.cloudinary.com/{{site.cloudinaryaccount}}/image/fetch/w_960,q_88,f_auto,fl_progressive,fl_force_strip/{{site.url}}/buero/partner/01_Partner.jpg" />
+													<img class="img-responsive" src="http://res.cloudinary.com/{{site.cloudinaryaccount}}/image/fetch/w_600,h_400,c_fill,q_88,f_auto,fl_progressive,fl_force_strip/{{site.url}}/buero/partner/01_Partner.jpg" />
 												</div>
 												<div class="col-xs-12 col-md-6 col-lg-5 col-with-padding right">
 													<div>
@@ -121,7 +121,7 @@ permalink: /buero/
 										<div class="container-fluid">
 											<div class="row">
 												<div class="col-xs-12 col-md-6 col-lg-5 col-no-padding">
-													<img class="img-responsive" src="http://res.cloudinary.com/{{site.cloudinaryaccount}}/image/fetch/w_960,q_88,f_auto,fl_progressive,fl_force_strip/{{site.url}}/buero/partner/02_ArthurNumrich.jpg" />
+													<img class="img-responsive" src="http://res.cloudinary.com/{{site.cloudinaryaccount}}/image/fetch/w_600,h_400,c_fill,q_88,f_auto,fl_progressive,fl_force_strip/{{site.url}}/buero/partner/02_ArthurNumrich.jpg" />
 												</div>
 												<div class="col-xs-12 col-md-6 col-lg-5 col-with-padding right">
 														<p>
@@ -148,7 +148,7 @@ permalink: /buero/
 										<div class="container-fluid">
 											<div class="row">
 												<div class="col-xs-12 col-md-6 col-lg-5 col-no-padding">
-													<img class="img-responsive" src="http://res.cloudinary.com/{{site.cloudinaryaccount}}/image/fetch/w_960,q_88,f_auto,fl_progressive,fl_force_strip/{{site.url}}/buero/partner/04_GarntKelly.jpg" />
+													<img class="img-responsive" src="http://res.cloudinary.com/{{site.cloudinaryaccount}}/image/fetch/w_600,h_400,c_fill,q_88,f_auto,fl_progressive,fl_force_strip/{{site.url}}/buero/partner/04_GarntKelly.jpg" />
 												</div>
 												<div class="col-xs-12 col-md-6 col-lg-5 col-with-padding right">
 														<p>
@@ -172,7 +172,7 @@ permalink: /buero/
 										<div class="container-fluid">
 											<div class="row">
 												<div class="col-xs-12 col-md-6 col-lg-5 col-no-padding">
-													<img class="img-responsive" src="http://res.cloudinary.com/{{site.cloudinaryaccount}}/image/fetch/w_960,q_88,f_auto,fl_progressive,fl_force_strip/{{site.url}}/buero/partner/03_TiemoKlumpp.jpg" />
+													<img class="img-responsive" src="http://res.cloudinary.com/{{site.cloudinaryaccount}}/image/fetch/w_600,h_400,c_fill,q_88,f_auto,fl_progressive,fl_force_strip/{{site.url}}/buero/partner/03_TiemoKlumpp.jpg" />
 												</div>
 												<div class="col-xs-12 col-md-6 col-lg-5 col-with-padding right">
 														<p>
@@ -217,7 +217,7 @@ permalink: /buero/
 										<div class="container-fluid">
 											<div class="row">
 												<div class="col-xs-12 col-md-6 col-lg-5 col-no-padding">
-													<img class="img-responsive" src="http://res.cloudinary.com/{{site.cloudinaryaccount}}/image/fetch/w_960,q_88,f_auto,fl_progressive,fl_force_strip/{{ post.image | prepend: site.url }}"/>
+													<img class="img-responsive" src="http://res.cloudinary.com/{{site.cloudinaryaccount}}/image/fetch/w_600,h_400,c_fill,q_88,f_auto,fl_progressive,fl_force_strip/{{ post.image | prepend: site.url }}"/>
 												</div>
 												<div class="col-xs-12 col-md-6 col-lg-5 col-with-padding right">
 													<div>
