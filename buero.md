@@ -46,19 +46,19 @@ permalink: /buero/
 
                                     <div class="carousel-inner" role="listbox">
                                         <div class="item active">
-                                            <img class="img-responsive" src="http://res.cloudinary.com/{{site.cloudinaryaccount}}/image/fetch/w_960,q_88,f_auto,fl_progressive,fl_force_strip/{{site.url}}/buero/kontakt/1-IMG_6031-BEA.jpg">
+                                            <img class="img-responsive" src="http://res.cloudinary.com/{{site.cloudinaryaccount}}/image/fetch/w_600,h_400,c_fill,q_88,f_auto,fl_progressive,fl_force_strip/{{site.url}}/buero/kontakt/1-IMG_6031-BEA.jpg">
                                         </div>
                                         <div class="item">
-                                            <img class="img-responsive" src="http://res.cloudinary.com/{{site.cloudinaryaccount}}/image/fetch/w_960,q_88,f_auto,fl_progressive,fl_force_strip/{{site.url}}/buero/kontakt/2-IMG_6036-BEA.jpg">
+                                            <img class="img-responsive" src="http://res.cloudinary.com/{{site.cloudinaryaccount}}/image/fetch/w_600,h_400,c_fill,q_88,f_auto,fl_progressive,fl_force_strip/{{site.url}}/buero/kontakt/2-IMG_6036-BEA.jpg">
                                         </div>
                                         <div class="item">
-                                            <img class="img-responsive" src="http://res.cloudinary.com/{{site.cloudinaryaccount}}/image/fetch/w_960,q_88,f_auto,fl_progressive,fl_force_strip/{{site.url}}/buero/kontakt/3-IMG_6027-BEA.jpg">
+                                            <img class="img-responsive" src="http://res.cloudinary.com/{{site.cloudinaryaccount}}/image/fetch/w_600,h_400,c_fill,q_88,f_auto,fl_progressive,fl_force_strip/{{site.url}}/buero/kontakt/3-IMG_6027-BEA.jpg">
                                         </div>
                                         <div class="item">
-                                            <img class="img-responsive" src="http://res.cloudinary.com/{{site.cloudinaryaccount}}/image/fetch/w_960,q_88,f_auto,fl_progressive,fl_force_strip/{{site.url}}/buero/kontakt/4-IMG_6033-BEA.jpg">
+                                            <img class="img-responsive" src="http://res.cloudinary.com/{{site.cloudinaryaccount}}/image/fetch/w_600,h_400,c_fill,q_88,f_auto,fl_progressive,fl_force_strip/{{site.url}}/buero/kontakt/4-IMG_6033-BEA.jpg">
                                         </div>
                                         <div class="item">
-                                            <img class="img-responsive" src="http://res.cloudinary.com/{{site.cloudinaryaccount}}/image/fetch/w_960,q_88,f_auto,fl_progressive,fl_force_strip/{{site.url}}/buero/kontakt/5-IMG_6028-BEA.jpg">
+                                            <img class="img-responsive" src="http://res.cloudinary.com/{{site.cloudinaryaccount}}/image/fetch/w_600,h_400,c_fill,q_88,f_auto,fl_progressive,fl_force_strip/{{site.url}}/buero/kontakt/5-IMG_6028-BEA.jpg">
                                         </div>
                                     </div>
                                     <!-- Controls -->
