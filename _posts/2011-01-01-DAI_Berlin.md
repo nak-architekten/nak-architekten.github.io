@@ -2,7 +2,6 @@
 layout: post
 categories:
 - projekt
-- startseite
 date: 2011-01-01
 published: true
 title: Deutsches Archäologisches Institut Berlin

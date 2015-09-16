@@ -2,7 +2,6 @@
 layout: post
 categories:
 - projekt
-- startseite
 date: 2012-01-01
 published: true
 title: Mensa für die Wilhelm-von-Humboldt-Schule

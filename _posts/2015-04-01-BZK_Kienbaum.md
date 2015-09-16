@@ -2,7 +2,6 @@
 layout: post
 categories:
 - projekt
-- startseite
 date: 2015-04-01
 published: true
 title: Trainingshalle im Bundesleistungszentrum
