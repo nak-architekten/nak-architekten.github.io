@@ -39,7 +39,7 @@ permalink: /buero/
                             </div>
 
                             <div class="col-xs-12 col-md-6 col-lg-5 col-no-padding">
-                                <div id="carousel-kontakt" class="carousel slide" data-ride="carousel">
+                                <div id="carousel-kontakt" class="carousel slide" data-ride="carousel" data-interval="2000" data-pause="hover">
                                     <!-- Indicators -->
 
                                     <ol class="carousel-indicators"></ol>

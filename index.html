@@ -5,13 +5,13 @@ description: Numrich Albrecht Klumpp Gesellschaft von Architekten mbH
 
     <section id="promotion-slides">
 
-		<div id="carousel-promotion-slides" class="carousel slide" data-ride="none">
+		<div id="carousel-promotion-slides" class="carousel slide" data-ride="carousel">
 		  <div class="carousel-inner" role="listbox">
 
 {% assign counter = 0 %}
 {% for post in site.categories.startseite %}
 
-		    <a href="{{ post.url | prepend: site.baseurl }}" class="item{% if counter == 0 %} active{% endif %}" data-image="{% for image in post.images limit:1 %}{{ image | prepend: site.url }}{% endfor %}">
+		    <a href="{{ post.url | prepend: site.baseurl }}" class="item{% if counter == 0 %} active{% endif %}" data-image="{% if post.homepage %}{{ post.homepage | prepend: site.url }}{% else %}{% for image in post.images limit:1 %}{{ image | prepend: site.url }}{% endfor %}{% endif %}">
 		    	{% if post.news %}
 			    <div class="news">{{ post.news }} <span class="icon icon-arr-e">&nbsp;</span></div>
 			    {% endif %}
