@@ -317,6 +317,15 @@ a.logo,a.logo:hover {
 	display: inline-block;
 	text-overflow: ellipsis;
 }
+
+#promotion-slides .carousel-caption a span.text{
+    overflow: hidden;
+    max-height: 19px;
+    max-width: 65%;
+    display: inline-block;
+        text-overflow: ellipsis;
+    margin-bottom: -6px;
+}
 #carousel-team .carousel-caption {
 	display:block;
 	background-color:#fff;
