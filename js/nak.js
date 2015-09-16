@@ -61,13 +61,9 @@ function init() {
 
 	/* set a toggle on the project filter */
 	$(".projects #menu-projekte").click(function(e) {
-		console.log('hallo');
-
 		if($('#filterpanel').is(":visible")){
-			console.log('if');
 			$('#filterpanel').fadeOut(200);
 		}else{
-			console.log('else');
 			$('#filterpanel').fadeIn(200);
 		}
 		e.preventDefault()

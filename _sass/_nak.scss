@@ -122,10 +122,6 @@ header {
 	padding: 5px 5px 0 5px;
 }
 
-.xs.projects #menu, .xs.office #menu {
-	margin: 0px 5px 5px 5px;
-}
-
 .home .contact {
 	  position: absolute;
   bottom: 15px;
@@ -174,6 +170,10 @@ header {
 	border: none;
 	color: $text-color;
 	padding:5px 10px 5px 10px;
+}
+
+.projects.xs #menu #menu-projekte{
+	padding:5px 10px 5px 15px;
 }
 
 @media screen and (min-width: 550px) {
@@ -415,7 +415,7 @@ a.logo,a.logo:hover {
 		z-index: 20;
 		background-color: white;
 		border-top: 1px $text-color solid;
-		padding: 5px 0px;
+		padding: 5px 5px;
 	}
 	
 	#filterpanel a {
@@ -655,7 +655,7 @@ h4.justify-to-img {
     left: 0;
     width: 100%;
     margin: 0;
-    padding: 0px 5px 3px 5px;
+    padding: 0px 5px 3px 0px;
     background-color: white;
     margin: 0px 0px 5px 0px;
 	z-index: 250;
