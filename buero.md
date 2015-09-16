@@ -16,7 +16,7 @@ permalink: /buero/
                             </div>
 
                             <nav id="menu">
-                                <a href="/projekte/" class="no1 btn btn-default">Projekte</a> 
+                                <a href="/projekte/" id="menu-projekte" class="no1 btn btn-default">Projekte</a> 
                                 <a href="/buero/" class="no2 act btn btn-default">Büro</a>
 			                    <div id="filterpanel">
 									<a class="hidden-xs" href="/buero/#Preisgericht">Preisgericht</a> 
