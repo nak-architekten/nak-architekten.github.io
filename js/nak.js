@@ -6,6 +6,11 @@ var pixelRatio = 0;
 // when the DOM is ready, run all this functions
 function init() {
 
+	/* set firefox as html class */
+	Modernizr.addTest('firefox', function () {
+	 return !!navigator.userAgent.match(/firefox/i);
+	});
+
 	/* init a the sticky menu for smartphones */
 	if( $(window).width() < 550 ) {
 		$(function() {
@@ -38,24 +43,36 @@ function init() {
 
 	/* scrolls to the top of the page to emulate closing the details */
 	$(".project #close").click(function() {
-		$('body').animate({
-			scrollTop: 0
-        }, 800);
+		if($('html').hasClass('firefox')){
+			$('body,html').stop(true,true).animate({scrollTop: stop}, 800);
+		}else{
+			$('body').animate({
+				scrollTop: 0
+	        }, 800);
+	    }
         return false;
 	});
 
 	/* scolls to the top on any other slide navigation action, therefore no return false */
 	$(".project .totop").click(function() {
-		$('body').animate({
-			scrollTop: 0
-        }, 800);
+		if($('html').hasClass('firefox')){
+			$('body,html').stop(true,true).animate({scrollTop: stop}, 800);
+		}else{
+			$('body').animate({
+				scrollTop: 0
+	        }, 800);
+	    }
 	});
 
 	/* smooth scolling to the details */
 	$(".project [href='#project-detail-content']").click(function() {
-		$('body').animate({
-			scrollTop: $('#project-detail-content').offset().top
-        }, 800);
+		if($('html').hasClass('firefox')){
+			$('body,html').stop(true,true).animate({scrollTop: $('#project-detail-content').offset().top}, 800);
+		}else{
+			$('body').animate({
+				scrollTop: $('#project-detail-content').offset().top
+	        }, 800);
+	    }
         return false;
 	});
 
