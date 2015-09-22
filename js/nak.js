@@ -2,6 +2,7 @@ var cloudinaryAccount = 'dpcao7gpf';
 var pixelFullWidth = 0;
 var pixelTeaserWidth = 0;
 var pixelRatio = 0;
+var host = location.href;
 
 // when the DOM is ready, run all this functions
 function init() {
@@ -25,18 +26,11 @@ function init() {
 		$(window).off('.affix');
 	}
 	
-	/* add swipe functionality to the slides */
-	$("#carousel-promotion-slides").swiperight(function() {  
+	/* add swipe functionality to all carousel slides */
+	$(".carousel.slide").swiperight(function() {  
 		$(this).carousel('prev');  
     });  
-	$("#carousel-promotion-slides").swipeleft(function() {  
-		$(this).carousel('next');  
-	});  
-
-	$("#carousel-team").swiperight(function() {  
-		$(this).carousel('prev');  
-    });  
-	$("#carousel-team").swipeleft(function() {  
+	$(".carousel.slide").swipeleft(function() {  
 		$(this).carousel('next');  
 	});  
 
@@ -153,18 +147,26 @@ function recalculate() {
 
 	/* apply scaled responsive images on promotion slides */
 	$("#promotion-slides .item").each(function(n) {
-		imgURL = $(this).attr("data-image");
-		cloudinaryURL = "http://res.cloudinary.com/"+cloudinaryAccount+"/image/fetch/w_"+pixelFullWidth+",q_88,f_auto,fl_progressive,fl_force_strip/"+imgURL;		
-		console.log(cloudinaryURL);
-		$(this).attr("style","background-image:url('"+cloudinaryURL+"')");
+		if(!location.href.indexOf("localhost")>0) {
+			imgURL = $(this).attr("data-image");
+			cloudinaryURL = "http://res.cloudinary.com/"+cloudinaryAccount+"/image/fetch/w_"+pixelFullWidth+",q_88,f_auto,fl_progressive,fl_force_strip/"+imgURL;		
+			console.log(cloudinaryURL);
+			$(this).attr("style","background-image:url('"+cloudinaryURL+"')");
+		}else{
+			$(this).attr("style","background-image:url('"+$(this).attr("data-image")+"')");
+		}
 	});
 
 	/* apply scaled responsive images on project tiles */
 	$("#project-tiles .project-tile a").each(function(n) {
-		imgURL = $(this).attr("data-image");
-		cloudinaryURL = "http://res.cloudinary.com/"+cloudinaryAccount+"/image/fetch/w_"+pixelTeaserWidth+",q_88,f_auto,fl_progressive,fl_force_strip/"+imgURL;	
-		console.log(cloudinaryURL);
-		$(this).attr("style","background-image:url('"+cloudinaryURL+"')");
+		if(!location.href.indexOf("localhost")>0) {
+			imgURL = $(this).attr("data-image");
+			cloudinaryURL = "http://res.cloudinary.com/"+cloudinaryAccount+"/image/fetch/w_"+pixelTeaserWidth+",q_88,f_auto,fl_progressive,fl_force_strip/"+imgURL;	
+			console.log(cloudinaryURL);
+			$(this).attr("style","background-image:url('"+cloudinaryURL+"')");
+		}else{
+			$(this).attr("style","background-image:url('"+$(this).attr("data-image")+"')");
+		}
 	});
 
 }
