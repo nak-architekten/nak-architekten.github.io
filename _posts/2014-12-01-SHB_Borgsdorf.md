@@ -9,7 +9,7 @@ title: Zweifeldsporthalle Borgsdorf
 shorttitle: Zweifeldsporthalle Borgsdorf
 permalink: /projekte/SHB_Borgsdorf/
 tags: 
-- Schulen + Kitas
+- Sport
 homepage: /projekte/SHB_Borgsdorf/NAK_SHB_RGB_3388-ORIG.jpg
 images:
 - /projekte/SHB_Borgsdorf/01.jpg
