@@ -89,7 +89,7 @@ permalink: /buero/
 
                         <div class="row">
                             <div class="col-xs-12">
-                                <h3 class="visible-xs-inline-block">Partner</h3>
+                                <h3 class="visible-xs-inline-block"><a href="#" onclick="$('#carousel-partner').carousel(0); $('#carousel-partner').carousel('pause'); return false;">Partner</a></h3>
                             </div>
 
                             <div id="carousel-partner" class="col-xs-12 col-no-padding carousel slide" data-ride="">
@@ -103,13 +103,13 @@ permalink: /buero/
 												</div>
 												<div class="col-xs-12 col-md-6 col-lg-5 col-with-padding right">
 													<div>
-														<h3 class="hidden-xs">Partner</h3>
+														<h3 class="hidden-xs"><a href="#" onclick="$('#carousel-partner').carousel(0); $('#carousel-partner').carousel('pause'); return false;">Partner</a></h3>
 														<p>
 															Das Architektur- und Generalplanungsbüro wurde 1981 von Arthur Numrich und Werner Albrecht gegründet. Seit 2013 wir es geleitet von:
 														</p>
-                                                        <a href="#" onclick="$('#carousel-partner').carousel(1); return false;">&gt; Arthur Numrich</a>
-                                                        <a href="#" onclick="$('#carousel-partner').carousel(2); return false;">&gt; Grant Kelly</a>
-                                                        <a href="#" onclick="$('#carousel-partner').carousel(3); return false;">&gt; Tiemo Klumpp</a>
+                                                        <a href="#" onclick="$('#carousel-partner').carousel(1); $('#carousel-partner').carousel('pause'); return false;">&gt; Arthur Numrich</a>
+                                                        <a href="#" onclick="$('#carousel-partner').carousel(2); $('#carousel-partner').carousel('pause');return false;">&gt; Grant Kelly</a>
+                                                        <a href="#" onclick="$('#carousel-partner').carousel(3); $('#carousel-partner').carousel('pause');return false;">&gt; Tiemo Klumpp</a>
 													</div>
 												</div>
 											</div>
