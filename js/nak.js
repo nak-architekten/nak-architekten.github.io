@@ -127,26 +127,18 @@ function recalculate() {
 
 	/* apply scaled responsive images on promotion slides */
 	$("#promotion-slides .item").each(function(n) {
-		if(location.href.indexOf("localhost")>0) {
-			$(this).attr("style","background-image:url('"+$(this).attr("data-image")+"')");
-		}else{
-			imgURL = $(this).attr("data-image");
-			cloudinaryURL = "http://res.cloudinary.com/"+cloudinaryAccount+"/image/fetch/w_"+pixelFullWidth+",q_88,f_auto,fl_progressive,fl_force_strip/"+imgURL;		
-			console.log(cloudinaryURL);
-			$(this).attr("style","background-image:url('"+cloudinaryURL+"')");
-		}
+		imgURL = $(this).attr("data-image");
+		cloudinaryURL = "http://res.cloudinary.com/"+cloudinaryAccount+"/image/fetch/w_"+pixelFullWidth+",q_88,f_auto,fl_progressive,fl_force_strip/"+imgURL;		
+		console.log(cloudinaryURL);
+		$(this).attr("style","background-image:url('"+cloudinaryURL+"')");
 	});
 
 	/* apply scaled responsive images on project tiles */
 	$("#project-tiles .project-tile a").each(function(n) {
-		if(location.href.indexOf("localhost")>0) {
-			$(this).attr("style","background-image:url('"+$(this).attr("data-image")+"')");
-		}else{
-			imgURL = $(this).attr("data-image");
-			cloudinaryURL = "http://res.cloudinary.com/"+cloudinaryAccount+"/image/fetch/w_"+pixelTeaserWidth+",q_88,f_auto,fl_progressive,fl_force_strip/"+imgURL;	
-			console.log(cloudinaryURL);
-			$(this).attr("style","background-image:url('"+cloudinaryURL+"')");
-		}
+		imgURL = $(this).attr("data-image");
+		cloudinaryURL = "http://res.cloudinary.com/"+cloudinaryAccount+"/image/fetch/w_"+pixelTeaserWidth+",q_88,f_auto,fl_progressive,fl_force_strip/"+imgURL;	
+		console.log(cloudinaryURL);
+		$(this).attr("style","background-image:url('"+cloudinaryURL+"')");
 	});
 
 }
