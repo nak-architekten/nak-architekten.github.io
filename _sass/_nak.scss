@@ -742,12 +742,19 @@ address{
 
 
 #carousel-team .next {
-	    position: absolute;
+	   position: absolute;
     bottom: 10px;
-left: 0;
-right: 0;
+	left: 0;
+	right: 0;
 }
 
 #carousel-team .next .icon {
 	margin-left: -4px;
+}
+
+@media screen and (max-width: 899px) {
+
+	#carousel-team .next .row .right {
+		text-align: right;
+	}
 }

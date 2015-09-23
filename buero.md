@@ -206,7 +206,7 @@ permalink: /buero/
                                 <h3 class="visible-xs-inline-block">Team + Aktivitäten</h3>
                             </div>
 
-                            <div id="carousel-team" class="col-xs-12 col-no-padding carousel slide" data-ride="none">
+                            <div id="carousel-team" class="col-xs-12 col-no-padding carousel slide" ><!-- data-ride="carousel" -->
 
                                 <div class="carousel-inner" role="listbox">
 
