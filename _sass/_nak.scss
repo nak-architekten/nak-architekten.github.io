@@ -90,7 +90,7 @@ header {
 #header{
 	margin: 15px 0 0 15px;
 /* no margin to set #totop really to the top */
-	z-index: 50;
+	z-index: 51;
 	display: inline-block;
 	background-color: white;
 	padding: 0;
@@ -143,10 +143,11 @@ padding: 2px 10px 2px 10px;
 .xs #promotion-slides {
 	position: relative;
 }
-
+/*
 #project-detail{
 	z-index: 200;
 }
+*/
 #project-detail, #project-detail .spacer {
 	height: 100%;
 }
