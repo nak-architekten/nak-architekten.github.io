@@ -758,3 +758,36 @@ address{
 		text-align: right;
 	}
 }
+
+#carousel-partner .carousel-control.left {
+	width: 45%;
+}
+
+#carousel-partner .carousel-control.right {
+	width: 45%;
+}
+
+@media screen and (max-width: 899px) {
+	#carousel-partner .carousel-control.left, #carousel-partner .carousel-control.right {
+		bottom: initial;
+		height: 65%;
+		margin: 0;
+	}
+}
+
+@media screen and (min-width: 900px) {
+	#carousel-partner .carousel-control.left {
+		width: 20%;
+	}
+	
+	#carousel-partner .carousel-control.right {
+		right: 52%;
+		width: 20%;
+	}
+}
+
+@media screen and (min-width: 1200px) {
+	#carousel-partner .carousel-control.right {
+		right: 60%;
+	}
+}
