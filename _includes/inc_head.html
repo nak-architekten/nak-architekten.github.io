@@ -6,8 +6,11 @@
 	<meta name="apple-mobile-web-app-capable" content="yes" />
 	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
 	<base href="{{site.url}}" />
-	<!-- link type="text/css" rel="stylesheet" href="http://fast.fonts.net/cssapi/1f7b1704-bf70-46f0-be59-1d7774c68166.css" /-->
+	{% if site.url contains 'localhost' %}
+	<link type="text/css" rel="stylesheet" href="http://fast.fonts.net/cssapi/1f7b1704-bf70-46f0-be59-1d7774c68166.css" />
+	{% else %}
 	<link type="text/css" rel="stylesheet" href="http://fast.fonts.net/cssapi/78b7c7e4-d03d-4af2-8e78-1a950f9eb329.css"/>
+	{% endif %}
 	<link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}" />
 	<!-- icons -->
 	<link rel="apple-touch-icon" sizes="57x57" href="{{ "/img/apple-icon-57x57.png" | prepend: site.baseurl }}"/>
