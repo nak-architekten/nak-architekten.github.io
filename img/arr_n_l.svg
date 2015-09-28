@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="60" height="60">
+    <desc iVinci="yes" version="4.6" gridStep="10" showGrid="no" snapToGrid="no" codePlatform="0"/>
+    <g id="Layer1" name="Layer 3" opacity="1">
+        <g id="Shape1">
+            <desc shapeID="1" type="0" basicInfo-basicType="0" basicInfo-roundedRectRadius="12" basicInfo-polygonSides="6" basicInfo-starPoints="5" bounding="rect(-1.59995,-24.8401,3.1999,49.6803)" text="" font-familyName="" font-pixelSize="20" font-bold="0" font-underline="0" font-alignment="1" strokeStyle="0" markerStart="0" markerEnd="0" shadowEnabled="0" shadowOffsetX="0" shadowOffsetY="2" shadowBlur="4" shadowOpacity="160" blurEnabled="0" blurRadius="4" transform="matrix(-0.999987,0.00505812,-0.00505812,-0.999987,30.4354,29.5929)" pers-center="0,0" pers-size="0,0" pers-start="0,0" pers-end="0,0" groupID="1" locked="0" mesh="" flag=""/>
+            <path id="shapePath1" d="M31.9097,4.74492 L28.7098,4.7611 L28.9611,54.4408 L32.161,54.4246 L31.9097,4.74492 Z" style="stroke:none;fill-rule:evenodd;fill:#040606;fill-opacity:1;"/>
+        </g>
+        <g id="Shape2">
+            <desc shapeID="2" type="0" basicInfo-basicType="0" basicInfo-roundedRectRadius="12" basicInfo-polygonSides="6" basicInfo-starPoints="5" bounding="rect(-22.796,-13.0648,45.592,26.1294)" text="" font-familyName="" font-pixelSize="20" font-bold="0" font-underline="0" font-alignment="1" strokeStyle="0" markerStart="0" markerEnd="0" shadowEnabled="0" shadowOffsetX="0" shadowOffsetY="2" shadowBlur="4" shadowOpacity="160" blurEnabled="0" blurRadius="4" transform="matrix(-0.999987,0.00505812,-0.00505812,-0.999987,30.4947,13.9048)" pers-center="0,0" pers-size="0,0" pers-start="0,0" pers-end="0,0" groupID="1" locked="0" mesh="" flag=""/>
+            <path id="shapePath2" d="M30.4286,0.840357 L53.3454,24.646 L51.0405,26.8658 L30.4521,5.4777 L10.081,27.073 L7.7539,24.8767 L30.4286,0.840357 Z" style="stroke:none;fill-rule:evenodd;fill:#040606;fill-opacity:1;"/>
+        </g>
+    </g>
+</svg>

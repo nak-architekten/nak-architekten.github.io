@@ -11,10 +11,6 @@ body {
 	overflow-y: inherit;
 }
 
-html.projects{
-		overflow-x: hidden; 
-}
-
 h1, h2, h3, h4, h5, dt {
 	font-weight: normal;
 }
@@ -803,4 +799,16 @@ address{
 	#carousel-partner .carousel-control.right {
 		right: 60%;
 	}
+}
+
+
+.xs.project .icon-arr-n {
+	display: none;
+}
+.project .affix-top .icon-arr-n {
+	display: none;
+}
+
+.project .affix .icon-arr-s {
+	display: none;
 }

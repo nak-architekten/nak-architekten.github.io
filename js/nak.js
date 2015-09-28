@@ -23,7 +23,12 @@ function init() {
 	/* and switch it off, if the screen ist to large */
 	}else{
 		$('#menu').removeClass('affix');
-		$(window).off('.affix');
+/*		$(window).off('.affix'); */
+		$(function() {
+		    $('#promotion-slides').affix({
+		        offset: { top: 20 }
+		    });
+		});
 	}
 	
 	/* add swipe functionality to all carousel slides */

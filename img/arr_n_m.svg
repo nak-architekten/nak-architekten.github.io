@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="60" height="60">
+    <desc iVinci="yes" version="4.6" gridStep="10" showGrid="no" snapToGrid="no" codePlatform="0"/>
+    <g id="Layer1" name="Layer 3" opacity="1">
+        <g id="Shape1">
+            <desc shapeID="1" type="0" basicInfo-basicType="0" basicInfo-roundedRectRadius="12" basicInfo-polygonSides="6" basicInfo-starPoints="5" bounding="rect(-2.667,-24.8399,5.334,49.68)" text="" font-familyName="" font-pixelSize="20" font-bold="0" font-underline="0" font-alignment="1" strokeStyle="0" markerStart="0" markerEnd="0" shadowEnabled="0" shadowOffsetX="0" shadowOffsetY="2" shadowBlur="4" shadowOpacity="160" blurEnabled="0" blurRadius="4" transform="matrix(-0.999477,0.0323294,-0.0323294,-0.999477,30.1906,30.8032)" pers-center="0,0" pers-size="0,0" pers-start="0,0" pers-end="0,0" groupID="1" locked="0" mesh="" flag=""/>
+            <path id="shapePath1" d="M32.0532,5.88981 L26.722,6.06226 L28.3281,55.7163 L33.6593,55.5438 L32.0532,5.88981 Z" style="stroke:none;fill-rule:evenodd;fill:#040606;fill-opacity:1;"/>
+        </g>
+        <g id="Shape2">
+            <desc shapeID="2" type="0" basicInfo-basicType="0" basicInfo-roundedRectRadius="12" basicInfo-polygonSides="6" basicInfo-starPoints="5" bounding="rect(-23.5694,-14.206,47.139,28.412)" text="" font-familyName="" font-pixelSize="20" font-bold="0" font-underline="0" font-alignment="1" strokeStyle="0" markerStart="0" markerEnd="0" shadowEnabled="0" shadowOffsetX="0" shadowOffsetY="2" shadowBlur="4" shadowOpacity="160" blurEnabled="0" blurRadius="4" transform="matrix(-0.999477,0.0323294,-0.0323294,-0.999477,29.8088,14.713)" pers-center="0,0" pers-size="0,0" pers-start="0,0" pers-end="0,0" groupID="1" locked="0" mesh="" flag=""/>
+            <path id="shapePath2" d="M29.35,0.5144 L53.7062,24.4715 L49.9642,28.2745 L29.5999,8.24036 L10.5718,29.5487 L6.59187,25.9955 L29.35,0.5144 Z" style="stroke:none;fill-rule:evenodd;fill:#040606;fill-opacity:1;"/>
+        </g>
+    </g>
+</svg>
