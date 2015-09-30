@@ -46,8 +46,6 @@ permalink: /buero/
                                     <div class="carousel-inner" role="listbox">
                                         <div class="item active">
                                             <img class="img-responsive" src="{% if site.url contains 'localhost' %}{% else %}http://res.cloudinary.com/{{site.cloudinaryaccount}}/image/fetch/w_600,h_400,c_fill,q_88,f_auto,fl_progressive,fl_force_strip/{% endif %}{{site.url}}/buero/kontakt/1-IMG_6031-BEA.jpg">
-	<link type="text/css" rel="stylesheet" href="http://fast.fonts.net/cssapi/78b7c7e4-d03d-4af2-8e78-1a950f9eb329.css"/>
-	
                                         </div>
                                         <div class="item">
                                             <img class="img-responsive" src="{% if site.url contains 'localhost' %}{% else %}http://res.cloudinary.com/{{site.cloudinaryaccount}}/image/fetch/w_600,h_400,c_fill,q_88,f_auto,fl_progressive,fl_force_strip/{% endif %}{{site.url}}/buero/kontakt/2-IMG_6036-BEA.jpg">

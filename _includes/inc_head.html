@@ -32,4 +32,15 @@
     	<meta name="og:description" content="{{ page.content | markdownify | replace:'"','' | strip_html | strip_newlines | replace:'.','. ' | truncatewords: 20 }}" />{% endif %}
 {% if page.tags %}	<meta name="keywords" content="{{ page.tags | join: "," }}" />{% endif %}
 {% if page.images %}	<meta property="og:image" content="http://res.cloudinary.com/{{site.cloudinaryaccount}}/image/fetch/w_520,q_88,f_auto,fl_progressive,fl_force_strip/{% for image in page.images limit:1 %}{{ image | prepend: site.url }}{% endfor %}" />{% endif %}
+
+{% if site.cloudinaryaccount %}
+	<script>
+		var cloudinaryAccount = '{{site.cloudinaryaccount}}';
+	</script>
+{% else %}
+	<script>
+		var cloudinaryAccount = false;
+	</script>
+{% endif %}
+
 </head>
