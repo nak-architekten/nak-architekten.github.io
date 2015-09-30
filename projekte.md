@@ -25,10 +25,33 @@ permalink: /projekte/
 
 								<div id="filterpanel">
 								  <a class="act all" href="/projekte/#Alle">Alle Projekte</a>
+{% comment %}
+Die Reihenfolge der Filter repräsentiert eine inhaltliche Gewichtung. Somit ist diese fest vorgegeben.
+{% endcomment %}
 {% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
 {% assign tag_words = site_tags | split:',' | sort %}
 {% for tag in tag_words %}
+	{% if tag == "Schulen + Kitas" %}<a href="/projekte/#{{ tag | slugify }}">{{ tag }}</a>{% endif %}
+{% endfor %}
+{% for tag in tag_words %}
+	{% if tag == "Sport" %}<a href="/projekte/#{{ tag | slugify }}">{{ tag }}</a>{% endif %}
+{% endfor %}
+{% for tag in tag_words %}
+	{% if tag == "Wohnen + Arbeiten" %}<a href="/projekte/#{{ tag | slugify }}">{{ tag }}</a>{% endif %}
+{% endfor %}
+{% for tag in tag_words %}
+	{% if tag == "Institute + Gesundheit" %}<a href="/projekte/#{{ tag | slugify }}">{{ tag }}</a>{% endif %}
+{% endfor %}
+{% for tag in tag_words %}
+	{% if tag == "Wettbewerbe + Studien" %}<a href="/projekte/#{{ tag | slugify }}">{{ tag }}</a>{% endif %}
+{% endfor %}
+{% comment %}
+Alle Filterkategorien die nicht in der Reihenfolge definiert sind, werden darunter und in alphabetischer Reihenfolge angezeigt.
+{% endcomment %}
+{% for tag in tag_words %}
+	{% if tag != "Schulen + Kitas" and tag != "Sport" and tag != "Wohnen + Arbeiten" and tag != "Institute + Gesundheit" and tag != "Wettbewerbe + Studien" %}
 	<a href="/projekte/#{{ tag | slugify }}">{{ tag }}</a>
+	{% endif %}
 {% endfor %}
 								  <div class="clear"></div>
 								 </div>
