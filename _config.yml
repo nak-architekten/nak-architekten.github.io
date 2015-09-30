@@ -1,5 +1,5 @@
 title: Numrich Albrecht Klumpp
 description: Numrich Albrecht Klumpp Gesellschaft von Architekten mbH
-url: "http://nak-architekten.j2h.com" # the base hostname & protocol for your site
+url: "http://nak-architekten.j2h.com" # the base hostname & protocol for your site without ending slash
 markdown: kramdown
 cloudinaryaccount: "dpcao7gpf"
