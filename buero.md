@@ -103,7 +103,7 @@ permalink: /buero/
 													<div>
 														<h3 class="hidden-xs"><a href="#" onclick="$('#carousel-partner').carousel(0); $('#carousel-partner').carousel('pause'); return false;">Partner</a></h3>
 														<p>
-															Das Architektur- und Generalplanungsbüro wurde 1981 von Arthur Numrich und Werner Albrecht gegründet. Seit 2013 wir es geleitet von:
+															Das Architektur- und Generalplanungsbüro wurde 1981 von Arthur Numrich und Werner Albrecht gegründet. Seit 2013 wird es geleitet von:
 														</p>
                                                         <a href="#" onclick="$('#carousel-partner').carousel(1); $('#carousel-partner').carousel('pause'); return false;">&gt; Arthur Numrich</a>
                                                         <a href="#" onclick="$('#carousel-partner').carousel(2); $('#carousel-partner').carousel('pause');return false;">&gt; Grant Kelly</a>
