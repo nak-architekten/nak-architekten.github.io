@@ -6,7 +6,7 @@ categories:
 date: 2014-09-01
 published: true
 title: Bürgerbildungs­zentrum Eberswalde „Amadeu Antonio“
-shorttitle: Bürgerbildungs­zentrum Eberswalde „Amadeu Antonio“
+shorttitle: Bürgerbildungs­zentrum Eberswalde
 permalink: /projekte/BBZ_Eberswalde/
 tags: 
 - Schulen + Kitas
