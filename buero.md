@@ -71,11 +71,11 @@ permalink: /buero/
 
                                 <div itemscope itemtype="http://schema.org/LocalBusiness">
 									<strong itemprop="name">Numrich Albrecht Klumpp</strong><br/>
-									Gesellschaft von Architekten mbH<br/>
+									Gesellschaft von Architekten mbH<br/><br/>
 									<address itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
 										<span itemprop="streetAddress">Kohlfurter Straße 41-43</span><br/> 
 										<span itemprop="postalCode">10999</span> <span itemprop="addressLocality">Berlin</span></address><br/><br/>
-										<a href="mailto:info@nak-architekten.de">info@nak-architekten.de</a><br/><br/>
+										<a href="mailto:info@nak-architekten.de">info@nak-architekten.de</a><br/>
 										<a href="tel:++493061676920">+49 (0)30 616 76 92-0</a>
                                 </div>
 
