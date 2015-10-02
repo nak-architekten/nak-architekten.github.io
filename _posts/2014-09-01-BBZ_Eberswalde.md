@@ -34,3 +34,4 @@ Fertigstellung	|	September 2014
 Projektleiter	|	Arthur Numrich
 Mitarbeiter		|	Ralf Nägele 
 Projektfotos	|	Nina Straßgütl 
+Landschaftsarchitekt | Josef Müller
