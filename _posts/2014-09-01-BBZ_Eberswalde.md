@@ -34,4 +34,4 @@ Fertigstellung	|	September 2014
 Projektleiter	|	Arthur Numrich
 Mitarbeiter		|	Ralf Nägele 
 Projektfotos	|	<a href="http://www.ninastrg.de">Nina Straßgütl</a> 
-Landschaftsarchitekt | Josef Müller
+Landschaftsarchitekt | Hans Meier
