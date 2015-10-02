@@ -33,4 +33,4 @@ Bausumme		|	KGR 200-700, 3.900.000 €
 Fertigstellung	|	Dezember 2014
 Projektleiter	|	Arthur Numrich
 Mitarbeiter		|	Ulrike Vogel 
-Projektfotos	|	[Nina Straßgütl] (http://www.ninastrg.de) 
+Projektfotos	|	[Nina Straßgütl](http://www.ninastrg.de) 
