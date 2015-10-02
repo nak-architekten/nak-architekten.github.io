@@ -21,10 +21,14 @@ images:
 - /projekte/SHB_Borgsdorf/07.jpg
 - /projekte/SHB_Borgsdorf/08.jpg
 captions:
-- 01 Mensa für das Bildungszentrum der Finanzverwaltung des Landes Brandenburg
-- 02 In context of the running paid content
-- 03 Lorem Ipsum
-- 04 Lorem Ipsum
+- 01 Sporthalle Borgsdorf
+- 02 Sporthalle Borgsdorf: Fassade
+- 03 Sporthalle Borgsdorf: Hofansicht
+- 04 Sporthalle Borgsdorf
+- 05 
+- 06 Sporthalle Borgsdorf
+- 07 Sporthalle Borgsdorf
+- 08 Sporthalle Borgsdorf
 ---
 Adresse			|	Bahnhofstraße 33b, 16540 Hohen Neuendorf 
 Bauherr			|	Stadt Hohen Neuendorf
