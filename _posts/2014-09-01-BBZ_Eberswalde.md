@@ -35,3 +35,6 @@ Projektleiter	|	Arthur Numrich
 Mitarbeiter		|	Ralf Nägele 
 Projektfotos	|	"<a href="http://www.ninastrg.de">Nina Straßgütl</a>" 
 Landschaftsarchitekt | Hans Meier
+Statik | Holger Müller
+Haustechnik | Volker Irgendwas
+Visualisierung | [Davide Abbonacci]: http://www.abbonacci.com/
