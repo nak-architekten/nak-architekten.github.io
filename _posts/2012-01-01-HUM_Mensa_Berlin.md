@@ -36,4 +36,4 @@ Bausumme		|	KGR 200–700, 2.400.000 €
 Fertigstellung	|	2012
 Projektleiter	|	Timo Klumpp
 Mitarbeiter		|	Daniel Gleißenberg
-Projektfotos	|	<a href="http://www.ninastrg.de">Nina Straßgütl</a>
+Projektfotos	|	Nina Straßgütl
