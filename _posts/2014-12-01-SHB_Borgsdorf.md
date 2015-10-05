@@ -38,4 +38,4 @@ Fertigstellung	|	Dezember 2014
 Projektleiter	|	Arthur Numrich
 Mitarbeiter		|	&#5125; &#9675; Ulrike Vogel 
 Test | &#9675; Test
-Projektfotos	|	[_Nina Straßgütl_](http://www.ninastrg.de) 
+Projektfotos	|	[_&raquo; Nina Straßgütl_](http://www.ninastrg.de) 
