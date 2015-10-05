@@ -19,14 +19,14 @@ images:
 - /projekte/RKW_KoenigsWusterhausen/07.jpg
 - /projekte/RKW_KoenigsWusterhausen/08.jpg
 captions:
-- 01 Rathaus Königs Wusterhausen &#9210; Haupteingang
-- 02 Rathaus Königs Wusterhausen &#9210; Fassade Nord
-- 03 Rathaus Königs Wusterhausen &#9210; Test Test Test
-- 04 Rathaus Königs Wusterhausen &#9210; Noch eine Bildunterschrift
-- 05 Rathaus Königs Wusterhausen &#9210; Bildunterschrift 5
-- Rathaus Königs Wusterhausen &#9210; Bildunterschrift 6
-- 07 &#9210; Rathaus Königs Wusterhausen &#9210; Bildunterschrift Sieben
-- 08 &#9210; Rathaus Königs Wusterhausen &#9210; Test 8
+- 01 Rathaus Königs Wusterhausen Haupteingang
+- 02 Rathaus Königs Wusterhausen Fassade Nord
+- 03 Rathaus Königs Wusterhausen Test Test Test
+- 04 Rathaus Königs Wusterhausen Noch eine Bildunterschrift
+- 05 Rathaus Königs Wusterhausen Bildunterschrift 5
+- Rathaus Königs Wusterhausen Bildunterschrift 6
+- 07 Rathaus Königs Wusterhausen Bildunterschrift Sieben
+- 08 Rathaus Königs Wusterhausen Test 8
 ---
 Adresse			|	Schloßstraße 4, 15711 Königs Wusterhausen
 Bauherr			|	Stadt Königs Wusterhausen
