@@ -22,11 +22,11 @@ images:
 - /projekte/SHB_Borgsdorf/08.jpg
 captions:
 - 01 Sporthalle Borgsdorf
-- 02 Sporthalle Borgsdorf &#183; Fassade
-- 03 Sporthalle Borgsdorf &#183; Hofansicht
+- 02 Sporthalle Borgsdorf // Fassade
+- 03 Sporthalle Borgsdorf // Hofansicht
 - 04 Sporthalle Borgsdorf
 - 05 Test Test Test Test Test Test
-- 06 Sporthalle Borgsdorf
+- 06 Sporthalle Borgsdorf // Testbild
 - 07 Sporthalle Borgsdorf
 - 08 Sporthalle Borgsdorf
 ---
@@ -36,6 +36,6 @@ BGF				|	2.400 m²
 Bausumme		|	KGR 200-700, 3.900.000 € 
 Fertigstellung	|	Dezember 2014
 Projektleiter	|	Arthur Numrich
-Mitarbeiter		|	&#5125; &#9675; Ulrike Vogel 
+Mitarbeiter		|	&#9675; Ulrike Vogel 
 Test | Test
 Projektfotos	|	[_&raquo; Nina Straßgütl_](http://www.ninastrg.de) 
