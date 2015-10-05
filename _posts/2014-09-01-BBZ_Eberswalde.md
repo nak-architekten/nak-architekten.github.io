@@ -37,4 +37,4 @@ Projektfotos	|	<a href="http://www.ninastrg.de" target= "_blank">// Nina Straßg
 Landschaftsarchitekt | Hans Meier
 Statik | Holger Müller
 Haustechnik | *Volker Irgendwas*
-Visualisierung | [// _Davide Abbonacci_](http://www.abbonacci.com/)
+Visualisierung | [\\ _Davide Abbonacci_](http://www.abbonacci.com/)
