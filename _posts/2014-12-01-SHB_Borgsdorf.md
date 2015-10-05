@@ -36,6 +36,6 @@ BGF				|	2.400 m²
 Bausumme		|	KGR 200-700, 3.900.000 € 
 Fertigstellung	|	Dezember 2014
 Projektleiter	|	Arthur Numrich
-Mitarbeiter		|	&#10132; Ulrike Vogel 
+Mitarbeiter		|	&#3663; Ulrike Vogel 
 Test | &gt; Test
 Projektfotos	|	[_Nina Straßgütl_](http://www.ninastrg.de) 
