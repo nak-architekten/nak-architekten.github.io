@@ -253,7 +253,7 @@ permalink: /buero/
                                 <h3>Preisgericht</h3>
                             </div>
                             <div class="col-xs-12 col-md-6 col-lg-5">
-                            	<p> 2015 Neubau »Akademie und Zentrale Deutscher Fußball-Bund«<br/>
+                            	<p> 2015 // Neubau »Akademie und Zentrale Deutscher Fußball-Bund«<br/>
                             		<em>Frankfurt am Main</em>
                             	</p>
                             	<p>
