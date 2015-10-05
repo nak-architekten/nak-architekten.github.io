@@ -19,10 +19,14 @@ images:
 - /projekte/RKW_KoenigsWusterhausen/07.jpg
 - /projekte/RKW_KoenigsWusterhausen/08.jpg
 captions:
-- 01 Mensa für das Bildungszentrum der Finanzverwaltung des Landes Brandenburg
-- 02 In context of the running paid content
-- 03 Lorem Ipsum
-- 04 Lorem Ipsum
+- 01 Rathaus Königs Wusterhausen &#9210; Haupteingang
+- 02 Rathaus Königs Wusterhausen &#9210; Fassade Nord
+- 03 Rathaus Königs Wusterhausen &#9210; Test Test Test
+- 04 Rathaus Königs Wusterhausen &#9210; Noch eine Bildunterschrift
+- 05 Rathaus Königs Wusterhausen &#9210; Bildunterschrift 5
+- Rathaus Königs Wusterhausen &#9210; Bildunterschrift 6
+- 07 &#9210; Rathaus Königs Wusterhausen &#9210; Bildunterschrift Sieben
+- 08 &#9210; Rathaus Königs Wusterhausen &#9210; Test 8
 ---
 Adresse			|	Schloßstraße 4, 15711 Königs Wusterhausen
 Bauherr			|	Stadt Königs Wusterhausen
