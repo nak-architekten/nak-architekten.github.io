@@ -33,8 +33,8 @@ Bausumme		|	KGR 200–700, 8.600.000 €
 Fertigstellung	|	September 2014
 Projektleiter	|	Arthur Numrich
 Mitarbeiter		|	Ralf Nägele 
-Projektfotos	|	<a href="http://www.ninastrg.de">&gt; Nina Straßgütl</a>
+Projektfotos	|	<a href="http://www.ninastrg.de" target= "_blank">// Nina Straßgütl</a>
 Landschaftsarchitekt | Hans Meier
 Statik | Holger Müller
 Haustechnik | *Volker Irgendwas*
-Visualisierung | [/ _Davide Abbonacci_](http://www.abbonacci.com/)
+Visualisierung | [// _Davide Abbonacci_](http://www.abbonacci.com/)
