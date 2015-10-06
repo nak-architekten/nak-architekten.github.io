@@ -44,10 +44,10 @@ permalink: /buero/
                                     <ol class="carousel-indicators"></ol>
 
                                     <div class="carousel-inner" role="listbox">
-                                        <div class="item active">
+                                        <div class="item loadfast active">
                                             <img class="img-responsive" src="{% if site.url contains 'localhost' %}{% else %}http://res.cloudinary.com/{{site.cloudinaryaccount}}/image/fetch/w_600,h_400,c_fill,q_88,f_auto,fl_progressive,fl_force_strip/{% endif %}{{site.url}}/buero/kontakt/1-IMG_6031-BEA.jpg">
                                         </div>
-                                        <div class="item">
+                                        <div class="item loadfast">
                                             <img class="img-responsive" src="{% if site.url contains 'localhost' %}{% else %}http://res.cloudinary.com/{{site.cloudinaryaccount}}/image/fetch/w_600,h_400,c_fill,q_88,f_auto,fl_progressive,fl_force_strip/{% endif %}{{site.url}}/buero/kontakt/2-IMG_6036-BEA.jpg">
                                         </div>
                                         <div class="item">
@@ -211,7 +211,7 @@ permalink: /buero/
 {% assign counter = 0 %}
 {% for post in site.categories.team %}
 
-                                    <div class="item{% if counter == 0 %} active{% endif %}">
+                                    <div class="item{% if counter == 0 %} active{% endif %}{% if counter == 0 %} loadfast{% endif %}{% if counter == 1 %} loadfast{% endif %}">
 										<div class="container-fluid">
 											<div class="row">
 												<div class="col-xs-12 col-md-6 col-lg-5 col-no-padding">

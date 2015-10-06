@@ -218,12 +218,55 @@ function getDevicePixelRatio () {
 };
 
 
+/*
+	Looks for "loadfast" carousel slides and loads the images from "data-image"
+*/
+function loadFirstCarouselSlides(){
+	$(".carousel .item").each(function(n) {
+		if($(this).hasClass("loadfast")){
+			imgURL = $(this).attr("data-image");
+			if(cloudinaryAccount){
+				cloudinaryURL = "http://res.cloudinary.com/"+cloudinaryAccount+"/image/fetch/w_"+pixelFullWidth+",q_88,f_auto,fl_progressive,fl_force_strip/"+imgURL;
+				preload(cloudinaryURL);
+			}
+		}
+	});
+};
+
+/*
+	Looks for all other then "loadfast" carousel slides and loads the images from "data-image"
+*/
+function loadFurtherCarouselSlides(){
+	$(".carousel .item").each(function(n) {
+		if(!$(this).hasClass("loadfast")){
+			imgURL = $(this).attr("data-image");
+			if(cloudinaryAccount){
+				cloudinaryURL = "http://res.cloudinary.com/"+cloudinaryAccount+"/image/fetch/w_"+pixelFullWidth+",q_88,f_auto,fl_progressive,fl_force_strip/"+imgURL;
+				preload(cloudinaryURL);
+			}
+		}
+	});	
+};
+
+function preload(imgUrl) {
+	console.log('preload ' + imgUrl);
+	$('<img />').attr('src',imgUrl).appendTo('body').hide();
+}
+
 $(document).ready(function() {
+	console.log('document.ready');
 	init();
 	recalculate();
+	loadFirstCarouselSlides();
 });
 
 
 $(window).resize(function() {
 	recalculate();
+});
+
+
+$(window).load(function() {
+	console.log('window.load');
+	loadFurtherCarouselSlides();
 });
