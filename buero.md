@@ -103,7 +103,7 @@ permalink: /buero/
 													<div>
 														<h3 class="hidden-xs"><a href="#" onclick="$('#carousel-partner').carousel(0); $('#carousel-partner').carousel('pause'); return false;">Partner</a></h3>
 														<p>
-															Das Architektur- und Generalplanungsbüro wurde 1981 von Arthur Numrich und Werner Albrecht gegründet. Seit 2013 wird es geleitet von:
+															Das Architektur- und Generalplanungsbüro wurde 1981 von Arthur Numrich und Werner Albrecht gegründet. Seit 2013 wird es geleitet von:
 														</p>
                                                         <a href="#" onclick="$('#carousel-partner').carousel(1); $('#carousel-partner').carousel('pause'); return false;">&gt; Arthur Numrich</a>
                                                         <a href="#" onclick="$('#carousel-partner').carousel(2); $('#carousel-partner').carousel('pause');return false;">&gt; Grant Kelly</a>
@@ -129,8 +129,8 @@ permalink: /buero/
                                                         <dl>
                                                             <dt>1950</dt>       <dd>geboren in Landshut</dd>
                                                             <dt>1968</dt>       <dd>Maurergesellenprüfung</dd>
-                                                            <dt>1972</dt>       <dd>grad. Ing., Polytechnikum Würzburg (Fachrichtung Hochbau)</dd>
-                                                            <dt>1976</dt>       <dd>Dipl.-Ing., Technische Universität Berlin (Fachrichtung Architektur)</dd>
+                                                            <dt>1972</dt>       <dd>grad. Ing., Polytechnikum Würzburg (Hochbau)</dd>
+                                                            <dt>1976</dt>       <dd>Dipl.-Ing., Technische Universität Berlin (Architektur)</dd>
                                                             <dt>1976–78</dt>    <dd>Freie Universität Berlin, Studium der Soziologie</dd>
                                                             <dt>1978–80</dt>    <dd>Referendariat bei der Senatsverwaltung für Bau- & Wohnungswesen, 2. Staatsprüfung</dd>
                                                             <dt>seit 1981</dt>  <dd>Bürogemeinschaft mit Werner Albrecht</dd>
@@ -250,61 +250,58 @@ permalink: /buero/
                                                 
 						<div class="row" id="Preisgericht">
                             <div class="col-xs-12">
-                                <h3>Preisgericht</h3>
+                                <h3>Preisgerichte</h3>
                             </div>
                             <div class="col-xs-12 col-md-6 col-lg-5">
-                            	<p> 2015 // Neubau »Akademie und Zentrale Deutscher Fußball-Bund«<br/>
-                            		<em>Frankfurt am Main</em>
+                            	<p>2015 // Akademie und Zentrale Deutscher Fußball-Bund // Frankfurt am Main <br/>
+                            		<em>Deutscher Fußball-Bund e.V.</em>
                             	</p>
-                            	<p>
-                            			Neubau der »Pestalozzi-Schule« und einer Dreifeldsporthalle in Wetzlar<br/>
-										<em>Lahn-Dill Kreis</em>
+                            	<p>2014 // adidas – World of Sports – Stage V Büro // Herzogenaurach <br/>
+                            		<em>adidas AG</em>
                             	</p>
-                            	<p>
-										Neubau Sporthalle »Ruppiner Srasse« in Berlin-Mitte<br/>
-										<em>Senatsverwaltung für Stadtentwicklung</em>
+                            	<p>2012 // Neubau Berufsschulzentrum Wetzlar <br/>
+                            		<em>Kreisauschuss des Lahn-Dill-Kreises</em>
                             	</p>
-                            	<p>
-										Uniklinikum Leipzig<br/>
-										<em>Freistaat Sachsen</em>
+                            	<p>2012 // Schalke 04 - Standortentwicklung Schalker Feld // Gelsenkirchen<br/>
+                            		<em>FC Gelsenkirchen-Schalke 04 e.V.</em>
                             	</p>
-                            	<p>
-										Städtisches Klinikum St. Georg/Robert Koch Klinik in Leipzig<br/>
-										<em>Stadt Leipzig (Dezernat Planung und Bau)</em>
+                            	<p>2011 // Neubau Sukhavati Spiritual Care Center // Bad Saarow <br/>
+                            		<em>Tertön Sogyal Stiftung</em>
                             	</p>
-                            	<p>
-										Prüfzentrum für Bahntechnik in Henningsdorf<br/>
-										<em>TZB-Technologiezentrum Bahntechnik GmbH</em>
+                            	<p>2010 // Neubau Sporthalle »Ruppiner Srasse« in Berlin-Mitte <br/>
+                            		<em>Senatsverwaltung für Stadtentwicklung</em>
                             	</p>
-                            	<p>
-										Neubau des FU-Instituts für Informatik in Berlin-Zehlendorf<br/>
-										<em>Senatsverwaltung für Bau- und Wohnungswesen</em>
+                            	<p>Uniklinikum Leipzig <br/>
+					<em>Freistaat Sachsen</em>
                             	</p>
-                            	<p>
-										Neubau einer Sporthalle im Sportpark Berlin-Wilmersdorf<br/>
-										<em>Senatsverwaltung für Bau- und Wohnungswesen</em>
+                            	<p>Städtisches Klinikum St. Georg/Robert Koch Klinik in Leipzig <br/>
+					<em>Stadt Leipzig (Dezernat Planung und Bau)</em>
+                            	</p>
+                            	<p> Prüfzentrum für Bahntechnik in Henningsdorf <br/>
+					<em>TZB-Technologiezentrum Bahntechnik GmbH</em>
+                            	</p>
+                            	<p> Neubau des FU-Instituts für Informatik in Berlin-Zehlendorf <br/>
+					<em>Senatsverwaltung für Bau- und Wohnungswesen</em>
+                            	</p>
+                            	<p> Neubau einer Sporthalle im Sportpark Berlin-Wilmersdorf <br/>
+					<em>Senatsverwaltung für Bau- und Wohnungswesen</em>
                             	</p>
                             </div>
                             <div class="col-xs-12 col-md-6 col-lg-5">
-                            	<p>
-										Neubau der Wohnsiedlung »Schlierbacher Weg« in Berlin-Neukölln<br/>
-										<em>Senatsverwaltung für Bau- und Wohnungswesen</em>
+                            	<p> Neubau der Wohnsiedlung »Schlierbacher Weg« in Berlin-Neukölln <br/>
+					<em>Senatsverwaltung für Bau- und Wohnungswesen</em>
                             	</p>
-                            	<p>
-										Neubau einer Wohnanlage und einer Kindertagesstätte in Berlin-Kreuzberg<br/>
-										<em>S.T.E.R.N. Gesellschaft für behutsame Stadterneuerung Berlin mbH</em>
+                            	<p> Neubau einer Wohnanlage und einer Kindertagesstätte in Berlin-Kreuzberg <br/>
+					<em>S.T.E.R.N. Gesellschaft für behutsame Stadterneuerung Berlin mbH</em>
                             	</p>
-                            	<p>
-										Neubau eines Handels- und Dienstleistungszentrums in Berlin-Reinickendorf<br/>
-										<em>Senatsverwaltung für Bau- und Wohnungswesen</em>
+                            	<p> Neubau eines Handels- und Dienstleistungszentrums in Berlin-Reinickendorf <br/>
+					<em>Senatsverwaltung für Bau- und Wohnungswesen</em>
                             	</p>
-                            	<p>
-										Neubau der Seniorenwohnanlage »Seniorenhof Plagwitz« in Leipzig<br/>
-										<em>Stadt Leipzig (Dezernat Planung und Bau)</em>
+                            	<p> Neubau der Seniorenwohnanlage »Seniorenhof Plagwitz« in Leipzig <br/>
+					<em>Stadt Leipzig (Dezernat Planung und Bau)</em>
                             	</p>
-                            	<p>
-										Neubau der Wohnanlage »Grünauer Straße« in Berlin-Köpenick<br/>
-										<em>Senatsverwaltung für Bau- und Wohnungswesen</em>
+                            	<p> Neubau der Wohnanlage »Grünauer Straße« in Berlin-Köpenick<br/>
+					<em>Senatsverwaltung für Bau- und Wohnungswesen</em>
                             	</p>
                             </div>
 						</div>
