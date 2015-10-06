@@ -10,8 +10,12 @@ shorttitle: Sozialtherapeutischen Werkstätten Berlin
 permalink: /projekte/WBB_BerlinZehlendorf/
 tags: 
 - Werkstatt
+<<<<<<< HEAD
+homepage: /projekte/WBB_BerlinZehlendorf/00_Titel.jpg
+=======
 - Wohnen + Arbeiten
 homepage: /projekte/WBB_BerlinZehlendorf/WBB_Titel.jpg
+>>>>>>> upstream/master
 images:
 - /projekte/WBB_BerlinZehlendorf/01.jpg
 - /projekte/WBB_BerlinZehlendorf/02.jpg

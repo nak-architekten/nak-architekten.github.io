@@ -10,7 +10,7 @@ shorttitle: Steinwald-Schule Berlin
 permalink: /projekte/SWS_BerlinMarienfelde/
 tags: 
 - Schulen + Kitas
-homepage: /projekte/SWS_BerlinMarienfelde/SWS_Titel.jpg
+homepage: /projekte/SWS_BerlinMarienfelde/00_Titel.jpg
 images:
 - /projekte/SWS_BerlinMarienfelde/01.jpg
 - /projekte/SWS_BerlinMarienfelde/02.jpg
