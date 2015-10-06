@@ -9,7 +9,8 @@ title: Wettbewerb Neubau Clay Schule Berlin Neukölln
 shorttitle: Clay Schule Berlin
 permalink: /projekte/WBW_NCS_BerlinNeukoelln/
 tags: 
-- Werkstatt
+- Wettbewerbe + Studien
+- Schulen + Kitas
 homepage: /projekte/WBW_NCS_BerlinNeukoelln/00_Titel.jpg
 news: // 3. Preis // Neubau Clayschule Berlin Neukölln //
 images:
