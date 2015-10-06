@@ -154,7 +154,7 @@ function recalculate() {
 		imgURL = $(this).attr("data-image");
 		if(cloudinaryAccount){
 			cloudinaryURL = "http://res.cloudinary.com/"+cloudinaryAccount+"/image/fetch/w_"+pixelFullWidth+",q_88,f_auto,fl_progressive,fl_force_strip/"+imgURL;		
-			console.log(cloudinaryURL);
+			// console.log('generate url: '+cloudinaryURL);
 			$(this).attr("style","background-image:url('"+cloudinaryURL+"')");
 		}else{
 			$(this).attr("style","background-image:url('"+imgURL+"')");
@@ -166,7 +166,7 @@ function recalculate() {
 		imgURL = $(this).attr("data-image");
 		if(cloudinaryAccount){
 			cloudinaryURL = "http://res.cloudinary.com/"+cloudinaryAccount+"/image/fetch/w_"+pixelTeaserWidth+",q_88,f_auto,fl_progressive,fl_force_strip/"+imgURL;	
-			console.log(cloudinaryURL);
+			// console.log(cloudinaryURL);
 			$(this).attr("style","background-image:url('"+cloudinaryURL+"')");
 		}else{
 			$(this).attr("style","background-image:url('"+imgURL+"')");
@@ -180,7 +180,7 @@ Funtion to filter project tiles on the project overview page. The filter is base
 */
 function filter(tag){
  
- 	console.log("filter for:" + tag);
+ 	// console.log("filter for:" + tag);
  	
 	$("#filterpanel a").each(function(n) {
 	    $(this).removeClass("act");
@@ -190,7 +190,7 @@ function filter(tag){
 
 	if(tag=="Alle"){
 		$(".project-tile").each(function(n) {
-			console.log($(this).is(":hidden"));
+			// console.log($(this).is(":hidden"));
 			if($(this).is(":hidden")) $(this).fadeIn(800);
 		});		
 	}else{
@@ -249,12 +249,12 @@ function loadFurtherCarouselSlides(){
 };
 
 function preload(imgUrl) {
-	console.log('preload ' + imgUrl);
+	// console.log('preload: ' + imgUrl);
 	$('<img />').attr('src',imgUrl).appendTo('body').hide();
 }
 
 $(document).ready(function() {
-	console.log('document.ready');
+	// console.log('document.ready');
 	init();
 	recalculate();
 	loadFirstCarouselSlides();
@@ -267,6 +267,6 @@ $(window).resize(function() {
 
 
 $(window).load(function() {
-	console.log('window.load');
+	// console.log('window.load');
 	loadFurtherCarouselSlides();
 });
