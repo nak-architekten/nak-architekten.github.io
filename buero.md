@@ -250,61 +250,57 @@ permalink: /buero/
                                                 
 						<div class="row" id="Preisgericht">
                             <div class="col-xs-12">
-                                <h3>Preisgericht</h3>
+                                <h3>Preisgerichte</h3>
                             </div>
                             <div class="col-xs-12 col-md-6 col-lg-5">
-                            	<p> 2015 // Neubau »Akademie und Zentrale Deutscher Fußball-Bund«<br/>
-                            		<em>Frankfurt am Main</em>
+                            	<p>2015 // Akademie und Zentrale Deutscher Fußball-Bund // Frankfurt am Main <br/>
+                            		<em>Deutscher Fußball-Bund e.V.</em>
                             	</p>
-                            	<p>
-                            			Neubau der »Pestalozzi-Schule« und einer Dreifeldsporthalle in Wetzlar<br/>
-										<em>Lahn-Dill Kreis</em>
+                            	<p>2014 // adidas – World of Sports – Stage V Büro // Herzogenaurach <br/>
+                            		<em>adidas AG</em>
+                            	<p>2012 // Neubau Berufsschulzentrum Wetzlar <br/>
+                            		<em>Kreisauschuss des Lahn-Dill-Kreises</em>
                             	</p>
-                            	<p>
-										Neubau Sporthalle »Ruppiner Srasse« in Berlin-Mitte<br/>
-										<em>Senatsverwaltung für Stadtentwicklung</em>
+                            	<p>2012 // Schalke 04 - Standortentwicklung Schalker Feld // Gelsenkirchen<br/>
+                            		<em>FC Gelsenkirchen-Schalke 04 e.V.</em>
                             	</p>
-                            	<p>
-										Uniklinikum Leipzig<br/>
-										<em>Freistaat Sachsen</em>
+                            	<p>2011 // Neubau Sukhavati Spiritual Care Center // Bad Saarow <br/>
+                            		<em>Tertön Sogyal Stiftung</em>
                             	</p>
-                            	<p>
-										Städtisches Klinikum St. Georg/Robert Koch Klinik in Leipzig<br/>
-										<em>Stadt Leipzig (Dezernat Planung und Bau)</em>
+                            	<p>2010 // Neubau Sporthalle »Ruppiner Srasse« in Berlin-Mitte <br/>
+                            		<em>Senatsverwaltung für Stadtentwicklung</em>
                             	</p>
-                            	<p>
-										Prüfzentrum für Bahntechnik in Henningsdorf<br/>
-										<em>TZB-Technologiezentrum Bahntechnik GmbH</em>
+                            	<p>Uniklinikum Leipzig <br/>
+					<em>Freistaat Sachsen</em>
                             	</p>
-                            	<p>
-										Neubau des FU-Instituts für Informatik in Berlin-Zehlendorf<br/>
-										<em>Senatsverwaltung für Bau- und Wohnungswesen</em>
+                            	<p>Städtisches Klinikum St. Georg/Robert Koch Klinik in Leipzig <br/>
+					<em>Stadt Leipzig (Dezernat Planung und Bau)</em>
                             	</p>
-                            	<p>
-										Neubau einer Sporthalle im Sportpark Berlin-Wilmersdorf<br/>
-										<em>Senatsverwaltung für Bau- und Wohnungswesen</em>
+                            	<p> Prüfzentrum für Bahntechnik in Henningsdorf <br/>
+					<em>TZB-Technologiezentrum Bahntechnik GmbH</em>
+                            	</p>
+                            	<p> Neubau des FU-Instituts für Informatik in Berlin-Zehlendorf <br/>
+					<em>Senatsverwaltung für Bau- und Wohnungswesen</em>
+                            	</p>
+                            	<p> Neubau einer Sporthalle im Sportpark Berlin-Wilmersdorf <br/>
+					<em>Senatsverwaltung für Bau- und Wohnungswesen</em>
                             	</p>
                             </div>
                             <div class="col-xs-12 col-md-6 col-lg-5">
-                            	<p>
-										Neubau der Wohnsiedlung »Schlierbacher Weg« in Berlin-Neukölln<br/>
-										<em>Senatsverwaltung für Bau- und Wohnungswesen</em>
+                            	<p> Neubau der Wohnsiedlung »Schlierbacher Weg« in Berlin-Neukölln <br/>
+					<em>Senatsverwaltung für Bau- und Wohnungswesen</em>
                             	</p>
-                            	<p>
-										Neubau einer Wohnanlage und einer Kindertagesstätte in Berlin-Kreuzberg<br/>
-										<em>S.T.E.R.N. Gesellschaft für behutsame Stadterneuerung Berlin mbH</em>
+                            	<p> Neubau einer Wohnanlage und einer Kindertagesstätte in Berlin-Kreuzberg <br/>
+					<em>S.T.E.R.N. Gesellschaft für behutsame Stadterneuerung Berlin mbH</em>
                             	</p>
-                            	<p>
-										Neubau eines Handels- und Dienstleistungszentrums in Berlin-Reinickendorf<br/>
-										<em>Senatsverwaltung für Bau- und Wohnungswesen</em>
+                            	<p> Neubau eines Handels- und Dienstleistungszentrums in Berlin-Reinickendorf <br/>
+					<em>Senatsverwaltung für Bau- und Wohnungswesen</em>
                             	</p>
-                            	<p>
-										Neubau der Seniorenwohnanlage »Seniorenhof Plagwitz« in Leipzig<br/>
-										<em>Stadt Leipzig (Dezernat Planung und Bau)</em>
+                            	<p> Neubau der Seniorenwohnanlage »Seniorenhof Plagwitz« in Leipzig <br/>
+					<em>Stadt Leipzig (Dezernat Planung und Bau)</em>
                             	</p>
-                            	<p>
-										Neubau der Wohnanlage »Grünauer Straße« in Berlin-Köpenick<br/>
-										<em>Senatsverwaltung für Bau- und Wohnungswesen</em>
+                            	<p> Neubau der Wohnanlage »Grünauer Straße« in Berlin-Köpenick<br/>
+					<em>Senatsverwaltung für Bau- und Wohnungswesen</em>
                             	</p>
                             </div>
 						</div>
