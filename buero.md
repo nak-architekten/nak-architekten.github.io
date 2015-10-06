@@ -258,6 +258,7 @@ permalink: /buero/
                             	</p>
                             	<p>2014 // adidas – World of Sports – Stage V Büro // Herzogenaurach <br/>
                             		<em>adidas AG</em>
+                            	</p>
                             	<p>2012 // Neubau Berufsschulzentrum Wetzlar <br/>
                             		<em>Kreisauschuss des Lahn-Dill-Kreises</em>
                             	</p>
