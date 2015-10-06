@@ -10,7 +10,12 @@ shorttitle: Sozialtherapeutischen Werkstätten Berlin
 permalink: /projekte/WBB_BerlinZehlendorf/
 tags: 
 - Werkstatt
+<<<<<<< HEAD
 homepage: /projekte/WBB_BerlinZehlendorf/00_Titel.jpg
+=======
+- Wohnen + Arbeiten
+homepage: /projekte/WBB_BerlinZehlendorf/WBB_Titel.jpg
+>>>>>>> upstream/master
 images:
 - /projekte/WBB_BerlinZehlendorf/01.jpg
 - /projekte/WBB_BerlinZehlendorf/02.jpg
@@ -24,7 +29,8 @@ captions:
 - Sozialtherapeutischen Werkstätten Berlin // Fassade
 - Sozialtherapeutischen Werkstätten Berlin 
 ---
-Neubau und Erweiterung eines Werkstattgebäudes für Menschen mit Behinderungen für die Werkgemeinschaft für Berlin-Brandenburg gGmbH. Das Projekt ist die Realisierung eines 1. Preises in einem Wettbewerb.
+Neubau und Erweiterung eines Werkstattgebäudes für Menschen mit Behinderungen für die Werkgemeinschaft für Berlin-Brandenburg gGmbH. Das Projekt ist die Realisierung eines 1. Preises in einem Wettbewerb. 
+
 Adresse			|	Teltower Damm 269, 14167 Berlin 
 Bauherr			|	Werkgemeinschaft für Berlin-Brandenburg gGmbH
 Ansprechpartner	|	Werkgemeinschaft für Berlin-Brandenburg gGmbH // Herr Sellier
