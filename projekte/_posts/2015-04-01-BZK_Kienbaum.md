@@ -9,7 +9,7 @@ shorttitle: BLZ Kienbaum
 news: BLZ Kienbaum HEUTE mit Luftballons
 permalink: /projekte/BZK_Kienbaum/
 tags: 
-- Schulen + Kitas
+- Sport
 images:
 - /projekte/BZK_Kienbaum/01.jpg
 - /projekte/BZK_Kienbaum/02.jpg
