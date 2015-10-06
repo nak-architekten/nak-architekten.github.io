@@ -103,7 +103,7 @@ permalink: /buero/
 													<div>
 														<h3 class="hidden-xs"><a href="#" onclick="$('#carousel-partner').carousel(0); $('#carousel-partner').carousel('pause'); return false;">Partner</a></h3>
 														<p>
-															Das Architektur- und Generalplanungsbüro wurde 1981 von Arthur Numrich und Werner Albrecht gegründet. Seit 2013 wird es geleitet von:
+															Das Architektur- und Generalplanungsbüro wurde 1981 von Arthur Numrich und Werner Albrecht gegründet. Seit 2013 wird es geleitet von:
 														</p>
                                                         <a href="#" onclick="$('#carousel-partner').carousel(1); $('#carousel-partner').carousel('pause'); return false;">&gt; Arthur Numrich</a>
                                                         <a href="#" onclick="$('#carousel-partner').carousel(2); $('#carousel-partner').carousel('pause');return false;">&gt; Grant Kelly</a>
@@ -129,8 +129,8 @@ permalink: /buero/
                                                         <dl>
                                                             <dt>1950</dt>       <dd>geboren in Landshut</dd>
                                                             <dt>1968</dt>       <dd>Maurergesellenprüfung</dd>
-                                                            <dt>1972</dt>       <dd>grad. Ing., Polytechnikum Würzburg (Fachrichtung Hochbau)</dd>
-                                                            <dt>1976</dt>       <dd>Dipl.-Ing., Technische Universität Berlin (Fachrichtung Architektur)</dd>
+                                                            <dt>1972</dt>       <dd>grad. Ing., Polytechnikum Würzburg (Hochbau)</dd>
+                                                            <dt>1976</dt>       <dd>Dipl.-Ing., Technische Universität Berlin (Architektur)</dd>
                                                             <dt>1976–78</dt>    <dd>Freie Universität Berlin, Studium der Soziologie</dd>
                                                             <dt>1978–80</dt>    <dd>Referendariat bei der Senatsverwaltung für Bau- & Wohnungswesen, 2. Staatsprüfung</dd>
                                                             <dt>seit 1981</dt>  <dd>Bürogemeinschaft mit Werner Albrecht</dd>
