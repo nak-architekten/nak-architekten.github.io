@@ -26,10 +26,8 @@ captions:
 - Wettbewerb Clayschule Berlin Neukölln // Ansicht und Schnitt
 - Wettbewerb Clayschule Berlin Neukölln // Detailschnitt 
 - Wettbewerb Clayschule Berlin Neukölln
-
 ---
-
-3. Preis für den „ Neubau der Clay-Schule als eine von drei Pilotschulen, die eine neue Ära von Schulbauten in Berlin einläuten.“ Die Schule mit ca 9.400 m² Nutzfläche und Sporthalle mit fünf Hallenteilen soll in der Qualitätsstufe „Silber“ nach dem Bewertungssystem nachhaltiges Bauen für Bundesgebäude (BNB) errichtet werden.
+Dritter Preis für den „ Neubau der Clay-Schule als eine von drei Pilotschulen, die eine neue Ära von Schulbauten in Berlin einläuten.“ Die Schule mit ca 9.400 m² Nutzfläche und Sporthalle mit fünf Hallenteilen soll in der Qualitätsstufe „Silber“ nach dem Bewertungssystem nachhaltiges Bauen für Bundesgebäude (BNB) errichtet werden.
 
 Adresse			|	Neudecker Weg / August-Froehlich-Straße, Berlin Neukölln
 Auslober		|	Land Berlin // SE Facility Management Bezirk Neukölln
