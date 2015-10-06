@@ -271,7 +271,7 @@ permalink: /buero/
                             	<p>2010 // Neubau Sporthalle »Ruppiner Srasse« in Berlin-Mitte <br/>
                             		<em>Senatsverwaltung für Stadtentwicklung</em>
                             	</p>
-                            	<p>Uniklinikum Leipzig <br/>
+                            	<p>2000 // Uniklinikum Leipzig <br/>
 					<em>Freistaat Sachsen</em>
                             	</p>
                             	<p>Städtisches Klinikum St. Georg/Robert Koch Klinik in Leipzig <br/>
