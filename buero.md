@@ -73,7 +73,7 @@ permalink: /buero/
 									<strong itemprop="name">Numrich Albrecht Klumpp</strong><br/>
 									Gesellschaft von Architekten mbH<br/><br/>
 									<address itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
-										<span itemprop="streetAddress">Kohlfurter Straße 41-43</span><br/> 
+										<span itemprop="streetAddress">Kohlfurter Straße 41&ndash;43</span><br/> 
 										<span itemprop="postalCode">10999</span> <span itemprop="addressLocality">Berlin</span></address><br/><br/>
 										<a href="mailto:info@nak-architekten.de">info@nak-architekten.de</a><br/>
 										<a href="tel:++493061676920">+49 (0)30 616 76 92-0</a>
@@ -107,7 +107,7 @@ permalink: /buero/
 														</p>
                                                         <a href="#" onclick="$('#carousel-partner').carousel(1); $('#carousel-partner').carousel('pause'); return false;">&gt; Arthur Numrich</a>
                                                         <a href="#" onclick="$('#carousel-partner').carousel(2); $('#carousel-partner').carousel('pause');return false;">&gt; Grant Kelly</a>
-                                                        <a href="#" onclick="$('#carousel-partner').carousel(3); $('#carousel-partner').carousel('pause');return false;">&gt; Tiemo Klumpp</a>
+                                                        <a href="#" onclick="$('#carousel-partner').carousel(3); $('#carousel-partner').carousel('pause');return false;">&gt; Timo Klumpp</a>
 													</div>
 												</div>
 											</div>
@@ -173,7 +173,7 @@ permalink: /buero/
 												</div>
 												<div class="col-xs-12 col-md-6 col-lg-5 col-with-padding right">
 														<p>
-															<strong class="justify-to-img">Tiemo Klumpp</strong>
+															<strong class="justify-to-img">Timo Klumpp</strong>
 															&nbsp; <span>Dipl.-Ing. (FH) Arch.</span>
 														</p>
 				                                    <dl>
@@ -316,7 +316,7 @@ permalink: /buero/
 									Gesellschaft von Architekten mbH
 								</p>
 								<p>
-									Kohlfurter Straße 41-43<br/>
+									Kohlfurter Straße 41&ndash;43<br/>
 									10999 Berlin 
 								</p>
 								<p>
