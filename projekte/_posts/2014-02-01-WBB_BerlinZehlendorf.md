@@ -10,7 +10,7 @@ shorttitle: Sozialtherapeutischen Werkstätten Berlin
 permalink: /projekte/WBB_BerlinZehlendorf/
 tags: 
 - Wohnen + Arbeiten
-homepage: /projekte/WBB_BerlinZehlendorf/WBB_Titel.jpg
+homepage: /projekte/WBB_BerlinZehlendorf/00_Titel.jpg
 images:
 - /projekte/WBB_BerlinZehlendorf/01.jpg
 - /projekte/WBB_BerlinZehlendorf/02.jpg
@@ -32,7 +32,6 @@ Ansprechpartner	|	Werkgemeinschaft für Berlin-Brandenburg gGmbH // Herr Sellier
 BGF				|	1.850 m²
 Bausumme		|	KGR 200-700, 3.100.000 € 
 Fertigstellung	|	Februar 2014
-Projektleiter	|	Arthur Numrich
-Mitarbeiter		|	Karin Willke
-Wettbewerb 		|	Matthias Gall 
+Projektteam	|	Arthur Numrich, Karin Willke
+Entwurfsteam 		|	Arthur Numrich, Matthias Gall 
 Projektfotos	|	[_&raquo; Nina Straßgütl_](http://www.ninastrg.de) 
