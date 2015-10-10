@@ -6,7 +6,7 @@ categories:
 date: 2014-02-01
 published: true
 title: Neubau und Erweiterung der Sozialtherapeutischen Werkstätten Berlin Zehlendorf
-shorttitle: Sozialtherapeutischen Werkstätten Berlin
+shorttitle: Sozialtherapeutische Werkstätten Berlin
 permalink: /projekte/WBB_BerlinZehlendorf/
 tags: 
 - Wohnen + Arbeiten
