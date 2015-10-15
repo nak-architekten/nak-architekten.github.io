@@ -69,7 +69,7 @@ Alle Filterkategorien die nicht in der Reihenfolge definiert sind, werden darunt
 {% for post in site.categories.projekt %}
 
 <div class="project-tile {% for tag in post.tags %}{{ tag | slugify }} {% endfor %}col-xs-12 col-sm-6 col-md-4 col-lg-3">
-	<a href="{{ post.url | prepend: site.baseurl }}" data-image="{% for image in post.images limit:1 %}{{ image | prepend: site.url }}{% endfor %}">
+	<a href="{{ post.url | prepend: site.baseurl }}" data-image="{% if post.projectpage %}{{ post.projectpage | prepend: site.url }}{% else %}{% for image in post.images limit:1 %}{{ image | prepend: site.url }}{% endfor %}{% endif %}">
 		<div class="inner-wrap">
 			<h3>{{ post.shorttitle }}</h3>
 		</div>
