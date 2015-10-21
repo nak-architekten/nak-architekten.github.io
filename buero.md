@@ -106,8 +106,8 @@ permalink: /buero/
 															Das Architektur- und Generalplanungsbüro wurde 1981 von Arthur Numrich und Werner Albrecht gegründet. Seit 2013 wird es geleitet von:
 														</p>
                                                         <a href="#" onclick="$('#carousel-partner').carousel(1); $('#carousel-partner').carousel('pause'); return false;">&gt; Arthur Numrich</a>
-                                                        <a href="#" onclick="$('#carousel-partner').carousel(2); $('#carousel-partner').carousel('pause');return false;">&gt; Grant Kelly</a>
-                                                        <a href="#" onclick="$('#carousel-partner').carousel(3); $('#carousel-partner').carousel('pause');return false;">&gt; Timo Klumpp</a>
+                                                        <a href="#" onclick="$('#carousel-partner').carousel(2); $('#carousel-partner').carousel('pause');return false;">&gt; Timo Klumpp</a>
+                                                        <a href="#" onclick="$('#carousel-partner').carousel(3); $('#carousel-partner').carousel('pause');return false;">&gt; Grant Kelly</a>
 													</div>
 												</div>
 											</div>
@@ -145,6 +145,30 @@ permalink: /buero/
 										<div class="container-fluid">
 											<div class="row">
 												<div class="col-xs-12 col-md-6 col-lg-5 col-no-padding">
+													<img class="img-responsive" src="{% if site.url contains 'localhost' %}{% else %}http://res.cloudinary.com/{{site.cloudinaryaccount}}/image/fetch/w_600,h_400,c_fill,q_88,f_auto,fl_progressive,fl_force_strip/{% endif %}{{site.url}}/buero/partner/03_TiemoKlumpp.jpg" />
+												</div>
+												<div class="col-xs-12 col-md-6 col-lg-5 col-with-padding right">
+														<p>
+															<strong class="justify-to-img">Timo Klumpp</strong>
+															&nbsp; <span>Dipl.-Ing. (FH) Arch.</span>
+														</p>
+				                                    <dl>
+				                                        <dt>1969</dt>       <dd>geboren in Waldkirch</dd>
+				                                        <dt>1995</dt>       <dd>Dipl.-Ing. FH Augsburg (Fachrichtung Architektur)</dd>
+				                                        <dt>1995</dt>       <dd>Mitarbeit im Büro Schweger + Partner in Hamburg</dd>
+				                                        <dt>1996</dt>       <dd>Mitarbeit im Büro Karl Klumpp</dd>
+				                                        <dt>1997</dt>       <dd>Mitarbeit im Büro Numrich + Albrecht</dd>
+				                                        <dt>seit 2000</dt>  <dd>Partner in Numrich Albrecht Klumpp Gesellschaft von Architekten mbH</dd>
+				                                    </dl>
+												</div>
+											</div>
+										</div>
+                                    </div>
+
+                                    <div class="item">
+										<div class="container-fluid">
+											<div class="row">
+												<div class="col-xs-12 col-md-6 col-lg-5 col-no-padding">
 													<img class="img-responsive" src="{% if site.url contains 'localhost' %}{% else %}http://res.cloudinary.com/{{site.cloudinaryaccount}}/image/fetch/w_600,h_400,c_fill,q_88,f_auto,fl_progressive,fl_force_strip/{% endif %}{{site.url}}/buero/partner/04_GarntKelly.jpg" />
 												</div>
 												<div class="col-xs-12 col-md-6 col-lg-5 col-with-padding right">
@@ -165,29 +189,6 @@ permalink: /buero/
 										</div>
                                     </div>
 
-                                    <div class="item">
-										<div class="container-fluid">
-											<div class="row">
-												<div class="col-xs-12 col-md-6 col-lg-5 col-no-padding">
-													<img class="img-responsive" src="{% if site.url contains 'localhost' %}{% else %}http://res.cloudinary.com/{{site.cloudinaryaccount}}/image/fetch/w_600,h_400,c_fill,q_88,f_auto,fl_progressive,fl_force_strip/{% endif %}{{site.url}}/buero/partner/03_TiemoKlumpp.jpg" />
-												</div>
-												<div class="col-xs-12 col-md-6 col-lg-5 col-with-padding right">
-														<p>
-															<strong class="justify-to-img">Timo Klumpp</strong>
-															&nbsp; <span>Dipl.-Ing. (FH) Arch.</span>
-														</p>
-				                                    <dl>
-				                                        <dt>1969</dt>       <dd>geboren in Waldkirch</dd>
-				                                        <dt>1995</dt>       <dd>Dipl.-Ing. FH Augsburg (Fachrichtung Architektur)</dd>
-				                                        <dt>1995</dt>       <dd>Mitarbeit im Büro Schweger + Partner in Hamburg</dd>
-				                                        <dt>1996</dt>       <dd>Mitarbeit im Büro Karl Klumpp</dd>
-				                                        <dt>1997</dt>       <dd>Mitarbeit im Büro Numrich + Albrecht</dd>
-				                                        <dt>seit 2000</dt>  <dd>Partner in Numrich Albrecht Klumpp Gesellschaft von Architekten mbH</dd>
-				                                    </dl>
-												</div>
-											</div>
-										</div>
-                                    </div>
 
                                 </div>
                                 <a class="left carousel-control" href="#carousel-partner" role="button" data-slide="prev"> <span class="sr-only">Zurück</span></a> 
