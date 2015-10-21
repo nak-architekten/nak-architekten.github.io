@@ -2,7 +2,6 @@
 layout: post
 categories:
 - projekt
-- startseite
 date: 2015-07-01
 published: true
 title: Wettbewerb Neubau Clay Schule Berlin Neukölln
