@@ -8,6 +8,7 @@ title: Mensa für die Wilhelm-von-Humboldt-Schule
 shorttitle: Mensa Humboldtschule
 news: HEUTE mit Luftballons
 permalink: /projekte/HUM_Mensa_Berlin/
+projectpage: /projekte/HUM_Mensa_Berlin/03.jpg
 tags: 
 - Schulen + Kitas
 images:
