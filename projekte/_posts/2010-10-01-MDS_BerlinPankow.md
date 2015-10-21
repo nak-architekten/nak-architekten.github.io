@@ -11,7 +11,7 @@ permalink: /projekte/MDS_BerlinPankow/
 tags: 
 - Schulen + Kitas
 homepage: /projekte/MDS_BerlinPankow/04.jpg
-news: Dies ist ein sehr sehr sehr sehr sehr sehr langer und komplett unnützer Newskommentar. Wir wollen einfach mal schauen wie weit man gehen kann. Und er ist immer noch nicht zu Ende. Aber jetzt? 
+news: Dies ist ein sehr sehr sehr sehr sehr sehr langer und komplett unnützer Newskommentar. Wir wollen einfach mal schauen wie weit man gehen kann. Und er ist immer noch nicht zu Ende. Umbau einer bestehenden KFZ-Halle in eine Mensa mit Ganztagesbetrieb für die Max-Delbrück-Oberschule in Berlin-Pankow. Umbau einer bestehenden KFZ-Halle in eine Mensa mit Ganztagesbetrieb für die Max-Delbrück-Oberschule in Berlin-Pankow.Umbau einer bestehenden KFZ-Halle in eine Mensa mit Ganztagesbetrieb für die Max-Delbrück-Oberschule in Berlin-Pankow.Umbau einer bestehenden KFZ-Halle in eine Mensa mit Ganztagesbetrieb für die Max-Delbrück-Oberschule in Berlin-Pankow.Aber jetzt is das Ende erreicht? 
 images:
 - /projekte/MDS_BerlinPankow/01.jpg
 - /projekte/MDS_BerlinPankow/02.jpg
