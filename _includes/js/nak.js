@@ -88,6 +88,7 @@ function init() {
 
 	/* detect ancor links for navigation project filters and add a filter function trigger on click */
 	$("#filterpanel a").click(function() {
+		$(this).blur();
 		filter(this.href.split('#')[1]);
 		$('.xs #filterpanel').fadeOut(200);
 	});	

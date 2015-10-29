@@ -38,26 +38,26 @@ permalink: /buero/
                             </div>
 
                             <div class="col-xs-12 col-md-6 col-lg-5 col-no-padding">
-                                <div id="carousel-kontakt" class="carousel slide" data-ride="carousel" data-interval="3000" data-pause="hover">
+                                <div id="carousel-kontakt" class="carousel slide" data-ride="carousel" data-interval="2000" data-pause="hover">
                                     <!-- Indicators -->
 
                                     <ol class="carousel-indicators"></ol>
 
                                     <div class="carousel-inner" role="listbox">
                                         <div class="item loadfast active">
-                                            <img class="img-responsive" src="{% if site.url contains 'localhost' %}{% else %}http://res.cloudinary.com/{{site.cloudinaryaccount}}/image/fetch/w_600,h_400,c_fill,q_88,f_auto,fl_progressive,fl_force_strip/{% endif %}{{site.url}}/buero/kontakt/1-IMG_6031-BEA.jpg">
+                                            <img class="img-responsive" src="{% if site.mode contains 'dev' %}{% else %}http://res.cloudinary.com/{{site.cloudinaryaccount}}/image/fetch/w_600,h_400,c_fill,q_88,f_auto,fl_progressive,fl_force_strip/{% endif %}{{site.url}}/buero/kontakt/1-IMG_6031-BEA.jpg">
                                         </div>
                                         <div class="item loadfast">
-                                            <img class="img-responsive" src="{% if site.url contains 'localhost' %}{% else %}http://res.cloudinary.com/{{site.cloudinaryaccount}}/image/fetch/w_600,h_400,c_fill,q_88,f_auto,fl_progressive,fl_force_strip/{% endif %}{{site.url}}/buero/kontakt/2-IMG_6036-BEA.jpg">
+                                            <img class="img-responsive" src="{% if site.mode contains 'dev' %}{% else %}http://res.cloudinary.com/{{site.cloudinaryaccount}}/image/fetch/w_600,h_400,c_fill,q_88,f_auto,fl_progressive,fl_force_strip/{% endif %}{{site.url}}/buero/kontakt/2-IMG_6036-BEA.jpg">
                                         </div>
                                         <div class="item">
-                                            <img class="img-responsive" src="{% if site.url contains 'localhost' %}{% else %}http://res.cloudinary.com/{{site.cloudinaryaccount}}/image/fetch/w_600,h_400,c_fill,q_88,f_auto,fl_progressive,fl_force_strip/{% endif %}{{site.url}}/buero/kontakt/3-IMG_6027-BEA.jpg">
+                                            <img class="img-responsive" src="{% if site.mode contains 'dev' %}{% else %}http://res.cloudinary.com/{{site.cloudinaryaccount}}/image/fetch/w_600,h_400,c_fill,q_88,f_auto,fl_progressive,fl_force_strip/{% endif %}{{site.url}}/buero/kontakt/3-IMG_6027-BEA.jpg">
                                         </div>
                                         <div class="item">
-                                            <img class="img-responsive" src="{% if site.url contains 'localhost' %}{% else %}http://res.cloudinary.com/{{site.cloudinaryaccount}}/image/fetch/w_600,h_400,c_fill,q_88,f_auto,fl_progressive,fl_force_strip/{% endif %}{{site.url}}/buero/kontakt/4-IMG_6033-BEA.jpg">
+                                            <img class="img-responsive" src="{% if site.mode contains 'dev' %}{% else %}http://res.cloudinary.com/{{site.cloudinaryaccount}}/image/fetch/w_600,h_400,c_fill,q_88,f_auto,fl_progressive,fl_force_strip/{% endif %}{{site.url}}/buero/kontakt/4-IMG_6033-BEA.jpg">
                                         </div>
                                         <div class="item">
-                                            <img class="img-responsive" src="{% if site.url contains 'localhost' %}{% else %}http://res.cloudinary.com/{{site.cloudinaryaccount}}/image/fetch/w_600,h_400,c_fill,q_88,f_auto,fl_progressive,fl_force_strip/{% endif %}{{site.url}}/buero/kontakt/5-IMG_6028-BEA.jpg">
+                                            <img class="img-responsive" src="{% if site.mode contains 'dev' %}{% else %}http://res.cloudinary.com/{{site.cloudinaryaccount}}/image/fetch/w_600,h_400,c_fill,q_88,f_auto,fl_progressive,fl_force_strip/{% endif %}{{site.url}}/buero/kontakt/5-IMG_6028-BEA.jpg">
                                         </div>
                                     </div>
                                     <!-- Controls -->
@@ -97,11 +97,11 @@ permalink: /buero/
 										<div class="container-fluid">
 											<div class="row">
 												<div class="col-xs-12 col-md-6 col-lg-5 col-no-padding">
-													<img class="img-responsive" src="{% if site.url contains 'localhost' %}{% else %}http://res.cloudinary.com/{{site.cloudinaryaccount}}/image/fetch/w_600,h_400,c_fill,q_88,f_auto,fl_progressive,fl_force_strip/{% endif %}{{site.url}}/buero/partner/01_Partner.jpg" />
+													<img class="img-responsive" src="{% if site.mode contains 'dev' %}{% else %}http://res.cloudinary.com/{{site.cloudinaryaccount}}/image/fetch/w_600,h_400,c_fill,q_88,f_auto,fl_progressive,fl_force_strip/{% endif %}{{site.url}}/buero/partner/01_Partner.jpg" />
 												</div>
 												<div class="col-xs-12 col-md-6 col-lg-5 col-with-padding right">
 													<div>
-														<h3 class="hidden-xs"><a href="#" onclick="$('#carousel-partner').carousel(0); $('#carousel-partner').carousel('pause'); return false;">Partner</a></h3>
+														<h3 class="hidden-xs">Partner</h3>
 														<p>
 															Das Architektur- und Generalplanungsbüro wurde 1981 von Arthur Numrich und Werner Albrecht gegründet. Seit 2013 wird es geleitet von:
 														</p>
@@ -118,7 +118,7 @@ permalink: /buero/
 										<div class="container-fluid">
 											<div class="row">
 												<div class="col-xs-12 col-md-6 col-lg-5 col-no-padding">
-													<img class="img-responsive" src="{% if site.url contains 'localhost' %}{% else %}http://res.cloudinary.com/{{site.cloudinaryaccount}}/image/fetch/w_600,h_400,c_fill,q_88,f_auto,fl_progressive,fl_force_strip/{% endif %}{{site.url}}/buero/partner/02_ArthurNumrich.jpg" />
+													<img class="img-responsive" src="{% if site.mode contains 'dev' %}{% else %}http://res.cloudinary.com/{{site.cloudinaryaccount}}/image/fetch/w_600,h_400,c_fill,q_88,f_auto,fl_progressive,fl_force_strip/{% endif %}{{site.url}}/buero/partner/02_ArthurNumrich.jpg" />
 												</div>
 												<div class="col-xs-12 col-md-6 col-lg-5 col-with-padding right">
 														<p>
@@ -145,7 +145,7 @@ permalink: /buero/
 										<div class="container-fluid">
 											<div class="row">
 												<div class="col-xs-12 col-md-6 col-lg-5 col-no-padding">
-													<img class="img-responsive" src="{% if site.url contains 'localhost' %}{% else %}http://res.cloudinary.com/{{site.cloudinaryaccount}}/image/fetch/w_600,h_400,c_fill,q_88,f_auto,fl_progressive,fl_force_strip/{% endif %}{{site.url}}/buero/partner/03_TiemoKlumpp.jpg" />
+													<img class="img-responsive" src="{% if site.mode contains 'dev' %}{% else %}http://res.cloudinary.com/{{site.cloudinaryaccount}}/image/fetch/w_600,h_400,c_fill,q_88,f_auto,fl_progressive,fl_force_strip/{% endif %}{{site.url}}/buero/partner/03_TiemoKlumpp.jpg" />
 												</div>
 												<div class="col-xs-12 col-md-6 col-lg-5 col-with-padding right">
 														<p>
@@ -169,7 +169,7 @@ permalink: /buero/
 										<div class="container-fluid">
 											<div class="row">
 												<div class="col-xs-12 col-md-6 col-lg-5 col-no-padding">
-													<img class="img-responsive" src="{% if site.url contains 'localhost' %}{% else %}http://res.cloudinary.com/{{site.cloudinaryaccount}}/image/fetch/w_600,h_400,c_fill,q_88,f_auto,fl_progressive,fl_force_strip/{% endif %}{{site.url}}/buero/partner/04_GarntKelly.jpg" />
+													<img class="img-responsive" src="{% if site.mode contains 'dev' %}{% else %}http://res.cloudinary.com/{{site.cloudinaryaccount}}/image/fetch/w_600,h_400,c_fill,q_88,f_auto,fl_progressive,fl_force_strip/{% endif %}{{site.url}}/buero/partner/04_GarntKelly.jpg" />
 												</div>
 												<div class="col-xs-12 col-md-6 col-lg-5 col-with-padding right">
 														<p>
@@ -199,12 +199,12 @@ permalink: /buero/
 
 
 
-                        <div class="row">
+                        <div id="Team" class="row">
                             <div class="col-xs-12">
                                 <h3 class="visible-xs-inline-block">Team + Aktivitäten</h3>
                             </div>
 
-                            <div id="carousel-team" class="col-xs-12 col-no-padding carousel slide" data-ride="carousel">
+                            <div id="carousel-team" class="col-xs-12 col-no-padding carousel slide" data-ride="">
 
                                 <div class="carousel-inner" role="listbox">
 
@@ -216,7 +216,7 @@ permalink: /buero/
 										<div class="container-fluid">
 											<div class="row">
 												<div class="col-xs-12 col-md-6 col-lg-5 col-no-padding">
-													<img class="img-responsive" src="{% if site.url contains 'localhost' %}{% else %}http://res.cloudinary.com/{{site.cloudinaryaccount}}/image/fetch/w_600,h_400,c_fill,q_88,f_auto,fl_progressive,fl_force_strip/{% endif %}{{ post.image | prepend: site.url }}"/>
+													<img class="img-responsive" src="{% if site.mode contains 'dev' %}{% else %}http://res.cloudinary.com/{{site.cloudinaryaccount}}/image/fetch/w_600,h_400,c_fill,q_88,f_auto,fl_progressive,fl_force_strip/{% endif %}{{ post.image | prepend: site.url }}"/>
 												</div>
 												<div class="col-xs-12 col-md-6 col-lg-5 col-with-padding right">
 													<div>
