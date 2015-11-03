@@ -342,17 +342,42 @@ a.logo,a.logo:hover {
     max-height: 19px;
     max-width: 65%;
     display: inline-block;
-        text-overflow: ellipsis;
-}
-
-.xs #promotion-slides .carousel-caption a span.text {
-    max-width: 91%;
+    text-overflow: ellipsis;
     overflow: hidden;
     display: inline-block;
     height: 19px;
     line-height: 15px;
     margin-top: -4px;
+    padding-top: 4px;
+    margin-bottom: -3px;
+}
+
+.xs #promotion-slides .carousel-caption a span.text {
+    max-width: 91%;
+    display: inline-block;
+    height: 19px;
+    line-height: 15px;
+    margin-top: -4px;
     padding-top: 6px;
+}
+
+
+@media screen and (min-width: 550px) {
+	#promotion-slides .carousel-caption a {
+		width: 70%;
+	}
+	#promotion-slides .carousel-caption a span.text{
+		max-width: 90%;
+	}
+}
+
+@media screen and (min-width: 900px) {
+	#promotion-slides .carousel-caption a {
+		width: 75%;
+	}
+	#promotion-slides .carousel-caption a span.text{
+		max-width: 90%;
+	}
 }
 
 #content {
