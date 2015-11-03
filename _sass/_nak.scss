@@ -1,5 +1,12 @@
-html,body {
+html, body {
 	height: 100%;
+}
+
+html.projects,html.projects body {
+	height: auto;
+	min-height: 100%;
+	overflow-x: hidden; 
+	overflow-y: scroll;
 }
 
 body {
@@ -347,20 +354,6 @@ a.logo,a.logo:hover {
     margin-top: -4px;
     padding-top: 6px;
 }
-
-#carousel-team .carousel-caption {
-	display:block;
-	background-color:#fff;
-	color:#000;
-	text-shadow:none;
-	font-size:small;
-	left:15px;
-	bottom:10px;
-	right: auto;
-  text-align: left;
-	  padding: 3px 10px 1px 10px;
-}
-
 
 #content {
 	margin-top: 10px;
@@ -771,22 +764,23 @@ address{
 	background-color: #040606;
 }
 
-
-#carousel-team .next {
-	   position: absolute;
-    bottom: 10px;
-	left: 0;
-	right: 0;
+#carousel-teamakt .next {
+	position: absolute;
+    bottom: 7px;
 }
 
-#carousel-team .next .icon {
-	margin-left: -4px;
-}
 
 @media screen and (max-width: 899px) {
 
-	#carousel-team .next .row .right {
-		text-align: right;
+	#carousel-teamakt .next {
+		left: 25px;
+	}
+}
+
+@media screen and (max-width: 549px) {
+
+	#carousel-teamakt .next {
+		left: 40px;
 	}
 }
 

@@ -204,7 +204,7 @@ permalink: /buero/
                                 <h3 class="visible-xs-inline-block">Team + Aktivitäten</h3>
                             </div>
 
-                            <div id="carousel-team" class="col-xs-12 col-no-padding carousel slide" data-ride="">
+                            <div id="carousel-teamakt" class="col-xs-12 col-no-padding carousel slide" data-ride="">
 
                                 <div class="carousel-inner" role="listbox">
 
@@ -212,11 +212,14 @@ permalink: /buero/
 {% assign counter = 0 %}
 {% for post in site.categories.team %}
 
-                                    <div class="item{% if counter == 0 %} active{% endif %}{% if counter == 0 %} loadfast{% endif %}{% if counter == 1 %} loadfast{% endif %}">
+                                    <div class="item{% if counter == 0 %} active{% endif %}{% if counter == 0 %} {% endif %}{% if counter == 1 %} {% endif %}">
 										<div class="container-fluid">
+
 											<div class="row">
 												<div class="col-xs-12 col-md-6 col-lg-5 col-no-padding">
+
 													<img class="img-responsive" src="{% if site.mode contains 'dev' %}{% else %}http://res.cloudinary.com/{{site.cloudinaryaccount}}/image/fetch/w_600,h_400,c_fill,q_88,f_auto,fl_progressive,fl_force_strip/{% endif %}{{ post.image | prepend: site.url }}"/>
+
 												</div>
 												<div class="col-xs-12 col-md-6 col-lg-5 col-with-padding right">
 													<div>
@@ -226,16 +229,17 @@ permalink: /buero/
 															</p>
 													</div>
 												</div>
-												<div class="next">
+												<div>
 													<div class="container-fluid">
 														<div class="row">
 															<div class="col-xs-12 col-md-6 col-lg-5 col-md-offset-6 col-lg-offset-5 col-with-padding right">
-																<span class="icon icon-arr-e">&nbsp;</span>
+																<span class="next"><span class="icon icon-arr-e">&nbsp;</span></span>
 															</div>
 														</div>
 													</div>
 												</div>
 											</div>
+
 										</div>
                                     </div>
 
@@ -243,7 +247,7 @@ permalink: /buero/
 {% endfor %}
 
                                 </div><!-- Controls -->
-                                <a class="left carousel-control" href="#carousel-team" role="button" data-slide="prev"> <span class="sr-only">Previous</span></a> <a class="right carousel-control" href="#carousel-team" role="button" data-slide="next"> <span class="sr-only">Next</span></a>
+                                <a class="left carousel-control" href="#carousel-teamakt" role="button" data-slide="prev"> <span class="sr-only">Previous</span></a> <a class="right carousel-control" href="#carousel-teamakt" role="button" data-slide="next"> <span class="sr-only">Next</span></a>
                             </div>
                         </div>
                         
@@ -330,6 +334,10 @@ permalink: /buero/
 									Vertretungsberechtigte: Arthur Numrich · Timo Klumpp · Grant Kelly<br/>
 									Registergericht: Amtsgericht Berlin-Charlottenburg<br/>
 									Registernummer: HRB 11 23 26 B
+								</p>
+								<p>
+									Design: Marianne Kampel und <a href="https://j2h.com/">Jan-Henrik Hempel</a><br/>
+									Realisierung: <a href="https://j2h.com/">Jan-Henrik Hempel</a>
 								</p>
 
 

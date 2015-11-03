@@ -64,13 +64,25 @@ function init() {
 
 	/* smooth scolling to the details */
 	$(".project [href='#project-detail-content']").click(function() {
-		if($('html').hasClass('firefox')){
-			$('body,html').stop(true,true).animate({scrollTop: $('#project-detail-content').offset().top}, 800);
+		/* if details are shown (=affix), then close */
+		if($('#promotion-slides').hasClass('affix')){
+			if($('html').hasClass('firefox')){
+				$('body,html').stop(true,true).animate({scrollTop: stop}, 800);
+			}else{
+				$('body').animate({
+					scrollTop: 0
+		        }, 800);
+		    }
+		/* else, then show */
 		}else{
-			$('body').animate({
-				scrollTop: $('#project-detail-content').offset().top
-	        }, 800);
-	    }
+			if($('html').hasClass('firefox')){
+				$('body,html').stop(true,true).animate({scrollTop: $('#project-detail-content').offset().top}, 800);
+			}else{
+				$('body').animate({
+					scrollTop: $('#project-detail-content').offset().top
+	        	}, 800);
+		    }
+		}
         return false;
 	});
 
