@@ -25,33 +25,8 @@ permalink: /projekte/
 
 								<div id="filterpanel">
 								  <a class="act all" href="/projekte/#Alle">Alle Projekte</a>
-{% comment %}
-Die Reihenfolge der Filter repräsentiert eine inhaltliche Gewichtung. Somit ist diese fest vorgegeben.
-{% endcomment %}
-{% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
-{% assign tag_words = site_tags | split:',' | sort %}
-{% for tag in tag_words %}
-	{% if tag == "Schulen + Kitas" %}<a href="/projekte/#{{ tag | slugify }}">{{ tag }}</a>{% endif %}
-{% endfor %}
-{% for tag in tag_words %}
-	{% if tag == "Sport" %}<a href="/projekte/#{{ tag | slugify }}">{{ tag }}</a>{% endif %}
-{% endfor %}
-{% for tag in tag_words %}
-	{% if tag == "Wohnen + Arbeiten" %}<a href="/projekte/#{{ tag | slugify }}">{{ tag }}</a>{% endif %}
-{% endfor %}
-{% for tag in tag_words %}
-	{% if tag == "Institute + Gesundheit" %}<a href="/projekte/#{{ tag | slugify }}">{{ tag }}</a>{% endif %}
-{% endfor %}
-{% for tag in tag_words %}
-	{% if tag == "Wettbewerbe + Studien" %}<a href="/projekte/#{{ tag | slugify }}">{{ tag }}</a>{% endif %}
-{% endfor %}
-{% comment %}
-Alle Filterkategorien die nicht in der Reihenfolge definiert sind, werden darunter und in alphabetischer Reihenfolge angezeigt.
-{% endcomment %}
-{% for tag in tag_words %}
-	{% if tag != "Schulen + Kitas" and tag != "Sport" and tag != "Wohnen + Arbeiten" and tag != "Institute + Gesundheit" and tag != "Wettbewerbe + Studien" %}
-	<a href="/projekte/#{{ tag | slugify }}">{{ tag }}</a>
-	{% endif %}
+{% for filter in site.data.filters %}
+	<a href="/projekte/#{% assign tagcounter = 0 %}{% for tag in filter.tags %}{% if tagcounter > 0 %}-{% endif %}{{tag | slugify}}{% assign tagcounter = tagcounter | plus: 1 %}{% endfor %}">{{ filter.name }}</a>
 {% endfor %}
 								  <div class="clear"></div>
 								 </div>
@@ -68,7 +43,7 @@ Alle Filterkategorien die nicht in der Reihenfolge definiert sind, werden darunt
 
 {% for post in site.categories.projekt %}
 
-<div class="project-tile {% for tag in post.tags %}{{ tag | slugify }} {% endfor %}col-xs-12 col-sm-6 col-md-4 col-lg-3">
+<div class="project-tile {% for tag in post.tags %}{% for filter in site.data.filters %}{% for filtertag in filter.tags %}{% if filtertag == tag %}{% assign tagcounter = 0 %}{% for filtertag2 in filter.tags %}{% if tagcounter > 0 %}-{% endif %}{{filtertag2 | slugify}}{% assign tagcounter = tagcounter | plus: 1 %}{% endfor %}{% endif %}{% endfor %}{% endfor %} {% endfor %} col-xs-12 col-sm-6 col-md-4 col-lg-3">
 	<a href="{{ post.url | prepend: site.baseurl }}" data-image="{% if post.projectpage %}{{ post.projectpage | prepend: site.url }}{% else %}{% for image in post.images limit:1 %}{{ image | prepend: site.url }}{% endfor %}{% endif %}">
 		<div class="inner-wrap">
 			<h3>{{ post.shorttitle }}</h3>

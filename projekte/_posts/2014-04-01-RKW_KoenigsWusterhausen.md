@@ -8,7 +8,7 @@ title: Rathaus Königs Wusterhausen
 shorttitle: Rathaus Königs Wusterhausen
 permalink: /projekte/RKW_KoenigsWusterhausen/
 tags: 
-- Wohnen + Arbeiten
+- Arbeiten
 images:
 - /projekte/RKW_KoenigsWusterhausen/01.jpg
 - /projekte/RKW_KoenigsWusterhausen/02.jpg

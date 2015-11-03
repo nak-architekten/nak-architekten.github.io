@@ -8,7 +8,7 @@ title: Mensa für das Bildungszentrum der Finanzverwaltung des Landes Brandenbur
 shorttitle: Mensa für das Bildungszentrum der Finanzverwaltung des Landes Brandenburg
 permalink: /projekte/AFZM_KoenigsWusterhausen/
 tags: 
-- Wohnen + Arbeiten
+- Wohnen
 images:
 - /projekte/AFZM_KoenigsWusterhausen/01.jpg
 - /projekte/AFZM_KoenigsWusterhausen/02.jpg

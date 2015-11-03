@@ -9,7 +9,7 @@ shorttitle: DAI Berlin
 news: DAI Berlin HEUTE mit Luftballons
 permalink: /projekte/DAI_Berlin/
 tags: 
-- Institute + Gesundheit
+- Institut
 images:
 - /projekte/DAI_Berlin/01.jpg
 - /projekte/DAI_Berlin/02.jpg

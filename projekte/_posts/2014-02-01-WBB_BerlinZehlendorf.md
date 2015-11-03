@@ -9,7 +9,7 @@ title: Neubau und Erweiterung der Sozialtherapeutischen Werkstätten Berlin Zehl
 shorttitle: Sozialtherapeutische Werkstätten Berlin
 permalink: /projekte/WBB_BerlinZehlendorf/
 tags: 
-- Wohnen + Arbeiten
+- Arbeiten
 homepage: /projekte/WBB_BerlinZehlendorf/00_Titel.jpg
 images:
 - /projekte/WBB_BerlinZehlendorf/01.jpg

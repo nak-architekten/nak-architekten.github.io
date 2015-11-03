@@ -1,0 +1,23 @@
+- name: Schulen + Kitas
+  tags:
+    - Schule
+    - Kita
+
+- name: Sport
+  tags:
+    - Sport
+
+- name: Wohnen + Arbeiten
+  tags:
+    - Wohnen
+    - Arbeiten
+
+- name: Institute + Gesundheit
+  tags:
+    - Institut
+    - Gesundheit
+
+- name: Wettbewerbe + Studien
+  tags:
+    - Wettbewerb
+    - Studien

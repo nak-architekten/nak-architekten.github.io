@@ -9,7 +9,7 @@ title: Neu- und Umbau der Förderschule Steinwald-Schule Berlin
 shorttitle: Steinwald-Schule Berlin
 permalink: /projekte/SWS_BerlinMarienfelde/
 tags: 
-- Schulen + Kitas
+- Schule
 homepage: /projekte/SWS_BerlinMarienfelde/00_Titel.jpg
 images:
 - /projekte/SWS_BerlinMarienfelde/01.jpg

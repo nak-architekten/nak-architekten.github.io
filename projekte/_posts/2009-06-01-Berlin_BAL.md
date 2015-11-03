@@ -8,7 +8,7 @@ title: Neubau eines Atelierhauses für Stephan Balkenhol
 shorttitle: Neubau eines Atelierhauses für Stephan Balkenhol
 permalink: /projekte/Berlin_BAL/
 tags: 
-- Wohnen + Arbeiten
+- Arbeiten
 images:
 - /projekte/Berlin_BAL/01.jpg
 - /projekte/Berlin_BAL/02.jpg

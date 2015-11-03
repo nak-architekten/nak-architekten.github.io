@@ -10,7 +10,7 @@ news: HEUTE mit Luftballons
 permalink: /projekte/HUM_Mensa_Berlin/
 projectpage: /projekte/HUM_Mensa_Berlin/03.jpg
 tags: 
-- Schulen + Kitas
+- Schule
 images:
 - /projekte/HUM_Mensa_Berlin/01.jpg
 - /projekte/HUM_Mensa_Berlin/02.jpg
