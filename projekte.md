@@ -24,9 +24,9 @@ permalink: /projekte/
 					    		<a href="/buero/" class="no2 btn btn-default">Büro</a>
 
 								<div id="filterpanel">
-								  <a class="act all" href="/projekte/#Alle">Alle Projekte</a>
+								  <a class="act alle" href="/projekte/#alle">Alle Projekte</a>
 {% for filter in site.data.filters %}
-	<a href="/projekte/#{% assign tagcounter = 0 %}{% for tag in filter.tags %}{% if tagcounter > 0 %}-{% endif %}{{tag | slugify}}{% assign tagcounter = tagcounter | plus: 1 %}{% endfor %}">{{ filter.name }}</a>
+	<a class="{% assign tagcounter = 0 %}{% for tag in filter.tags %}{% if tagcounter > 0 %}-{% endif %}{{tag | slugify}}{% assign tagcounter = tagcounter | plus: 1 %}{% endfor %}" href="/projekte/#{% assign tagcounter = 0 %}{% for tag in filter.tags %}{% if tagcounter > 0 %}-{% endif %}{{tag | slugify}}{% assign tagcounter = tagcounter | plus: 1 %}{% endfor %}">{{ filter.name }}</a>
 {% endfor %}
 								  <div class="clear"></div>
 								 </div>
@@ -43,7 +43,7 @@ permalink: /projekte/
 
 {% for post in site.categories.projekt %}
 
-<div class="project-tile {% for tag in post.tags %}{% for filter in site.data.filters %}{% for filtertag in filter.tags %}{% if filtertag == tag %}{% assign tagcounter = 0 %}{% for filtertag2 in filter.tags %}{% if tagcounter > 0 %}-{% endif %}{{filtertag2 | slugify}}{% assign tagcounter = tagcounter | plus: 1 %}{% endfor %}{% endif %}{% endfor %}{% endfor %} {% endfor %} col-xs-12 col-sm-6 col-md-4 col-lg-3">
+<div class="project-tile{% for tag in post.tags %} {{tag | slugify}}{% endfor %} col-xs-12 col-sm-6 col-md-4 col-lg-3">
 	<a href="{{ post.url | prepend: site.baseurl }}" data-image="{% if post.projectpage %}{{ post.projectpage | prepend: site.url }}{% else %}{% for image in post.images limit:1 %}{{ image | prepend: site.url }}{% endfor %}{% endif %}">
 		<div class="inner-wrap">
 			<h3>{{ post.shorttitle }}</h3>

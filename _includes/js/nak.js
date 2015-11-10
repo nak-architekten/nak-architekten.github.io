@@ -105,11 +105,6 @@ function init() {
 		$('.xs #filterpanel').fadeOut(200);
 	});	
 
-	/* detect a hash in the url and filter automatically on load */
-	if(window.location.hash.split('#')[1]){
-		filter(window.location.hash.split('#')[1]);
-	}
-
 }
 
 
@@ -186,34 +181,47 @@ function recalculate() {
 		}
 	});
 
+	$('#project-tiles').isotope({
+	  // set itemSelector so .grid-sizer is not used in layout
+	  itemSelector: '.project-tile',
+	  percentPosition: true,
+	  masonry: {
+	    // use element for option
+	    columnWidth: '.project-tile'
+	  }
+	});
+	
+	/* detect a hash in the url and filter automatically on load */
+	if(window.location.hash.split('#')[1]){
+		// console.log('hash in the url ' + window.location.hash.split('#')[1]);
+		filter(window.location.hash.split('#')[1]);
+	}
+
+
 }
 
 /*
 Funtion to filter project tiles on the project overview page. The filter is based on css classes identifieng the tag to filter and is using the url hash for optimised navigation.
 */
-function filter(tag){
- 
- 	// console.log("filter for:" + tag);
- 	
-	$("#filterpanel a").each(function(n) {
-	    $(this).removeClass("act");
-	});
-	$("#filterpanel a[href*="+tag+"]").addClass("act");
-
-
-	if(tag=="Alle"){
-		$(".project-tile").each(function(n) {
-			// console.log($(this).is(":hidden"));
-			if($(this).is(":hidden")) $(this).fadeIn(800);
-		});		
+function filter(taglist){
+	if(taglist=="alle"){
+		$('#project-tiles').isotope({ filter: '*' });
 	}else{
-		$(".project-tile").each(function(n) {
-		    if($(this).is(":visible") && !$(this).hasClass(tag)) $(this).fadeOut(500);
-		});
-		$(".project-tile."+tag).each(function(n) {
-		    if($(this).is(":hidden")) $(this).fadeIn(800);
-		});		
+		list = taglist.split('-');
+		var filterstr = '';
+		var c = 0;
+		for (key in list) {
+			if(list[key] && list[key] != undefined) {
+		        if (c>0) filterstr += ', ';
+		        filterstr += '.'+list[key];
+    		}
+		    c++;
+		}
+		// console.log("filter for:" + filterstr);
+		$('#project-tiles').isotope({ filter: filterstr});
 	}
+	$("#filterpanel a.act").removeClass('act');
+	$("#filterpanel a."+taglist).addClass('act');
 }
 
 
