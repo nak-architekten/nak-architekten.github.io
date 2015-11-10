@@ -336,7 +336,7 @@ permalink: /buero/
 									Registernummer: HRB 11 23 26 B
 								</p>
 								<p>
-									Design: Marianne Kampel und <a href="https://j2h.com/">Jan-Henrik Hempel</a><br/>
+									Design: <a href="http://www.mariannekampel.com/">Marianne Kampel</a> und <a href="https://j2h.com/">Jan-Henrik Hempel</a><br/>
 									Realisierung: <a href="https://j2h.com/">Jan-Henrik Hempel</a>
 								</p>
 
