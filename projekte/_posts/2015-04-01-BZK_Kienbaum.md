@@ -29,8 +29,8 @@ captions:
 Neubau einer Trainingshalle für die Kunstturner im Bundesleistungszentrum Kienbaum.
 
 Adresse			|	Puschkinstraße 2, 15537 Grünheide (Mark)
-Bauherr			|	Bundesleistungszentrum Kienbaum e.V.
-Ansprechpartner	|	Bundesleistungszentrum Kienbaum e.V., Herr Nowack
+Bauherr			|	Bundes&shy;leistungs&shy;zentrum Kienbaum e.V.
+Ansprechpartner	|	Bundes&shy;leistungs&shy;zentrum Kienbaum e.V., Herr Nowack
 BGF				|	3.620 m²
 Bausumme		|	KGR 200–700, 8.400.000 €
 Fertigstellung	|	April 2015

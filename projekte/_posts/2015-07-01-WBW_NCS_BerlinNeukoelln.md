@@ -35,7 +35,7 @@ Preisgericht	|	8. Juli 2015
 Platzierung		|	3. Preis
 Projektleiter	|	Arthur Numrich
 Projektteam		|	Matthias Gall
-Landschaftsarchitekten | [_&raquo; ST Raum a_](http://www.strauma.com) 
+Landschafts&shy;architekten | [_&raquo; ST Raum a_](http://www.strauma.com) 
 Visualisierung | [_&raquo; Davide Abbonacci_](http://www.abbonacci.com/)
-Technik | [_&raquo; W33 Ingenieurgesellschaft_](http://www.w33-berlin.de/)
+Technik | [_&raquo; W33 Ingenieur&shy;gesellschaft_](http://www.w33-berlin.de/)
 Ingenieure | [_&raquo; ifb - thal + huber_](http://www.ifb-thal-huber.de/)

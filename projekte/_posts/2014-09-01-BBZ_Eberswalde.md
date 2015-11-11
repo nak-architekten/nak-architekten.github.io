@@ -33,7 +33,7 @@ Fertigstellung	|	September 2014
 Projektleiter	|	Arthur Numrich
 Mitarbeiter		|	Ralf Nägele 
 Projektfotos	|	<a href="http://www.ninastrg.de" target= "_blank">// Nina Straßgütl</a>
-Landschaftsarchitekt | Hans Meier
+Landschafts&shy;architekt | Hans Meier
 Statik | Holger Müller
 Haustechnik | *Volker Irgendwas*
 Visualisierung | [\\ _Davide Abbonacci_](http://www.abbonacci.com/)

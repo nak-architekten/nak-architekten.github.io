@@ -27,8 +27,8 @@ captions:
 Neubau und Erweiterung eines Werkstattgebäudes für Menschen mit Behinderungen für die Werkgemeinschaft für Berlin-Brandenburg gGmbH. Das Projekt ist die Realisierung eines 1. Preises in einem Wettbewerb. 
 
 Adresse			|	Teltower Damm 269, 14167 Berlin 
-Bauherr			|	Werkgemeinschaft für Berlin-Brandenburg gGmbH
-Ansprechpartner	|	Werkgemeinschaft für Berlin-Brandenburg gGmbH // Herr Sellier
+Bauherr			|	Werk&shy;gemeinschaft für Berlin-Brandenburg gGmbH
+Ansprechpartner	|	Werk&shy;gemeinschaft für Berlin-Brandenburg gGmbH // Herr Sellier
 BGF				|	1.850 m²
 Bausumme		|	KGR 200-700, 3.100.000 € 
 Fertigstellung	|	Februar 2014
