@@ -90,7 +90,7 @@ permalink: /buero/
                                 <h3 class="visible-xs-inline-block"><a href="#" onclick="$('#carousel-partner').carousel(0); $('#carousel-partner').carousel('pause'); return false;">Partner</a></h3>
                             </div>
 
-                            <div id="carousel-partner" class="col-xs-12 col-no-padding carousel slide" data-ride="">
+                            <div id="carousel-partner" class="col-xs-12 col-no-padding carousel slide" data-ride="" data-interval="false">
 
                                 <div class="carousel-inner" role="listbox">
                                     <div class="item active">
@@ -204,7 +204,7 @@ permalink: /buero/
                                 <h3 class="visible-xs-inline-block">Team + Aktivitäten</h3>
                             </div>
 
-                            <div id="carousel-teamakt" class="col-xs-12 col-no-padding carousel slide" data-ride="">
+                            <div id="carousel-teamakt" class="col-xs-12 col-no-padding carousel slide" data-ride="" data-interval="false">
 
                                 <div class="carousel-inner" role="listbox">
 
