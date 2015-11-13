@@ -1,10 +1,12 @@
 <head>
-	<title>{% if page.shorttitle %}{{ site.title | replace:'"','' }} // {{ page.shorttitle | replace:'"','' }}{% else %}{{ site.title | replace:'"','' }}{% endif %}</title>
+	<title>{{ site.title | replace:'"','' }} // {% if page.shorttitle %}{{ page.shorttitle | replace:'"','' }}{% else %}{{ site.title | replace:'"','' }}{% endif %}</title>
 	<meta charset="utf-8"/>
 	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 	<meta name="viewport" content="width=320, initial-scale=1, minimum-scale=1, maximum-scale=1" />
 	<meta name="apple-mobile-web-app-capable" content="yes" />
 	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<meta name="geo.region" content="DE-BE" />
+	<meta name="geo.placename" content="Berlin" />
 	<base href="{{site.url}}/" />
 	<link type="text/css" rel="stylesheet" href="http://fast.fonts.net/cssapi/78b7c7e4-d03d-4af2-8e78-1a950f9eb329.css" />
 	<link rel="stylesheet" href="{{ "main.css" | prepend: site.baseurl }}" />
