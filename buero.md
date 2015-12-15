@@ -136,6 +136,9 @@ permalink: /buero/
                                                             <dt>seit 1981</dt>  <dd>Bürogemeinschaft mit Werner Albrecht</dd>
                                                             <dt>seit 2000</dt>  <dd>Partner in Numrich Albrecht Klumpp Gesellschaft von Architekten mbH</dd>
                                                         </dl>
+                                                        <p>
+                                                        	<a href="#" onclick="$('#carousel-partner').carousel(2); $('#carousel-partner').carousel('pause');return false;"><span class="icon icon-arr-e">&nbsp;</span></a>
+                                                        </p>
 												</div>
 											</div>
 										</div>
@@ -160,6 +163,9 @@ permalink: /buero/
 				                                        <dt>1997</dt>       <dd>Mitarbeit im Büro Numrich + Albrecht</dd>
 				                                        <dt>seit 2000</dt>  <dd>Partner in Numrich Albrecht Klumpp Gesellschaft von Architekten mbH</dd>
 				                                    </dl>
+                                                    <p>
+                                                    	<a href="#" onclick="$('#carousel-partner').carousel(3); $('#carousel-partner').carousel('pause');return false;"><span class="icon icon-arr-e">&nbsp;</span></a>
+                                                    </p>
 												</div>
 											</div>
 										</div>
@@ -184,6 +190,9 @@ permalink: /buero/
 				                                        <dt>seit 2004</dt>  <dd>Mitarbeit im Büro Numrich Albrecht Klumpp Architekten</dd>
 				                                        <dt>seit 2012</dt>  <dd>Geschäftsführer in Numrich Albrecht Klumpp Gesellschaft von Architekten mbH</dd>
 				                                    </dl>
+                                                    <p>
+                                                    	<a href="#" onclick="$('#carousel-partner').carousel(0); $('#carousel-partner').carousel('pause');return false;"><span class="icon icon-arr-e">&nbsp;</span></a>
+                                                    </p>
 												</div>
 											</div>
 										</div>
