@@ -35,6 +35,6 @@ Ansprechpartner	|	Serviceeinheit Immobilien, Fachbereich Hochbau, Frau Delock
 BGF				|	1.230 m²
 Bausumme		|	KGR 200–700, 2.400.000 €
 Fertigstellung	|	2012
-Projektleiter	|	Timo Klumpp
+Projektleiter	|	Tiemo Klumpp
 Mitarbeiter		|	Daniel Gleißenberg
 Projektfotos	|	Nina Straßgütl

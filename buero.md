@@ -106,7 +106,7 @@ permalink: /buero/
 															Das Architektur- und Generalplanungsbüro wurde 1981 von Arthur Numrich und Werner Albrecht gegründet. Seit 2013 wird es geleitet von:
 														</p>
                                                         <a href="#" onclick="$('#carousel-partner').carousel(1); $('#carousel-partner').carousel('pause'); return false;">&gt; Arthur Numrich</a>
-                                                        <a href="#" onclick="$('#carousel-partner').carousel(2); $('#carousel-partner').carousel('pause');return false;">&gt; Timo Klumpp</a>
+                                                        <a href="#" onclick="$('#carousel-partner').carousel(2); $('#carousel-partner').carousel('pause');return false;">&gt; Tiemo Klumpp</a>
                                                         <a href="#" onclick="$('#carousel-partner').carousel(3); $('#carousel-partner').carousel('pause');return false;">&gt; Grant Kelly</a>
 													</div>
 												</div>
@@ -149,7 +149,7 @@ permalink: /buero/
 												</div>
 												<div class="col-xs-12 col-md-6 col-lg-5 col-with-padding right">
 														<p>
-															<strong class="justify-to-img">Timo Klumpp</strong>
+															<strong class="justify-to-img">Tiemo Klumpp</strong>
 															&nbsp; <span>Dipl.-Ing. (FH) Arch.</span>
 														</p>
 				                                    <dl>
@@ -331,7 +331,7 @@ permalink: /buero/
 								</p>
 								<p>
 									Umsatzsteueridentifikationsnummer: DE 261 999 384<br/>
-									Vertretungsberechtigte: Arthur Numrich · Timo Klumpp · Grant Kelly<br/>
+									Vertretungsberechtigte: Arthur Numrich · Tiemo Klumpp · Grant Kelly<br/>
 									Registergericht: Amtsgericht Berlin-Charlottenburg<br/>
 									Registernummer: HRB 11 23 26 B
 								</p>
