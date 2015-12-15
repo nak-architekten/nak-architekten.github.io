@@ -18,10 +18,6 @@ permalink: /buero/
                             <nav id="menu">
                                 <a href="/projekte/" id="menu-projekte" class="no1 btn btn-default">Projekte</a> 
                                 <a href="/buero/" class="no2 act btn btn-default">Büro</a>
-			                    <div id="filterpanel">
-									<a class="hidden-xs" href="/buero/#Impressum">Impressum</a>
-			                        <div class="hidden-xs clear"></div>
-			                    </div>
                             </nav>
                         </div>
                     </header>
