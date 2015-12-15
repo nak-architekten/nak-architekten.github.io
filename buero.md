@@ -34,7 +34,7 @@ permalink: /buero/
                             </div>
 
                             <div class="col-xs-12 col-md-6 col-lg-5 col-no-padding">
-                                <div id="carousel-kontakt" class="carousel slide" data-ride="carousel" data-interval="2000" data-pause="hover">
+                                <div id="carousel-kontakt" class="carousel slide carousel-fade" data-ride="carousel" data-interval="5000" data-pause="hover">
                                     <!-- Indicators -->
 
                                     <ol class="carousel-indicators"></ol>
@@ -200,7 +200,7 @@ permalink: /buero/
                                 <h3 class="visible-xs-inline-block">Team + Aktivitäten</h3>
                             </div>
 
-                            <div id="carousel-teamakt" class="col-xs-12 col-no-padding carousel slide" data-ride="" data-interval="false">
+                            <div id="carousel-teamakt" class="col-xs-12 col-no-padding carousel slide carousel-fade" data-ride="" data-interval="false">
 
                                 <div class="carousel-inner" role="listbox">
 
