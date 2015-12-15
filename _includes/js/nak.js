@@ -291,3 +291,12 @@ $(window).load(function() {
 	// console.log('window.load');
 	loadFurtherCarouselSlides();
 });
+
+
+$('#carousel-promotion-slides').on('slide.bs.carousel', function () {
+	$('.carousel-navpanel').fadeOut(200);
+})
+
+$('#carousel-promotion-slides').on('slid.bs.carousel', function () {
+	$('.carousel-navpanel').fadeIn(200);
+})
