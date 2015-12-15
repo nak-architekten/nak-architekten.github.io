@@ -391,7 +391,7 @@ a.logo,a.logo:hover {
 /* content element: project tile */
 
 .project-tile {
-	padding: 0 15px;
+	padding: 0 0 0 15px;
 	margin:0;
 }
 
@@ -606,11 +606,11 @@ padding: 5px 10px 2px 10px;
 	
 	.col-dyn-right{
 		margin-left: 196px;
-		margin-top: 15px;
+		margin-top: 0px;
 	}
 	
 	#project-tiles {
-		margin-top: 25px;
+		margin-top: 0px;
 	}
 
 }
@@ -626,11 +626,11 @@ padding: 5px 10px 2px 10px;
 	
 	.col-dyn-right{
 		margin-left: 216px;
-		margin-top: 15px;
+		margin-top: 0px;
 	}
 	
 	#project-tiles {
-		margin-top: 35px;
+		margin-top: 0px;
 	}
 
 }
@@ -906,4 +906,8 @@ body,
 .carousel-inner,
 .carousel-inner .item {
   height: 100%;
+}
+
+.projects .container-fluid {
+	padding-right: 0;
 }
