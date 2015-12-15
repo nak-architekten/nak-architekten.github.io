@@ -34,8 +34,8 @@ permalink: /buero/
                             </div>
 
                             <div class="col-xs-12 col-md-6 col-lg-5 col-no-padding">
-                                <div id="carousel-kontakt" class="carousel slide carousel-fade" data-ride="carousel" data-interval="5000" data-pause="hover">
-                                    <!-- Indicators -->
+                                <div id="carousel-kontakt" class="one-slide carousel slide carousel-fade" data-ride="carousel" data-interval="5000" data-pause="hover">
+                                <!-- use class "one-slide" to reset left/right arrows e.g. if using only one slide -->
 
                                     <ol class="carousel-indicators"></ol>
 
@@ -43,6 +43,8 @@ permalink: /buero/
                                         <div class="item loadfast active">
                                             <img class="img-responsive" src="{% if site.mode contains 'dev' %}{% else %}http://res.cloudinary.com/{{site.cloudinaryaccount}}/image/fetch/w_600,h_400,c_fill,q_88,f_auto,fl_progressive,fl_force_strip/{% endif %}{{site.url}}/buero/kontakt/1-IMG_6031-BEA.jpg">
                                         </div>
+                                        
+                                        <!--
                                         <div class="item loadfast">
                                             <img class="img-responsive" src="{% if site.mode contains 'dev' %}{% else %}http://res.cloudinary.com/{{site.cloudinaryaccount}}/image/fetch/w_600,h_400,c_fill,q_88,f_auto,fl_progressive,fl_force_strip/{% endif %}{{site.url}}/buero/kontakt/2-IMG_6036-BEA.jpg">
                                         </div>
@@ -55,6 +57,8 @@ permalink: /buero/
                                         <div class="item">
                                             <img class="img-responsive" src="{% if site.mode contains 'dev' %}{% else %}http://res.cloudinary.com/{{site.cloudinaryaccount}}/image/fetch/w_600,h_400,c_fill,q_88,f_auto,fl_progressive,fl_force_strip/{% endif %}{{site.url}}/buero/kontakt/5-IMG_6028-BEA.jpg">
                                         </div>
+                                        
+                                        -->
                                     </div>
                                     <!-- Controls -->
                                     <a class="left carousel-control" href="#carousel-kontakt" role="button" data-slide="prev"> <span class="sr-only">Previous</span></a> <a class="right carousel-control" href="#carousel-kontakt" role="button" data-slide="next"> <span class="sr-only">Next</span></a>
