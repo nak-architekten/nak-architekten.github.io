@@ -807,22 +807,18 @@ address{
 
 #carousel-teamakt .next {
 	position: absolute;
-    bottom: 7px;
+    bottom: 17px;
 }
 
+#carousel-teamakt .next .icon{
+	margin-left: 0;
+	background-position: 0px 2px;
+}
 
 @media screen and (max-width: 899px) {
 
 	#carousel-teamakt .next {
-		left: 25px;
-		bottom: 0px;
-	}
-}
-
-@media screen and (max-width: 549px) {
-
-	#carousel-teamakt .next {
-		left: 40px;
+		left: 15px;
 		bottom: 0px;
 	}
 }

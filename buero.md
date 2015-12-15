@@ -233,7 +233,7 @@ permalink: /buero/
 													<div class="container-fluid">
 														<div class="row">
 															<div class="col-xs-12 col-md-6 col-lg-5 col-md-offset-6 col-lg-offset-5 col-with-padding right">
-																<span class="next"><span class="icon icon-arr-e">&nbsp;</span></span>
+																<span class="next" style="position:relative;"><span class="icon icon-arr-e">&nbsp;</span></span>
 															</div>
 														</div>
 													</div>
