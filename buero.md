@@ -29,7 +29,7 @@ permalink: /buero/
 
 
                         <div class="row row-first">
-                            <div class="col-xs-12">
+                            <div class="col-xs-12 visible-xs-inline-block">
                                 <h3 class="visible-xs-inline-block">Kontakt</h3>
                             </div>
 
