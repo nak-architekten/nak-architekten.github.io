@@ -93,7 +93,7 @@ function init() {
 		}else{
 			$('#filterpanel').fadeIn(200);
 		}
-		e.preventDefault()
+		e.preventDefault();
 		return false;
 
 	});	
@@ -201,7 +201,7 @@ function recalculate() {
 }
 
 /*
-Funtion to filter project tiles on the project overview page. The filter is based on css classes identifieng the tag to filter and is using the url hash for optimised navigation.
+Function to filter project tiles on the project overview page. The filter is based on css classes identifying the tag to filter and is using the url hash for optimised navigation.
 */
 function filter(taglist){
 	if(taglist=="alle"){
