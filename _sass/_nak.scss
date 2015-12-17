@@ -404,12 +404,12 @@ a.logo,a.logo:hover {
 	background-position:center center;
 	background-size:cover;
 	display:block;
-	margin-bottom:35px;
+	margin-bottom:25px;
 }
 
 .project-tile .inner-wrap:after {
 /* 1:1,4 ratio for project tiles */
-	padding-top:71%;
+	padding-top:67%;
 	display:block;
 	content:'';
 }
@@ -418,11 +418,11 @@ a.logo,a.logo:hover {
 	font-weight: normal;
 	font-size: 13px;
 	position:absolute;
-	bottom:-20px;
+	bottom:-18px;
 	left:0px;
 	background-color:#fff;
 	margin: 0;
-	padding:4px 0px 1px 0px;
+	padding:4px 0px 0px 0px;
     white-space: nowrap;
     right: 0;
     overflow: hidden;
