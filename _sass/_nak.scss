@@ -923,3 +923,16 @@ body,
 .home .carousel-control.right.bottom {
 	top: 50%;
 }
+
+.carousel-caption i {
+	font-style: normal;
+}
+
+
+.carousel-caption i {
+	display: none;
+}
+
+.active .carousel-caption i {
+	display: inline;
+}

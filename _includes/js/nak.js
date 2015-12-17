@@ -294,9 +294,9 @@ $(window).load(function() {
 
 
 $('#carousel-promotion-slides').on('slide.bs.carousel', function () {
-	$('.carousel-navpanel').fadeOut(200);
+	$('.carousel-caption i').fadeOut(200);
 })
 
 $('#carousel-promotion-slides').on('slid.bs.carousel', function () {
-	$('.carousel-navpanel').fadeIn(200);
+	$('.active .carousel-caption i').fadeIn(200);
 })
