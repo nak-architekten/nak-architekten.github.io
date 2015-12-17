@@ -807,22 +807,9 @@ address{
 	background-color: #040606;
 }
 
-#carousel-teamakt .next {
-	position: absolute;
-    bottom: 17px;
-}
-
-#carousel-teamakt .next .icon, #carousel-partner .icon{
+#carousel-teamakt .icon, #carousel-partner .icon{
 	margin-left: 0;
 	background-position: 0px 2px;
-}
-
-@media screen and (max-width: 899px) {
-
-	#carousel-teamakt .next {
-		left: 15px;
-		bottom: 0px;
-	}
 }
 
 #carousel-partner .carousel-control.left {

@@ -236,15 +236,9 @@ permalink: /buero/
 															<p>
 															{{ post.title }}
 															</p>
-													</div>
-												</div>
-												<div>
-													<div class="container-fluid">
-														<div class="row">
-															<div class="col-xs-12 col-md-6 col-lg-5 col-md-offset-6 col-lg-offset-5 col-with-padding right">
-																<span class="next" style="position:relative;"><span class="icon icon-arr-e">&nbsp;</span></span>
-															</div>
-														</div>
+															<p>
+																<span class="icon icon-arr-e">&nbsp;</span>
+															</p>
 													</div>
 												</div>
 											</div>
