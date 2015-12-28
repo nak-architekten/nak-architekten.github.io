@@ -13,7 +13,7 @@
 	
 		    <div class="item{% if counter == 0 %} active{% endif %}{% if counter == 0 %} loadfast{% endif %}{% if counter == 1 %} loadfast{% endif %}" data-image="{{ image | prepend: site.url }}">
 			      <div class="carousel-caption">
-			        <a href="#project-detail-content"><i><span class="text">{% assign captioncounter = 0 %}{% for caption in page.captions %}{% if captioncounter == counter %}{{ caption }}{% endif %}{% assign captioncounter = captioncounter | plus: 1 %}{% endfor %}</span><span class="icon icon-arr-s">&nbsp;</span><span class="icon icon-arr-n">&nbsp;</span></i>&nbsp;</a>
+			        <a href="#project-detail-content"><i><span class="text"><span class="hidden-xs">{{ page.shorttitle }} //&nbsp;</span></span>{% assign captioncounter = 0 %}{% for caption in page.captions %}{% if captioncounter == counter %}{{ caption }}{% endif %}{% assign captioncounter = captioncounter | plus: 1 %}{% endfor %}</span><span class="icon icon-arr-s">&nbsp;</span><span class="icon icon-arr-n">&nbsp;</span></i>&nbsp;</a>
 			      </div>
 		    </div>
 
