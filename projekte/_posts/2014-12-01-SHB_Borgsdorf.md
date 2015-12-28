@@ -2,7 +2,6 @@
 layout: post
 categories:
 - projekt
-- startseite
 date: 2014-12-01
 published: true
 title: Zweifeldsporthalle Borgsdorf
@@ -21,21 +20,23 @@ images:
 - /projekte/SHB_Borgsdorf/07.jpg
 - /projekte/SHB_Borgsdorf/08.jpg
 captions:
-- 01 Sporthalle Borgsdorf
-- 02 Sporthalle Borgsdorf // Fassade
-- 03 Sporthalle Borgsdorf // Hofansicht
-- 04 Sporthalle Borgsdorf
-- 05 Test Test Test Test Test Test
-- 06 Sporthalle Borgsdorf // Testbild
-- 07 Sporthalle Borgsdorf
-- 08 Sporthalle Borgsdorf
+- V-Stützen und dreiseitig umlaufende Verglasung
+- Einschnitt im Baukörper und Vordach
+- Tribüne mit Glasbrüstung, Bänken aus Sichtbeton und schwarzen Sitzauflagen aus Holz
+- Teilbarkeit der Halle
+- Ausstattung und Ausblick
+- Mehrzweckraum im Erdgeschoss
+- Detail
+- Geschlossener Rücken des Baukörpers mit angrenzendem Pausenhof
 ---
+Der Neubau der Zweifeldhalle bildet den Schlusspunkt einer städte­baulichen Entwicklungsmaßnahme der Stadt Hohen Neuendorf. Gemeinsam mit der bestehenden Sporthalle, dem Schul- und dem Hortgebäude bildet die neue Sporthalle das Schul- und Sportzentrum Borgsdorf. Durch die Absenkung der Spielfeldebene verringert sich das oberirdische Gebäudevolumen. Dadurch vermittelt die Sporthalle in der Höhenentwicklung zwischen dem angrenzenden eingeschossigen Sportfunktionsgebäude und der Grundschule.
+
 Adresse			|	Bahnhofstraße 33b, 16540 Hohen Neuendorf 
 Bauherr			|	Stadt Hohen Neuendorf
 BGF				|	2.400 m²
-Bausumme		|	KGR 200-700, 3.900.000 € 
 Fertigstellung	|	Dezember 2014
-Projektleiter	|	Arthur Numrich
-Mitarbeiter		|	&#9675; Ulrike Vogel 
-Test | Test
-Projektfotos	|	[_&raquo; Nina Straßgütl_](http://www.ninastrg.de) 
+Projektteam	|	Tiemo Klumpp, Ulrike Vogel
+Bauleitung		|	Ingenieurbüro Hauer, Hohen Neuendorf
+Haustechnik	|	MMP Ingenieure, Berlin
+Außenanlagen	|	Landschaftsarchitekturbüro Armbruster
+Projektfotos	|	[Nina Straßgütl](http://www.ninastrg.de/)
