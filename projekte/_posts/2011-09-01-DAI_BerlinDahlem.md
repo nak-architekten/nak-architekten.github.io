@@ -19,8 +19,8 @@ images:
 - /projekte/DAI_BerlinDahlem/07.jpg
 - /projekte/DAI_BerlinDahlem/08.jpg
 captions:
-- "Das Bittelhaus" nach dem Umbau
-- "Das Bittelhaus" vor dem Umbau
+- Das Bittelhaus nach dem Umbau
+- Das Bittelhaus vor dem Umbau
 - Neuer, überdachter Innenhof
 - Bibliothek
 - Detail der Kompaktanlage im Untergeschoss
