@@ -2,6 +2,7 @@
 layout: post
 categories:
 - projekt
+- startseite
 date: 2013-05-01
 published: true
 title: Umbau und Neubau der Förderschule Steinwald-Schule
