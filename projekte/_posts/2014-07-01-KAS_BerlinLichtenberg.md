@@ -10,8 +10,7 @@ shorttitle: Förderschule Nils-Holgersson
 permalink: /projekte/KAS_BerlinLichtenberg/
 tags: 
 - Bildung
-homepage:
-- /projekte/KAS_BerlinLichtenberg/00_Titel.jpg
+homepage: /projekte/KAS_BerlinLichtenberg/00_Titel.jpg
 images:
 - /projekte/KAS_BerlinLichtenberg/01.jpg
 - /projekte/KAS_BerlinLichtenberg/02.jpg

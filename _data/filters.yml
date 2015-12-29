@@ -1,3 +1,7 @@
+- name: Bildung
+  tags:
+    - Bildung
+
 - name: Schulen + Kitas
   tags:
     - Schule
