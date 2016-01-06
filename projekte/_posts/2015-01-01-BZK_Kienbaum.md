@@ -9,6 +9,7 @@ shorttitle: Trainingshalle im Bundesleistungszentrum
 permalink: /projekte/BZK_Kienbaum/
 tags: 
 - Sport
+projectpage: /projekte/BZK_Kienbaum/02.jpg
 images:
 - /projekte/BZK_Kienbaum/01.jpg
 - /projekte/BZK_Kienbaum/02.jpg

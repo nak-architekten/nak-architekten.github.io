@@ -9,6 +9,7 @@ shorttitle: Rathaus Königs Wusterhausen
 permalink: /projekte/RKW_RathausKW/
 tags: 
 - Arbeiten
+projectpage: /projekte/RKW_RathausKW/02.jpg 
 images:
 - /projekte/RKW_RathausKW/01.jpg
 - /projekte/RKW_RathausKW/02.jpg
@@ -32,7 +33,7 @@ Das Rathaus steht in der historischen Altstadt, gegenüber dem Schloss Königs W
 
 Adresse	|	Schloßstraße 4, 15711 Königs Wusterhausen
 Bauherr	|	Stadt Königs Wusterhausen
-BGF		|	2.364 m2
+BGF		|	2.364 m²
 Fertigstellung	|	April 2014
 Projektteam	|	Grant Kelly, Arturo Panichi
 Tragwerksplanung	|	Tragwerksplanung Borchmann

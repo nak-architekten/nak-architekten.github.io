@@ -11,6 +11,7 @@ permalink: /projekte/KAS_BerlinLichtenberg/
 tags: 
 - Bildung
 homepage: /projekte/KAS_BerlinLichtenberg/00_Titel.jpg
+projectpage: /projekte/KAS_BerlinLichtenberg/02.jpg
 images:
 - /projekte/KAS_BerlinLichtenberg/01.jpg
 - /projekte/KAS_BerlinLichtenberg/02.jpg
@@ -44,7 +45,7 @@ Schülerzahlen	|	150 SchülerInnen in 22 Klassen
 Klassenstärke	|	6–9 SchülerInnen, davon 1–3 RollstuhlfahrerInnen
 Adresse	|	Otto-Marquardt-Straße 12–14, 10369 Berlin Lichtenberg
 Bauherr	|	Bezirksamt Lichtenberg von Berlin, SE Facility Management
-BGF		|	10.400 m2
+BGF		|	10.400 m²
 Fertigstellung	|	Juli 2014
 Projektteam	|	Karin Willke · Grant Kelly
 Tragwerksplanung	|	ahw Ingenieure GmbH, Berlin 

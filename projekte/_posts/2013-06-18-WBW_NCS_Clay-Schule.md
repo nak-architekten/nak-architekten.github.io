@@ -9,6 +9,8 @@ shorttitle: 3. PREIS // Neubau Clay-Schule
 permalink: /projekte/WBW_NCS_Clay-Schule/
 tags: 
 - Bildung
+- Wettbewerb
+projectpage: /projekte/WBW_NCS_Clay-Schule/02.jpg
 images:
 - /projekte/WBW_NCS_Clay-Schule/01.jpg
 - /projekte/WBW_NCS_Clay-Schule/02.jpg

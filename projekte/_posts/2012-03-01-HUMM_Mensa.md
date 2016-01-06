@@ -5,10 +5,11 @@ categories:
 date: 2012-03-01
 published: true
 title: Mensa für die denkmalgeschützte Wilhelm-von-Humboldt-Schule
-shorttitle: Mensa für die Humboldtschule
+shorttitle: Mensa für die Humboldt-Schule
 permalink: /projekte/HUMM_Mensa/
 tags: 
 - Bildung
+projectpage: /projekte/HUMM_Mensa/04.jpg
 images:
 - /projekte/HUMM_Mensa/01.jpg
 - /projekte/HUMM_Mensa/02.jpg

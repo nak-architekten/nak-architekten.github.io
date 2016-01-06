@@ -328,9 +328,9 @@ permalink: /buero/
 									10999 Berlin 
 								</p>
 								<p>
-									Telefon: +49 (0)30 616 76 92-0<br/>
+									<a href="tel:++493061676920">Telefon: +49 (0)30 616 76 92-0</a><br/>
 									Telefax: +49 (0)30 616 76 92-30<br/> 
-									E-Mail: info@nak-architekten.de<br/>
+									<a href="mailto:info@nak-architekten.de">E-Mail: info@nak-architekten.de</a><br/>
 								</p>
 								<p>
 									Umsatzsteueridentifikationsnummer: DE 261 999 384<br/>

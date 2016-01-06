@@ -9,6 +9,7 @@ shorttitle: Deutsches Archäologisches Institut
 permalink: /projekte/DAI_BerlinDahlem/
 tags: 
 - Institut
+projectpage: /projekte/DAI_BerlinDahlem/05.jpg
 images:
 - /projekte/DAI_BerlinDahlem/01.jpg
 - /projekte/DAI_BerlinDahlem/02.jpg

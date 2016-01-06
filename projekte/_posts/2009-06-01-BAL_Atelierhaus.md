@@ -9,6 +9,7 @@ shorttitle: Atelier Stephan Balkenhol
 permalink: /projekte/BAL_Atelierhaus/
 tags: 
 - Arbeiten
+projectpage: /projekte/BAL_Atelierhaus/08.jpg
 images:
 - /projekte/BAL_Atelierhaus/01.jpg
 - /projekte/BAL_Atelierhaus/02.jpg
@@ -32,7 +33,7 @@ Das Gebäude ist vorrangig Atelier, wird aber auch als Zweitwohnsitz genutzt. Di
 
 Adresse			|	Berlin-Friedrichshagen
 Bauherr			|	Stephan Balkenhol 
-BGF				|	380 m2
+BGF				|	380 m²
 Fertigstellung	|	Juni 2009 
 Projektteam	|	Arthur Numrich, Grant Kelly 
-Projektfotos	|	[Nina Straßgütl](http://www.ninastrg.de/)
+Projektfotos	|	[&gt;&gt; Nina Straßgütl](http://www.ninastrg.de/)

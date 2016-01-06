@@ -6,6 +6,8 @@ var host = location.href;
 // when the DOM is ready, run all this functions
 function init() {
 
+	$("a[href^='http']").attr('target','_blank');
+
 	/* set firefox as html class */
 	Modernizr.addTest('firefox', function () {
 	 return !!navigator.userAgent.match(/firefox/i);

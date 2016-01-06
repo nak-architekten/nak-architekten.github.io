@@ -38,7 +38,7 @@ Der Umbau der Typenschule aus den 1970er Jahren zu einer Schule mit sonderpädag
 Schülerzahlen	|	100 SchülerInnen
 Adresse	|	Hanielweg 7 – 9, 12277 Berlin Marienfelde
 Bauherr	|	BA Tempelhof-Schöneberg von Berlin, SE Facility Management
-BGF		|	5.630 m2
+BGF		|	5.630 m²
 Fertigstellung	|	Mai 2013
 Projektteam	|	Arthur Numrich, Astrid Hiljegerdes 
 Tragwerksplanung	|	Pichler Ingenieure GmbH, Berlin

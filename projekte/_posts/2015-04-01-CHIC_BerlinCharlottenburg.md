@@ -10,6 +10,8 @@ shorttitle: CHIC
 permalink: /projekte/CHIC_BerlinCharlottenburg/
 tags: 
 - Arbeiten
+homepage: /projekte/CHIC_BerlinCharlottenburg/00_Titel.jpg
+projectpage: /projekte/CHIC_BerlinCharlottenburg/02.jpg
 images:
 - /projekte/CHIC_BerlinCharlottenburg/01.jpg
 - /projekte/CHIC_BerlinCharlottenburg/02.jpg

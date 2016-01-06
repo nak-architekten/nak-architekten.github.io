@@ -9,6 +9,7 @@ shorttitle: Mensa mit Freizeitbereich
 permalink: /projekte/AFZM_Mensa/
 tags: 
 - Institut
+projectpage: /projekte/AFZM_Mensa/09.jpg
 images:
 - /projekte/AFZM_Mensa/01.jpg
 - /projekte/AFZM_Mensa/02.jpg

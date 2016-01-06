@@ -6,9 +6,10 @@ date: 2013-06-18
 published: true
 title: Neubau einer Konzertaula für das G. F. Händel Gymnasium in Berlin Friedrichshain
 shorttitle: BAUSTELLE // Konzertaula
-permalink: /projekte/SHB_Borgsdorf/
+permalink: /projekte/GFH_Konzertaula/
 tags: 
 - Bildung
+- Wettbewerb
 images:
 - /projekte/GFH_Konzertaula/01.jpg
 - /projekte/GFH_Konzertaula/02.jpg
