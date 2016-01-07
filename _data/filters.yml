@@ -1,9 +1,6 @@
 - name: Bildung
   tags:
     - Bildung
-
-- name: Schulen + Kitas
-  tags:
     - Schule
     - Kita
 
@@ -11,17 +8,20 @@
   tags:
     - Sport
 
-- name: Wohnen + Arbeiten
+- name: Arbeiten
   tags:
-    - Wohnen
     - Arbeiten
 
-- name: Institute + Gesundheit
+- name: Institute
   tags:
     - Institut
     - Gesundheit
 
+- name: Arbeiten
+  tags:
+    - Arbeiten
+
 - name: Wettbewerbe + Studien
   tags:
     - Wettbewerb
-    - Studien
+    - Studie
