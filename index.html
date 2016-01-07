@@ -12,6 +12,10 @@ description: Numrich Albrecht Klumpp Gesellschaft von Architekten mbH
 {% for post in site.categories.startseite %}
 
 		    <a href="{{ post.url | prepend: site.baseurl }}" class="item{% if counter == 0 %} active{% endif %}{% if counter == 0 %} loadfast{% endif %}{% if counter == 1 %} loadfast{% endif %}" data-image="{% if post.homepage %}{{ post.homepage | prepend: site.url }}{% else %}{% for image in post.images limit:1 %}{{ image | prepend: site.url }}{% endfor %}{% endif %}">
+	    		<span class="hidden-xs right carousel-control" href="#carousel-promotion-slides" role="button" data-slide="next">
+				    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+				    <span class="sr-only">Weiter</span>
+				</span>
 		    	{% if post.news %}
 			    <div class="news">{{ post.news }} <span class="icon icon-arr-e">&nbsp;</span></div>
 			    {% endif %}
@@ -27,6 +31,7 @@ description: Numrich Albrecht Klumpp Gesellschaft von Architekten mbH
 		    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
 		    <span class="sr-only">Zurück</span>
 		</a>
+<!--
 		<a class="hidden-xs right top carousel-control" href="#carousel-promotion-slides" role="button" data-slide="next">
 		    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
 		    <span class="sr-only">Weiter</span>
@@ -35,6 +40,7 @@ description: Numrich Albrecht Klumpp Gesellschaft von Architekten mbH
 		    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
 		    <span class="sr-only">Weiter</span>
 		</a>
+-->
 		
 		<header>
 			<div id="header">

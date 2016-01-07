@@ -878,3 +878,12 @@ html, body, .carousel, .carousel-inner, .carousel-inner .item {
 .active .carousel-caption i {
 	display: inline;
 }
+
+/* exception for homepage news */
+a:hover .news {
+	font-weight: normal;
+}
+
+a .news:hover{
+	font-weight: bold;
+}
