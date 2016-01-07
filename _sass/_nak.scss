@@ -884,3 +884,10 @@ a .news:hover{
 		display: none;
 	}
 }
+
+/* extra setting for screens over 1600px */
+@media screen and (min-width: 1600px) {
+	.project-tile {
+		width: 20%;
+	}
+}
