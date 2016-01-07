@@ -891,3 +891,17 @@ a .news:hover{
 		width: 20%;
 	}
 }
+
+
+@media screen and (max-width: 549px) {
+	#promotion-slides .item.first .carousel-caption .text .hidden-xs {
+		display: inline-block !important;
+	}
+	#promotion-slides .item.first .carousel-caption .text .hidden-xs .sep {
+		display: none;
+	}
+	#promotion-slides .item.first .carousel-caption .text .photo-caption {
+		display: none;
+	}
+	
+}
