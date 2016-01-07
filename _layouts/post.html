@@ -26,7 +26,7 @@
 		  <ol class="carousel-indicators">
 {% assign counter = 0 %}
 {% for image in page.images %}
-			<li class="hidden-xs totop {% if counter == 0 %} active{% endif %}" data-target="#carousel-promotion-slides" data-slide-to="{{ counter }}"><span class="circle"></span></li>
+			<li class="hidden-xs-sm totop {% if counter == 0 %} active{% endif %}" data-target="#carousel-promotion-slides" data-slide-to="{{ counter }}"><span class="circle"></span></li>
 	{% assign counter = counter | plus: 1 %}
 {% endfor %}
 		  </ol>

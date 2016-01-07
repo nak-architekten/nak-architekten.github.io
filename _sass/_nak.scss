@@ -370,7 +370,7 @@ a.logo, a.logo:hover {
 
 @media screen and (min-width: 550px) {
 	#promotion-slides .carousel-caption a {
-		width: 70%;
+		width: 90%;
 	}
 	#promotion-slides .carousel-caption a span.text {
 		max-width: 90%;
@@ -878,4 +878,9 @@ a:hover .news {
 
 a .news:hover{
 	font-weight: bold;
+}
+@media screen and (max-width: 899px) {
+	#promotion-slides .carousel-indicators li.hidden-xs-sm {
+		display: none;
+	}
 }
