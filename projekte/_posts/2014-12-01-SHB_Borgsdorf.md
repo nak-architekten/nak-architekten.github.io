@@ -10,7 +10,7 @@ permalink: /projekte/SHB_Borgsdorf/
 tags: 
 - Sport
 homepage: /projekte/SHB_Borgsdorf/NAK_SHB_RGB_3388-ORIG.jpg
-projectpage: /projekte/SHB_Borgsdorf/07.jpg
+projectpage: /projekte/SHB_Borgsdorf/00_Projektpage.jpg
 images:
 - /projekte/SHB_Borgsdorf/01.jpg
 - /projekte/SHB_Borgsdorf/02.jpg
