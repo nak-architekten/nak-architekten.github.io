@@ -17,10 +17,6 @@
     - Institut
     - Gesundheit
 
-- name: Arbeiten
-  tags:
-    - Arbeiten
-
 - name: Wettbewerbe + Studien
   tags:
     - Wettbewerb
