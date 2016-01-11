@@ -34,4 +34,4 @@ Bauherr			|	Ministerium der Finanzen des Landes Brandenburg
 BGF				|	4.200 m² 
 Fertigstellung	|	September 2008 
 Projektteam		|	Tiemo Klumpp, Astrid Hiljegerdes 
-Projektfotos	|	[Werner Huthmacher](http://www.werner-huthmacher.de/)	
+Projektfotos	|	[Werner Huthmacher](http://www.werner-huthmacher.de/)
