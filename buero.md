@@ -97,7 +97,7 @@ permalink: /buero/
 										<div class="container-fluid">
 											<div class="row">
 												<div class="col-xs-12 col-md-6 col-lg-5 col-no-padding">
-													<img class="img-responsive" src="{% if site.mode contains 'dev' %}{% else %}http://res.cloudinary.com/{{site.cloudinaryaccount}}/image/fetch/w_600,h_400,c_fill,q_88,f_auto,fl_progressive,fl_force_strip/{% endif %}{{site.url}}/buero/partner/01_Partner.jpg" />
+													<img class="img-responsive" src="{% if site.mode contains 'dev' %}{% else %}http://res.cloudinary.com/{{site.cloudinaryaccount}}/image/fetch/w_600,h_400,c_fill,q_88,f_auto,fl_progressive,fl_force_strip/{% endif %}{{site.url}}/buero/partner/01_Partner_v02.jpg" />
 												</div>
 												<div class="col-xs-12 col-md-6 col-lg-5 col-with-padding right">
 													<div>
