@@ -9,7 +9,7 @@ shorttitle: Sozialtherapeutische Werkstätten
 permalink: /projekte/WBB_Werkstatt/
 tags: 
 - Arbeiten
-projectpage: /projekte/WBB_Werkstatt/03.jpg
+projectpage: /projekte/WBB_Werkstatt/03.jpg?v001
 images:
 - /projekte/WBB_Werkstatt/01.jpg
 - /projekte/WBB_Werkstatt/02.jpg
