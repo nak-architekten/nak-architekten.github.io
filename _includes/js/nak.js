@@ -91,13 +91,15 @@ function init() {
 	/* set a toggle on the project filter */
 	$(".projects #menu-projekte").click(function(e) {
 		if($('#filterpanel').is(":visible")){
-			$('#filterpanel').fadeOut(200);
+			$('.xs #filterpanel').fadeOut(200);
 		}else{
-			$('#filterpanel').fadeIn(200);
+			$('.xs #filterpanel').fadeIn(200);
 		}
 		e.preventDefault();
+		if(!$('body').hasClass('xs')){
+			filter('alle');
+		}
 		return false;
-
 	});	
 
 	/* detect ancor links for navigation project filters and add a filter function trigger on click */
@@ -297,8 +299,8 @@ $(window).load(function() {
 
 $('#carousel-promotion-slides').on('slide.bs.carousel', function () {
 	$('.carousel-caption i').fadeOut(200);
-})
+});
 
 $('#carousel-promotion-slides').on('slid.bs.carousel', function () {
 	$('.active .carousel-caption i').fadeIn(200);
-})
+});
