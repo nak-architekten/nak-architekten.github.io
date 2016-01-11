@@ -37,8 +37,8 @@ Adresse			|	Puschkinstraße 2, 15537 Grünheide (Mark)
 Bauherr			|	Trägerverein Bundesleistungszentrum Kienbaum e.V.
 BGF				|	3.622 m²
 Fertigstellung	|	Januar 2015
-Projektteam	|	Grant Kelly, Oliver Löffler, Milanko Moraske
+Projektteam		|	Grant Kelly, Oliver Löffler, Milanko Moraske
 Generalplaner	|	Numrich Albrecht Klumpp 
 Tragwerksplaner	|	Pichler Ingenieure GmbH
-Haustechnik	|	ZWP Ingenieure AG
+Haustechnik		|	ZWP Ingenieure AG
 Projektfotos	|	[Nina Straßgütl](http://www.ninastrg.de/)
