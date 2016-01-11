@@ -1,0 +1,1 @@
+curl -i -H "Accept: application/json" -X DELETE 'https://161841956342454:H5kqlTfRnc0oPUo36aGu4m__K-4@api.cloudinary.com/v1_1/dpcao7gpf/resources/image/upload?all=true'
