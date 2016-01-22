@@ -9,6 +9,7 @@ shorttitle: Atelier Stephan Balkenhol
 permalink: /projekte/BAL_Atelierhaus/
 tags: 
 - Arbeiten
+- Wohnen
 projectpage: /projekte/BAL_Atelierhaus/08.jpg
 images:
 - /projekte/BAL_Atelierhaus/01.jpg
