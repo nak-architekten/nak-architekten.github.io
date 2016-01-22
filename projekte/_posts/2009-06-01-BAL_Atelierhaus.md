@@ -35,5 +35,5 @@ Adresse			|	Berlin-Friedrichshagen
 Bauherr			|	Stephan Balkenhol 
 BGF				|	380 m²
 Fertigstellung	|	Juni 2009 
-Projektteam		|	Arthur Numrich, Grant Kelly 
+Projektteam		|	Arthur Numrich · Grant Kelly 
 Projektfotos	|	[Nina Straßgütl](http://www.ninastrg.de/)

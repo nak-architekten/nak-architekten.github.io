@@ -29,9 +29,9 @@ captions:
 ---
 Das Anfang der 80er Jahre fertiggestellte Gebäude Haus 5 wurde bis zur Wende als Internatsgebäude für Diplomatenkinder genutzt. Unter Wahrung der Konstruktion und Struktur des Gebäudes wurden 112 moderne, barrierefrei zugängliche Apartments, eine Cafeteria sowie Bibliotheksflächen eingebaut. Die gleichförmige Fassadenstruktur des Plattenbaus wurde durch die Neugestaltung der Fensterausschnitte wesentlich verändert. Durch den Einbau französischer Fenster in unterschiedlicher Tiefe entstand ein lebendiges Fassadenbild.
 
-Adresse			|	Schillerstraße 6, 15711 Königs Wusterhausen 
+Adresse			|	Schillerstraße 6 · 15711 Königs Wusterhausen 
 Bauherr			|	Ministerium der Finanzen des Landes Brandenburg 
 BGF				|	4.200 m² 
 Fertigstellung	|	September 2008 
-Projektteam		|	Tiemo Klumpp, Astrid Hiljegerdes 
+Projektteam		|	Tiemo Klumpp · Astrid Hiljegerdes 
 Projektfotos	|	[Werner Huthmacher](http://www.werner-huthmacher.de/)

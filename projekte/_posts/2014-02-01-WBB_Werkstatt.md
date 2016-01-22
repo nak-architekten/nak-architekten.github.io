@@ -26,14 +26,14 @@ captions:
 ---
 Die viergeschossige Erweiterung bietet zusätzliche Werkstattflächen für 78 Arbeitsplätze. Das neue Gebäude ist kompakt und setzt einen städtebaulichen Akzent in dem stark heterogenen Umfeld. 
 
-Adresse	|	Teltower Damm 269, 14167 Berlin
-Bauherr	|	Werkgemeinschaft für Berlin-Brandenburg gGmbH 
+Adresse				|	Teltower Damm 269 · 14167 Berlin
+Bauherr				|	Werkgemeinschaft für Berlin-Brandenburg gGmbH 
 Realisierungswettbewerb	|	1. Preis
-BGF		|	1.850 m² 
-Fertigstellung	|	Februar 2014 
-Projektteam	|	Arthur Numrich, Karin Willke, Matthias Gall (Wettbewerb) 
+BGF					|	1.850 m² 
+Fertigstellung		|	Februar 2014 
+Projektteam			|	Arthur Numrich · Karin Willke · Matthias Gall (Wettbewerb) 
 Tragwerksplanung	|	Pichler Ingenieure GmbH, Berlin
-Haustechnik	|	MMP Ingenieurgesellschaft mbH / Ingo Acker Ingenieure
-Außenanlagen	|	KuBuS Freiraumplanung GbR	
-Kunst am Bau	|	Monika Jarecka (Foto: M. Jarecka)
-Projektfotos	|	[Nina Straßgütl](http://www.ninastrg.de/)
+Haustechnik			|	MMP Ingenieurgesellschaft mbH / Ingo Acker Ingenieure
+Außenanlagen		|	KuBuS Freiraumplanung GbR	
+Kunst am Bau		|	Monika Jarecka (Foto: M. Jarecka)
+Projektfotos		|	[Nina Straßgütl](http://www.ninastrg.de/)

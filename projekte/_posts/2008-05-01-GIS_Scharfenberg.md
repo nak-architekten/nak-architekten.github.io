@@ -27,9 +27,9 @@ captions:
 ---
 Das Gymnasium befindet sich auf einer Insel im Tegeler See. Die Schul­erweiterung hatte komplexe Rahmenbedingungen wie Insellage mit Fährbetrieb, Landschaftsschutz, ­Natur-, ­Wasser- und Denkmalschutz zu berücksichtigen. Der Neubau gliedert sich in zwei ablesbare Baukörper. Die leichte Winkelung eines Riegels erzeugt eine Aufweitung für den neuen Haupteingang. Ein Pergolengang bildet den Übergang zum Altbau.
 
-Adresse			|	Insel Scharfenberg, Berlin
+Adresse			|	Insel Scharfenberg · Berlin
 Bauherr			|	Senatsverwaltung für Stadtentwicklung Berlin
 BGF				|	1.900 m²
 Fertigstellung	|	Mai 2008
-Projektteam		|	Arthur Numrich, Karin Willke
+Projektteam		|	Arthur Numrich · Karin Willke
 Projektfotos	|	[Werner Huthmacher](http://www.werner-huthmacher.de/)

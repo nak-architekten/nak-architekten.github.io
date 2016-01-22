@@ -29,9 +29,9 @@ captions:
 ---
 Die Zweifeld-Sporthalle fügt sich städtebaulich in das Gebäudeensemble des Gymnasiums ein. Der überdachte Hauptzugang in die Galerieebene der Sporthalle erfolgt direkt vom Pausenhof. Der Hallenbaukörper mit Umkleide- und Gerätezone ist abgesenkt. Der Eingang liegt auf dem Dach des Umkleidebereiches. Oberhalb des Terrains nimmt ein Sockel Oberlichtfenster für diese Räume auf.
 
-Adresse			|	Diehloer Straße 66, 15890 Eisenhüttenstadt 
+Adresse			|	Diehloer Straße 66 · 15890 Eisenhüttenstadt 
 Bauherr			|	Landkreis Oder-Spree 
 BGF				|	1.660 m² 
 Fertigstellung	|	November 2013 
-Projektteam		|	Arthur Numrich, Ulrike Vogel, Ralf Nägele 
+Projektteam		|	Arthur Numrich · Ulrike Vogel · Ralf Nägele 
 Projektfotos	|	Erik-Jan Ouwerkerk

@@ -31,9 +31,9 @@ captions:
 ---
 Das Bittelhaus (benannt nach dem ehemaligen DAI-Präsidenten, Baujahr 1978) ist die zentrale Verwaltung und Bibliothek des Deutschen Archäologischen Instituts in Berlin. 
 
-Adresse			|	Podbielskiallee 69-71, 14195 Berlin-Dahlem 	 
+Adresse			|	Podbielskiallee 69-71 · 14195 Berlin-Dahlem 	 
 Bauherr			|	Bundeamt für Bauwesen und Raumordnung (BBR)
 BGF				|	2.010 m²
 Fertigstellung	|	September 2011
-Projektteam	|	Werner Albrecht, Timo Nerger, Sonja Sandberger
+Projektteam		|	Werner Albrecht · Timo Nerger · Sonja Sandberger
 Projektfotos	|	[Nina Straßgütl](http://www.ninastrg.de/)

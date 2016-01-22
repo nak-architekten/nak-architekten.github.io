@@ -25,9 +25,9 @@ captions:
 - Detail
 - Speisesaal
 ---
-Adresse	|	Kuckhoffstraße 2-22, 13156 Berlin-Pankow
+Adresse	|	Kuckhoffstraße 2-22 · 13156 Berlin-Pankow
 Bauherr	|	Bezirksamt Pankow von Berlin
 BGF		|	225 m²
 Fertigstellung	|	Oktober 2010
-Projektteam	|	Arthur Numrich, Ralf Nägele
+Projektteam	|	Arthur Numrich · Ralf Nägele
 Projektfotos	|	[Nina Straßgütl](http://www.ninastrg.de/)

@@ -32,10 +32,10 @@ captions:
 Die Carl-von-Linné-Schule in Berlin stellt einen der größten Sonderbauten aus den 70er Jahren dar. Sie wurde bei laufendem Betrieb denkmalgerecht instand gesetzt und modernisiert. Die architektonische Anmutung und der Charakter der Schule blieben dabei erhalten. Ein Hauptaugenmerk lag auf der Gestaltung einer freundlichen und liebevollen Atmosphäre, die den besonderen Ansprüchen an die Schule gerecht wird. Den SchülerInnen stehen moderne Unterrichts-, Werkstatt- und Therapiebereiche sowie eine Schwimm- und eine Sporthalle zur ­Verfügung.
 
 Schülerzahlen	|	330 SchülerInnen bei 80 Lehrkräften (Zuzügl. ErzieherInnen und päd. MitarbeiterInnen)
-Adresse			|	Paul-Junius-Str. 15, 10367 Berlin
+Adresse			|	Paul-Junius-Str. 15 · 10367 Berlin
 Bauherr			|	Bezirksamt Lichtenberg von Berlin, SE Facility Management
 BGF				|	10.500 m²
 Fertigstellung	|	September 2013
-Projektteam		|	Arthur Numrich, Georg Loem, Ulrike Vogel, Johanna Guschlbauer, Milanko Moraske
+Projektteam		|	Arthur Numrich · Georg Loem · Ulrike Vogel · Johanna Guschlbauer · Milanko Moraske
 Farbkonzept		|	Ivan Lacaze
 Projektfotos	|	Erik-Jan Ouwerkerk

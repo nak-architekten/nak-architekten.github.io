@@ -27,9 +27,9 @@ captions:
 ---
 Das denkmalgeschützte Gymnasium liegt am Fuße eines ehemaligen Weinberges östlich des alten Dorfkernes von Kleinmachnow. Der abgerückte, teils ins Erdreich gebaute Hallenbaukörper fügt sich in das bestehende Ensemble ein. Zwischen alt und neu entsteht eine Platzsituation, ein Forum mit Treppenstufen zum Verweilen. Die reduziert gestaltete Fassade aus transluzentem Profilglas verleiht der Zweifeldsporthalle eine kristalline Anmutung. Neben dem externen Zugang ist sie über eine Innentreppe mit dem Schulgebäude verbunden.
 
-Adresse			|	Am Weinberg 20, 14532 Kleinmachnow 
+Adresse			|	Am Weinberg 20 · 14532 Kleinmachnow 
 Bauherr			|	Landkreis Potsdam-Mittelmark 
 BGF				|	1.700 m² 
 Fertigstellung	|	März 2008
-Projektteam		|	Tiemo Klumpp, Ralf Nägele 
+Projektteam		|	Tiemo Klumpp · Ralf Nägele 
 Projektfotos	|	Lintner

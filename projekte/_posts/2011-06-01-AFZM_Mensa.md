@@ -37,10 +37,10 @@ captions:
 ---
 Das Mensagebäude liegt an einer zentralen Campusstraße und ist Teil eines neuen Gebäudeensembles, das im Rahmen der städtebaulichen Neuordnung und Zusammenführung von zentralen Bildungseinrichtungen errichtet wurde. Ein Hof mit altem Baumbestand leitet die Besucher in das Gebäude, vorbei an der Mensa und einem Gymnastikraum. Das Foyer führt in einen weiteren Hof. Hier befinden sich seitlich Clubräume und eine Cafeteria. Die Holzfassaden bilden die vertikale Baumstruktur der Landschaft ab und stehen im interessanten Kontrast zu der ansonsten geschlossenen Fassade aus Sichtbeton.
 
-Adresse			|	Schillerstraße 6, 15711 Königs Wusterhausen
+Adresse			|	Schillerstraße 6 · 15711 Königs Wusterhausen
 Bauherr			|	Ministerium der Finanzen des Landes Brandenburg
 BGF				|	1.980 m²
 Fertigstellung	|	Juni 2011
-Projektteam	|	Tiemo Klumpp, Grant Kelly, Karin Willke
+Projektteam		|	Tiemo Klumpp · Grant Kelly · Karin Willke
 Kunst am Bau	|	Monika Jarecka
 Projektfotos	|	[Nina Straßgütl](http://www.ninastrg.de/)

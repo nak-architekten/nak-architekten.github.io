@@ -36,13 +36,13 @@ captions:
 Der Umbau der Typenschule aus den 1970er Jahren zu einer Schule mit sonderpädagogischem Förderschwerpunkt „Geistige Entwicklung“ erforderte umfassende Neubau-, Umbau- und Sanierungsmaßnahmen. Mit dem Neubau einer Mensa zwischen den Bestandsgebäuden wurde ein zentraler Haupteingang für das Gesamtensemble geschaffen. Die Sporthalle wurde geteilt und um ein Therapiebad ergänzt.
 
 Schülerzahlen	|	100 SchülerInnen
-Adresse	|	Hanielweg 7 – 9, 12277 Berlin Marienfelde
-Bauherr	|	BA Tempelhof-Schöneberg von Berlin, SE Facility Management
-BGF		|	5.630 m²
+Adresse			|	Hanielweg 7 – 9 · 12277 Berlin Marienfelde
+Bauherr			|	BA Tempelhof-Schöneberg von Berlin, SE Facility Management
+BGF				|	5.630 m²
 Fertigstellung	|	Mai 2013
-Projektteam	|	Arthur Numrich, Astrid Hiljegerdes 
+Projektteam		|	Arthur Numrich · Astrid Hiljegerdes 
 Tragwerksplanung	|	Pichler Ingenieure GmbH, Berlin
-Haustechnik	|	MMP Ingenieurgesellschaft mbH / Ingo Acker Ingenieure
+Haustechnik		|	MMP Ingenieurgesellschaft mbH / Ingo Acker Ingenieure
 Außenanlagen	|	KuBuS Freiraumplanung GbR	
 Kunst am Bau	|	Monika Jarecka (Foto: M. Jarecka)
 Projektfotos	|	[Nina Straßgütl](http://www.ninastrg.de/)
