@@ -9,7 +9,6 @@ shorttitle: Forschungszentrum für Kultur und Informatik
 permalink: /projekte/FKI_Forschungszentrum/
 tags: 
 - Institut
-- Wettbewerb
 projectpage: /projekte/FKI_Forschungszentrum/00_Projektpage.jpg
 images:
 - /projekte/FKI_Forschungszentrum/01.jpg
