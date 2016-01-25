@@ -6,7 +6,6 @@ categories:
 date: 2015-04-01
 published: true
 title: CHIC – Das Charlottenburger Innovations-Centrum
-news: Test Eintrag für die Klick-Überlagerung.
 shorttitle: CHIC
 permalink: /projekte/CHIC_BerlinCharlottenburg/
 tags: 

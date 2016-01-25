@@ -9,6 +9,7 @@ shorttitle: XXX
 permalink: /projekte/XXX/
 tags: 
 - XXX
+news: News Block auf der Startseite
 homepage: /projekte/XXX/00_Titel.jpg
 projectpage: /projekte/XXX/00_Projektpage.jpg
 images:
