@@ -1,0 +1,33 @@
+---
+layout: post
+categories:
+- projekt
+date: 2014-09-01
+published: true
+title: Umbau des Hauses der Gesundheit für die Staatsanwaltschaft Berlin
+shorttitle: Staatsanwaltschaft Berlin
+permalink: /projekte/T22_Turmstrasse/
+tags: 
+- Arbeiten
+projectpage: /projekte/T22_Turmstrasse/00_Projektpage.jpg
+images:
+- /projekte/T22_Turmstrasse/01.jpg
+- /projekte/T22_Turmstrasse/02.jpg
+- /projekte/T22_Turmstrasse/03.jpg
+- /projekte/T22_Turmstrasse/04.jpg
+- /projekte/T22_Turmstrasse/05.jpg
+captions:
+- Gebäude nach dem Umbau
+- Originalzustand
+- Ausgebaute Straßenfront
+- Detail Fassade und Fenster
+- Rückseitiger Komplex
+---
+Das ehemalige Haus der Gesundheit wurde für die Unterbringung der Hauptabteilung 9 der Staatsanwaltschaft Berlin und derenzugeordnete 10 Vollstreckungsbereiche umgebaut. Insgesamt bietet das Gebäude nun Platz für ca. 290 MitarbeiterInnen. Das bestehende Gebäude mit seiner Grundrissstruktur und kubischen Ausformung konnte die Funktionsanforderungen nicht umfänglich erfüllen. Daher wurden Teile des Gebäudes abgetragen und durch Neubauteile ersetzt. Um die erhöhten Auflagen der Sicherheitsbestimmungen für die Staatsanwaltschaft zu erfüllen, wurde in intensiven Abstimmungen mit den Verfahrensbeteiligten ein Sicherheitskonzept entwickelt, das sowohl den Bedürfnissen der Beschäftigten als auch dem öffentlichen Anliegen eines dem Stadtraum zugewandten Hauses Rechnung trägt.
+
+Adresse				|	Turmstraße 22 · 10559 Berlin
+Bauherr				|	BIM Berliner Immobilienmanagement GmbH
+BGF					|	4.900 m² Altbau, 1.600 m² Neubau
+Fertigstellung		|	September 2014
+Projektteam			|	Ralf Nägele · Arturo Panichi
+Projektfotos		|	[Nina Straßgütl](http://www.ninastrg.de/)
