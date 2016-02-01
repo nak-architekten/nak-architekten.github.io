@@ -22,7 +22,7 @@ images:
 captions:
 - Halle mit vielfältiger Geräteausstattung
 - Oberlichtbänder und Technikgänge an der Decke
-- Training der Nachwuchsathleten des deutschen Nationalkaders
+- Training der Nachwuchsathleten
 - Training mit Ausblick
 - Nord-Ost-Fassade der Halle
 - Südfassade mit vorgelagertem Bogenschießplatz
