@@ -9,7 +9,7 @@ shorttitle: Förderschule Carl-von-Linné
 permalink: /projekte/CVL_CarlVonLinne/
 tags: 
 - Bildung
-projectpage: /projekte/CVL_CarlVonLinne/00_Projektpage.jpg
+projectpage: /projekte/CVL_CarlVonLinne/00_Projektpage_v2.jpg
 images:
 - /projekte/CVL_CarlVonLinne/01.jpg
 - /projekte/CVL_CarlVonLinne/02.jpg
