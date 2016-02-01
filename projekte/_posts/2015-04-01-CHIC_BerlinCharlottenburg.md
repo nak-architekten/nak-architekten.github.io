@@ -27,17 +27,17 @@ images:
 - /projekte/CHIC_BerlinCharlottenburg/12.jpg
 - /projekte/CHIC_BerlinCharlottenburg/13.jpg
 captions:
-- Das Gebäude an der Bismarckstraße nahe der TU
-- Die neue Fassade
+- Gelegen an der Bismarckstraße nahe der TU
+- Neue Fassade
 - Das ehemalige Gerling-Haus in der Bauwelt Heft 30 /1960
 - Das ehemalige Gerling-Haus im Glasforum 04/1962
-- Die Empfangshalle mit Verde-Alpi-Natursteinplatten und Tresen aus Nussbaum.
-- Die Freitreppe mit Bestandsbekleidung
+- Empfangshalle mit Verde-Alpi-Natursteinplatten und Tresen aus Nussbaum.
+- Freitreppe mit Bestandsbekleidung
 - Leuchte Buchstaben auf der Natursteinbrüstung
 - Blick in den Innenhof
-- Der Sitzungssaal
+- Sitzungssaal
 - Blick über die Bismarckstraße auf das Schillertheater
-- Die Mensa
+- Mensa
 - Bei Nacht
 - Bei Nacht
 ---
