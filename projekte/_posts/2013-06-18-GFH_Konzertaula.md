@@ -14,6 +14,8 @@ images:
 - /projekte/GFH_Konzertaula/01.jpg
 - /projekte/GFH_Konzertaula/02.jpg
 - /projekte/GFH_Konzertaula/03.jpg
+- /projekte/GFH_Konzertaula/04.jpg
+- /projekte/GFH_Konzertaula/05.jpg
 captions:
 - Baustelle
 - Außenperspektive
