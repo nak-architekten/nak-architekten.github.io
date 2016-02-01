@@ -25,5 +25,5 @@ Adresse				|	Geschwister-Scholl-Straße 20 · 14776 Brandenburg an der Havel
 Bauherr				|	Ministerium der Finanzen des Landes Brandenburg
 BGF					|	3.360 m²
 Fertigstellung		|	Dezember 2004
-Projektteam			|	…
+Projektteam			|	Werner Albrecht · Stéphane Jordan
 Projektfotos		|	Udo Meinel
