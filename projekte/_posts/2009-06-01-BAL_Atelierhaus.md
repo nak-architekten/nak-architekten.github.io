@@ -17,7 +17,7 @@ images:
 - /projekte/BAL_Atelierhaus/03.jpg
 - /projekte/BAL_Atelierhaus/05.jpg
 - /projekte/BAL_Atelierhaus/06.jpg
-- /projekte/BAL_Atelierhaus/07.jpg
+- /projekte/BAL_Atelierhaus/07_v2.jpg
 - /projekte/BAL_Atelierhaus/08.jpg
 captions:
 - Baukörper mit Oberlichtsheds und Wohnbereich im Obergeschoss
