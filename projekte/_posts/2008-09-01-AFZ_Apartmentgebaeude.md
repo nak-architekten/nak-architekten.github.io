@@ -9,7 +9,7 @@ shorttitle: Apartmentgebäude Haus 5
 permalink: /projekte/AFZ_Apartmentgebaeude/
 tags: 
 - Arbeiten
-projectpage: /projekte/AFZ_Apartmentgebaeude/00_Projektpage.jpg
+projectpage: /projekte/AFZ_Apartmentgebaeude/03.jpg
 images:
 - /projekte/AFZ_Apartmentgebaeude/01.jpg
 - /projekte/AFZ_Apartmentgebaeude/02.jpg
