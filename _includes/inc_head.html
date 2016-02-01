@@ -1,5 +1,7 @@
 <head>
-	<title>{{ site.title | replace:'"','' }} // {% if page.shorttitle %}{{ page.shorttitle | replace:'"','' }}{% else %}{{ site.title | replace:'"','' }}{% endif %}</title>
+	<title>{% if page.shorttitle %}{{ page.shorttitle | replace:'"','' }}{% else %}{{ site.title | replace:'"','' }}{% endif %} // {{ site.title | replace:'"','' }}</title>
+    <meta property="og:title" content="{{ site.title | replace:'"','' }} // {% if page.shorttitle %}{{ page.shorttitle | replace:'"','' }}{% else %}{{ site.title | replace:'"','' }}{% endif %}" />
+    <meta name="twitter:title" content="{{ site.title | replace:'"','' }} // {% if page.shorttitle %}{{ page.shorttitle | replace:'"','' }}{% else %}{{ site.title | replace:'"','' }}{% endif %}" />
 	<meta charset="utf-8"/>
 	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 	<meta name="viewport" content="width=320, initial-scale=1, minimum-scale=1, maximum-scale=1" />
@@ -7,7 +9,14 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
 	<meta name="geo.region" content="DE-BE" />
 	<meta name="geo.placename" content="Berlin" />
+	<meta name="geo.position" content="52.496885;13.418697" />
+	<meta name="ICBM" content="52.496885, 13.418697" />
+	<meta property="og:locale" content="de_DE" />
+	<meta property="og:site_name" content="{{ site.title }}" />	
 	<base href="{{site.url}}/" />
+	<meta name="twitter:site" content="{{site.url}}/" />
+	<meta property="og:url" content="{{ page.url | prepend:site.url }}" />	
+	<meta name="twitter:card" content="summary_large_image" />
 	<link type="text/css" rel="stylesheet" href="http://fast.fonts.net/cssapi/78b7c7e4-d03d-4af2-8e78-1a950f9eb329.css" />
 	<link rel="stylesheet" href="{{ "main.css" | prepend: site.baseurl }}" />
 	<link rel="apple-touch-icon" sizes="57x57" href="{{ "/img/apple-icon-57x57.png" | prepend: site.baseurl }}"/>
@@ -27,12 +36,20 @@
 	<meta name="msapplication-TileColor" content="#ffffff"/>
 	<meta name="msapplication-TileImage" content="{{ "/img/ms-icon-144x144.png" | prepend: site.baseurl }}"/>
 	<meta name="theme-color" content="#ffffff"/>
-{% if page.description %}	<meta name="description" content="{{ page.description }}" />
+{% if page.description %}	
+	<meta name="description" content="{{ page.description }}" />
 	<meta name="og:description" content="{{ page.description }}" />
-{% else %}	<meta name="description" content="{{ page.content | markdownify | replace:'"','' | strip_html | strip_newlines | replace:'.','. ' | truncatewords: 20 }}" />
-    	<meta name="og:description" content="{{ page.content | markdownify | replace:'"','' | strip_html | strip_newlines | replace:'.','. ' | truncatewords: 20 }}" />{% endif %}
+    <meta property="twitter:description" content="{{ page.description }}" />
+{% else %}
+	<meta name="description" content="{{ page.content | markdownify | replace:'"','' | strip_html | strip_newlines | replace:'.','. ' | truncatewords: 20 }}" />
+   	<meta name="og:description" content="{{ page.content | markdownify | replace:'"','' | strip_html | strip_newlines | replace:'.','. ' | truncatewords: 20 }}" />
+   	<meta property="twitter:description" content="{{ page.content | markdownify | replace:'"','' | strip_html | strip_newlines | replace:'.','. ' | truncatewords: 20 }}" />
+{% endif %}
 {% if page.tags %}	<meta name="keywords" content="{{ page.tags | join: "," }}" />{% endif %}
-{% if page.images %}	<meta property="og:image" content="http://res.cloudinary.com/{{site.cloudinaryaccount}}/image/fetch/w_520,q_88,f_auto,fl_progressive,fl_force_strip/{% for image in page.images limit:1 %}{{ image | prepend: site.url }}{% endfor %}" />{% endif %}
+{% if page.images %}
+	<meta property="og:image" content="http://res.cloudinary.com/{{site.cloudinaryaccount}}/image/fetch/w_520,q_88,f_auto,fl_progressive,fl_force_strip/{% for image in page.images limit:1 %}{{ image | prepend: site.url }}{% endfor %}" />
+	<meta name="twitter:image" content="http://res.cloudinary.com/{{site.cloudinaryaccount}}/image/fetch/w_520,q_88,f_auto,fl_progressive,fl_force_strip/{% for image in page.images limit:1 %}{{ image | prepend: site.url }}{% endfor %}" />
+{% endif %}
 
 {% if site.cloudinaryaccount %}
 	<script>
