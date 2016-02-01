@@ -17,7 +17,6 @@ images:
 - /projekte/BZK_Kienbaum/04.jpg
 - /projekte/BZK_Kienbaum/05.jpg
 - /projekte/BZK_Kienbaum/06.jpg
-- /projekte/BZK_Kienbaum/07.jpg
 - /projekte/BZK_Kienbaum/08.jpg
 - /projekte/BZK_Kienbaum/09.jpg
 captions:
@@ -27,7 +26,6 @@ captions:
 - Training mit Ausblick
 - Nord-Ost-Fassade der Halle
 - Südfassade mit vorgelagertem Bogenschießplatz
-- Technikgang zur Wartung über Gitterrostebenen
 - Gymnastikraum im 1. OG mit Einblick in die Halle
 - Umkleideraum im 1. OG mit Einblick in die Halle
 ---
