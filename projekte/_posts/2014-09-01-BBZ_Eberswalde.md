@@ -16,7 +16,6 @@ images:
 - /projekte/BBZ_Eberswalde/03.jpg
 - /projekte/BBZ_Eberswalde/04.jpg
 - /projekte/BBZ_Eberswalde/05.jpg
-- /projekte/BBZ_Eberswalde/06.jpg
 - /projekte/BBZ_Eberswalde/07.jpg
 - /projekte/BBZ_Eberswalde/08.jpg
 - /projekte/BBZ_Eberswalde/09.jpg
@@ -29,7 +28,6 @@ captions:
 - Haupteingang des umgebauten Bürgerbildungszentrums
 - Neubau mit Kita und Bibliothek
 - Eingang zur Kita "Haus der kleinen Forscher"
-- Kita Innenraum
 - Bibliothek mit Ausblick
 - Bürgersaal mit original erhaltener Kassettendecke
 - Café
@@ -43,7 +41,7 @@ Adresse			|	Puschkinstraße 13, 16225 Eberswalde
 Bauherr			|	Stadt Eberswalde - Amt für Hochbau und Gebäudewirtschaft
 BGF				|	4.800 m²
 Fertigstellung	|	September 2014
-Projektteam	|	Arthur Numrich, Ralf Nägele
-Haustechnik	|	Projektbüro Dörner & Partner GmbH, Eberswalde
+Projektteam		|	Arthur Numrich, Ralf Nägele
+Haustechnik		|	Projektbüro Dörner & Partner GmbH, Eberswalde
 Außenanlagen	|	Landschafts.Architektur Birgit Hammer, Berlin
 Projektfotos	|	[Nina Straßgütl](http://www.ninastrg.de/)
