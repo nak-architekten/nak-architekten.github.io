@@ -20,6 +20,8 @@ captions:
 - Baustelle
 - Außenperspektive
 - Innenraumperspektive
+- Baustelle Januar 2016
+- Baustelle Messingfassadendetail
 ---
 Der Neubau der Zweifeldhalle bildet den Schlusspunkt einer städte­baulichen Entwicklungsmaßnahme der Stadt Hohen Neuendorf. Gemeinsam mit der bestehenden Sporthalle, dem Schul- und dem Hortgebäude bildet die neue Sporthalle das Schul- und Sportzentrum Borgsdorf. Durch die Absenkung der Spielfeldebene verringert sich das oberirdische Gebäudevolumen. Dadurch vermittelt die Sporthalle in der Höhenentwicklung zwischen dem angrenzenden eingeschossigen Sportfunktionsgebäude und der Grundschule.
 
