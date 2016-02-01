@@ -16,10 +16,10 @@ images:
 - /projekte/BWS_Schleife/03.jpg
 - /projekte/BWS_Schleife/04.jpg
 captions:
-- XXX
-- XXX
-- XXX
-- XXX
+- Wegekonzept und Hofanlage
+- Wegekonzept und Hofanlage
+- Barrierefreie Erschließung
+- Variable Wohnausstattung
 ---
 Die Wohneinheiten für Jung und Alt gruppieren sich um zwei Hofanlagen. Damit wird die ortstypische, historische Struktur des Vierseithofes aufgegriffen und die Freiflächen bieten sich als Kommunikationsräume an. Die Anlage liegt neben einem "sozialen Zentrum", das unterschiedliche Pflegeleistungen anbietet. Ein Fußwegekonzept verbindet die barrierefreie Anlage mit einer Parkpromenade und Spielflächen entlang der nahe gelegenen Struga. Alle Wohnungen besitzen einen separaten Zugang und private Terrassen oder Loggien, um neben Gemeinschaftlichkeit auch ausreichend Privatsphäre zu gewähren. Bei der Wohnungsausstattung hatten die künftigen Mieter vielfältige Wahlmöglichkeiten. 
 
