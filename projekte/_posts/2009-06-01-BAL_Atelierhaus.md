@@ -15,7 +15,6 @@ images:
 - /projekte/BAL_Atelierhaus/01.jpg
 - /projekte/BAL_Atelierhaus/02.jpg
 - /projekte/BAL_Atelierhaus/03.jpg
-- /projekte/BAL_Atelierhaus/04.jpg
 - /projekte/BAL_Atelierhaus/05.jpg
 - /projekte/BAL_Atelierhaus/06.jpg
 - /projekte/BAL_Atelierhaus/07.jpg
@@ -24,7 +23,6 @@ captions:
 - Baukörper mit Oberlichtsheds und Wohnbereich im Obergeschoss
 - Eingangstor zur Anlieferung großformatiger Skulpturen
 - Arbeitsraumraum
-- Laufkran zur Beförderung der Skulpturen innerhalb des Ateliers
 - Arbeitsraum mit Galerie 
 - Aufgang zur Galerie
 - Oberlichtsheds innen
