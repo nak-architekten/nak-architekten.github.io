@@ -9,7 +9,7 @@ shorttitle: Zweifeldsporthalle Weinberg-Gymnasium
 permalink: /projekte/GAW_Kleinmachnow/
 tags: 
 - Sport
-projectpage: /projekte/GAW_Kleinmachnow/00_Projektpage.jpg
+projectpage: /projekte/GAW_Kleinmachnow/00_Projektpage_v2.jpg
 images:
 - /projekte/GAW_Kleinmachnow/01.jpg
 - /projekte/GAW_Kleinmachnow/02.jpg
