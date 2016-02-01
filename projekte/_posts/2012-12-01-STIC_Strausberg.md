@@ -5,7 +5,7 @@ categories:
 date: 2012-12-01
 published: true
 title: Neubau eines Gründerzentrums mit Labor-, Konferenz und Büroräumen im Strausberger Technologie- und Innovationszentrum
-shorttitle: Gründerzentrum
+shorttitle: Gründerzentrum Strausberg
 permalink: /projekte/STIC_Strausberg/
 tags: 
 - Arbeiten
