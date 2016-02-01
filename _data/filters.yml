@@ -17,6 +17,10 @@
     - Institut
     - Gesundheit
 
+- name: Wohnen
+  tags:
+    - Wohnen
+
 - name: Wettbewerbe + Studien
   tags:
     - Wettbewerb
