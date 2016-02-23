@@ -6,17 +6,17 @@ date: 2014-03-01
 published: true
 title: Denkmalgerechte Sanierung der Wilhelm-von-Humboldt-Gemeinschaftsschule
 shorttitle: Sanierung der Humboldt-Schule
-permalink: /projekte/HUMG_Schulgebaeude/
+permalink: /projekte/HUMM_Schulgebaeude/
 tags: 
 - Bildung
-projectpage: /projekte/HUMG_Schulgebaeude/05.jpg
+projectpage: /projekte/HUMM_Schulgebaeude/05.jpg
 images:
-- /projekte/HUMG_Schulgebaeude/01.jpg
-- /projekte/HUMG_Schulgebaeude/02.jpg
-- /projekte/HUMG_Schulgebaeude/03.jpg
-- /projekte/HUMG_Schulgebaeude/04.jpg
-- /projekte/HUMG_Schulgebaeude/05.jpg
-- /projekte/HUMG_Schulgebaeude/06.jpg
+- /projekte/HUMM_Schulgebaeude/01.jpg
+- /projekte/HUMM_Schulgebaeude/02.jpg
+- /projekte/HUMM_Schulgebaeude/03.jpg
+- /projekte/HUMM_Schulgebaeude/04.jpg
+- /projekte/HUMM_Schulgebaeude/05.jpg
+- /projekte/HUMM_Schulgebaeude/06.jpg
 captions:
 - Gebäude Rückseite
 - Fassadendetail

@@ -4,8 +4,8 @@ categories:
 - projekt
 date: 2009-09-16
 published: true
-title: 1. Preis im Wettbewerb für Umbau und Erweiterung der "Charlotte-Pfeffer-Schule" zu einer Sonderschule mit dem Schwerpunkt »Geistige Entwicklung«.
-shorttitle: Förderzentrum Charlotte-Pfeffer-Schule
+title: Umbau und Erweiterung der "Charlotte-Pfeffer-Schule" zu einer Förderschule mit dem Schwerpunkt »Geistige Entwicklung«
+shorttitle: 1. Preis // Förderschule Charlotte-Pfeffer
 permalink: /projekte/WBW_BSB-Charlotte-Pfeffer/
 tags: 
 - Wettbewerb

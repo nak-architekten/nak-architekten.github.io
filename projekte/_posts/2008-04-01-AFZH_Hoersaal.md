@@ -4,7 +4,7 @@ categories:
 - projekt
 date: 2008-04-01
 published: true
-title: Neubau eines Hörsaalgebäude für das Bildungszentrum der Finanzverwaltung des Landes Brandenburg
+title: Neubau eines Hörsaalgebäudes für das Bildungszentrum der Finanzverwaltung des Landes Brandenburg
 shorttitle: Hörsaalgebäude Finanzverwaltung
 permalink: /projekte/AFZH_Hoersaal/
 tags: 
@@ -31,7 +31,7 @@ captions:
 - Mehrzweckraum mit Hofzugang
 - Ansteigender Hörsaal
 ---
-Das Hörsaalgebäudes ist Teil eines neuen Gebäudeensembles auf dem Campus des Bildungszentrums der Finanzverwaltung des Landes Brandenburg. Das Gebäude umschließt einen Innenhof und öffnet sich im Erdgeschoss zur Campusstraße. Dieser Übergang in den Hof ist signifikant baulich durch den ansteigenden Hörsaal gestaltet. Hörsaal, Seminarräume und die Bibliothek werden über den Innenhof erschlossen, der als „offenes“ Foyer und
+Das Hörsaalgebäude ist Teil eines neuen Gebäudeensembles auf dem Campus des Bildungszentrums der Finanzverwaltung des Landes Brandenburg. Das Gebäude umschließt einen Innenhof und öffnet sich im Erdgeschoss zur Campusstraße. Dieser Übergang in den Hof ist signifikant baulich durch den ansteigenden Hörsaal gestaltet. Hörsaal, Seminarräume und die Bibliothek werden über den Innenhof erschlossen, der als „offenes“ Foyer und
 Pausenhof genutzt wird.
 
 Adresse				|	Schillerstraße 6 · 15711 Königs Wusterhausen 

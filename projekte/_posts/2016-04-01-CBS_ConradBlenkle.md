@@ -2,7 +2,7 @@
 layout: post
 categories:
 - projekt
-date: 2016-04-01
+date: 2016-02-01
 published: true
 title: Sanierung und Modernisierung des Wohnheimes Conrad-Blenkle-Straße
 shorttitle: Wohnheim Conrad-Blenkle-Straße

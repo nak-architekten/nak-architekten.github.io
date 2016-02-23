@@ -5,7 +5,7 @@ categories:
 date: 2015-07-23
 published: true
 title: Hospizneubau
-shorttitle: 1. PREIS // Hospizneubau
+shorttitle: 3. PREIS // Hospizneubau
 permalink: /projekte/WBW_HNL_Hospiz/
 tags: 
 - Wettbewerb
@@ -24,5 +24,5 @@ Der L-förmige Baukörper nimmt sowohl die Bauflucht der Bussestraße als auch d
 Adresse				|	Kurzen Straße 4 · 14943 Luckenwalde
 Auslober			|	Deutsches Rotes Kreuz Kreisverband Fläming-Spreewald e.V.
 Preisgericht		|	23. Juli 2015
-Platzierung			|	3. Platz
+Platzierung			|	3. Preis
 Projektteam			|	Tiemo Klumpp · Michael Filser

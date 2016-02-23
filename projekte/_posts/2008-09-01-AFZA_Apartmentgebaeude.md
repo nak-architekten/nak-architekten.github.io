@@ -6,18 +6,18 @@ date: 2008-09-01
 published: true
 title: Umbau und Sanierung des Apartmentgebäudes Haus 5 im Bildungszentrum der Finanzverwaltung des Landes Brandenburg
 shorttitle: Apartmentgebäude Haus 5
-permalink: /projekte/AFZ_Apartmentgebaeude/
+permalink: /projekte/AFZA_Apartmentgebaeude/
 tags: 
-- Arbeiten
-projectpage: /projekte/AFZ_Apartmentgebaeude/03.jpg
+- Wohnen
+projectpage: /projekte/AFZA_Apartmentgebaeude/03.jpg
 images:
-- /projekte/AFZ_Apartmentgebaeude/01.jpg
-- /projekte/AFZ_Apartmentgebaeude/02.jpg
-- /projekte/AFZ_Apartmentgebaeude/03.jpg
-- /projekte/AFZ_Apartmentgebaeude/04.jpg
-- /projekte/AFZ_Apartmentgebaeude/05.jpg
-- /projekte/AFZ_Apartmentgebaeude/06.jpg
-- /projekte/AFZ_Apartmentgebaeude/07.jpg
+- /projekte/AFZA_Apartmentgebaeude/01.jpg
+- /projekte/AFZA_Apartmentgebaeude/02.jpg
+- /projekte/AFZA_Apartmentgebaeude/03.jpg
+- /projekte/AFZA_Apartmentgebaeude/04.jpg
+- /projekte/AFZA_Apartmentgebaeude/05.jpg
+- /projekte/AFZA_Apartmentgebaeude/06.jpg
+- /projekte/AFZA_Apartmentgebaeude/07.jpg
 captions:
 - Nach dem Umbau
 - Vor dem Umbau
