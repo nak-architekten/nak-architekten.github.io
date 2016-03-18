@@ -21,7 +21,7 @@ captions:
 - Mit Hörsaalgebäude im Fotohintergrund
 - Eingangsbereich
 - Eingangsbereich
-- Kunst am Bau: Farbkonzept von Rodney LaTourelle
+- "Kunst am Bau: Farbkonzept von Rodney LaTourelle"
 - Innenhof
 - Seminarraum
 ---
