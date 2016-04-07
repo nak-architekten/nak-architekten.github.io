@@ -9,13 +9,13 @@ shorttitle: Wohnheim Conrad-Blenkle-Straße
 permalink: /projekte/CBS_ConradBlenkle/
 tags: 
 - Wohnen
-projectpage: /projekte/CBS_ConradBlenkle/05.jpg
+projectpage: /projekte/CBS_ConradBlenkle/00_Projektpage.jpg
 images:
 - /projekte/CBS_ConradBlenkle/01.jpg
 - /projekte/CBS_ConradBlenkle/02.jpg
 - /projekte/CBS_ConradBlenkle/03.jpg
-- /projekte/CBS_ConradBlenkle/04.jpg
-- /projekte/CBS_ConradBlenkle/05.jpg
+- /projekte/CBS_ConradBlenkle/04v2.jpg
+- /projekte/CBS_ConradBlenkle/05v2.jpg
 captions:
 - Außenperspektive
 - Außenperspektive
@@ -23,7 +23,7 @@ captions:
 - Bestand bei Ortsbegehung
 - Bestandsfassade bei Ortsbegehung
 ---
-Das elfgeschossige ehemalige Internatsgebäude, ein Typenbau aus der DDR-Zeit, soll für eine Nutzung als Flüchtlings- bzw. Studentenwohnheim ertüchtigt werden.
+Das elfgeschossige ehemalige Internatsgebäude, ein Typenbau aus der DDR-Zeit, soll für eine Nutzung als Wohnheim ertüchtigt werden.
 
 Adresse						|	Conrad-Blenkle-Straße · 10367 Berlin
 Bauherr						|	Wohnungsbaugesellschaft Berlin-Mitte mbH
