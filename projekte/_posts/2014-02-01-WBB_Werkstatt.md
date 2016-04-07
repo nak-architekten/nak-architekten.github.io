@@ -18,8 +18,9 @@ images:
 - /projekte/WBB_Werkstatt/05.jpg
 - /projekte/WBB_Werkstatt/06.jpg
 captions:
-- im Umfeld
 - Anbau
+- Anbau
+- im Umfeld
 - Werkstatt Detail
 - Werkstattgeschoß
 - Fassade mit wechselnden Fenster- und Putzbändern
