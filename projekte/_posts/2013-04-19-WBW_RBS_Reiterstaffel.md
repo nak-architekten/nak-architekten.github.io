@@ -4,24 +4,24 @@ categories:
 - projekt
 date: 2013-04-19
 published: true
-title: Verhandlungsverfahren zum Neubau eines Gebäudekomplexes für die Reiterstaffel der Bundespolizei
-shorttitle: BAUSTELLE // Reiterstaffel
+title: Neubau eines Gebäudekomplexes für die Reiterstaffel der Bundespolizei
+shorttitle: Reiterstaffel der Bundespolizei
 permalink: /projekte/WBW_RBS_Reiterstaffel/
 tags: 
 - Arbeiten
 projectpage: /projekte/WBW_RBS_Reiterstaffel/00_Projektpage.jpg
 images:
 - /projekte/WBW_RBS_Reiterstaffel/01.jpg
-- /projekte/WBW_RBS_Reiterstaffel/02.jpg
-- /projekte/WBW_RBS_Reiterstaffel/03.jpg
-- /projekte/WBW_RBS_Reiterstaffel/04.jpg
-- /projekte/WBW_RBS_Reiterstaffel/05.jpg
+- /projekte/WBW_RBS_Reiterstaffel/02v2.jpg
+- /projekte/WBW_RBS_Reiterstaffel/03v2.jpg
+- /projekte/WBW_RBS_Reiterstaffel/04v2.jpg
+- /projekte/WBW_RBS_Reiterstaffel/05v2.jpg
 captions:
 - Außenperspektive
-- Grundriss
-- Fachwerkkonstruktion
-- Richtfest vor der Reithalle
+- Dachtragwerk
+- Richtfest
 - Zukünftiger Boxengang
+- Reithalle
 ---
 Die Reiterstaffel der Bundespolizei entsteht auf dem 2,5 ha großen Gelände nördlich der Alten Potsdamer Landstraße in Stahnsdorf. Das Dienstgebäude für 43 Beschäftigte, Stallungen für die Unterbringung von 30 Pferden und die Reithalle mit Tribüne gruppieren sich um einen offenen Wirtschaftshof. Ein einheitliches flach geneigtes Pultdach sowie der Einsatz von Holz in Konstruktion und Fassade verstärken die Ensemblebildung der drei neuen Gebäude. Ein Außenreitplatz, ein Longierzirkel, Führanlagen und Pferdekoppeln bestimmen auch weiterhin die landwirtschaftliche Prägung des Standortes.
 
