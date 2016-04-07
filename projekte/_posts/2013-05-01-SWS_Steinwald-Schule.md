@@ -41,7 +41,7 @@ Bauherr			|	BA Tempelhof-Schöneberg von Berlin, SE Facility Management
 BGF				|	5.630 m²
 Fertigstellung	|	Mai 2013
 Projektteam		|	Arthur Numrich · Astrid Hiljegerdes 
-Tragwerksplanung	|	Pichler Ingenieure GmbH, Berlin
+Tragwerksplanung	|	[Pichler Ingenieure GmbH, Berlin](http://www.pichleringenieure.de/)
 Haustechnik		|	MMP Ingenieurgesellschaft mbH / Ingo Acker Ingenieure
 Außenanlagen	|	KuBuS Freiraumplanung GbR	
 Kunst am Bau	|	Monika Jarecka (Foto: M. Jarecka)
