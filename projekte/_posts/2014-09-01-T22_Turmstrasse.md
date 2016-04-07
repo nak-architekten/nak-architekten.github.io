@@ -19,7 +19,7 @@ images:
 captions:
 - Gebäude nach dem Umbau
 - Originalzustand
-- Ausgebaute Straßenfront
+- Detail Straßenfassade
 - Detail Fassade und Fenster
 - Rückseitiger Komplex
 ---
