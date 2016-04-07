@@ -5,7 +5,7 @@ categories:
 date: 2010-06-15
 published: true
 title: Neubau der Hochschule Hamm-Lippstadt
-shorttitle: 2. PREIS // Hochschul-Neubau
+shorttitle: 2. PREIS // Hochschul-Neubau in Hamm.Lippstadt
 permalink: /projekte/WBW_HHL_Lippstadt/
 tags: 
 - Wettbewerb
