@@ -5,7 +5,7 @@ categories:
 date: 2008-03-01
 published: true
 title: Umbau und Sanierung des Laborgebäude des Instituts für Gemüse- und Zierpflanzenbau
-shorttitle: Laborgebäude
+shorttitle: Laborgebäude Großbeeren
 permalink: /projekte/IGZ_Grossbeeren/
 tags: 
 - Institut
@@ -22,7 +22,7 @@ images:
 captions:
 - Zwischen Gewächshäusern
 - Originalzustand Plattenbau
-- Umgebauter Bestandsbau
+- nach Umbau
 - Foyer
 - Flur
 - Flur Detail
