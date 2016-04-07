@@ -9,6 +9,7 @@ shorttitle: 1. PREIS // Förderschule Charlotte-Pfeffer
 permalink: /projekte/WBW_BSB-Charlotte-Pfeffer/
 tags: 
 - Wettbewerb
+- Bildung
 projectpage: /projekte/WBW_BSB-Charlotte-Pfeffer/02.jpg
 images:
 - /projekte/WBW_BSB-Charlotte-Pfeffer/01.jpg

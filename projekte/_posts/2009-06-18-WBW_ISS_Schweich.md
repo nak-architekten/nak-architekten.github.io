@@ -9,6 +9,7 @@ shorttitle: 1. PREIS // Integrative Schule in Schweich
 permalink: /projekte/WBW_ISS_Schweich/
 tags: 
 - Wettbewerb
+- Bildung
 projectpage: /projekte/WBW_ISS_Schweich/02.jpg
 images:
 - /projekte/WBW_ISS_Schweich/01.jpg

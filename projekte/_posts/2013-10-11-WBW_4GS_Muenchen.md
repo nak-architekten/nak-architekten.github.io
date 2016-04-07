@@ -9,6 +9,7 @@ shorttitle: 3. PREIS // Vier Grundschulen
 permalink: /projekte/WBW_4GS_Muenchen/
 tags: 
 - Wettbewerb
+- Bildung
 projectpage: /projekte/WBW_4GS_Muenchen/05-FHN.jpg
 images:
 - /projekte/WBW_4GS_Muenchen/01.jpg
