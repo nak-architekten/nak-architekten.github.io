@@ -4,8 +4,8 @@ categories:
 - projekt
 date: 2008-04-01
 published: true
-title: Neubau eines Seminargebäudes für das Bildungszentrum der Finanzverwaltung des Landes Brandenburg
-shorttitle: Seminargebäude Finanzverwaltung
+title: Neubau eines Seminargebäudes für das Aus- und Fortbildungzentrums des Landes Brandenburg
+shorttitle: Seminargebäude AFZ Königs Wusterhausen
 permalink: /projekte/AFZS_Seminargebaeude/
 tags: 
 - Institut
