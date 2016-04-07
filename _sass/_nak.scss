@@ -886,8 +886,8 @@ a .news:hover{
 
 /* extra setting for screens over 1600px */
 @media screen and (min-width: 1600px) {
-	.project-tile {
-		width: 20%;
+	.col-xl-3 {
+		width: 25%;
 	}
 }
 
