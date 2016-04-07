@@ -9,6 +9,7 @@ shorttitle: 2. PREIS // Hochschul-Neubau in Hamm.Lippstadt
 permalink: /projekte/WBW_HHL_Lippstadt/
 tags: 
 - Wettbewerb
+- Institut
 projectpage: /projekte/WBW_HHL_Lippstadt/02.jpg
 images:
 - /projekte/WBW_HHL_Lippstadt/01.jpg
