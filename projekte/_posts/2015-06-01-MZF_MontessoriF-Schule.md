@@ -22,14 +22,14 @@ images:
 - /projekte/MZF_MontessoriF-Schule/09.jpg
 captions:
 - Komplex mit Kitagebäude
-- Zugang vom 1.OG zum Foyer
+- Foyer
 - Foyer und Eingang
 - Klassenraum mit integrierter Küchenzeile
 - Flur als Lernbereich mit Sitz- und Sichtfenster
 - Kunstterrasse im Anschluss an den Zeichensaal
 - Lichtdurchfluteter Treppenbereich
 - Aufgang vom Foyer
-- Galerie mit Blicks auf die Sporthalle
+- Galerie mit Blick auf die Sporthalle
 ---
 Das winkelförmige, dreigeschossige Schulgebäude mit integrierter Sporthalle bildet mit dem eingeschossigen Kinderhaus ein städtebauliches Ensemble um einen gemeinsamen Schulhof. In intensiver Abstimmung mit dem „Montessori Landkreis Freising e.V.“ wurde das pädagogische Montessorikonzept in ein räumliches Konzept umgewandelt. Im Sinne der Montessoripädagogik sind die Funktionen klar und übersichtlich geordnet. In einem gestalterischen Gesamtkonzept werden Klassen- und Gruppenräume, Erschließungsflächen und Freianlagen zu einem lebendigen „Lebensraum Schule“ miteinander verbunden.
 
