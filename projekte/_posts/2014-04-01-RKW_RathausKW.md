@@ -25,7 +25,7 @@ captions:
 - Standesamt-Terrasse mit Zugang zum Trauzimmer
 - Sitzungssaal mit mobiler Trennwand
 - Eingang zum Sitzungssaal
-- Splitlevel
+- Foyer
 - Verbindungsgang mit Ausblick auf den Vorplatz
 - Verbindungsgang und variierende Dachschrägen
 ---
