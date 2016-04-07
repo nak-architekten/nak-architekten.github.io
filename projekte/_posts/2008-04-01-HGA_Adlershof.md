@@ -5,7 +5,7 @@ categories:
 date: 2008-04-01
 published: true
 title: Umbau eines Flugzeughangars zu einer Sporthalle mit Anbau
-shorttitle: Flugzeughangar zu Sporthalle
+shorttitle: Flugzeughangar zu Sporthalle in Adlershof
 permalink: /projekte/HGA_Adlershof/
 tags: 
 - Sport
