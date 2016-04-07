@@ -5,7 +5,7 @@ categories:
 date: 2009-06-18
 published: true
 title: Neubau einer integrativen Schule
-shorttitle: 1. PREIS // Integrative Schule
+shorttitle: 1. PREIS // Integrative Schule in Schweich
 permalink: /projekte/WBW_ISS_Schweich/
 tags: 
 - Wettbewerb
@@ -19,11 +19,10 @@ captions:
 ---
 Alle unterschiedlichen Funktionsbereiche der Schule sind als eigenständige Baukörper ablesbar. Die funktionale Gliederung der Schulbereiche in die jeweiligen Cluster und Geschosse erfüllt die Anforderungen an einen optimalen schulischen Betriebsablauf. Sämtliche Bereiche – nicht zuletzt der Sportkomplex mit Turnhalle und Bewegungsbad – werden über eine "Schulstraße" erschlossen, deren Linearität eine gute Orientierung ermöglicht. Mehrzweckraum und Mensa liegen direkt neben dem Haupteingang und bilden das Herz der Schule. Von hier aus können zwei der drei Außenbereiche aufgesucht werden.
 
-Adresse			|	Mittelstraße 1 · 03130 Spremberg
-Auslober		|	Landkreis Spree-Neiße, Dezernat 1 – Fachbereich Bau und Planung
-Preisgericht	|	18. Juni 2009
+Adresse			|	54338 Schweich, Kreis Trier-Saarburg
+Auslober		|	Zweckverband Integratives Schulprojekt Schweich
+Preisgericht	|	02/ 2015
 Platzierung		|	1. Preis
 BGF				|	12.000 m² (NF 8.200 m²)
 Baubeginn		|	2017
 Fertigstellung	|	2020
-Projektteam		|	Arthur Numrich · Tiemo Klumpp · Michael Filser · Julian Wagner · Douglas Kirk
