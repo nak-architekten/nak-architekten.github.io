@@ -19,7 +19,7 @@ captions:
 - Lageplanausschnitt
 - Modell
 ---
-Aus Mangel an Grundschulplätzen­ sind berlin­weit modulare Erweiterungsbau­ten ­ge­plant. Für die Erweiterung der Emanuel-Lasker-Schule soll ein Verbindungsbau zwischen dem denkmalgeschützte Schulgebäude, dem Erweiterungsbau entstehen. Der Schulkomplex wird außerdem um eine Zweifeldsporthalle ergänzt.
+Für die Erweiterung der Emanuel-Lasker-Schule soll ein Verbindungsbau zwischen dem denkmalgeschützte Schulgebäude und einem modularen Erweiterungsbau entstehen. Der Schulkomplex wird außerdem um eine Zweifeldsporthalle ergänzt.
 
 Adresse						|	Modersohn-/Corinthstraße · Berlin-Friedrichshain
 Auslober					|	Bezirksamt Friedrichshain-Kreuzberg
