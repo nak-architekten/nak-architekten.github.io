@@ -11,8 +11,8 @@ tags:
 - Wettbewerb
 projectpage: /projekte/WBW_HNL_Hospiz/03.jpg
 images:
-- /projekte/WBW_HNL_Hospiz/01.jpg
-- /projekte/WBW_HNL_Hospiz/02.jpg
+- /projekte/WBW_HNL_Hospiz/01v2.jpg
+- /projekte/WBW_HNL_Hospiz/02v2.jpg
 - /projekte/WBW_HNL_Hospiz/03.jpg
 captions:
 - Außenperspektive
