@@ -5,7 +5,7 @@ categories:
 date: 2009-08-28
 published: true
 title: Erweiterungsbau des Kölner Humboldt-Gymnasiums mit Musikzweig
-shorttitle: 1. PREIS // Gymnasium mit Musikzweig
+shorttitle: 1. PREIS // Erweiterung Humboldt-Gymnasium Köln
 permalink: /projekte/WBW_KTWH_Koeln/
 tags: 
 - Wettbewerb
@@ -26,5 +26,4 @@ Ausloberin						|	Gebäudewirtschaft der Stadt Köln
 Preisgericht					|	28. August 2009
 Platzierung						|	1. Preis
 BGF								|	5.685 m²
-Voraussichtliche Fertigstellung	|	Frühjahr 2018
 Projektteam						|	Arthur Numrich · Tiemo Klumpp · Ulrike Vogel · Julian Wagner · Michael Filser · Christian Schmidt
