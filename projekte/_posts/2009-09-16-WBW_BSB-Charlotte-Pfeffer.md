@@ -5,7 +5,7 @@ categories:
 date: 2009-09-16
 published: true
 title: Umbau und Erweiterung der "Charlotte-Pfeffer-Schule" zu einer Förderschule mit dem Schwerpunkt »Geistige Entwicklung«
-shorttitle: 1. Preis // Förderschule Charlotte-Pfeffer
+shorttitle: 1. PREIS // Förderschule Charlotte-Pfeffer
 permalink: /projekte/WBW_BSB-Charlotte-Pfeffer/
 tags: 
 - Wettbewerb
@@ -31,4 +31,5 @@ Adresse				|	Berolinastraße 8 · 10178 Berlin
 Auslober			|	Senatsverwaltung für Stadtentwicklung Berlin
 BGF					|	8.031 m²
 Preisgericht		|	16. September 2009
-Projektteam			|	Tiemo Klumpp · Astrid Hiljegerdes · Julian Wagner
+Plazierung			|	1. Preis
+Projektteam			|	Arthur Numrich · Grant Kelly · Julian Wagner
