@@ -29,7 +29,9 @@ captions:
 - Haupteingang
 - Nach Südwesten gerichtete, rückseitige Fassade
 ---
-Das Bittelhaus (benannt nach dem ehemaligen DAI-Präsidenten, Baujahr 1978) ist die zentrale Verwaltung und Bibliothek des Deutschen Archäologischen Instituts in Berlin. 
+Die das Erscheinungsbild der Fassade prägenden hochwertigen Gussaluminiumplatten wurden aufgearbeitet und weiterverwendet, die Konstruktion bauphysikalisch und energetisch optimiert. Durch die Sanierungsarbeiten wurde der Energieverbrauch um 75 Prozent, die CO²-Emission um rund 90 Prozent reduziert.
+
+Das Bittelhaus (benannt nach dem ehemaligen DAI-Präsidenten, Baujahr 1978) ist die zentrale Verwaltung und Bibliothek des Deutschen Archäologischen Instituts in Berlin.
 
 Adresse			|	Podbielskiallee 69-71 · 14195 Berlin-Dahlem 	 
 Bauherr			|	Bundeamt für Bauwesen und Raumordnung (BBR)
