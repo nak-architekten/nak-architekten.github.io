@@ -15,7 +15,6 @@ images:
 - /projekte/ASG_Eisenhuettenstadt/02.jpg
 - /projekte/ASG_Eisenhuettenstadt/03.jpg
 - /projekte/ASG_Eisenhuettenstadt/04.jpg
-- /projekte/ASG_Eisenhuettenstadt/05.jpg
 - /projekte/ASG_Eisenhuettenstadt/06.jpg
 - /projekte/ASG_Eisenhuettenstadt/07.jpg
 captions:
@@ -23,7 +22,6 @@ captions:
 - Galerie
 - Zugang zu den Umkleiden
 - Sporthalle mit Lichtband aus transluzenter Profilverglasung
-- Hallendetail
 - Umkleiden
 - Sockel mit Fenstern
 ---
