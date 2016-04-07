@@ -35,9 +35,9 @@ captions:
 - Freitreppe mit Bestandsbekleidung
 - Leuchte Buchstaben auf der Natursteinbrüstung
 - Blick in den Innenhof
-- Sitzungssaal
-- Blick über die Bismarckstraße auf das Schillertheater
-- Mensa
+- Besprechungsraum
+- Gemeinschaftsteeküche mit Blick über die Bismarckstraße
+- Cafeteria
 - Bei Nacht
 - Bei Nacht
 ---
