@@ -4,8 +4,8 @@ categories:
 - projekt
 date: 2008-04-01
 published: true
-title: Neubau eines Hörsaalgebäudes für das Bildungszentrum der Finanzverwaltung des Landes Brandenburg
-shorttitle: Hörsaalgebäude Finanzverwaltung
+title: Neubau eines Hörsaalgebäudes für das Aus- und Fortbildungzentrums des Landes Brandenburg
+shorttitle: Hörsaalgebäude AFZ Königs Wusterhausen
 permalink: /projekte/AFZH_Hoersaal/
 tags: 
 - Institut
