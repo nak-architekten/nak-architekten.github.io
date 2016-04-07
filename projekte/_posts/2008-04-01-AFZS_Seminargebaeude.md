@@ -18,7 +18,7 @@ images:
 - /projekte/AFZS_Seminargebaeude/05.jpg
 - /projekte/AFZS_Seminargebaeude/06.jpg
 captions:
-- Mit Hörsaalgebäude im Fotohintergrund
+- Eingang Seminargebäude mit Blick auf Hörsaalgebäude
 - Eingangsbereich
 - Eingangsbereich
 - "Kunst am Bau: Farbkonzept von Rodney LaTourelle"
