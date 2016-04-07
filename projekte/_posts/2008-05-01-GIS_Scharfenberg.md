@@ -14,14 +14,12 @@ images:
 - /projekte/GIS_Scharfenberg/01.jpg
 - /projekte/GIS_Scharfenberg/02.jpg
 - /projekte/GIS_Scharfenberg/03.jpg
-- /projekte/GIS_Scharfenberg/04.jpg
 - /projekte/GIS_Scharfenberg/05.jpg
 - /projekte/GIS_Scharfenberg/06.jpg
 captions:
 - Leicht gewinkelter Baukörper im grünen Umfeld
 - Neubau und Pergolengang zum Altbau
 - Neubau und Pergolengang zum Altbau
-- Flur mit Ausblick
 - Einblick in einen Klassenraum
 - Fachraum mit Ausblick
 ---
