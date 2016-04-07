@@ -13,7 +13,7 @@ tags:
 homepage: /projekte/KAS_BerlinLichtenberg/00_Titel.jpg
 projectpage: /projekte/KAS_BerlinLichtenberg/02.jpg
 images:
-- /projekte/KAS_BerlinLichtenberg/01.jpg
+- /projekte/KAS_BerlinLichtenberg/01v2.jpg
 - /projekte/KAS_BerlinLichtenberg/02.jpg
 - /projekte/KAS_BerlinLichtenberg/03.jpg
 - /projekte/KAS_BerlinLichtenberg/04.jpg
@@ -36,7 +36,7 @@ captions:
 - Mehrzweckraum mit barrierefrei zugänglicher Bühne und Zugang zum Hof
 - Sporthalle mit Tageslichtkuppeln
 - Barrierefreies Bewegungsbad für Therapiezwecke ausgestattet
-- Horizontales Farbband
+- Nische vor Klassenraum
 - Horizontale Farbsystematik
 ---
 Die barrierefreie Schule mit sonderpädagogischem Förderschwerpunkt „Geistige Entwicklung” umfasst einen Neubau mit Therapiebereich, Therapieschwimmbad und einer Dreifeldsporthalle. Neben dem Schulgebäude selbst stehen ein „Ruhehof“ und ein „aktiver Hof“  sowie weit­läufige Außenanlagen zur Verfügung.
