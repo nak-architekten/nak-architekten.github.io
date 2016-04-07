@@ -24,7 +24,7 @@ images:
 - /projekte/BBZ_Eberswalde/12.jpg
 captions:
 - Neubau und Bestandsgebäude mit Treppe zu Forum und Café
-- Historische Ansicht des Bürgerbildungszentrums
+- Historische Ansicht des Altbaus
 - Haupteingang des umgebauten Bürgerbildungszentrums
 - Neubau mit Kita und Bibliothek
 - Eingang zur Kita "Haus der kleinen Forscher"
