@@ -6,7 +6,7 @@ var host = location.href;
 // when the DOM is ready, run all this functions
 function init() {
 
-	if(carouselItems){
+	if($('body').hasClass('home') && carouselItems){
 			r = getRandomArbitrary(0,carouselItems-1);
 			$(".home #carousel-promotion-slides").carousel(r);
 	};
