@@ -6,6 +6,11 @@ var host = location.href;
 // when the DOM is ready, run all this functions
 function init() {
 
+	if(carouselItems){
+			r = getRandomArbitrary(0,carouselItems-1);
+			$(".home #carousel-promotion-slides").carousel(r);
+	};
+
 	$("a[href^='http']").attr('target','_blank');
 
 	/* set firefox as html class */
@@ -276,6 +281,10 @@ function loadFurtherCarouselSlides(){
 function preload(imgUrl) {
 	// console.log('preload: ' + imgUrl);
 	$('<img />').attr('src',imgUrl).appendTo('body').hide();
+}
+
+function getRandomArbitrary(min, max) {
+	return Math.floor(Math.random() * (max - min +1)) + min;
 }
 
 $(document).ready(function() {
