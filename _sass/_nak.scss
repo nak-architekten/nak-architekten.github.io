@@ -347,12 +347,10 @@ a.logo, a.logo:hover {
 }
 
 #promotion-slides .carousel-caption a span.text {
-	max-height: 19px;
 	max-width: 65%;
 	display: inline-block;
 	text-overflow: ellipsis;
 	display: inline-block;
-	height: 19px;
 	line-height: 15px;
 	margin-top: -4px;
 	padding-top: 4px;
@@ -362,7 +360,6 @@ a.logo, a.logo:hover {
 .xs #promotion-slides .carousel-caption a span.text {
 	max-width: 88%;
 	display: inline-block;
-	height: 19px;
 	line-height: 15px;
 	margin-top: -4px;
 }
