@@ -6,9 +6,11 @@ var host = location.href;
 // when the DOM is ready, run all this functions
 function init() {
 
-	if($('body').hasClass('home') && carouselItems){
+	if($('body').hasClass('home')){
+		if(carouselItems){
 			r = getRandomArbitrary(0,carouselItems-1);
 			$(".home #carousel-promotion-slides").carousel(r);
+		}
 	};
 
 	$("a[href^='http']").attr('target','_blank');
