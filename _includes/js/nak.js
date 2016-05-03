@@ -157,13 +157,21 @@ function recalculate() {
 				pixelTeaserWidth = 520;
 				pixelFullWidth = 1200;
 			}
-		}else {
+		}else if ( $(window).width() <= 1599 ) {
 			if(pixelRatio==2){
 				pixelTeaserWidth = 960;
 				pixelFullWidth = 1600;
 			}else{
-				pixelTeaserWidth = 520;
-				pixelFullWidth = 1200;
+				pixelTeaserWidth = 960;
+				pixelFullWidth = 1600;
+			}
+		}else {
+			if(pixelRatio==2){
+				pixelTeaserWidth = 960;
+				pixelFullWidth = 2500;
+			}else{
+				pixelTeaserWidth = 960;
+				pixelFullWidth = 2500;
 			}
 		}
 	}
