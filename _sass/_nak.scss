@@ -388,7 +388,7 @@ a.logo, a.logo:hover {
 /* content element: project tile */
 
 .project-tile {
-	padding: 0 0 0 5px;
+	padding: 0 0 0 25px;
 	margin: 0;
 }
 
@@ -398,7 +398,7 @@ a.logo, a.logo:hover {
 	background-position: center center;
 	background-size: cover;
 	display: block;
-	margin-bottom: 22px;
+	margin-bottom: 25px;
 }
 
 .project-tile .inner-wrap:after {
@@ -412,7 +412,7 @@ a.logo, a.logo:hover {
 	font-weight: normal;
 	font-size: 13px;
 	position: absolute;
-	bottom: -18px;
+	bottom: -19px;
 	left: 0px;
 	background-color: #fff;
 	margin: 0;
@@ -421,6 +421,15 @@ a.logo, a.logo:hover {
 	right: 0;
 	overflow: hidden;
 	text-overflow: ellipsis;
+}
+
+.no-touch .project-tile h3 {
+	visibility: hidden;
+}
+
+.no-touch .project-tile a:hover h3 {
+	visibility: visible;
+	font-weight: normal;
 }
 
 @media screen and (max-width: 549px) {
