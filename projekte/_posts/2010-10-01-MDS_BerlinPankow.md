@@ -9,7 +9,7 @@ shorttitle: Mensa für die Max-Delbrück-Oberschule
 permalink: /projekte/MDS_BerlinPankow/
 tags: 
 - Bildung
-projectpage: /projekte/MDS_BerlinPankow/04.jpg
+projectpage: /projekte/MDS_BerlinPankow/01.jpg
 images:
 - /projekte/MDS_BerlinPankow/01.jpg
 - /projekte/MDS_BerlinPankow/02.jpg

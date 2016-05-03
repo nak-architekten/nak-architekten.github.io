@@ -9,7 +9,7 @@ shorttitle: Machbarkeitsstudie Tuchfabrik Wittstock
 permalink: /projekte/MAT_Wittstock/
 tags: 
 - Studie
-projectpage: /projekte/MAT_Wittstock/00_Projektpage.jpg
+projectpage: /projekte/MAT_Wittstock/01.jpg
 images:
 - /projekte/MAT_Wittstock/01.jpg
 - /projekte/MAT_Wittstock/02.jpg

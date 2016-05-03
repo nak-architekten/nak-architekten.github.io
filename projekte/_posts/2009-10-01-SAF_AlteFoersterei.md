@@ -9,7 +9,7 @@ shorttitle: Großsporthalle »Alte Försterei«
 permalink: /projekte/SAF_AlteFoersterei/
 tags: 
 - Sport
-projectpage: /projekte/SAF_AlteFoersterei/07.jpg
+projectpage: /projekte/SAF_AlteFoersterei/01.jpg
 images:
 - /projekte/SAF_AlteFoersterei/01.jpg
 - /projekte/SAF_AlteFoersterei/02.jpg

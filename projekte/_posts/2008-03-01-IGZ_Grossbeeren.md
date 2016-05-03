@@ -9,7 +9,7 @@ shorttitle: Laborgebäude Großbeeren
 permalink: /projekte/IGZ_Grossbeeren/
 tags: 
 - Institut
-projectpage: /projekte/IGZ_Grossbeeren/00_Projektpage.jpg
+projectpage: /projekte/IGZ_Grossbeeren/03.jpg
 images:
 - /projekte/IGZ_Grossbeeren/01.jpg
 - /projekte/IGZ_Grossbeeren/02.jpg

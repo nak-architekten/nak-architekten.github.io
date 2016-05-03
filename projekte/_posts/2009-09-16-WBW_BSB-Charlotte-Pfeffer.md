@@ -10,7 +10,7 @@ permalink: /projekte/WBW_BSB-Charlotte-Pfeffer/
 tags: 
 - Wettbewerb
 - Bildung
-projectpage: /projekte/WBW_BSB-Charlotte-Pfeffer/02.jpg
+projectpage: /projekte/WBW_BSB-Charlotte-Pfeffer/01.jpg
 images:
 - /projekte/WBW_BSB-Charlotte-Pfeffer/01.jpg
 - /projekte/WBW_BSB-Charlotte-Pfeffer/02.jpg

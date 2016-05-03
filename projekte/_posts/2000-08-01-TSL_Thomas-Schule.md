@@ -9,7 +9,7 @@ shorttitle: Um- und Neubau der denkmalgeschützten Thomas-Schule
 permalink: /projekte/TSL_Thomas-Schule/
 tags: 
 - Bildung
-projectpage: /projekte/TSL_Thomas-Schule/04.jpg
+projectpage: /projekte/TSL_Thomas-Schule/01.jpg
 images:
 - /projekte/TSL_Thomas-Schule/01.jpg
 - /projekte/TSL_Thomas-Schule/02.jpg

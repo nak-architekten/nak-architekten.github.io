@@ -10,7 +10,7 @@ permalink: /projekte/WBW_NCS_Clay-Schule/
 tags: 
 - Bildung
 - Wettbewerb
-projectpage: /projekte/WBW_NCS_Clay-Schule/02.jpg
+projectpage: /projekte/WBW_NCS_Clay-Schule/01.jpg
 images:
 - /projekte/WBW_NCS_Clay-Schule/01.jpg
 - /projekte/WBW_NCS_Clay-Schule/02.jpg

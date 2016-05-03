@@ -9,7 +9,7 @@ shorttitle: Erweiterung der Emanuel-Lasker-Schule
 permalink: /projekte/WBW_ELS_Lasker-Schule/
 tags: 
 - Schule
-projectpage: /projekte/WBW_ELS_Lasker-Schule/02.jpg
+projectpage: /projekte/WBW_ELS_Lasker-Schule/01.jpg
 images:
 - /projekte/WBW_ELS_Lasker-Schule/01.jpg
 - /projekte/WBW_ELS_Lasker-Schule/02.jpg

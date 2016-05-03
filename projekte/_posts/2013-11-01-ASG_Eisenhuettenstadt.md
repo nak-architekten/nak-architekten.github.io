@@ -9,7 +9,7 @@ shorttitle: Zweifeldsporthalle Albert-Schweizer
 permalink: /projekte/ASG_Eisenhuettenstadt/
 tags: 
 - Sport
-projectpage: /projekte/ASG_Eisenhuettenstadt/00_Projektpage.jpg
+projectpage: /projekte/ASG_Eisenhuettenstadt/07.jpg
 images:
 - /projekte/ASG_Eisenhuettenstadt/01.jpg
 - /projekte/ASG_Eisenhuettenstadt/02.jpg

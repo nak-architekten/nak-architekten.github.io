@@ -11,7 +11,7 @@ permalink: /projekte/KAS_BerlinLichtenberg/
 tags: 
 - Bildung
 homepage: /projekte/KAS_BerlinLichtenberg/00_Titel.jpg
-projectpage: /projekte/KAS_BerlinLichtenberg/02.jpg
+projectpage: /projekte/KAS_BerlinLichtenberg/01v2.jpg
 images:
 - /projekte/KAS_BerlinLichtenberg/01v2.jpg
 - /projekte/KAS_BerlinLichtenberg/02.jpg

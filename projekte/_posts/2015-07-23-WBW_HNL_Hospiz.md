@@ -9,7 +9,7 @@ shorttitle: 3. PREIS // Hospizneubau
 permalink: /projekte/WBW_HNL_Hospiz/
 tags: 
 - Wettbewerb
-projectpage: /projekte/WBW_HNL_Hospiz/03.jpg
+projectpage: /projekte/WBW_HNL_Hospiz/01.jpg
 images:
 - /projekte/WBW_HNL_Hospiz/01v2.jpg
 - /projekte/WBW_HNL_Hospiz/02v2.jpg

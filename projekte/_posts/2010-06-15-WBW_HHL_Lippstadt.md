@@ -10,7 +10,7 @@ permalink: /projekte/WBW_HHL_Lippstadt/
 tags: 
 - Wettbewerb
 - Institut
-projectpage: /projekte/WBW_HHL_Lippstadt/02.jpg
+projectpage: /projekte/WBW_HHL_Lippstadt/01.jpg
 images:
 - /projekte/WBW_HHL_Lippstadt/01.jpg
 - /projekte/WBW_HHL_Lippstadt/02.jpg

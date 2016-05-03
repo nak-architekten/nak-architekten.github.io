@@ -9,7 +9,7 @@ shorttitle: Sanierung der Humboldt-Schule
 permalink: /projekte/HUMM_Schulgebaeude/
 tags: 
 - Bildung
-projectpage: /projekte/HUMM_Schulgebaeude/05.jpg
+projectpage: /projekte/HUMM_Schulgebaeude/01.jpg
 images:
 - /projekte/HUMM_Schulgebaeude/01.jpg
 - /projekte/HUMM_Schulgebaeude/02.jpg

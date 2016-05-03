@@ -11,7 +11,7 @@ permalink: /projekte/SWS_Steinwald-Schule/
 tags: 
 - Bildung
 homepage: /projekte/SWS_Steinwald-Schule/00_Titel.jpg
-projectpage: /projekte/SWS_Steinwald-Schule/00_Projektpage_v02.jpg
+projectpage: /projekte/SWS_Steinwald-Schule/01.jpg
 images:
 - /projekte/SWS_Steinwald-Schule/01.jpg
 - /projekte/SWS_Steinwald-Schule/02.jpg

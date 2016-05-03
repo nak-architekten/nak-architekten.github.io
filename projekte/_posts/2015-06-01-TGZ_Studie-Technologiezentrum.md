@@ -9,7 +9,7 @@ shorttitle: STUDIE // Technologiezentrum
 permalink: /projekte/TGZ_Studie-Technologiezentrum/
 tags: 
 - Studie
-projectpage: /projekte/TGZ_Studie-Technologiezentrum/02v2.jpg
+projectpage: /projekte/TGZ_Studie-Technologiezentrum/01.jpg
 images:
 - /projekte/TGZ_Studie-Technologiezentrum/01.jpg
 - /projekte/TGZ_Studie-Technologiezentrum/02v2.jpg

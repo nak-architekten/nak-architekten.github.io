@@ -9,7 +9,7 @@ shorttitle: Seminargebäude AFZ Königs Wusterhausen
 permalink: /projekte/AFZS_Seminargebaeude/
 tags: 
 - Institut
-projectpage: /projekte/AFZS_Seminargebaeude/04.jpg
+projectpage: /projekte/AFZS_Seminargebaeude/03.jpg
 images:
 - /projekte/AFZS_Seminargebaeude/01.jpg
 - /projekte/AFZS_Seminargebaeude/02.jpg

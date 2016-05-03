@@ -9,7 +9,7 @@ shorttitle: Montessorizentrum Kinderhaus
 permalink: /projekte/MZFK_MontessoriF-Kita/
 tags: 
 - Kita
-projectpage: /projekte/MZFK_MontessoriF-Kita/00_Projektpage.jpg
+projectpage: /projekte/MZFK_MontessoriF-Kita/05.jpg
 images:
 - /projekte/MZFK_MontessoriF-Kita/01.jpg
 - /projekte/MZFK_MontessoriF-Kita/02.jpg

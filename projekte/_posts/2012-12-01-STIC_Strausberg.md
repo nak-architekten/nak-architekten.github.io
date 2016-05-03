@@ -9,7 +9,7 @@ shorttitle: Gründerzentrum Strausberg
 permalink: /projekte/STIC_Strausberg/
 tags: 
 - Arbeiten
-projectpage: /projekte/STIC_Strausberg/00_Projektpage.jpg
+projectpage: /projekte/STIC_Strausberg/01.jpg
 images:
 - /projekte/STIC_Strausberg/01.jpg
 - /projekte/STIC_Strausberg/02.jpg

@@ -10,7 +10,7 @@ permalink: /projekte/WBW_KTWH_Koeln/
 tags: 
 - Wettbewerb
 - Bildung
-projectpage: /projekte/WBW_KTWH_Koeln/03.jpg
+projectpage: /projekte/WBW_KTWH_Koeln/01.jpg
 images:
 - /projekte/WBW_KTWH_Koeln/01.jpg
 - /projekte/WBW_KTWH_Koeln/02.jpg

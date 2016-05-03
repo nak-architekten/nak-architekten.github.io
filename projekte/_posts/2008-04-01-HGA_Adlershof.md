@@ -9,7 +9,7 @@ shorttitle: Flugzeughangar zu Sporthalle in Adlershof
 permalink: /projekte/HGA_Adlershof/
 tags: 
 - Sport
-projectpage: /projekte/HGA_Adlershof/00_Projektpage.jpg
+projectpage: /projekte/HGA_Adlershof/01.jpg
 images:
 - /projekte/HGA_Adlershof/01.jpg
 - /projekte/HGA_Adlershof/02.jpg

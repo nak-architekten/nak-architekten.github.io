@@ -9,7 +9,7 @@ shorttitle: Apartmentgebäude Haus 5
 permalink: /projekte/AFZA_Apartmentgebaeude/
 tags: 
 - Wohnen
-projectpage: /projekte/AFZA_Apartmentgebaeude/03.jpg
+projectpage: /projekte/AFZA_Apartmentgebaeude/01.jpg
 images:
 - /projekte/AFZA_Apartmentgebaeude/01.jpg
 - /projekte/AFZA_Apartmentgebaeude/02.jpg

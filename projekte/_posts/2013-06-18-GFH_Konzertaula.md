@@ -10,6 +10,7 @@ permalink: /projekte/GFH_Konzertaula/
 tags: 
 - Bildung
 - Wettbewerb
+projectpage: /projekte/GFH_Konzertaula/02.jpg
 images:
 - /projekte/GFH_Konzertaula/01.jpg
 - /projekte/GFH_Konzertaula/02.jpg

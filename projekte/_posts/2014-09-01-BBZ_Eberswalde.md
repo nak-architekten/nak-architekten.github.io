@@ -9,7 +9,7 @@ shorttitle: Bürgerbildungszentrum Eberswalde
 permalink: /projekte/BBZ_Eberswalde/
 tags: 
 - Bildung
-projectpage: /projekte/BBZ_Eberswalde/12.jpg
+projectpage: /projekte/BBZ_Eberswalde/03.jpg
 images:
 - /projekte/BBZ_Eberswalde/01.jpg
 - /projekte/BBZ_Eberswalde/02.jpg

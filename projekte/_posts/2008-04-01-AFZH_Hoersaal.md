@@ -9,7 +9,7 @@ shorttitle: Hörsaalgebäude AFZ Königs Wusterhausen
 permalink: /projekte/AFZH_Hoersaal/
 tags: 
 - Institut
-projectpage: /projekte/AFZH_Hoersaal/07.jpg
+projectpage: /projekte/AFZH_Hoersaal/02.jpg
 images:
 - /projekte/AFZH_Hoersaal/01.jpg
 - /projekte/AFZH_Hoersaal/02.jpg

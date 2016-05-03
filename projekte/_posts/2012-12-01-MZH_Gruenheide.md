@@ -9,7 +9,7 @@ shorttitle: Sport- und Mehrzweckhalle Grünheide
 permalink: /projekte/MZH_Gruenheide/
 tags: 
 - Sport
-projectpage: /projekte/MZH_Gruenheide/00_Projektpage.jpg
+projectpage: /projekte/MZH_Gruenheide/02.jpg
 images:
 - /projekte/MZH_Gruenheide/01.jpg
 - /projekte/MZH_Gruenheide/02.jpg

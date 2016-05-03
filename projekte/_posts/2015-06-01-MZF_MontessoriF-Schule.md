@@ -9,7 +9,7 @@ shorttitle: Montessorizentrum Schulgebäude
 permalink: /projekte/MZF_MontessoriF-Schule/
 tags: 
 - Schule
-projectpage: /projekte/MZF_MontessoriF-Schule/00_Projektpage.jpg
+projectpage: /projekte/MZF_MontessoriF-Schule/01.jpg
 images:
 - /projekte/MZF_MontessoriF-Schule/01.jpg
 - /projekte/MZF_MontessoriF-Schule/02.jpg

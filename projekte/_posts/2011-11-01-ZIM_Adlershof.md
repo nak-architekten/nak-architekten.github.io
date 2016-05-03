@@ -9,7 +9,7 @@ shorttitle: Zentrum für Informations– und Medientechnologie
 permalink: /projekte/ZIM_Adlershof/
 tags: 
 - Arbeiten
-projectpage: /projekte/ZIM_Adlershof/03.jpg
+projectpage: /projekte/ZIM_Adlershof/01.jpg
 images:
 - /projekte/ZIM_Adlershof/01.jpg
 - /projekte/ZIM_Adlershof/02.jpg

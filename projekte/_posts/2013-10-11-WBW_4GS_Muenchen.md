@@ -10,7 +10,7 @@ permalink: /projekte/WBW_4GS_Muenchen/
 tags: 
 - Wettbewerb
 - Bildung
-projectpage: /projekte/WBW_4GS_Muenchen/05-FHN.jpg
+projectpage: /projekte/WBW_4GS_Muenchen/01.jpg
 images:
 - /projekte/WBW_4GS_Muenchen/01.jpg
 - /projekte/WBW_4GS_Muenchen/02-RDS.jpg

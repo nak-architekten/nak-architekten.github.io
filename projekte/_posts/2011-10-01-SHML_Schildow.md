@@ -9,7 +9,7 @@ shorttitle: Zweifeldsporthalle Schildow
 permalink: /projekte/SHML_Schildow/
 tags: 
 - Sport
-projectpage: /projekte/SHML_Schildow/04.jpg
+projectpage: /projekte/SHML_Schildow/01.jpg
 images:
 - /projekte/SHML_Schildow/01.jpg
 - /projekte/SHML_Schildow/02.jpg

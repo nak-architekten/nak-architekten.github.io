@@ -10,7 +10,7 @@ permalink: /projekte/WBW_OSZ_Lise-Meitner/
 tags: 
 - Wettbewerb
 - Bildung
-projectpage: /projekte/WBW_OSZ_Lise-Meitner/02.jpg
+projectpage: /projekte/WBW_OSZ_Lise-Meitner/01.jpg
 images:
 - /projekte/WBW_OSZ_Lise-Meitner/01.jpg
 - /projekte/WBW_OSZ_Lise-Meitner/02.jpg

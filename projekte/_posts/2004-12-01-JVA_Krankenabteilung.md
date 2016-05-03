@@ -9,7 +9,7 @@ shorttitle: Krankenabteilung der JVA
 permalink: /projekte/JVA_Krankenabteilung/
 tags: 
 - Gesundheit
-projectpage: /projekte/JVA_Krankenabteilung/03.jpg
+projectpage: /projekte/JVA_Krankenabteilung/01.jpg
 images:
 - /projekte/JVA_Krankenabteilung/01.jpg
 - /projekte/JVA_Krankenabteilung/02.jpg

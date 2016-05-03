@@ -9,7 +9,7 @@ shorttitle: Sanierung Wohnanlage Mohrenstraße
 permalink: /projekte/MKG_Mohrenstrasse/
 tags: 
 - Wohnen
-projectpage: /projekte/MKG_Mohrenstrasse/02.jpg
+projectpage: /projekte/MKG_Mohrenstrasse/01.jpg
 images:
 - /projekte/MKG_Mohrenstrasse/01.jpg
 - /projekte/MKG_Mohrenstrasse/02.jpg
