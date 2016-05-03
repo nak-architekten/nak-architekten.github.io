@@ -9,7 +9,7 @@ shorttitle: Staatsanwaltschaft Berlin
 permalink: /projekte/T22_Turmstrasse/
 tags: 
 - Arbeiten
-projectpage: /projekte/T22_Turmstrasse/00_Projektpage.jpg
+projectpage: /projekte/T22_Turmstrasse/00_Projektpage_v2.jpg
 images:
 - /projekte/T22_Turmstrasse/01.jpg
 - /projekte/T22_Turmstrasse/02.jpg

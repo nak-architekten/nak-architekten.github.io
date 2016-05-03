@@ -9,7 +9,7 @@ shorttitle: Deutsches Archäologisches Institut
 permalink: /projekte/DAI_BerlinDahlem/
 tags: 
 - Institut
-projectpage: /projekte/DAI_BerlinDahlem/05.jpg
+projectpage: /projekte/DAI_BerlinDahlem/07_v2.jpg
 images:
 - /projekte/DAI_BerlinDahlem/01.jpg
 - /projekte/DAI_BerlinDahlem/02.jpg
@@ -17,7 +17,7 @@ images:
 - /projekte/DAI_BerlinDahlem/04.jpg
 - /projekte/DAI_BerlinDahlem/05.jpg
 - /projekte/DAI_BerlinDahlem/06.jpg
-- /projekte/DAI_BerlinDahlem/07.jpg
+- /projekte/DAI_BerlinDahlem/07_v2.jpg
 - /projekte/DAI_BerlinDahlem/08.jpg
 captions:
 - Das Bittelhaus nach dem Umbau

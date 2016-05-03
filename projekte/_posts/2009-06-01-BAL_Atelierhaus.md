@@ -10,10 +10,10 @@ permalink: /projekte/BAL_Atelierhaus/
 tags: 
 - Arbeiten
 - Wohnen
-projectpage: /projekte/BAL_Atelierhaus/08.jpg
+projectpage: /projekte/BAL_Atelierhaus/02_v2.jpg
 images:
 - /projekte/BAL_Atelierhaus/01.jpg
-- /projekte/BAL_Atelierhaus/02.jpg
+- /projekte/BAL_Atelierhaus/02_v2.jpg
 - /projekte/BAL_Atelierhaus/03.jpg
 - /projekte/BAL_Atelierhaus/05.jpg
 - /projekte/BAL_Atelierhaus/06.jpg

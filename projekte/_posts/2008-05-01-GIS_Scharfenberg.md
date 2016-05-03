@@ -9,7 +9,7 @@ shorttitle: Gymnasium Insel Scharfenberg
 permalink: /projekte/GIS_Scharfenberg/
 tags: 
 - Bildung
-projectpage: /projekte/GIS_Scharfenberg/00_Projektpage.jpg
+projectpage: /projekte/GIS_Scharfenberg/00_Projektpage_v2.jpg
 images:
 - /projekte/GIS_Scharfenberg/01.jpg
 - /projekte/GIS_Scharfenberg/02.jpg
