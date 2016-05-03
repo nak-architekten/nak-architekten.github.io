@@ -2,7 +2,7 @@
 layout: post
 categories:
 - projekt
-date: 2014-09-01
+date: 2016-04-25
 published: true
 title: Bürgerbildungszentrum Amadeu Antonio in Eberswalde
 shorttitle: Bürgerbildungszentrum Eberswalde

@@ -2,7 +2,7 @@
 layout: post
 categories:
 - projekt
-date: 2014-03-01
+date: 2016-04-22
 published: true
 title: Denkmalgerechte Sanierung der Wilhelm-von-Humboldt-Gemeinschaftsschule
 shorttitle: Sanierung der Humboldt-Schule

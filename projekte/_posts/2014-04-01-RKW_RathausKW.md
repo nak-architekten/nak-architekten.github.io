@@ -2,7 +2,7 @@
 layout: post
 categories:
 - projekt
-date: 2014-04-01
+date: 2016-04-23
 published: true
 title: Rathaus Königs Wusterhausen
 shorttitle: Rathaus Königs Wusterhausen

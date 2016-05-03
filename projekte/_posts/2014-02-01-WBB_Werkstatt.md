@@ -2,7 +2,7 @@
 layout: post
 categories:
 - projekt
-date: 2014-02-01
+date: 2016-04-21
 published: true
 title: Erweiterung der sozialtherapeutischen Werkstätten für Menschen mit Behinderung
 shorttitle: Sozialtherapeutische Werkstätten

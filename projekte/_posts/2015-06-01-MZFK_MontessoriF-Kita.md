@@ -2,7 +2,7 @@
 layout: post
 categories:
 - projekt
-date: 2015-06-01
+date: 2016-04-29
 published: true
 title: Kitagebäude "Kinderhaus" des "Montessorizentrum Freising"
 shorttitle: Montessorizentrum Kinderhaus

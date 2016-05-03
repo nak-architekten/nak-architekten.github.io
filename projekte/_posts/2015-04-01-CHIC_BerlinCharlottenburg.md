@@ -3,7 +3,7 @@ layout: post
 categories:
 - projekt
 - startseite
-date: 2015-04-01
+date: 2016-04-28
 published: true
 title: CHIC – Das Charlottenburger Innovations-Centrum
 shorttitle: CHIC

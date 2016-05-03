@@ -3,7 +3,7 @@ layout: post
 categories:
 - projekt
 - startseite
-date: 2014-07-01
+date: 2016-04-24
 published: true
 title: Förderschule Nils-Holgersson
 shorttitle: Förderschule Nils-Holgersson

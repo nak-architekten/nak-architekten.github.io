@@ -2,7 +2,7 @@
 layout: post
 categories:
 - projekt
-date: 2016-09-01
+date: 2016-01-02
 published: true
 title: Neubau eines Hörsaal-, Labor- und Institutsgebäudes der Fachhochschule Köln am Standort Opladen in Leverkusen
 shorttitle: ANKAUF // Campus Leverkusen

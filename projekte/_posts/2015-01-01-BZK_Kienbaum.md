@@ -2,7 +2,7 @@
 layout: post
 categories:
 - projekt
-date: 2015-01-01
+date: 2016-04-27
 published: true
 title: Trainingshalle für "Männer-Geärteturnen" im Bundesleistungszentrum Kienbaum
 shorttitle: Trainingshalle im Bundesleistungszentrum

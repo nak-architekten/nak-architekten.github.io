@@ -2,7 +2,7 @@
 layout: post
 categories:
 - projekt
-date: 2014-12-01
+date: 2016-04-26
 published: true
 title: Zweifeldsporthalle Borgsdorf
 shorttitle: Zweifeldsporthalle Borgsdorf
