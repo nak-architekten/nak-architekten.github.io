@@ -5,7 +5,7 @@ categories:
 date: 2016-04-27
 published: true
 title: Trainingshalle für "Männer-Geärteturnen" im Bundesleistungszentrum Kienbaum
-shorttitle: Trainingshalle im Bundesleistungszentrum
+shorttitle: Bundesleistungszentrum Kienbaum // Kunstturnhalle
 permalink: /projekte/BZK_Kienbaum/
 tags: 
 - Sport
