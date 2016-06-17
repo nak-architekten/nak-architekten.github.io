@@ -37,6 +37,6 @@ BGF				|	3.622 m²
 Fertigstellung	|	Januar 2015
 Projektteam		|	Grant Kelly, Oliver Löffler, Milanko Moraske
 Generalplaner	|	Numrich Albrecht Klumpp 
-Tragwerksplaner	|	[Pichler Ingenieure GmbH](http://www.pichleringenieure.com)
-Haustechnik		|	[ZWP Ingenieure AG](http://www.zwp.de)
-Projektfotos	|	[Nina Straßgütl](http://www.ninastrg.de/)
+Tragwerksplaner	|	[Pichler Ingenieure GmbH](http://www.pichleringenieure.com) 
+Haustechnik		|	[ZWP Ingenieure AG](http://www.zwp.de) 
+Projektfotos	|	[Nina Straßgütl](http://www.ninastrg.de/) 
