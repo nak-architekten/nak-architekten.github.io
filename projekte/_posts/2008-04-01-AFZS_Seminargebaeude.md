@@ -5,7 +5,7 @@ categories:
 date: 2008-04-01
 published: true
 title: Neubau eines Seminargebäudes für das Aus- und Fortbildungzentrums des Landes Brandenburg
-shorttitle: Seminargebäude AFZ Königs Wusterhausen
+shorttitle: AFZ Königs Wusterhausen // Seminargebäude
 permalink: /projekte/AFZS_Seminargebaeude/
 tags: 
 - Institut

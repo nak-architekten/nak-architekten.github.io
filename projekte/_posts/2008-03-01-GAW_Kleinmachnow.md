@@ -5,7 +5,7 @@ categories:
 date: 2008-03-01
 published: true
 title: Neubau einer Zweifeldsporthalle für das Weinberg-Gymnasium
-shorttitle: Zweifeldsporthalle Weinberg-Gymnasium
+shorttitle: Weinberg-Gymnasium Kleinmachnow // Sporthalle
 permalink: /projekte/GAW_Kleinmachnow/
 tags: 
 - Sport

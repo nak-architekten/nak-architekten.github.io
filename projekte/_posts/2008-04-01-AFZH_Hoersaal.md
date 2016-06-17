@@ -5,7 +5,7 @@ categories:
 date: 2008-04-01
 published: true
 title: Neubau eines Hörsaalgebäudes für das Aus- und Fortbildungzentrums des Landes Brandenburg
-shorttitle: Hörsaalgebäude AFZ Königs Wusterhausen
+shorttitle: AFZ Königs Wusterhausen // Hörsaalgebäude
 permalink: /projekte/AFZH_Hoersaal/
 tags: 
 - Institut
