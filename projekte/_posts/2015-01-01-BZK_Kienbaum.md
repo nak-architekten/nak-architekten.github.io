@@ -4,7 +4,7 @@ categories:
 - projekt
 date: 2016-04-27
 published: true
-title: Trainingshalle für "Männer-Geärteturnen" im Bundesleistungszentrum Kienbaum
+title: Trainingshalle für "Männer-Geräteturnen" im Bundesleistungszentrum Kienbaum
 shorttitle: Bundesleistungszentrum Kienbaum // Kunstturnhalle
 permalink: /projekte/BZK_Kienbaum/
 tags: 
@@ -37,6 +37,6 @@ BGF				|	3.622 m²
 Fertigstellung	|	Januar 2015
 Projektteam		|	Grant Kelly, Oliver Löffler, Milanko Moraske
 Generalplaner	|	Numrich Albrecht Klumpp 
-Tragwerksplaner	|	Pichler Ingenieure GmbH
-Haustechnik		|	ZWP Ingenieure AG
+Tragwerksplaner	|	[Pichler Ingenieure GmbH] (http://www.pichleringenieure.com)
+Haustechnik		|	[ZWP Ingenieure AG] (http://www.zwp.de)
 Projektfotos	|	[Nina Straßgütl](http://www.ninastrg.de/)
