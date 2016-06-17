@@ -5,7 +5,7 @@ categories:
 date: 2011-06-01
 published: true
 title: Mensa mit Freizeitbereich am Campus "Bildungszentrum der Finanzverwaltung des Landes Brandenburg"
-shorttitle: Mensa in Königs Wusterhausen
+shorttitle: AFZ Königs Wusterhausen // Mensa
 permalink: /projekte/AFZM_Mensa/
 tags: 
 - Institut
