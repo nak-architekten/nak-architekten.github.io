@@ -51,7 +51,7 @@ a[target="_blank"]:before {
 	font-weight: bold;
 }
 
-a.act {
+a.act, span.act {
 	background: none;
 	border: none;
 	font-weight: bold;
@@ -153,14 +153,14 @@ header, #menu {
 	}
 }
 
-#menu .extend, header #menu .btn.extend{
+.extend, header #menu .btn.extend, #logo .logo.extend{
 	display: none;
 }
 
-#menu .reduce {
+.reduce, #menu .title {
 	display: block;
 }
-
+/*
 #menu:hover {
 	.extend {
 		display: block;
@@ -169,6 +169,7 @@ header, #menu {
 		display: none;
 	}
 }
+*/
 
 #logo {
 	border-bottom: 1px solid $text-color;

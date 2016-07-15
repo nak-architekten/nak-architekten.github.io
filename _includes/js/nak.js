@@ -6,6 +6,30 @@ var host = location.href;
 // when the DOM is ready, run all this functions
 function init() {
 
+	$('.no-touch .project #menu').hover(function() {
+		$('.project header .extend').css( "display", "block");
+		$('.project header .reduce').hide();
+		$('.project header .title').hide();
+	});
+	$('.no-touch .project #menu').mouseleave(function() {
+		$('.project header .extend').hide();
+		$('.project header .reduce').css( "display", "block");
+	});
+	
+	$('.touch .project header').click(function() {
+		event.stopPropagation();
+		$('.project header .extend').css( "display", "block");
+		$('.project header .reduce').hide();
+		$('.project header .title').hide();
+	});
+
+	$('.touch .carousel-control').click(function() {
+		$('.project #menu .title').hide("slow");
+		$('.project header .extend').hide();
+		$('.project header .reduce').css( "display", "block");
+	});
+	
+	
 	if($('body').hasClass('home')){
 		if(carouselItems){
 			r = getRandomArbitrary(0,carouselItems-1);
@@ -28,7 +52,7 @@ function init() {
 		        offset: { top: $('#menu').offset().top }
 		    });
 		});
-	/* and switch it off, if the screen ist to large */
+	/* and switch it off, if the screen is to large */
 	}else{
 		$('#menu').removeClass('affix');
 /*		$(window).off('.affix'); */
@@ -42,9 +66,15 @@ function init() {
 	/* add swipe functionality to all carousel slides */
 	$(".carousel.slide").swiperight(function() {  
 		$(this).carousel('prev');  
+		$('.project #menu .title').hide("slow");
+		$('.project header .extend').hide();
+		$('.project header .reduce').css( "display", "block");
     });  
 	$(".carousel.slide").swipeleft(function() {  
-		$(this).carousel('next');  
+		$(this).carousel('next');
+		$('.project #menu .title').hide("slow");
+		$('.project header .extend').hide();
+		$('.project header .reduce').css( "display", "block");
 	});  
 
 
@@ -62,7 +92,9 @@ function init() {
 
 	/* scolls to the top on any other slide navigation action, therefore no return false */
 	$(".project .totop").click(function() {
-		$('.project #menu .title').hide();
+		$('.project #menu .title').hide("slow");
+		$('.project header .extend').hide();
+		$('.project header .reduce').css( "display", "block");
 		if($('html').hasClass('firefox')){
 			$('body,html').stop(true,true).animate({scrollTop: stop}, 800);
 		}else{
