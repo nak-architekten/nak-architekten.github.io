@@ -1,0 +1,20 @@
+---
+layout: dev
+title: Farben
+permalink: /projekt-farben-uebersicht/
+---
+
+{% for post in site.categories.projekt %}
+
+	<h4>{{ post.shorttitle }}</h4>
+	<code>{{ post.path }}</code><br/>
+	<img style="width:300px;" src="{% if post.projectpage %}{{ post.projectpage | prepend: site.url }}{% else %}{% for image in post.images limit:1 %}{{ image | prepend: site.url }}{% endfor %}{% endif %}" />
+	{% if post.color %}
+		<div style="width:300px; height: 50px; background-color:{{ post.color }};">{{ post.color }}</div>
+	{% else %}
+		<div style="width:300px; height: 50px; background-color: red">KEINE FARBE DEFINIERT</div>
+	{% endif %}
+	<hr/>
+	
+{% endfor %}
+
