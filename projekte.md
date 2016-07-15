@@ -11,7 +11,6 @@ permalink: /projekte/
 			<div class="col-xs-12">
 				
 				<nav class="col-fix-left">
-				
 					<header>
 						<div id="header">
 						    <div id="logo">
@@ -30,16 +29,14 @@ permalink: /projekte/
 {% endfor %}
 								  <div class="clear"></div>
 								 </div>
-
 							</nav>
 						</div>
 					</header>	
 				</nav>
 			
 				<div class="col-dyn-right col-no-padding">
-			
-					    <div id="project-tiles" class="container-fluid  col-no-padding">
-							<div class="row">			
+				    <div id="project-tiles" class="container-fluid  col-no-padding">
+						<div class="row">			
 
 {% for post in site.categories.projekt %}
 
@@ -53,6 +50,7 @@ permalink: /projekte/
 
 {% endfor %}
 
+						</div>
 					</div>
 				</div>
 			</div>
