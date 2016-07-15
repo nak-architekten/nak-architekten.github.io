@@ -62,6 +62,7 @@ function init() {
 
 	/* scolls to the top on any other slide navigation action, therefore no return false */
 	$(".project .totop").click(function() {
+		$('.project #menu .title').hide();
 		if($('html').hasClass('firefox')){
 			$('body,html').stop(true,true).animate({scrollTop: stop}, 800);
 		}else{

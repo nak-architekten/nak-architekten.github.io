@@ -41,13 +41,31 @@
 			    	</a>
 			    </div>
 				<nav id="menu">
-		    		<a href="/projekte/" class="no1 btn btn-default act">Projekte</a>
+		    		<a id="menu-projekte" href="/projekte/" class="no1 act btn btn-default">Projekte<span class="visible-xs-inline-block icon icon-arr-s">&nbsp;</span></a>
 		    		<a href="/buero/" class="no2 btn btn-default">Büro</a>
-				</nav>
+					{% for filter in site.data.filters %}
+						{% assign pagetag = page.tags | first %}
+						{% if filter.tags contains pagetag %}
+							<span class="reduce title act">{{ page.shorttitle }}</span>
+						{% endif %}
+					{% endfor %}
+
+					<div id="filterpanel" class="extend">
+			    		<a href="/projekte/" class="no1 btn btn-default">Alle Projekte</a>							
+						{% for filter in site.data.filters %}
+							{% assign pagetag = page.tags | first %}
+							{% if filter.tags contains pagetag %}
+								<a class="act" href="/projekte/#{% assign tagcounter = 0 %}{% for tag in filter.tags %}{% if tagcounter > 0 %}-{% endif %}{{tag | slugify}}{% assign tagcounter = tagcounter | plus: 1 %}{% endfor %}">{{ filter.name }}</a>
+							{% else %}			
+								<a href="/projekte/#{% assign tagcounter = 0 %}{% for tag in filter.tags %}{% if tagcounter > 0 %}-{% endif %}{{tag | slugify}}{% assign tagcounter = tagcounter | plus: 1 %}{% endfor %}">{{ filter.name }}</a>
+							{% endif %}
+						{% endfor %}
+						<div class="clear"></div>
+					</div>
+		    		</nav>
 			</div>
 		</header>
 		
-		  <!-- Controls -->
 		  <a class="left carousel-control totop" href="#carousel-promotion-slides" role="button" data-slide="prev">
 		    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
 		    <span class="sr-only">Zurück</span>

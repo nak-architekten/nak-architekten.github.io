@@ -113,6 +113,10 @@ header {
 	z-index: 50;
 }
 
+header, #menu {
+	width: 200px;
+}
+
 .projects.xs header, .office.xs header {
 	right: 0;
 }
@@ -136,6 +140,34 @@ header {
 
 #menu {
 	margin-top: 1px;
+}
+
+
+.project #menu {
+	
+	#filterpanel {
+		padding-top: 10px;
+	}
+	span.title {
+		padding: 10px 10px 5px 10px;
+	}
+}
+
+#menu .extend, header #menu .btn.extend{
+	display: none;
+}
+
+#menu .reduce {
+	display: block;
+}
+
+#menu:hover {
+	.extend {
+		display: block;
+	}
+	.reduce {
+		display: none;
+	}
 }
 
 #logo {
