@@ -227,9 +227,9 @@ function recalculate() {
 		if(cloudinaryAccount){
 			cloudinaryURL = "http://res.cloudinary.com/"+cloudinaryAccount+"/image/fetch/w_"+pixelTeaserWidth+",q_88,f_auto,fl_progressive,fl_force_strip/"+imgURL;	
 			// console.log(cloudinaryURL);
-			$(this).attr("style","background-image:url('"+cloudinaryURL+"')");
+			$(this).css("background-image","url('"+cloudinaryURL+"')");
 		}else{
-			$(this).attr("style","background-image:url('"+imgURL+"')");
+			$(this).css("background-image","url('"+imgURL+"')");
 		}
 	});
 

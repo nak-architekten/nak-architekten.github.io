@@ -10,6 +10,7 @@ permalink: /projekte/BZK_Kienbaum/
 tags: 
 - Sport
 projectpage: /projekte/BZK_Kienbaum/05.jpg
+color: '#cba47d'
 images:
 - /projekte/BZK_Kienbaum/01.jpg
 - /projekte/BZK_Kienbaum/02.jpg

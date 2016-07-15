@@ -38,7 +38,7 @@ permalink: /projekte/
 {% for post in site.categories.projekt %}
 
 <div class="project-tile{% for tag in post.tags %} {{tag | slugify}}{% endfor %} col-xs-12 col-sm-12 col-md-6 col-lg-4 col-xl-3">
-	<a href="{{ post.url | prepend: site.baseurl }}" data-image="{% if post.projectpage %}{{ post.projectpage | prepend: site.url }}{% else %}{% for image in post.images limit:1 %}{{ image | prepend: site.url }}{% endfor %}{% endif %}">
+	<a href="{{ post.url | prepend: site.baseurl }}" data-image="{% if post.projectpage %}{{ post.projectpage | prepend: site.url }}{% else %}{% for image in post.images limit:1 %}{{ image | prepend: site.url }}{% endfor %}{% endif %}"{% if post.color %} style="background-color:{{ post.color }};"{% endif %}>
 		<div class="inner-wrap">
 			<h3>{{ post.shorttitle }}</h3>
 		</div>
