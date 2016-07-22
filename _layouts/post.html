@@ -45,14 +45,14 @@
 					<span id="menu-projekte" class="reduce no1 act btn btn-default">Projekte<span class="visible-xs-inline-block icon icon-arr-s">&nbsp;</span></span>
 		    		<a href="/buero/" class="extend no2 btn btn-default">Büro</a>
 		    		<span class="reduce no2 btn btn-default">Büro</span>
-
+<!--
 					{% for filter in site.data.filters %}
 						{% assign pagetag = page.tags | first %}
 						{% if filter.tags contains pagetag %}
 							<span class="title act">{{ page.shorttitle }}</span>
 						{% endif %}
 					{% endfor %}
-
+-->
 					<div id="filterpanel" class="extend">
 			    		<a href="/projekte/" class="no1 btn btn-default">Alle Projekte</a>							
 						{% for filter in site.data.filters %}
