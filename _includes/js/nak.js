@@ -7,18 +7,18 @@ var host = location.href;
 function init() {
 
 	$('.no-touch .project #menu').hover(function() {
-		$('.project header .extend').css( "display", "block");
+		$('.project header .extend').css( "display", "inline-block");
 		$('.project header .reduce').hide();
 		$('.project header .title').hide();
 	});
 	$('.no-touch .project #menu').mouseleave(function() {
 		$('.project header .extend').hide();
-		$('.project header .reduce').css( "display", "block");
+		$('.project header .reduce').css( "display", "inline-block");
 	});
 	
 	$('.touch .project header').click(function() {
 		event.stopPropagation();
-		$('.project header .extend').css( "display", "block");
+		$('.project header .extend').css( "display", "inline-block");
 		$('.project header .reduce').hide();
 		$('.project header .title').hide();
 	});
@@ -26,7 +26,7 @@ function init() {
 	$('.touch .carousel-control').click(function() {
 		$('.project #menu .title').hide("slow");
 		$('.project header .extend').hide();
-		$('.project header .reduce').css( "display", "block");
+		$('.project header .reduce').css( "display", "inline-block");
 	});
 	
 	
@@ -68,13 +68,13 @@ function init() {
 		$(this).carousel('prev');  
 		$('.project #menu .title').hide("slow");
 		$('.project header .extend').hide();
-		$('.project header .reduce').css( "display", "block");
+		$('.project header .reduce').css( "display", "inline-block");
     });  
 	$(".carousel.slide").swipeleft(function() {  
 		$(this).carousel('next');
 		$('.project #menu .title').hide("slow");
 		$('.project header .extend').hide();
-		$('.project header .reduce').css( "display", "block");
+		$('.project header .reduce').css( "display", "inline-block");
 	});  
 
 
@@ -94,7 +94,7 @@ function init() {
 	$(".project .totop").click(function() {
 		$('.project #menu .title').hide("slow");
 		$('.project header .extend').hide();
-		$('.project header .reduce').css( "display", "block");
+		$('.project header .reduce').css( "display", "inline-block");
 		if($('html').hasClass('firefox')){
 			$('body,html').stop(true,true).animate({scrollTop: stop}, 800);
 		}else{
