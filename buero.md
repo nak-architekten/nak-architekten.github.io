@@ -283,7 +283,7 @@ permalink: /buero/
 										</p>
 										<p>
 											Design: <a href="http://www.mariannekampel.com/">Marianne Kampel</a> und <a href="https://j2h.com/">Jan-Henrik Hempel</a><br/>
-											Realisierung: <a href="https://j2h.com/">Jan-Henrik Hempel</a>
+											Realisierung: <a href="https://j2h.com/" title="Website Development Jekyll">Jan-Henrik Hempel</a>
 										</p>
 		
 		
@@ -296,13 +296,13 @@ permalink: /buero/
 		                            <div class="col-xs-12 col-md-6 col-lg-8 col-lg-offset-4 textcontent">
 										<h3>Datenschutzbestimmung</h3>
 										<p>
-											Das Hosting dieser Website erfolgt durch GitHub Pages (https://pages.github.com/). Durch den Zugriff können grundsätzlich Nutzungsdaten durch GitHub erhoben werden. Mehr Informationen für Erhebung und Analyse von Zugriffen finden Sie bei GitHub Pages (https://help.github.com/articles/github-privacy-policy/).
+											Das Hosting dieser Website erfolgt durch GitHub Pages (<a href="https://pages.github.com/">https://pages.github.com/</a>). Durch den Zugriff können grundsätzlich Nutzungsdaten durch GitHub erhoben werden. Mehr Informationen für Erhebung und Analyse von Zugriffen finden Sie bei GitHub Pages (<a href="https://help.github.com/articles/github-privacy-policy/">https://help.github.com/articles/github-privacy-policy/</a>).
 										</p>
 										<p>
-											Die Bildverwaltung dieser Website erfolgt durch Cloudinary (http://cloudinary.com/).  Durch den Zugriff können grundsätzlich Nutzungsdaten durch Cloudinary erhoben werden. Mehr Informationen für Erhebung und Analyse von Zugriffen auf GitHub Pages sind hier zu finden.
+											Die Bildverwaltung dieser Website erfolgt durch Cloudinary (<a href="http://cloudinary.com/">http://cloudinary.com/</a>).  Durch den Zugriff können grundsätzlich Nutzungsdaten durch Cloudinary erhoben werden. Mehr Informationen für Erhebung und Analyse von Zugriffen finden Sie bei Cloudinary (<a href="http://cloudinary.com/privacy">http://cloudinary.com/privacy</a>).
 										</p>
 										<p>
-											Für die Erhebung und Analyse der Nutzung dieser Website wird Google Analytics verwendet. Zweck des Einsatzes ist die statistische Analyse der quantitativen und qualitativen Nutzung dieser Website. Es werden keine persönlichen Informationen erhoben. Mehr Informationen finden sie bei Google Analytics (http://www.google.com/intl/de/policies/privacy/). Um ein Tracking durch Google Analytics zu vermeiden nutzen Sie bspw. Tools wie Ghostery (https://www.ghostery.com/de/) oder Blockieren Sie das Tracking bei Google Analytics selbst (https://tools.google.com/dlpage/gaoptout?hl=de).
+											Für die Erhebung und Analyse der Nutzung dieser Website wird Google Analytics (<a href="https://www.google.com/intl/de_de/analytics/">https://www.google.com/intl/de_de/analytics/</a>) verwendet. Zweck des Einsatzes ist die statistische Analyse der quantitativen und qualitativen Nutzung dieser Website. Es werden keine persönlichen Informationen erhoben. Mehr Informationen finden sie bei Google Analytics (<a href="http://www.google.com/intl/de/policies/privacy/">http://www.google.com/intl/de/policies/privacy/</a>). Um ein Tracking durch Google Analytics zu vermeiden nutzen Sie bspw. Tools wie Ghostery (<a href="https://www.ghostery.com/de/">https://www.ghostery.com/de/</a>) oder Blockieren Sie das Tracking bei Google Analytics selbst (<a href="https://tools.google.com/dlpage/gaoptout?hl=de">https://tools.google.com/dlpage/gaoptout?hl=de</a>).
 										</p>
 		
 		                            </div>
