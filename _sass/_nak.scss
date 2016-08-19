@@ -705,6 +705,14 @@ h4.justify-to-img {
 	padding: 1px 0px;
 }
 
+#carousel-partner .carousel-inner .left-right-buttons {
+	margin-top: 10px;
+}
+
+#carousel-partner .carousel-inner .left-right-buttons a {
+	display: inline-block;
+}
+
 #Impressum {
 	font-size: 90%;
 }
@@ -943,3 +951,39 @@ a .news:hover{
 	}
 	
 }
+
+
+@media screen and (min-width: 550px) {
+	.office .col-no-right-padding {
+		padding-right: 0;
+	}
+	.office #content {
+		padding-right: 0;
+	}
+	.office .col-extra-right-padding {
+	}
+	.office .textcontent {
+	    padding-right: 30px;
+	}
+}
+
+@media screen and (min-width: 900px) {
+	.office .right.textcontent {
+	    position: absolute;
+	    bottom: 0;
+	    right: 0;
+	    padding-right: 30px;
+	}
+	.office .left.textcontent {
+	    position: absolute;
+	    bottom: 0;
+	    left: 0;
+	}
+	.office .row {
+		position: relative;
+	}
+	.office .img-responsive {
+		width: 100%;
+	}
+}
+

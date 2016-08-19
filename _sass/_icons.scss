@@ -24,11 +24,11 @@
 }
 
 /* special cursor images */
-.carousel-control.right[role="button"] {
+.carousel-control.right[role="button"], .nextcursor {
 	cursor: url('/img/cursor_e.svg'), e-resize;
 }
 
-.carousel-control.left[role="button"] {
+.carousel-control.left[role="button"], .backcursor {
 	cursor: url('/img/cursor_w.svg'), w-resize;
 }
 
