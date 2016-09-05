@@ -23,6 +23,13 @@ captions:
 ---
 Das gesamte historische Schulgebäude wurde für die Anforderungen eines zeitgemäßen Unterrichts restauriert und umgebaut. Mit der Errichtung eines ergänzenden Neubaus wurde die räumliche Trennung zwischen Thomasschule und Sporthalle des Thomaner-Chores aufgehoben. Das neue gläserne "Bach­Foyer" mit einem schmalen, zweigeschossigen, geschlossenen Sichtbetonriegel zwischen Schule und Sporthalle bildet die neue Mitte der Schulanlage mit dem Haupteingang. Es dient gleichzeitig als gedeckter Pausenhof, Aufführungsraum für musikalische Auftritte und als separater Zugang zur Turnhalle.
 
+# Hallo
+## Hallo 3
+
+*sfafewa*
+
+*adada
+*adas
 Schülerzahlen		|	knapp 700 SchülerInnen
 Adresse				|	Hillerstraße 7 · 04109 Leipzig
 Bauherr				|	Baudezernat der Stadt Leipzig
