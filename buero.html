@@ -17,7 +17,7 @@ permalink: /buero/
 
                             <nav id="menu">
                                 <a href="/projekte/" id="menu-projekte" class="no1 btn btn-default">Projekte</a> 
-                                <a href="/buero/" class="no2 act btn btn-default">Büro</a>
+                                <span class="no2 act btn btn-default">Büro</span>
                             </nav>
                         </div>
                     </header>
@@ -108,7 +108,11 @@ permalink: /buero/
 															{{ post.title }}
 															</p>
 															<p>
-																<a href="#" onclick="$('#carousel-teamakt').carousel('next'); return false;"><span class="icon icon-arr-e">&nbsp;</span> {% if counter == 0 %} Aktivitäten{% endif %}</a>
+																{% if counter == 0 %}
+																<a href="#" onclick="$('#carousel-teamakt').carousel('next'); return false;">&gt;&gt; Aktivitäten</a>
+																{% else %}
+																<a href="#" onclick="$('#carousel-teamakt').carousel(0); return false;">&gt;&gt; Team</a>
+																{% endif %}
 															</p>
 													</div>
 												</div>
@@ -143,7 +147,7 @@ permalink: /buero/
 										<div class="container-fluid">
 											<div class="row">
 												<div class="col-xs-12 col-md-6 col-lg-4 col-no-padding">
-													<img class="img-responsive" src="{% if site.mode contains 'dev' %}{% else %}http://res.cloudinary.com/{{site.cloudinaryaccount}}/image/fetch/w_600,h_400,c_fill,q_88,f_auto,fl_progressive,fl_force_strip/{% endif %}{{site.url}}/buero/partner/01_Partner_v02.jpg" />
+													<a href="#" class="nextcursor" onclick="$('#carousel-partner').carousel(1); $('#carousel-partner').carousel('pause');return false;"><img class="img-responsive" src="{% if site.mode contains 'dev' %}{% else %}http://res.cloudinary.com/{{site.cloudinaryaccount}}/image/fetch/w_600,h_400,c_fill,q_88,f_auto,fl_progressive,fl_force_strip/{% endif %}{{site.url}}/buero/partner/01_Partner_v02.jpg" /></a>
 												</div>
 												<div class="col-xs-12 col-md-6 col-lg-8 col-with-padding right textcontent">
 													<div>
@@ -151,9 +155,9 @@ permalink: /buero/
 														<p>
 															Das Architektur- und Generalplanungsbüro wurde 1981 von Arthur Numrich und Werner Albrecht gegründet. Seit 2013 wird es geleitet von:
 														</p>
-                                                        <a href="#" onclick="$('#carousel-partner').carousel(1); $('#carousel-partner').carousel('pause');return false;">&gt; Arthur Numrich</a>
-                                                        <a href="#" onclick="$('#carousel-partner').carousel(2); $('#carousel-partner').carousel('pause');return false;">&gt; Tiemo Klumpp</a>
-                                                        <a href="#" onclick="$('#carousel-partner').carousel(3); $('#carousel-partner').carousel('pause');return false;">&gt; Grant Kelly</a>
+                                                        <a href="#" onclick="$('#carousel-partner').carousel(1); $('#carousel-partner').carousel('pause');return false;">&gt;&gt; Arthur Numrich</a>
+                                                        <a href="#" onclick="$('#carousel-partner').carousel(2); $('#carousel-partner').carousel('pause');return false;">&gt;&gt; Tiemo Klumpp</a>
+                                                        <a href="#" onclick="$('#carousel-partner').carousel(3); $('#carousel-partner').carousel('pause');return false;">&gt;&gt; Grant Kelly</a>
 													</div>
 												</div>
 											</div>
@@ -164,11 +168,9 @@ permalink: /buero/
 										<div class="container-fluid">
 											<div class="row">
 												<div class="col-xs-12 col-md-6 col-lg-4 col-no-padding">
-													<a href="#" class="backcursor" onclick="$('#carousel-partner').carousel(0); $('#carousel-partner').carousel('pause');return false;"><img class="img-responsive" src="{% if site.mode contains 'dev' %}{% else %}http://res.cloudinary.com/{{site.cloudinaryaccount}}/image/fetch/w_600,h_400,c_fill,q_88,f_auto,fl_progressive,fl_force_strip/{% endif %}{{site.url}}/buero/partner/02_ArthurNumrich.jpg" /></a>
+													<a href="#" class="nextcursor" onclick="$('#carousel-partner').carousel(2); $('#carousel-partner').carousel('pause');return false;"><img class="img-responsive" src="{% if site.mode contains 'dev' %}{% else %}http://res.cloudinary.com/{{site.cloudinaryaccount}}/image/fetch/w_600,h_400,c_fill,q_88,f_auto,fl_progressive,fl_force_strip/{% endif %}{{site.url}}/buero/partner/02_ArthurNumrich.jpg" /></a>
                                                     <p class="left-right-buttons">
-                                                    	<a href="#" onclick="$('#carousel-partner').carousel(0); $('#carousel-partner').carousel('pause');return false;"><span class="icon icon-arr-w">&nbsp;</span></a>
-                                                    	&nbsp;
-                                                    	<a href="#" onclick="$('#carousel-partner').carousel(2); $('#carousel-partner').carousel('pause');return false;"><span class="icon icon-arr-e">&nbsp;</span></a>
+                                                    	<a href="#" onclick="$('#carousel-partner').carousel(0); $('#carousel-partner').carousel('pause');return false;">&gt;&gt;&nbsp;Alle</a>
                                                     </p>
 												</div>
 												<div class="col-xs-12 col-md-6 col-lg-8 col-with-padding right">
@@ -196,11 +198,9 @@ permalink: /buero/
 										<div class="container-fluid">
 											<div class="row">
 												<div class="col-xs-12 col-md-6 col-lg-4 col-no-padding">
-													<a href="#" class="backcursor" onclick="$('#carousel-partner').carousel(0); $('#carousel-partner').carousel('pause');return false;"><img class="img-responsive" src="{% if site.mode contains 'dev' %}{% else %}http://res.cloudinary.com/{{site.cloudinaryaccount}}/image/fetch/w_600,h_400,c_fill,q_88,f_auto,fl_progressive,fl_force_strip/{% endif %}{{site.url}}/buero/partner/03_TiemoKlumpp.jpg" /></a>
+													<a href="#" class="nextcursor" onclick="$('#carousel-partner').carousel(3); $('#carousel-partner').carousel('pause');return false;"><img class="img-responsive" src="{% if site.mode contains 'dev' %}{% else %}http://res.cloudinary.com/{{site.cloudinaryaccount}}/image/fetch/w_600,h_400,c_fill,q_88,f_auto,fl_progressive,fl_force_strip/{% endif %}{{site.url}}/buero/partner/03_TiemoKlumpp.jpg" /></a>
                                                     <p class="left-right-buttons">
-                                                    	<a href="#" onclick="$('#carousel-partner').carousel(0); $('#carousel-partner').carousel('pause');return false;"><span class="icon icon-arr-w">&nbsp;</span></a>
-                                                    	&nbsp;
-                                                    	<a href="#" onclick="$('#carousel-partner').carousel(3); $('#carousel-partner').carousel('pause');return false;"><span class="icon icon-arr-e">&nbsp;</span></a>
+                                                    	<a href="#" onclick="$('#carousel-partner').carousel(0); $('#carousel-partner').carousel('pause');return false;">&gt;&gt;&nbsp;Alle</a>
                                                     </p>
 												</div>
 												<div class="col-xs-12 col-md-6 col-lg-8 col-with-padding right">
@@ -225,11 +225,9 @@ permalink: /buero/
 										<div class="container-fluid">
 											<div class="row">
 												<div class="col-xs-12 col-md-6 col-lg-4 col-no-padding">
-													<a href="#" class="backcursor" onclick="$('#carousel-partner').carousel(0); $('#carousel-partner').carousel('pause');return false;"><img class="img-responsive" src="{% if site.mode contains 'dev' %}{% else %}http://res.cloudinary.com/{{site.cloudinaryaccount}}/image/fetch/w_600,h_400,c_fill,q_88,f_auto,fl_progressive,fl_force_strip/{% endif %}{{site.url}}/buero/partner/04_GarntKelly.jpg" /></a>
+													<a href="#" class="nextcursor" onclick="$('#carousel-partner').carousel(0); $('#carousel-partner').carousel('pause');return false;"><img class="img-responsive" src="{% if site.mode contains 'dev' %}{% else %}http://res.cloudinary.com/{{site.cloudinaryaccount}}/image/fetch/w_600,h_400,c_fill,q_88,f_auto,fl_progressive,fl_force_strip/{% endif %}{{site.url}}/buero/partner/04_GarntKelly.jpg" /></a>
                                                     <p class="left-right-buttons">
-                                                    	<a href="#" onclick="$('#carousel-partner').carousel(0); $('#carousel-partner').carousel('pause');return false;"><span class="icon icon-arr-w">&nbsp;</span></a>
-                                                    	&nbsp;
-                                                    	<a href="#" onclick="$('#carousel-partner').carousel(0); $('#carousel-partner').carousel('pause');return false;"><span class="icon icon-arr-e">&nbsp;</span></a>
+                                                    	<a href="#" onclick="$('#carousel-partner').carousel(0); $('#carousel-partner').carousel('pause');return false;">&gt;&gt;&nbsp;Alle</a>
                                                     </p>
 												</div>
 												<div class="col-xs-12 col-md-6 col-lg-8 col-with-padding right">
