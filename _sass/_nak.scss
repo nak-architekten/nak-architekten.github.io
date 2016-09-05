@@ -17,8 +17,8 @@ html.projects body {
 }
 body {
 	background-color: white;
-	font-family:  $font-family;
-	color:  $text-color;
+	font-family:   $font-family;
+	color:   $text-color;
 	-webkit-overflow-scrolling: touch;
 	overflow-x: hidden;
 	overflow-y: inherit;
@@ -33,14 +33,14 @@ h1, h2, h3, h4, h5, dt {
 }
 
 a, a:active, a:focus, .btn-default:active, .btn-default:focus {
-	color:  $text-color;
+	color:   $text-color;
 	text-decoration: none;
 }
 
 a:hover, .btn-default:hover {
 	font-weight: bold;
 	text-decoration: none;
-	color:  $text-color;
+	color:   $text-color;
 }
 
 a[target="_blank"]:before {
@@ -55,7 +55,7 @@ a.act, span.act {
 	background: none;
 	border: none;
 	font-weight: bold;
-	color:  $text-color;
+	color:   $text-color;
 }
 
 h3 {
@@ -142,18 +142,15 @@ header, #menu {
 	margin-top: 1px;
 }
 
-
-.project #menu {
-	
-	#filterpanel {
-		padding-top: 10px;
-	}
-	span.title {
-		padding: 10px 10px 5px 10px;
-	}
+.project #menu {#filterpanel {
+	padding-top: 10px;
+}
+span.title {
+	padding: 10px 10px 5px 10px;
+}
 }
 
-.extend, header #menu .btn.extend, #logo .logo.extend{
+.extend, header #menu .btn.extend, #logo .logo.extend {
 	display: none;
 }
 
@@ -161,15 +158,15 @@ header, #menu {
 	display: block;
 }
 /*
-#menu:hover {
-	.extend {
-		display: block;
-	}
-	.reduce {
-		display: none;
-	}
-}
-*/
+ #menu:hover {
+ .extend {
+ display: block;
+ }
+ .reduce {
+ display: none;
+ }
+ }
+ */
 
 #logo {
 	border-bottom: 1px solid $text-color;
@@ -253,7 +250,7 @@ header, #menu {
 
 a.logo, a.logo:hover {
 	text-decoration: none;
-	color:  $text-color;
+	color:   $text-color;
 }
 
 #logo .logo {
@@ -923,7 +920,7 @@ a:hover .news {
 	font-weight: normal;
 }
 
-a .news:hover{
+a .news:hover {
 	font-weight: bold;
 }
 @media screen and (max-width: 899px) {
@@ -939,7 +936,6 @@ a .news:hover{
 	}
 }
 
-
 @media screen and (max-width: 549px) {
 	#promotion-slides .item.first .carousel-caption .text .hidden-xs {
 		display: inline-block !important;
@@ -950,9 +946,8 @@ a .news:hover{
 	#promotion-slides .item.first .carousel-caption .text .photo-caption {
 		display: none;
 	}
-	
-}
 
+}
 
 @media screen and (min-width: 550px) {
 	.office .col-no-right-padding {
@@ -964,21 +959,21 @@ a .news:hover{
 	.office .col-extra-right-padding {
 	}
 	.office .textcontent {
-	    padding-right: 30px;
+		padding-right: 30px;
 	}
 }
 
 @media screen and (min-width: 900px) {
 	.office .right.textcontent {
-	    position: absolute;
-	    bottom: 0;
-	    right: 0;
-	    padding-right: 30px;
+		position: absolute;
+		bottom: 0;
+		right: 0;
+		padding-right: 30px;
 	}
 	.office .left.textcontent {
-	    position: absolute;
-	    bottom: 0;
-	    left: 0;
+		position: absolute;
+		bottom: 0;
+		left: 0;
 	}
 	.office .row {
 		position: relative;
@@ -990,4 +985,7 @@ a .news:hover{
 
 span.btn {
 	cursor: auto;
+}
+a:hover .photo-caption, a:hover .sep {
+	font-weight: normal;
 }
