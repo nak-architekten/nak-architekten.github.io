@@ -21,7 +21,13 @@
   tags:
     - Wohnen
 
-- name: Wettbewerbe + Studien
+- name: Wettbewerbe und Studien
   tags:
     - Wettbewerb
     - Studie
+
+- name: Bauen im Bestand
+  tags:
+    - Bestand
+    - Denkmal
+    - Umbau
