@@ -5,12 +5,13 @@ categories:
 date: 2009-06-01
 published: true
 title: Neubau eines Atelier- und Wohngebäudes für den Bildhauer Stephan Balkenhol in Berlin
-shorttitle: Atelier Stephan Balkenhol
-permalink: /projekte/BAL_Atelierhaus/
+shorttitle: Atelierhaus Friedrichshagen
+permalink: /projekte/BAL_BerlinFriedrichshagen/
 tags: 
 - Arbeiten
 - Wohnen
-projectpage: /projekte/BAL_Atelierhaus/02_v2.jpg
+projectpage: /projekte/BAL_Atelierhaus/02_v2.jpg 
+color: '#847971'
 images:
 - /projekte/BAL_Atelierhaus/01.jpg
 - /projekte/BAL_Atelierhaus/02_v2.jpg
@@ -34,5 +35,7 @@ Adresse			|	Berlin-Friedrichshagen
 Bauherr			|	Stephan Balkenhol 
 BGF				|	380 m²
 Fertigstellung	|	Juni 2009 
-Projektteam		|	Arthur Numrich · Grant Kelly 
+Projektteam		|	Arthur Numrich, Grant Kelly 
 Projektfotos	|	[Nina Straßgütl](http://www.ninastrg.de/)
+                |    
+Weitere Informationen    |   [Baunetz](http://www.baunetz.de/meldungen/Meldungen-Atelierhaus_in_Berlin_von_NAK_903445.html)

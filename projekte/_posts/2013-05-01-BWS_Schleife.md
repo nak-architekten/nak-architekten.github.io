@@ -4,14 +4,15 @@ categories:
 - projekt
 date: 2013-05-01
 published: true
-title: Neubau einer Anlage für generationsübergreifendes Wohnen
-shorttitle: Wohnanlage Schleife
+title: Neubau einer Anlage für generationsübergreifendes Wohnen in der Strugaaue in Schleife
+shorttitle: Betreutes Wohnen »Strugaaue« Schleife
 permalink: /projekte/BWS_Schleife/
 tags: 
 - Wohnen
-projectpage: /projekte/BWS_Schleife/00_Projektpage.jpg
+projectpage: /projekte/BWS_Schleife/00_Projektpage_v1.jpg 
+color: '#97a1a3'
 images:
-- /projekte/BWS_Schleife/01.jpg
+- /projekte/BWS_Schleife/01_v1.jpg
 - /projekte/BWS_Schleife/02.jpg
 - /projekte/BWS_Schleife/04.jpg
 captions:
@@ -19,11 +20,14 @@ captions:
 - Wegekonzept und Hofanlage
 - Variable Wohnausstattung
 ---
-Die Wohneinheiten für Jung und Alt gruppieren sich um zwei Hofanlagen. Damit wird die ortstypische, historische Struktur des Vierseithofes aufgegriffen und die Freiflächen bieten sich als Kommunikationsräume an. Die Anlage liegt neben einem "sozialen Zentrum", das unterschiedliche Pflegeleistungen anbietet. Ein Fußwegekonzept verbindet die barrierefreie Anlage mit einer Parkpromenade und Spielflächen entlang der nahe gelegenen Struga. Alle Wohnungen besitzen einen separaten Zugang und private Terrassen oder Loggien, um neben Gemeinschaftlichkeit auch ausreichend Privatsphäre zu gewähren. Bei der Wohnungsausstattung hatten die künftigen Mieter vielfältige Wahlmöglichkeiten. 
+Die Wohneinheiten für Jung und Alt gruppieren sich um zwei Hofanlagen. Damit wird die ortstypische, historische Struktur des Vierseithofes aufgegriffen, wobei sich die Freiflächen als Kommunikationsräume anbieten. Die Anlage liegt neben einem »sozialen Zentrum«, das unterschiedliche Pflegeleistungen anbietet. Ein Fußwegekonzept verbindet die barrierefreie Anlage mit einer Parkpromenade und Spielflächen entlang der nahe gelegenen Struga. Alle Wohnungen besitzen einen separaten Zugang und private Terrassen oder Loggien, um neben Gemeinschaftlichkeit auch ausreichend Privatsphäre zu gewähren. Bei der Wohnungsausstattung hatten die künftigen Mieter vielfältige Wahlmöglichkeiten. 
 
-Adresse				|	Friedensstraße · 02959 Schleife
+[\>> Wettbewerb](../projekte/WBW_BWS_Schleife/)
+
+Adresse				|	Friedensstraße, 02959 Schleife
 Bauherr				|	Vattenfall Europe AG
+Wettbewerb	    	|	1. Preis
 BGF					|	7.250 m²
 Fertigstellung		|	Mai 2013
-Projektteam			|	Tiemo Klumpp · Verena Wiederholt · Milanko Moraske
+Projektteam			|	Tiemo Klumpp, Verena Wiederholt, Milanko Moraske, Michael Filser
 Projektfotos		|	[Nina Straßgütl](http://www.ninastrg.de/)

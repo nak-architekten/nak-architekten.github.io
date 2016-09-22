@@ -5,11 +5,12 @@ categories:
 date: 2011-09-01
 published: true
 title: Umbau, Neuorganisation und energetische Sanierung des denkmalgeschützten Gebäudes "Bittelhaus" für das Deutsche Archäologische Institut in Berlin-Dahlem
-shorttitle: Deutsches Archäologisches Institut
+shorttitle: Deutsches Archäologisches Institut Berlin
 permalink: /projekte/DAI_BerlinDahlem/
 tags: 
 - Institut
-projectpage: /projekte/DAI_BerlinDahlem/07_v2.jpg
+projectpage: /projekte/DAI_BerlinDahlem/07_v2.jpg 
+color: '#91abbe'
 images:
 - /projekte/DAI_BerlinDahlem/01.jpg
 - /projekte/DAI_BerlinDahlem/02.jpg
@@ -29,13 +30,13 @@ captions:
 - Haupteingang
 - Nach Südwesten gerichtete, rückseitige Fassade
 ---
-Die das Erscheinungsbild der Fassade prägenden hochwertigen Gussaluminiumplatten wurden aufgearbeitet und weiterverwendet, die Konstruktion bauphysikalisch und energetisch optimiert. Durch die Sanierungsarbeiten wurde der Energieverbrauch um 75 Prozent, die CO²-Emission um rund 90 Prozent reduziert.
+Das Bittelhaus (benannt nach dem ehemaligen DAI-Präsidenten, Baujahr 1978) ist die zentrale Verwaltung und Bibliothek des Deutschen Archäologischen Instituts in Berlin. 
 
-Das Bittelhaus (benannt nach dem ehemaligen DAI-Präsidenten, Baujahr 1978) ist die zentrale Verwaltung und Bibliothek des Deutschen Archäologischen Instituts in Berlin.
+Die das Erscheinungsbild der Fassade prägenden hochwertigen Gussaluminiumplatten wurden aufgearbeitet und wiederverwendet und die Konstruktion bauphysikalisch und energetisch optimiert. Durch die Sanierungsarbeiten wurde der Energieverbrauch um 75 Prozent, die CO²-Emission um rund 90 Prozent reduziert.
 
-Adresse			|	Podbielskiallee 69-71 · 14195 Berlin-Dahlem 	 
+Adresse			|	Podbielskiallee 69-71, 14195 Berlin-Dahlem 	 
 Bauherr			|	Bundeamt für Bauwesen und Raumordnung (BBR)
 BGF				|	2.010 m²
 Fertigstellung	|	September 2011
-Projektteam		|	Werner Albrecht · Timo Nerger · Sonja Sandberger
+Projektteam		|	Werner Albrecht, Timo Nerger, Sonja Sandberger
 Projektfotos	|	[Nina Straßgütl](http://www.ninastrg.de/)
