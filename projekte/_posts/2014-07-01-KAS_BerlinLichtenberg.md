@@ -3,15 +3,19 @@ layout: post
 categories:
 - projekt
 - startseite
-date: 2016-04-24
+date: 2016-06-12 # 2014-07-01
 published: true
-title: Förderschule Nils-Holgersson
-shorttitle: Förderschule Nils-Holgersson
+title: Neubau der Förderschule Nils-Holgersson in Berlin
+shorttitle: Nils-Holgersson-Schule Berlin
 permalink: /projekte/KAS_BerlinLichtenberg/
 tags: 
 - Bildung
+- Sport
+- Highlight
 homepage: /projekte/KAS_BerlinLichtenberg/00_Titel.jpg
+# news: // Sporthalle in Borgsdorf eröffnet!
 projectpage: /projekte/KAS_BerlinLichtenberg/01v2.jpg
+color: '#ceab8d'
 images:
 - /projekte/KAS_BerlinLichtenberg/01v2.jpg
 - /projekte/KAS_BerlinLichtenberg/02.jpg
@@ -39,17 +43,16 @@ captions:
 - Nische vor Klassenraum
 - Horizontale Farbsystematik
 ---
-Die barrierefreie Schule mit sonderpädagogischem Förderschwerpunkt „Geistige Entwicklung” umfasst einen Neubau mit Therapiebereich, Therapieschwimmbad und einer Dreifeldsporthalle. Neben dem Schulgebäude selbst stehen ein „Ruhehof“ und ein „aktiver Hof“  sowie weit­läufige Außenanlagen zur Verfügung.
+Die barrierefreie Schule mit sonderpädagogischem Förderschwerpunkt »Geistige Entwicklung« umfasst einen Neubau mit Therapiebereich, Therapieschwimmbad und einer Dreifeldsporthalle. Neben dem Schulgebäude selbst stehen ein »Ruhehof« und ein »aktiver Hof« sowie weitläufige Außenanlagen zur Verfügung.
 
-Schülerzahlen	|	150 SchülerInnen in 22 Klassen
-Klassenstärke	|	6–9 SchülerInnen, davon 1–3 RollstuhlfahrerInnen
-Adresse	|	Otto-Marquardt-Straße 12–14, 10369 Berlin Lichtenberg
-Bauherr	|	Bezirksamt Lichtenberg von Berlin, SE Facility Management
-BGF		|	10.400 m²
-Fertigstellung	|	Juli 2014
-Projektteam	|	Karin Willke · Grant Kelly
-Tragwerksplanung	|	ahw Ingenieure GmbH, Berlin 
-Haustechnik	|	Ingenieurbüro Obermeyer, Berlin
-Außenanlagen	|	Frank von Bargen, Berlin	
-Kunst am Bau	|	Tobias Rehberger
-Projektfotos	|	[Nina Straßgütl](http://www.ninastrg.de/)
+Schülerzahlen	    |	150 SchülerInnen in 22 Klassen
+Adresse	            |	Otto-Marquardt-Straße 12–14, 10369 Berlin Lichtenberg
+Bauherr	            |	Bezirksamt Lichtenberg von Berlin, SE Facility Management
+BGF		            |	10.400 m²
+Fertigstellung	    |	Juli 2014
+Projektteam	        |	Grant Kelly, Karin Willke
+Tragwerksplanung	|	[ahw Ingenieure GmbH](http://www.ahw-ing.com/) 
+Haustechnik	        |	Ingenieurbüro Obermeyer 
+Außenanlagen	    |	[Frank von Bargen](http://www.landschaftsarchitekt-von-bargen.de)	
+Kunst am Bau	    |	Tobias Rehberger
+Projektfotos	    |	[Nina Straßgütl](http://www.ninastrg.de/)

@@ -5,11 +5,12 @@ categories:
 date: 2009-10-01
 published: true
 title: Neubau einer Großsporthalle in der Nähe des Stadions »Alte Försterei« an der Wuhlheide
-shorttitle: Großsporthalle »Alte Försterei«
-permalink: /projekte/SAF_AlteFoersterei/
+shorttitle: Sporthalle »Alte Försterei« Berlin
+permalink: /projekte/SAF_BerlinKoepenick/
 tags: 
 - Sport
-projectpage: /projekte/SAF_AlteFoersterei/01.jpg
+projectpage: /projekte/SAF_AlteFoersterei/01.jpg 
+color: '#5a8bcd'
 images:
 - /projekte/SAF_AlteFoersterei/01.jpg
 - /projekte/SAF_AlteFoersterei/02.jpg
@@ -29,11 +30,13 @@ captions:
 - Aufgang zu den Tribünen
 - Umkleiden
 ---
-Die Dreifeldsporthalle bietet bei Bundesligaspielen 1000 feste Zuschauerplätze. Ergänzend zum Hallensport sind für Sportler, die Freisportanlagen nutzen, Aufenthaltsräume und Umkleiden vorhanden. Die verschiedenen Funktionsbereiche werden durch eine horizontale Teilung und Verschiebung der Baukörper gegeneinander abgebildet: Über einem massiven Sockel kragt der Hallenbaukörper mit weißer Putzfassade und großen Fensteröffnungen aus. Der Überstand nimmt die Tribünen auf. Darunter befinden sich Eingänge und witterungsgeschützte Aufenthaltsbereiche für Zuschauer und Sportler.
+Die Dreifeldsporthalle bietet bei Bundesligaspielen 1000 feste Zuschauerplätze. Ergänzend zum Hallensport sind für Sportler, die Freisportanlagen nutzen, Aufenthaltsräume und Umkleiden vorhanden. Die verschiedenen Funktionsbereiche werden durch eine horizontale Teilung und Verschiebung der Baukörper gegeneinander abgebildet. Über einem massiven Sockel kragt der Hallenbaukörper mit weißer Putzfassade und großen Fensteröffnungen aus. Der Überstand nimmt die Tribünen auf. Darunter befinden sich Eingänge und witterungsgeschützte Aufenthaltsbereiche für Zuschauer und Sportler.
 
-Adresse				|	An der Wuhlheide 265 · 12555 Berlin-Köpenick
+Adresse				|	An der Wuhlheide 265, 12555 Berlin-Köpenick
 Bauherr				|	Bezirksamt Treptow-Köpenick von Berlin  
 BGF					|	4.800 m²
 Fertigstellung		|	Oktober 2009
-Projektteam			|	Tiemo Klumpp · Grant Kelly · Karin Willke
+Projektteam			|	Tiemo Klumpp, Grant Kelly, Karin Willke
 Projektfotos		|	Christian Schmidt
+                    |    
+Weitere Informationen    |   [Baunetz](http://www.baunetz.de/meldungen/Meldungen-Dreifachhalle_in_Berlin_eroeffnet_840852.html)

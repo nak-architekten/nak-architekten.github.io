@@ -4,12 +4,13 @@ categories:
 - projekt
 date: 2012-12-01
 published: true
-title: Neubau einer Sport- und Mehrzweckhalle in Grünheide
-shorttitle: Sport- und Mehrzweckhalle Grünheide
+title: Neubau der Müggelspree- Sport- und Mehrzweckhalle in Grünheide (Mark)
+shorttitle: Müggelspreehalle Grünheide
 permalink: /projekte/MZH_Gruenheide/
 tags: 
 - Sport
-projectpage: /projekte/MZH_Gruenheide/02.jpg
+projectpage: /projekte/MZH_Gruenheide/02.jpg 
+color: '#6072b4'
 images:
 - /projekte/MZH_Gruenheide/01.jpg
 - /projekte/MZH_Gruenheide/02.jpg
@@ -27,9 +28,9 @@ captions:
 ---
 Die Zweifeld-Sporthalle erfüllt die funktionalen Anforderungen für den Freizeit- und Schulsport, bietet Trainingsmöglichkeiten und ist für die Austragung von Wettkämpfen ausgelegt. Die Fassade ist durch einen massiven Sockel, einem Fensterband aus Industrieprofilglas und einer Aluvorhangfassade gegliedert. Die körperhafte, unregelmäßige Faltung der Alubleche erzeugt ein wechselvolles Spiel aus Licht und Schatten.
 
-Adresse				|	Bahnhofstraße 4 · 15537 Grünheide (Mark)
+Adresse				|	Bahnhofstraße 4, 15537 Grünheide (Mark)
 Bauherr				|	Gemeinde Grünheide (Mark)
 BGF					|	2.185 m²
 Fertigstellung		|	Dezember 2012
-Projektteam			|	Werner Albrecht · Oliver Löffler 
+Projektteam			|	Werner Albrecht, Oliver Löffler 
 Projektfotos		|	[Nina Straßgütl](http://www.ninastrg.de/)

@@ -5,11 +5,13 @@ categories:
 date: 2004-12-01
 published: true
 title: Neubau und denkmalgerechter Umbau der Krankenabteilung der JVA
-shorttitle: Krankenabteilung der JVA
-permalink: /projekte/JVA_Krankenabteilung/
+shorttitle: JVA Brandenburg // Krankenabteilung
+permalink: /projekte/JVA_Brandenburg/
 tags: 
 - Gesundheit
-projectpage: /projekte/JVA_Krankenabteilung/01.jpg
+- Denkmal
+projectpage: /projekte/JVA_Krankenabteilung/01.jpg 
+color: '#947f71'
 images:
 - /projekte/JVA_Krankenabteilung/01.jpg
 - /projekte/JVA_Krankenabteilung/02.jpg
@@ -21,9 +23,9 @@ captions:
 ---
 Das unter Denkmalschutz stehende Gebäude der JVA wurde im Bereich der ärztlichen Betreuung und der stationären Pflege umfassend saniert. Der Neubau mit OP-Abteilung, Zentralsterilisation und stationärem Bereich schließt an die Mittelachse des Altbaus an, die Geschossflächen sind ebenengleich verbunden. Die Fassade aus eingefärbten Betonziegeln korrespondiert mit dem Sichtmauerwerk des denkmalgeschützten Gebäudeensembles. Der Umbau berücksichtigte hohe sicherheitstechnische Standards und erfolgte bei laufendem Betrieb.
 
-Adresse				|	Geschwister-Scholl-Straße 20 · 14776 Brandenburg an der Havel
+Adresse				|	Geschwister-Scholl-Straße 20, 14776 Brandenburg an der Havel
 Bauherr				|	Ministerium der Finanzen des Landes Brandenburg
 BGF					|	3.360 m²
 Fertigstellung		|	Dezember 2004
-Projektteam			|	Werner Albrecht · Stéphane Jordan
-Projektfotos		|	Udo Meinel
+Projektteam			|	Werner Albrecht, Stéphane Jordan
+Projektfotos		|	[Udo Meinel](http://www.german-architects.com/de/udo-meinel/)

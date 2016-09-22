@@ -2,14 +2,16 @@
 layout: post
 categories:
 - projekt
-date: 2008-03-01
+date: 2008-03-02
 published: true
-title: Umbau und Sanierung des Laborgebäude des Instituts für Gemüse- und Zierpflanzenbau
-shorttitle: Laborgebäude Großbeeren
+title: Umbau und Sanierung des Laborgebäude des Instituts für Gemüse- und Zierpflanzenbau (IGZ)
+shorttitle: IGZ Großbeeren
 permalink: /projekte/IGZ_Grossbeeren/
 tags: 
 - Institut
-projectpage: /projekte/IGZ_Grossbeeren/03.jpg
+- Bestand
+projectpage: /projekte/IGZ_Grossbeeren/03.jpg 
+color: '#95c1ce'
 images:
 - /projekte/IGZ_Grossbeeren/01.jpg
 - /projekte/IGZ_Grossbeeren/02.jpg
@@ -31,9 +33,11 @@ captions:
 ---
 Das Leibniz-Institut betreibt anwendungsorientierte Grundlagenforschung für nachhaltigen Gartenbau. Der viergeschossige Stahlbetonskelettbau aus den 90er Jahren wurde unter Beibehaltung des Laborbetriebes instand gesetzt und umgebaut. Als höchstes Bauwerk auf dem Institutsgelände ist es zwischen Gewächshäusern sichtbar. Besonderes Augenmerk lag daher auf der Fassadengestaltung, die mit umlaufenden horizontalen Brüstungs- und Fensterbändern die Modernität eines zeitgemäßen Laborgebäudes widerspiegelt. 
 
-Adresse				|	Theodor-Echtermeyer-Weg 1 · 14979 Großbeeren 
+Adresse				|	Theodor-Echtermeyer-Weg 1, 14979 Großbeeren 
 Bauherr				|	IGZ Großbeeren / Erfurt E.V. 
 BGF					|	3.100 m² 
 Fertigstellung		|	März 2008  
-Projektteam			|	Werner Albrecht · Arthur Numrich · Jessica Voss 
-Projektfotos		|	[Nina Straßgütl](http://www.ninastrg.de/)
+Projektteam			|	Werner Albrecht, Arthur Numrich, Jessica Voss 
+Projektfotos		|	[Nina Straßgütl](http://www.ninastrg.de/) 
+                    |    
+Weitere Informationen    |   [Baunetz](http://www.baunetz.de/meldungen/Meldungen-Labor-Umbau_bei_Berlin_754226.html)
