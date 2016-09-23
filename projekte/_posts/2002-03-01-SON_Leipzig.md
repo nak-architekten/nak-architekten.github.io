@@ -16,14 +16,13 @@ images:
 - /projekte/SON_Leipzig/02.jpg
 - /projekte/SON_Leipzig/03.jpg
 captions:
-- 1 
-- 1
-- 2
+- Südseite mit Spielterrasse und Freibereich
+- Fassade Nordseite
+- Eingangsbereich
 ---
-TEXT.
+Neubau des Kinderhauses »Sonnenhügel« mit 72 Plätzen in Leipzig Lützschena-Stahmeln
 
 Adresse			|	Am Hohlweg 2, 04159 Leipzig
 Bauherr			|	Stadt Leipzig
 BGF				|	650 m²
 Fertigstellung	|	März 2002
-Projektteam		|	???

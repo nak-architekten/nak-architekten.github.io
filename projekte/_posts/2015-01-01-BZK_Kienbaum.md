@@ -8,10 +8,9 @@ title: Trainingshalle für »Männer-Geräteturnen« im Bundesleistungszentrum K
 shorttitle: Bundesleistungszentrum Kienbaum // Geräteturnhalle
 permalink: /projekte/BZK_Kienbaum/
 tags: 
-- Sport
-- Highlight
+- Sporthalle
 projectpage: /projekte/BZK_Kienbaum/05.jpg
-color: '#a6a19a'
+color: '#a3917b'
 images:
 - /projekte/BZK_Kienbaum/01.jpg
 - /projekte/BZK_Kienbaum/02.jpg

@@ -8,9 +8,9 @@ title: Neubau einer Anlage für generationsübergreifendes Wohnen in der Strugaa
 shorttitle: Betreutes Wohnen »Strugaaue« Schleife
 permalink: /projekte/BWS_Schleife/
 tags: 
-- Wohnen
+- Wohnhaus
 projectpage: /projekte/BWS_Schleife/00_Projektpage_v1.jpg 
-color: '#97a1a3'
+color: '#797e00'
 images:
 - /projekte/BWS_Schleife/01_v1.jpg
 - /projekte/BWS_Schleife/02.jpg

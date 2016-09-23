@@ -8,7 +8,7 @@ title: Umbau der denkmalgeschützten Thomasschule in Leipzig mit ergänzendem Ne
 shorttitle: Thomasschule Leipzig
 permalink: /projekte/TSL_Leipzig/
 tags: 
-- Bildung
+- Schule
 - Denkmal
 projectpage: /projekte/TSL_Thomasschule/01.jpg 
 color: '#afa0ba'

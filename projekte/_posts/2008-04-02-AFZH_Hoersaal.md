@@ -10,7 +10,7 @@ permalink: /projekte/AFZH_KoenigsWusterhausen/
 tags: 
 - Institut
 projectpage: /projekte/AFZH_Hoersaal/02.jpg 
-color: '#5c768c'
+color: '#cac8bc'
 images:
 - /projekte/AFZH_Hoersaal/01.jpg
 - /projekte/AFZH_Hoersaal/02.jpg

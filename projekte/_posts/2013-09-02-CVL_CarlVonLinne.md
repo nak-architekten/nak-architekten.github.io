@@ -8,9 +8,10 @@ title: Umbau der Carl-von-Linné-Schule mit Förderschwerpunkt körperliche und 
 shorttitle: Carl-von-Linné-Schule Berlin
 permalink: /projekte/CVL_BerlinLichtenberg/
 tags: 
-- Bildung
+- Schule
+- Bestand
 projectpage: /projekte/CVL_CarlVonLinne/01.jpg 
-color: '#7d8f97'
+color: '#7ca9ca'
 images:
 - /projekte/CVL_CarlVonLinne/01.jpg
 - /projekte/CVL_CarlVonLinne/02.jpg

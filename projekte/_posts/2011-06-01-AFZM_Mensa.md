@@ -9,8 +9,9 @@ shorttitle: AFZ Königs Wusterhausen // Mensa
 permalink: /projekte/AFZM_KoenigsWusterhausen/
 tags: 
 - Institut
+- Gemeinschaftshaus
 projectpage: /projekte/AFZM_Mensa/01.jpg 
-color: '#acaa9e'
+color: '#fdfae7'
 images:
 - /projekte/AFZM_Mensa/01.jpg
 - /projekte/AFZM_Mensa/02.jpg

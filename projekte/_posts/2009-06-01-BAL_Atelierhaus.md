@@ -8,10 +8,10 @@ title: Neubau eines Atelier- und Wohngebäudes für den Bildhauer Stephan Balken
 shorttitle: Atelierhaus Friedrichshagen
 permalink: /projekte/BAL_BerlinFriedrichshagen/
 tags: 
-- Arbeiten
-- Wohnen
+- Werkstatt
+- Wohnhaus
 projectpage: /projekte/BAL_Atelierhaus/02_v2.jpg 
-color: '#847971'
+color: '#705956'
 images:
 - /projekte/BAL_Atelierhaus/01.jpg
 - /projekte/BAL_Atelierhaus/02_v2.jpg

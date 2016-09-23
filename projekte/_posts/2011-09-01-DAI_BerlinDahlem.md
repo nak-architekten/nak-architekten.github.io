@@ -8,9 +8,10 @@ title: Umbau, Neuorganisation und energetische Sanierung des denkmalgeschützten
 shorttitle: Deutsches Archäologisches Institut Berlin
 permalink: /projekte/DAI_BerlinDahlem/
 tags: 
-- Institut
+- Institut 
+- Bestand
 projectpage: /projekte/DAI_BerlinDahlem/07_v2.jpg 
-color: '#91abbe'
+color: '#acd6ee'
 images:
 - /projekte/DAI_BerlinDahlem/01.jpg
 - /projekte/DAI_BerlinDahlem/02.jpg

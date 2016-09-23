@@ -10,7 +10,7 @@ permalink: /projekte/AFZS_KoenigsWusterhausen/
 tags: 
 - Institut
 projectpage: /projekte/AFZS_Seminargebaeude/03.jpg 
-color: '#778ab0'
+color: '#6d75a7'
 images:
 - /projekte/AFZS_Seminargebaeude/01.jpg
 - /projekte/AFZS_Seminargebaeude/02.jpg

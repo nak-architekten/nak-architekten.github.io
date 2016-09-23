@@ -8,9 +8,9 @@ title: Umbau und Sanierung des Apartmentgebäudes Haus 5 im Aus- und Fortbildung
 shorttitle: AFZ Königs Wusterhausen // Apartmenthaus
 permalink: /projekte/AFZA_KoenigsWusterhausen/
 tags: 
-- Wohnen
+- Wohnheim
 projectpage: /projekte/AFZA_Apartmentgebaeude/01.jpg 
-color: '#73746c'
+color: '#bbb8af'
 images:
 - /projekte/AFZA_Apartmentgebaeude/01.jpg
 - /projekte/AFZA_Apartmentgebaeude/02.jpg

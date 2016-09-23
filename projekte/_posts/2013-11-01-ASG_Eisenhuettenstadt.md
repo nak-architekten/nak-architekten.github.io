@@ -8,9 +8,9 @@ title: Neubau einer Zweifeldsporthalle auf dem Campus des Albert-Schweitzer-Gymn
 shorttitle: Schweitzer-Gymnasium Eisenhüttenstadt // Sporthalle
 permalink: /projekte/ASG_Eisenhuettenstadt/
 tags: 
-- Sport
-projectpage: /projekte/ASG_Eisenhuettenstadt/07v2.jpg 
-color: '#95939f'
+- Sporthalle
+projectpage: /projekte/ASG_Eisenhuettenstadt/07_v2.jpg 
+color: '#f9d285'
 images:
 - /projekte/ASG_Eisenhuettenstadt/01_v2.jpg
 - /projekte/ASG_Eisenhuettenstadt/08.jpg

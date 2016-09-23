@@ -9,7 +9,7 @@ shorttitle: Helene-Haeusler-Schule Berlin
 permalink: /projekte/SGB_BerlinPrenzlauerBerg/
 tags: 
 - Schule
-- Sport
+- Sporthalle
 - Bestand
 projectpage: /projekte/SGB_Helene/01.jpg
 color: '#afb2dd'
@@ -35,5 +35,5 @@ Bauherr			        |	Bezirksamt Pankow von Berlin
 Wettbewerb	        	|	1. Preis
 BGF			        	|	10.000 m² 
 Fertigstellung      	|	Mai 2002
-Projektteam		        |	Arthur Numrich, ...
+Projektteam		        |	Arthur Numrich, Stephane Jordan
 Projektfotos	        |	[Udo Meinel](http://www.german-architects.com/de/udo-meinel)

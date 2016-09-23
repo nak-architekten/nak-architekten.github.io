@@ -8,7 +8,7 @@ title: Sportzentrum mit Sportmehrzweckhalle und Trainingshalle für den Olympias
 shorttitle: Lausitz-Arena Cottbus
 permalink: /projekte/LAC_Cottbus/
 tags: 
-- Sport
+- Sporthalle
 projectpage: /projekte/LAC_Cottbus/05.jpg
 color: '#99302c'
 images:
