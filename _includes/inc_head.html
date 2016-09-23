@@ -1,5 +1,5 @@
 <head>
-	<title>{% if page.shorttitle %}{{ page.shorttitle | replace:'"','' }}{% else %}{{ site.title | replace:'"','' }}{% endif %} // {{ site.title | replace:'"','' }}</title>
+	<title>{{ site.title | replace:'"','' }} {% if page.shorttitle %}  //  {{ page.shorttitle | replace:'"','' }}{% elsif page.title %} // {{ page.title | replace:'"','' }}{% else %} {% endif %}</title>
     <meta property="og:title" content="{% if page.shorttitle %}{{ page.shorttitle | replace:'"','' }}{% else %}{{ site.title | replace:'"','' }}{% endif %} // {{ site.title | replace:'"','' }}" />
     <meta name="twitter:title" content="{% if page.shorttitle %}{{ page.shorttitle | replace:'"','' }}{% else %}{{ site.title | replace:'"','' }}{% endif %} // {{ site.title | replace:'"','' }}" />
 	<meta charset="utf-8"/>
