@@ -10,6 +10,7 @@ permalink: /projekte/WBW_OSZ_BerlinNeukoelln/
 tags: 
 - Wettbewerb
 - Schule
+- Institut
 projectpage: /projekte/WBW_OSZ_Lise-Meitner/07.jpg
 color: '#d2cecb'
 images:

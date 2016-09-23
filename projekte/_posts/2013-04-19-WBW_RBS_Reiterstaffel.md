@@ -8,8 +8,9 @@ title: Neubau eines Gebäudekomplexes für die Reiterstaffel der Bundespolizei
 shorttitle: IM BAU // Reiterstaffel Bundespolizei Stahnsdorf
 permalink: /projekte/WBW_RBS_Reiterstaffel/
 tags: 
-- Arbeiten
-- Sport
+- Wettbewerb
+- Büro
+- Sporthalle
 projectpage: /projekte/WBW_RBS_Reiterstaffel/05_v3.jpg 
 color: '#ffdf9c'
 images:

@@ -7,19 +7,26 @@
 - name: Sport
   tags:
     - Sport
+    - Sporthalle
 
 - name: Arbeiten
   tags:
     - Arbeiten
+    - Werkstatt
+    - Büro 
+    - Gemeinschaftshaus
 
 - name: Institute
   tags:
     - Institut
     - Gesundheit
+    - Krankenhaus
 
 - name: Wohnen
   tags:
     - Wohnen
+    - Wohnhaus
+    - Wohnheim
 
 - name: Wettbewerbe und Studien
   tags:

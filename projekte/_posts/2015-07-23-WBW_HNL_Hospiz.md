@@ -9,7 +9,7 @@ shorttitle: 3. PREIS // Hospiz Luckenwalde
 permalink: /projekte/WBW_HNL_Luckenwalde/
 tags: 
 - Wettbewerb
-- Wohnen
+- Wohnheim
 projectpage: /projekte/WBW_HNL_Hospiz/00_Projektpage.jpg
 images:
 - /projekte/WBW_HNL_Hospiz/01_v2.jpg

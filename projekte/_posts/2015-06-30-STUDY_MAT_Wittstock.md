@@ -9,7 +9,7 @@ shorttitle: STUDIE // Tuchfabrik Wittstock
 permalink: /projekte/STUDIE_MAT_Wittstock/
 tags: 
 - Studie
-- Bildung 
+- Schule 
 - Denkmal
 projectpage: /projekte/STUDY_MAT_Wittstock/00_Projektpage_v2.jpg
 images:

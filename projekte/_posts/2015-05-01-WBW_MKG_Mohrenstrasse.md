@@ -8,8 +8,9 @@ title: Sanierung Wohnanlage Mohrenstraße, Kronenstraße, Glinkastraße
 shorttitle: 1. PREIS // Wohnanlage Mohrenstraße Berlin
 permalink: /projekte/WBW_MKG_BerlinMitte/
 tags: 
-- Wohnen
 - Wettbewerb
+- Wohnhaus
+- Bestand
 projectpage: /projekte/WBW_MKG_Mohrenstrasse/00_Projektpage.jpg
 images:
 - /projekte/WBW_MKG_Mohrenstrasse/01.jpg

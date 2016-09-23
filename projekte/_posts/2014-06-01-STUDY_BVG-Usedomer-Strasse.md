@@ -9,7 +9,7 @@ shorttitle: STUDIE // BVG Usedomer Straße Berlin
 permalink: /projekte/STUDIE_BVG_BerlinMitte/
 tags: 
 - Studie
-- Arbeiten
+- Büro
 - Denkmal
 projectpage: /projekte/STUDY_BVG-Usedomer-Strasse/00_Projektpage_v2.jpg
 images:

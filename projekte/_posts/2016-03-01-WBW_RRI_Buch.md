@@ -10,7 +10,7 @@ permalink: /projekte/WBW_RRI_BerlinBuch/
 tags: 
 - Wettbewerb
 - Institut
-- Highlight
+- Bestand
 projectpage: /projekte/WBW_RRI_Buch/00_Projektpage_v2.jpg
 images:
 - /projekte/WBW_RRI_Buch/01.jpg
