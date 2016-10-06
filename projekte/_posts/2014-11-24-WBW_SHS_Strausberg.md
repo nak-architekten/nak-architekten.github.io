@@ -27,3 +27,4 @@ Bauherr				    |	Stadt Strausberg
 Preisgericht	        |	24. November 2014
 Platzierung		        |	1. PREIS
 Projektteam			    |	Tiemo Klumpp, Michael Filser 
+Visualisierung          |   Martin Kranich
