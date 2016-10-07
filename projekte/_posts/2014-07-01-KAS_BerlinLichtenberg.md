@@ -9,15 +9,14 @@ title: Neubau der Förderschule Nils-Holgersson in Berlin
 shorttitle: Nils-Holgersson-Schule Berlin
 permalink: /projekte/KAS_BerlinLichtenberg/
 tags: 
-- Bildung
-- Sport
-- Highlight
+- Schule
+- Sporthalle
 homepage: /projekte/KAS_BerlinLichtenberg/00_Titel.jpg
 # news: // Sporthalle in Borgsdorf eröffnet!
-projectpage: /projekte/KAS_BerlinLichtenberg/01v2.jpg
+projectpage: /projekte/KAS_BerlinLichtenberg/01_v2.jpg
 color: '#ceab8d'
 images:
-- /projekte/KAS_BerlinLichtenberg/01v2.jpg
+- /projekte/KAS_BerlinLichtenberg/01_v2.jpg
 - /projekte/KAS_BerlinLichtenberg/02.jpg
 - /projekte/KAS_BerlinLichtenberg/03.jpg
 - /projekte/KAS_BerlinLichtenberg/04.jpg
@@ -48,7 +47,7 @@ Die barrierefreie Schule mit sonderpädagogischem Förderschwerpunkt »Geistige 
 Schülerzahlen	    |	150 SchülerInnen in 22 Klassen
 Adresse	            |	Otto-Marquardt-Straße 12–14, 10369 Berlin Lichtenberg
 Bauherr	            |	Bezirksamt Lichtenberg von Berlin, SE Facility Management
-BGF		            |	10.400 m²
+BGF		            |	10.400 m²
 Fertigstellung	    |	Juli 2014
 Projektteam	        |	Grant Kelly, Karin Willke
 Tragwerksplanung	|	[ahw Ingenieure GmbH](http://www.ahw-ing.com/) 

@@ -39,7 +39,7 @@ Das winkelförmige, dreigeschossige Schulgebäude mit integrierter Sporthalle bi
 Schülerzahl 		|	320 SchülerInnen in 12 Klassen
 Adresse				|	Gute Änger 32, 85356 Freising
 Bauherr				|	Montessori Landkreis Freising e.V.
-BGF					|	6.370 m²
+BGF					|	6.370 m²
 Fertigstellung		|	Juni 2015
 Projektteam			|	Tiemo Klumpp, Inka Reckhaus, Moritz Müller-Werther, Ulrike Vogel
 Projektfotos		|	[Nina Straßgütl](http://www.ninastrg.de/) 

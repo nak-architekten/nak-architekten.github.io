@@ -47,7 +47,7 @@ Das denkmalgeschützte Haus wurde 1960 nach dem Entwurf des Architekten Gerhard 
 
 Adresse				    |	Bismarckstraße 10–12, 10625 Berlin
 Bauherr				    |	Innovations-Zentrum Berlin Management GmbH (IZBM)
-BGF					    |	9.500 m²
+BGF					    |	9.500 m²
 Fertigstellung		    |	April 2015
 Projektteam			    |	Grant Kelly, Astrid Hiljegerdes, Hans-Jürgen Keisel, Milanko Moraske, Theresa Grave
 Tragwerksplanung	    |	[KREBS+KIEFER Ingenieure GmbH](http://www.kuk.de)
