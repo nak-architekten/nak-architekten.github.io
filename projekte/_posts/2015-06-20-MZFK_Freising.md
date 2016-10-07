@@ -9,14 +9,14 @@ shorttitle: Montessorizentrum Freising // Kita
 permalink: /projekte/MZFK_Freising/
 tags: 
 - Kita
-projectpage: /projekte/MZFK_Montessori-Kita/05.jpg
+projectpage: /projekte/MZFK_Freising/05.jpg
 color: '#606547'
 images:
-- /projekte/MZFK_Montessori-Kita/01.jpg
-- /projekte/MZFK_Montessori-Kita/02.jpg
-- /projekte/MZFK_Montessori-Kita/03.jpg
-- /projekte/MZFK_Montessori-Kita/04.jpg
-- /projekte/MZFK_Montessori-Kita/05.jpg
+- /projekte/MZFK_Freising/01.jpg
+- /projekte/MZFK_Freising/02.jpg
+- /projekte/MZFK_Freising/03.jpg
+- /projekte/MZFK_Freising/04.jpg
+- /projekte/MZFK_Freising/05.jpg
 captions:
 - Ensemble mit Schulgebäude
 - Eingeschossig mit Freibereich

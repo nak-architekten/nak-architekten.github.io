@@ -11,11 +11,11 @@ tags:
 - Wettbewerb
 - Institut
 - Bestand
-projectpage: /projekte/WBW_RRI_Buch/00_Projektpage_v2.jpg
+projectpage: /projekte/WBW_RRI_BerlinBuch/00_Projektpage_v2.jpg
 images:
-- /projekte/WBW_RRI_Buch/01.jpg
-- /projekte/WBW_RRI_Buch/02.jpg
-- /projekte/WBW_RRI_Buch/03.jpg
+- /projekte/WBW_RRI_BerlinBuch/01.jpg
+- /projekte/WBW_RRI_BerlinBuch/02.jpg
+- /projekte/WBW_RRI_BerlinBuch/03.jpg
 captions:
 - Außenperspektive
 - Lageplan

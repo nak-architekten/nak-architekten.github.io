@@ -8,20 +8,20 @@ title: Erweiterung der sozialtherapeutischen Werkstätten für Menschen mit Behi
 shorttitle: Sozialtherapeutische Werkstätten Berlin
 permalink: /projekte/WBB_BerlinZehlendorf/
 tags: 
-- Arbeiten 
+- Werkstatt 
 - Bestand
-projectpage: /projekte/WBB_Werkstatt/01.jpg
+projectpage: /projekte/WBB_BerlinZehlendorf/01.jpg
 color: '#815556'
 images:
-- /projekte/WBB_Werkstatt/01.jpg
-- /projekte/WBB_Werkstatt/02.jpg
-- /projekte/WBB_Werkstatt/03.jpg
-- /projekte/WBB_Werkstatt/05.jpg
-- /projekte/WBB_Werkstatt/06.jpg
+- /projekte/WBB_BerlinZehlendorf/01.jpg
+- /projekte/WBB_BerlinZehlendorf/02.jpg
+- /projekte/WBB_BerlinZehlendorf/03.jpg
+- /projekte/WBB_BerlinZehlendorf/05.jpg
+- /projekte/WBB_BerlinZehlendorf/06.jpg
 captions:
+- Anbau 
 - Anbau
-- Anbau
-- im Umfeld
+- Baukörper im Kontext
 - Werkstattgeschoß
 - Fassade mit wechselnden Fenster- und Putzbändern
 ---

@@ -10,15 +10,15 @@ permalink: /projekte/HUMS_BerlinPrenzlauerBerg/
 tags: 
 - Schule
 - Denkmal
-projectpage: /projekte/HUMM_Schulgebaeude/01.jpg 
+projectpage: /projekte/HUMS_BerlinPrenzlauerBerg/01.jpg 
 color: '#b77c5e'
 images:
-- /projekte/HUMM_Schulgebaeude/01.jpg
-- /projekte/HUMM_Schulgebaeude/02.jpg
-- /projekte/HUMM_Schulgebaeude/03.jpg
-- /projekte/HUMM_Schulgebaeude/04.jpg
-- /projekte/HUMM_Schulgebaeude/05.jpg
-- /projekte/HUMM_Schulgebaeude/06.jpg
+- /projekte/HUMS_BerlinPrenzlauerBerg/01.jpg
+- /projekte/HUMS_BerlinPrenzlauerBerg/02.jpg
+- /projekte/HUMS_BerlinPrenzlauerBerg/03.jpg
+- /projekte/HUMS_BerlinPrenzlauerBerg/04.jpg
+- /projekte/HUMS_BerlinPrenzlauerBerg/05.jpg
+- /projekte/HUMS_BerlinPrenzlauerBerg/06.jpg
 captions:
 - Gebäude Rückseite
 - Fassadendetail

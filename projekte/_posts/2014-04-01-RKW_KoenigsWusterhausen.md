@@ -8,18 +8,19 @@ title: Rathaus Königs Wusterhausen
 shorttitle: Rathaus Königs Wusterhausen
 permalink: /projekte/RKW_KoenigsWusterhausen/
 tags: 
-- Arbeiten
-projectpage: /projekte/RKW_Rathaus/02.jpg 
+- Büro
+- Bestand
+projectpage: /projekte/RKW_KoenigsWusterhausen/02.jpg 
 color: '#d0c1a4'
 images:
-- /projekte/RKW_Rathaus/01.jpg
-- /projekte/RKW_Rathaus/02.jpg
-- /projekte/RKW_Rathaus/03.jpg
-- /projekte/RKW_Rathaus/04.jpg
-- /projekte/RKW_Rathaus/05.jpg
-- /projekte/RKW_Rathaus/06.jpg
-- /projekte/RKW_Rathaus/07.jpg
-- /projekte/RKW_Rathaus/08.jpg
+- /projekte/RKW_KoenigsWusterhausen/01.jpg
+- /projekte/RKW_KoenigsWusterhausen/02.jpg
+- /projekte/RKW_KoenigsWusterhausen/03.jpg
+- /projekte/RKW_KoenigsWusterhausen/04.jpg
+- /projekte/RKW_KoenigsWusterhausen/05.jpg
+- /projekte/RKW_KoenigsWusterhausen/06.jpg
+- /projekte/RKW_KoenigsWusterhausen/07.jpg
+- /projekte/RKW_KoenigsWusterhausen/08.jpg
 captions:
 - Bürgermeistergaube an der Schloßstraße und Verbindungsgang zum Altbau
 - Fensterformate im Wechselspiel

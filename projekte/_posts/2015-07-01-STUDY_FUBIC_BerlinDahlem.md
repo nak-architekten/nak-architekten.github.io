@@ -12,11 +12,11 @@ tags:
 - Büro
 - Institut
 - Bestand
-projectpage: /projekte/STUDY_FUBIC_Berlin/00_Projektpage.jpg
+projectpage: /projekte/STUDY_FUBIC_BerlinDahlem/00_Projektpage.jpg
 images:
-- /projekte/STUDY_FUBIC_Berlin/01.jpg
-- /projekte/STUDY_FUBIC_Berlin/02v2.jpg
-- /projekte/STUDY_FUBIC_Berlin/03.jpg
+- /projekte/STUDY_FUBIC_BerlinDahlem/01.jpg
+- /projekte/STUDY_FUBIC_BerlinDahlem/02_v2.jpg
+- /projekte/STUDY_FUBIC_BerlinDahlem/03.jpg
 captions:
 - Vogelperspektive
 - Lageplan
