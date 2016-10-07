@@ -11,11 +11,11 @@ tags:
 - Wettbewerb
 - Schule
 - Denkmal
-projectpage: /projekte/WBW_ELS_Lasker-Schule/00_Projektpage.jpg
+projectpage: /projekte/WBW_ELS_BerlinFriedrichshain/00_Projektpage.jpg
 images:
-- /projekte/WBW_ELS_Lasker-Schule/01v2.jpg
-- /projekte/WBW_ELS_Lasker-Schule/02.jpg
-- /projekte/WBW_ELS_Lasker-Schule/03.jpg
+- /projekte/WBW_ELS_BerlinFriedrichshain/01_v2.jpg
+- /projekte/WBW_ELS_BerlinFriedrichshain/02.jpg
+- /projekte/WBW_ELS_BerlinFriedrichshain/03.jpg
 captions:
 - Außenperspektive
 - Lageplanausschnitt

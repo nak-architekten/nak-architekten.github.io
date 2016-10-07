@@ -6,18 +6,18 @@ date: 2014-06-01
 published: true
 title: Machbarkeitsstudie für das Betriebsgelände der BVG in der Usedomer Straße
 shorttitle: STUDIE // BVG Usedomer Straße Berlin
-permalink: /projekte/STUDIE_BVG_BerlinMitte/
+permalink: /projekte/STUDIE_BVG_BerlinWedding/
 tags: 
 - Studie
 - Büro
 - Denkmal
-projectpage: /projekte/STUDY_BVG-Usedomer-Strasse/00_Projektpage_v2.jpg
+projectpage: /projekte/STUDY_BVG_BerlinWedding/00_Projektpage_v2.jpg
 images:
-- /projekte/STUDY_BVG-Usedomer-Strasse/01.jpg
-- /projekte/STUDY_BVG-Usedomer-Strasse/02.jpg
-- /projekte/STUDY_BVG-Usedomer-Strasse/03.jpg
-- /projekte/STUDY_BVG-Usedomer-Strasse/04.jpg
-- /projekte/STUDY_BVG-Usedomer-Strasse/05.jpg
+- /projekte/STUDY_BVG_BerlinWedding/01.jpg
+- /projekte/STUDY_BVG_BerlinWedding/02.jpg
+- /projekte/STUDY_BVG_BerlinWedding/03.jpg
+- /projekte/STUDY_BVG_BerlinWedding/04.jpg
+- /projekte/STUDY_BVG_BerlinWedding/05.jpg
 captions:
 - Innenraumperspektive
 - Modell

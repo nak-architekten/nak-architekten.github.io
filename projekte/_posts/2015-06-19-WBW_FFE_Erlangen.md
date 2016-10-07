@@ -11,6 +11,7 @@ tags:
 - Wettbewerb
 - Schule
 - Gemeinschaftshaus
+- Wohnheim
 - Denkmal
 projectpage: /projekte/WBW_FFE_Erlangen/00_Projektpage.jpg
 images:

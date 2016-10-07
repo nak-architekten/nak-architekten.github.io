@@ -6,18 +6,18 @@ date: 2014-09-02
 published: true
 title: Umbau des Hauses der Gesundheit für die Staatsanwaltschaft Berlin
 shorttitle: Staatsanwaltschaft Berlin
-permalink: /projekte/T22_Turmstrasse/
+permalink: /projekte/T22_BerlinMoabit/
 tags: 
-- Arbeiten
+- Büro
 - Bestand
-projectpage: /projekte/T22_Turmstrasse/00_Projektpage_v2.jpg 
+projectpage: /projekte/T22_BerlinMoabit/00_Projektpage_v2.jpg 
 color: '#cac9c5'
 images:
-- /projekte/T22_Turmstrasse/01.jpg
-- /projekte/T22_Turmstrasse/02.jpg
-- /projekte/T22_Turmstrasse/03.jpg
-- /projekte/T22_Turmstrasse/04.jpg
-- /projekte/T22_Turmstrasse/05.jpg
+- /projekte/T22_BerlinMoabit/01.jpg
+- /projekte/T22_BerlinMoabit/02.jpg
+- /projekte/T22_BerlinMoabit/03.jpg
+- /projekte/T22_BerlinMoabit/04.jpg
+- /projekte/T22_BerlinMoabit/05.jpg
 captions:
 - Gebäude nach dem Umbau
 - Originalzustand
@@ -31,5 +31,5 @@ Adresse				|	Turmstraße 22, 10559 Berlin
 Bauherr				|	BIM Berliner Immobilienmanagement GmbH
 BGF					|	4.900 m² Altbau, 1.600 m² Neubau
 Fertigstellung		|	September 2014
-Projektteam			|	Ralf Nägele, Arturo Panichi
+Projektteam			|	Arthur Numrich, Ralf Nägele, Arturo Panichi
 Projektfotos		|	[Nina Straßgütl](http://www.ninastrg.de/)
