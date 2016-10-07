@@ -18,7 +18,7 @@ images:
 - /projekte/MZFK_Montessori-Kita/04.jpg
 - /projekte/MZFK_Montessori-Kita/05.jpg
 captions:
-- Komplex mit Schulgebäude
+- Ensemble mit Schulgebäude
 - Eingeschossig mit Freibereich
 - Bewegungsraum mit Terrassenzugang
 - Eingangsbereich und Umkleide

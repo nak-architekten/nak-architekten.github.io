@@ -10,15 +10,15 @@ permalink: /projekte/WBW_HNL_Luckenwalde/
 tags: 
 - Wettbewerb
 - Wohnheim
-projectpage: /projekte/WBW_HNL_Hospiz/00_Projektpage.jpg
+projectpage: /projekte/WBW_HNL_Luckenwalde/00_Projektpage.jpg
 images:
-- /projekte/WBW_HNL_Hospiz/01_v2.jpg
-- /projekte/WBW_HNL_Hospiz/02_v2.jpg
-- /projekte/WBW_HNL_Hospiz/03.jpg
-- /projekte/WBW_HNL_Hospiz/04.jpg
+- /projekte/WBW_HNL_Luckenwalde/01_v2.jpg
+- /projekte/WBW_HNL_Luckenwalde/02_v2.jpg
+- /projekte/WBW_HNL_Luckenwalde/03.jpg
+- /projekte/WBW_HNL_Luckenwalde/04.jpg
 captions:
 - Perspektive Baukörper
-- Perspektive Wohnraum
+- Perspektive Wohnraum mit Loggia
 - Lageplan
 - Grundriss Gästeebene
 ---

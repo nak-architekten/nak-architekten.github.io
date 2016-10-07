@@ -9,7 +9,6 @@ shorttitle: Montessorizentrum Freising // Schule
 permalink: /projekte/MZFS_Freising/
 tags: 
 - Schule
-- Highlight
 projectpage: /projekte/MZF_Montessori-Schule/01.jpg
 color: '#d0beb0'
 images:
@@ -23,7 +22,7 @@ images:
 - /projekte/MZF_Montessori-Schule/08.jpg
 - /projekte/MZF_Montessori-Schule/09.jpg
 captions:
-- Komplex mit Kitagebäude
+- Ensemble mit Kitagebäude
 - Foyer
 - Foyer und Eingang
 - Klassenraum mit integrierter Küchenzeile

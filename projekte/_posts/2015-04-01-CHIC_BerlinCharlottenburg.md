@@ -30,7 +30,7 @@ images:
 - /projekte/CHIC_BerlinCharlottenburg/13.jpg
 captions:
 - Gelegen an der Bismarckstraße nahe der TU
-- Das ehemalige Gerling-Haus in der Bauwelt Heft 30 /1960
+- Das ehemalige Gerling-Haus in der Bauwelt Heft 30/1960
 - Das ehemalige Gerling-Haus im Glasforum 04/1962
 - Neue Fassade
 - Empfangshalle mit Verde-Alpi-Natursteinplatten und Tresen aus Nussbaum.
