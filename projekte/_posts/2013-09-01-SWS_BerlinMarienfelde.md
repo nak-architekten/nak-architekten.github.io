@@ -9,20 +9,21 @@ title: Umbau und Neubau der Förderschule Steinwald-Schule
 shorttitle: Steinwald-Schule Berlin
 permalink: /projekte/SWS_BerlinMarienfelde/
 tags: 
-- Bildung 
+- Schule
+- Sporthalle 
 - Bestand
-homepage: /projekte/SWS_Steinwald-Schule/00_Titel.jpg
-projectpage: /projekte/SWS_Steinwald-Schule/01.jpg
+homepage: /projekte/SWS_BerlinMarienfelde/00_Titel.jpg
+projectpage: /projekte/SWS_BerlinMarienfelde/01.jpg
 color: '#666b91'
 images:
-- /projekte/SWS_Steinwald-Schule/01.jpg
-- /projekte/SWS_Steinwald-Schule/02.jpg
-- /projekte/SWS_Steinwald-Schule/03.jpg
-- /projekte/SWS_Steinwald-Schule/04.jpg
-- /projekte/SWS_Steinwald-Schule/05.jpg
-- /projekte/SWS_Steinwald-Schule/06.jpg
-- /projekte/SWS_Steinwald-Schule/07.jpg
-- /projekte/SWS_Steinwald-Schule/09.jpg
+- /projekte/SWS_BerlinMarienfelde/01.jpg
+- /projekte/SWS_BerlinMarienfelde/02.jpg
+- /projekte/SWS_BerlinMarienfelde/03.jpg
+- /projekte/SWS_BerlinMarienfelde/04.jpg
+- /projekte/SWS_BerlinMarienfelde/05.jpg
+- /projekte/SWS_BerlinMarienfelde/06.jpg
+- /projekte/SWS_BerlinMarienfelde/07.jpg
+- /projekte/SWS_BerlinMarienfelde/09.jpg
 captions:
 - Neuer Haupteingang
 - Bestandsbau

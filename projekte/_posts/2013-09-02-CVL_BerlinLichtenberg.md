@@ -10,17 +10,17 @@ permalink: /projekte/CVL_BerlinLichtenberg/
 tags: 
 - Schule
 - Bestand
-projectpage: /projekte/CVL_CarlVonLinne/01.jpg 
+projectpage: /projekte/CVL_BerlinLichtenberg/01.jpg 
 color: '#7ca9ca'
 images:
-- /projekte/CVL_CarlVonLinne/01.jpg
-- /projekte/CVL_CarlVonLinne/02.jpg
-- /projekte/CVL_CarlVonLinne/03.jpg
-- /projekte/CVL_CarlVonLinne/04.jpg
-- /projekte/CVL_CarlVonLinne/05.jpg
-- /projekte/CVL_CarlVonLinne/06.jpg
-- /projekte/CVL_CarlVonLinne/07.jpg
-- /projekte/CVL_CarlVonLinne/08.jpg
+- /projekte/CVL_BerlinLichtenberg/01.jpg
+- /projekte/CVL_BerlinLichtenberg/02.jpg
+- /projekte/CVL_BerlinLichtenberg/03.jpg
+- /projekte/CVL_BerlinLichtenberg/04.jpg
+- /projekte/CVL_BerlinLichtenberg/05.jpg
+- /projekte/CVL_BerlinLichtenberg/06.jpg
+- /projekte/CVL_BerlinLichtenberg/07.jpg
+- /projekte/CVL_BerlinLichtenberg/08.jpg
 captions:
 - Schule mit Förderschwerpunkt körperliche Entwicklung
 - Sanierte Schwimmhalle
@@ -36,7 +36,7 @@ Die Carl-von-Linné-Schule in Berlin stellt einen der größten Sonderbauten aus
 Schülerzahl 	|	330 SchülerInnen bei 80 Lehrkräften (Zuzügl. ErzieherInnen und päd. MitarbeiterInnen)
 Adresse			|	Paul-Junius-Str. 15, 10367 Berlin
 Bauherr			|	Bezirksamt Lichtenberg von Berlin, SE Facility Management
-BGF				|	10.500 m²
+BGF				|	10.500 m²
 Fertigstellung	|	September 2013
 Projektteam		|	Arthur Numrich, Georg Loem, Ulrike Vogel, Johanna Guschlbauer, Milanko Moraske
 Farbkonzept		|	Ivan Lacaze
