@@ -10,12 +10,12 @@ permalink: /projekte/WBW_NCS_BerlinRudow/
 tags: 
 - Wettbewerb
 - Schule
-projectpage: /projekte/WBW_NCS_Clay-Schule/00_Projektpage.jpg
+projectpage: /projekte/WBW_NCS_BerlinRudow/00_Projektpage.jpg
 images:
-- /projekte/WBW_NCS_Clay-Schule/01.jpg
-- /projekte/WBW_NCS_Clay-Schule/02.jpg
-- /projekte/WBW_NCS_Clay-Schule/05.jpg
-- /projekte/WBW_NCS_Clay-Schule/06.jpg
+- /projekte/WBW_NCS_BerlinRudow/01.jpg
+- /projekte/WBW_NCS_BerlinRudow/02.jpg
+- /projekte/WBW_NCS_BerlinRudow/05.jpg
+- /projekte/WBW_NCS_BerlinRudow/06.jpg
 captions:
 - Außenperspektive
 - Lageplanausschnitt
