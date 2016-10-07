@@ -22,14 +22,16 @@ images:
 - /projekte/ESG_Spremberg/05.jpg
 - /projekte/ESG_Spremberg/06.jpg
 captions:
-- 1
-- 2
-- 3
-- 4
-- 5
-- 6
+- Baukörper Anbau
+- Ensemble Neubau und Altbau mit Pausenhof
+- Fassadendetail
+- Ensemble am Abend
+- Mensa mit Aufenthaltsbereich
+- Gruppenraum und Klassenraum
 ---
-TEXT
+Unmittelbar an der Spree zwischen altem Stadtkern und dem neuen Spremberg wurde das Denkmalensemble des alten Gymnasiums städtebaulich mit einen Neubau erweitert. Zwischen Altbau und Erweiterung fügt sich der neue Haupteingang mit einer Pausenhalle und einem Atrium ein. Im klaren und einfach gegliederten Baukörper des Anbaus finden sich zusätzlich benötigte Klassenräume, Fachräume und eine großzügige Mensa mit Aufenthaltsbereich. Durch den Anbau kann nun auch der denkmalgeschützte Altbau barrierefrei erschlossen werden. Das Ensemble umschließt einen geschützten Pausen- und Freibereich.
+
+[\>> Wettbewerb](../projekte/WBW_ESG_Spremberg/)
 
 Adresse			        |	Mittelstr. 1, 03130 Spremberg 
 Bauherr			        |	Landkreis Spree-Neiße
