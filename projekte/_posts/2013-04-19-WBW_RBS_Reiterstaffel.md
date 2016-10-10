@@ -9,7 +9,7 @@ shorttitle: IM BAU // Reiterstaffel Bundespolizei Stahnsdorf
 permalink: /projekte/WBW_RBS_Reiterstaffel/
 tags: 
 - Wettbewerb
-- Büro
+- Buero
 - Sporthalle
 projectpage: /projekte/WBW_RBS_Reiterstaffel/05_v3.jpg 
 color: '#ffdf9c'
@@ -34,4 +34,4 @@ Bauherr					|	Bundesanstalt für Immobilienaufgaben
 Entscheidungsgremium	|	19. April 2013
 Platzierung				|	1. Rang
 BGF						|	4.228 m²
-Projektteam				|	Tiemo Klumpp, Lydia Benstcheff, Astrid Hiljegerdes, Teresa Grave
+Projektteam				|	Tiemo Klumpp, Lydia Bentscheff, Astrid Hiljegerdes, Teresa Grave
