@@ -30,4 +30,5 @@ Wettbewerb	    	|	1. Preis
 BGF					|	7.250 m²
 Fertigstellung		|	Mai 2013
 Projektteam			|	Tiemo Klumpp, Verena Wiederholt, Milanko Moraske, Michael Filser
+Landschaftsarchitekten  |   [ST raum A](http://www.strauma.com)
 Projektfotos		|	[Nina Straßgütl](http://www.ninastrg.de/)
