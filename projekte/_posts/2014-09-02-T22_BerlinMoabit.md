@@ -8,7 +8,7 @@ title: Umbau des Hauses der Gesundheit für die Staatsanwaltschaft Berlin
 shorttitle: Staatsanwaltschaft Berlin
 permalink: /projekte/T22_BerlinMoabit/
 tags: 
-- Büro
+- Buero
 - Bestand
 projectpage: /projekte/T22_BerlinMoabit/00_Projektpage_v2.jpg 
 color: '#cac9c5'

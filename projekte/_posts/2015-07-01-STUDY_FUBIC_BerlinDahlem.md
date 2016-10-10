@@ -9,7 +9,7 @@ shorttitle: STUDIE // FUBIC Berlin
 permalink: /projekte/STUDIE_FUBIC_BerlinDahlem/
 tags: 
 - Studie 
-- Büro
+- Buero
 - Institut
 - Bestand
 projectpage: /projekte/STUDY_FUBIC_BerlinDahlem/00_Projektpage.jpg

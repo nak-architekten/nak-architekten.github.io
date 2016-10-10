@@ -8,7 +8,7 @@ title: Rathaus Königs Wusterhausen
 shorttitle: Rathaus Königs Wusterhausen
 permalink: /projekte/RKW_KoenigsWusterhausen/
 tags: 
-- Büro
+- Buero
 - Bestand
 projectpage: /projekte/RKW_KoenigsWusterhausen/02.jpg 
 color: '#d0c1a4'

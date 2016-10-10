@@ -9,7 +9,7 @@ title: CHIC – Das Charlottenburger Innovations-Centrum in Berlin
 shorttitle: CHIC Charlottenburg Berlin
 permalink: /projekte/CHIC_BerlinCharlottenburg/
 tags: 
-- Büro 
+- Buero 
 - Denkmal
 homepage: /projekte/CHIC_BerlinCharlottenburg/00_Titel.jpg
 projectpage: /projekte/CHIC_BerlinCharlottenburg/01.jpg

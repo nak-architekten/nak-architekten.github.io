@@ -10,7 +10,7 @@ permalink: /projekte/BBZ_Eberswalde/
 tags: 
 - Kita
 - Gemeinschaftshaus
-- Büro 
+- Buero 
 - Denkmal
 projectpage: /projekte/BBZ_Eberswalde/03.jpg
 color: '#e1cead'

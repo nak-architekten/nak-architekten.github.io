@@ -9,7 +9,7 @@ shorttitle: STUDIE // BVG Usedomer Straße Berlin
 permalink: /projekte/STUDIE_BVG_BerlinWedding/
 tags: 
 - Studie
-- Büro
+- Buero
 - Denkmal
 projectpage: /projekte/STUDY_BVG_BerlinWedding/00_Projektpage_v2.jpg
 images:
