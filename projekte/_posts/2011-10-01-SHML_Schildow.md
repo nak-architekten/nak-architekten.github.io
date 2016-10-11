@@ -8,7 +8,7 @@ title: Neubau einer Zweifeldsporthalle in Schildow
 shorttitle: Sporthalle Schildow
 permalink: /projekte/SHML_Schildow/
 tags: 
-- Sport
+- Sporthalle
 projectpage: /projekte/SHML_Schildow/01.jpg 
 color: '#f5f39a'
 images:

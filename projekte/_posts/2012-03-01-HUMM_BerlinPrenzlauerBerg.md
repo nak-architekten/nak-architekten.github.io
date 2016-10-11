@@ -9,7 +9,7 @@ shorttitle: Wilhelm-von-Humboldt-Schule Berlin // Mensa
 permalink: /projekte/HUMM_BerlinPrenzlauerBerg/
 tags: 
 - Schule
-- Bestand
+- Denkmal
 projectpage: /projekte/HUMM_Mensa/04.jpg 
 color: '#bda384'
 images:
