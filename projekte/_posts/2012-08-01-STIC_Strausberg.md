@@ -8,7 +8,7 @@ title: Neubau eines Gründerzentrums mit Labor-, Konferenz und Büroräumen im S
 shorttitle: Gründerzentrum STIC Strausberg
 permalink: /projekte/STIC_Strausberg/
 tags: 
-- Arbeiten
+- Buero
 projectpage: /projekte/STIC_Strausberg/01.jpg 
 color: '#98883e'
 images:
@@ -21,11 +21,11 @@ images:
 - /projekte/STIC_Strausberg/07.jpg
 - /projekte/STIC_Strausberg/08.jpg
 captions:
-- Strausberger Technologie- und Innovationszentrum
-- Eingang
+- Eingang Technologie- und Innovationszentrum
+- Gartenseite mit Konferenzsaal
 - Bei Nacht
-- Atrium
-- Atrium
+- Kommunikationsbereich Atrium
+- Kommunikationsbereich Atrium
 - Konferenzsaal
 - Terrasse
 - Fassadendetail

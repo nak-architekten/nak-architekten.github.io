@@ -8,7 +8,7 @@ title: Neubau der Müggelspree- Sport- und Mehrzweckhalle in Grünheide (Mark)
 shorttitle: Müggelspreehalle Grünheide
 permalink: /projekte/MZH_Gruenheide/
 tags: 
-- Sport
+- Sporthalle
 projectpage: /projekte/MZH_Gruenheide/02.jpg 
 color: '#6072b4'
 images:

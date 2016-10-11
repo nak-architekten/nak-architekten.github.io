@@ -9,6 +9,7 @@ shorttitle: HTW Berlin // FKI
 permalink: /projekte/FKI_BerlinOberschoeneweide/
 tags: 
 - Institut
+- Buero
 projectpage: /projekte/FKI_BerlinOberschoeneweide/01.jpg 
 color: '#526981'
 images:
@@ -37,7 +38,7 @@ Bauherr			|	Hochschule für Technik und Wirtschaft Berlin
 Wettbewerb		|	1. Preis
 BGF				|	1.950 m² 
 Fertigstellung	|	April 2013
-Projektteam		|	Tiemo Klumpp, Karin Willke, Moritz Müller-Werther, Michael Filser 
+Projektteam		|	Tiemo Klumpp, Karin Willke, Moritz Müller-Werther
 Projektfotos	|	[Nina Straßgütl](http://www.ninastrg.de/) 
                             |    
 Weitere Informationen       |   [Baunetz](http://www.baunetzwissen.de/objektartikel/Fassade-Forschungs-und-Weiterbildungszentrum-fuer-Kultur-und-Informatik-in-Berlin_3402793.html)
