@@ -36,6 +36,6 @@ Adresse			|	Rudower Straße 184, 12352 Berlin
 Auslober		|	Senatsverwaltung für Stadtentwicklung und Umwelt
 Preisgericht	|	21. Juni 2012
 Platzierung		|	1. Preis
-Projektteam		|	Grant Kelly, Paul Ludwig, Matthias Sturm, Lydia Bentscheff, Theresa Grave, Arturo Panichi, <br /   >Michael Filser, Stephanie Taffut 
+Projektteam		|	Grant Kelly, Paul Ludwig, Matthias Sturm, Lydia Bentscheff, <br />Theresa Grave, Arturo Panichi, Michael Filser, Stephanie Taffut 
                             |    
 Weitere Informationen       |   [CompetitionLine](https://www.competitionline.com/de/ergebnisse/99317)

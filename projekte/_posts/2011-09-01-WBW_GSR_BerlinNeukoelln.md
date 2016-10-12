@@ -23,7 +23,7 @@ captions:
 - Perspektive Innen
 - Perspektive Rütlistraße
 ---
-Text.
+TEXT
 
 Adresse				|	Rütlistraße 41, 12045 Berlin
 Auslober			|	Bezirksamt Neukölln von Berlin, Land Berlin

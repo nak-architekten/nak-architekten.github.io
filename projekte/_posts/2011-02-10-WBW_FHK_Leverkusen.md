@@ -10,6 +10,7 @@ permalink: /projekte/WBW_FHK_Leverkusen/
 tags: 
 - Wettbewerb
 - Institut
+- Buero
 projectpage: /projekte/WBW_FHK_Leverkusen/00_Projektpage.jpg
 images:
 - /projekte/WBW_FHK_Leverkusen/03.jpg

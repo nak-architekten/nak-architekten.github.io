@@ -10,6 +10,7 @@ permalink: /projekte/WBW_FKI_BerlinOberschoeneweide/
 tags: 
 - Wettbewerb
 - Institut
+- Buero
 projectpage: /projekte/WBW_FKI_BerlinOberschoeneweide/00_Projektpage.jpg
 images:
 - /projekte/WBW_FKI_BerlinOberschoeneweide/01.jpg
@@ -22,7 +23,7 @@ captions:
 - Konstruktionsdiagramm
 - Grundriss Erdgeschoss
 ---
-Text 
+TEXT 
 
 [\>> Neubau](../projekte/FKI_BerlinOberschoeneweide/)
 
