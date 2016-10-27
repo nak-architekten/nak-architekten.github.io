@@ -168,7 +168,7 @@ function recalculate() {
 		if (getDevicePixelRatio() > 1.5) pixelRatio = 2;
 		if( $(window).width() <= 549 ) {
 			if(pixelRatio==2){
-				pixelTeaserWidth = 960;
+				pixelTeaserWidth = 520;
 				pixelFullWidth = 960;
 			}else{
 				pixelTeaserWidth = 520;
@@ -176,7 +176,7 @@ function recalculate() {
 			}
 		}else if ( $(window).width() <= 991 ) {
 			if(pixelRatio==2){
-				pixelTeaserWidth = 960;
+				pixelTeaserWidth = 520;
 				pixelFullWidth = 1200;
 			}else{
 				pixelTeaserWidth = 520;
@@ -184,7 +184,7 @@ function recalculate() {
 			}
 		}else if ( $(window).width() <= 1199 ) {
 			if(pixelRatio==2){
-				pixelTeaserWidth = 960;
+				pixelTeaserWidth = 520;
 				pixelFullWidth = 1200;
 			}else{
 				pixelTeaserWidth = 520;
@@ -192,19 +192,19 @@ function recalculate() {
 			}
 		}else if ( $(window).width() <= 1599 ) {
 			if(pixelRatio==2){
-				pixelTeaserWidth = 960;
+				pixelTeaserWidth = 520;
 				pixelFullWidth = 1600;
 			}else{
-				pixelTeaserWidth = 960;
+				pixelTeaserWidth = 520;
 				pixelFullWidth = 1600;
 			}
 		}else {
 			if(pixelRatio==2){
-				pixelTeaserWidth = 960;
-				pixelFullWidth = 2500;
+				pixelTeaserWidth = 520;
+				pixelFullWidth = 1600;
 			}else{
-				pixelTeaserWidth = 960;
-				pixelFullWidth = 2500;
+				pixelTeaserWidth = 520;
+				pixelFullWidth = 1600;
 			}
 		}
 	}
