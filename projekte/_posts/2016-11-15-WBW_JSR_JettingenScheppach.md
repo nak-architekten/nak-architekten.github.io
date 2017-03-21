@@ -2,7 +2,6 @@
 layout: post
 categories:
 - projekt
-- startseite
 date: 2016-11-15
 published: true
 title: Erweiterung des denkmalgeschützten Rathauses in Jettingen-Scheppach
@@ -13,8 +12,6 @@ tags:
 - Buero
 - Denkmal
 projectpage: /projekte/WBW_JSR_JettingenScheppach/00_Projektpage.jpg
-homepage: /projekte/WBW_JSR_JettingenScheppach/01.jpg
-news: 1. Preis - Rathaus Jettingen-Scheppach
 images:
 - /projekte/WBW_JSR_JettingenScheppach/01.jpg
 - /projekte/WBW_JSR_JettingenScheppach/02.jpg
