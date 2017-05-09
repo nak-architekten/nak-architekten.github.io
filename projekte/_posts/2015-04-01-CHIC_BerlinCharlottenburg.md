@@ -2,7 +2,6 @@
 layout: post
 categories:
 - projekt
-- startseite
 date: 2016-06-17 # 2015-04-01
 published: true
 title: CHIC – Das Charlottenburger Innovations-Centrum in Berlin
@@ -11,7 +10,6 @@ permalink: /projekte/CHIC_BerlinCharlottenburg/
 tags: 
 - Buero 
 - Denkmal
-homepage: /projekte/CHIC_BerlinCharlottenburg/00_Titel.jpg
 projectpage: /projekte/CHIC_BerlinCharlottenburg/01.jpg
 color: '#94b1dd'
 images:

@@ -2,7 +2,6 @@
 layout: post
 categories:
 - projekt
-- startseite
 date: 2014-01-01 
 published: true
 title: Erweiterungsbau des Erwin-Strittmatter-Gymnasiums in Spremberg
@@ -12,7 +11,7 @@ tags:
 - Schule
 - Denkmal
 projectpage: /projekte/ESG_Spremberg/01.jpg 
-homepage: /projekte/ESG_Spremberg/00_Titel.jpg
+# homepage: /projekte/ESG_Spremberg/00_Titel.jpg
 color: '#e2d7bb'
 images:
 - /projekte/ESG_Spremberg/01.jpg

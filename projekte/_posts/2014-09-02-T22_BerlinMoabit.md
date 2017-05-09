@@ -15,14 +15,14 @@ color: '#cac9c5'
 images:
 - /projekte/T22_BerlinMoabit/01.jpg
 - /projekte/T22_BerlinMoabit/02.jpg
-- /projekte/T22_BerlinMoabit/03.jpg
-- /projekte/T22_BerlinMoabit/04.jpg
+- /projekte/T22_BerlinMoabit/03_v2.jpg
+- /projekte/T22_BerlinMoabit/04_v2.jpg
 - /projekte/T22_BerlinMoabit/05.jpg
 captions:
 - Gebäude nach dem Umbau
 - Originalzustand
-- Detail Straßenfassade
-- Detail Fassade und Fenster
+- Straßenfassade
+- Detail Fassade
 - Rückseitiger Komplex
 ---
 Das ehemalige Haus der Gesundheit wurde für die Unterbringung der Hauptabteilung 9 der Staatsanwaltschaft Berlin und deren zugeordnete 10 Vollstreckungsbereiche umgebaut. Insgesamt bietet das Gebäude nun Platz für ca. 290 MitarbeiterInnen. Das bestehende Gebäude mit seiner Grundrissstruktur und kubischen Ausformung konnte die Funktionsanforderungen nicht umfänglich erfüllen. Daher wurden Teile des Gebäudes abgetragen und durch Neubauteile ersetzt. Um die erhöhten Auflagen der Sicherheitsbestimmungen für die Staatsanwaltschaft zu erfüllen, wurde in intensiven Abstimmungen mit den Verfahrensbeteiligten ein Sicherheitskonzept entwickelt, das sowohl den Bedürfnissen der Beschäftigten als auch dem öffentlichen Anliegen eines dem Stadtraum zugewandten Hauses Rechnung trägt.

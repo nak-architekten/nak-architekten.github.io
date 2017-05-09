@@ -2,6 +2,7 @@
 layout: post
 categories:
 - projekt
+- startseite
 date: 2016-06-15 # 2015-01-01
 published: true
 title: Trainingshalle für »Männer-Geräteturnen« im Bundesleistungszentrum Kienbaum
@@ -9,6 +10,7 @@ shorttitle: Bundesleistungszentrum Kienbaum // Geräteturnhalle
 permalink: /projekte/BZK_Kienbaum/
 tags: 
 - Sporthalle
+homepage: /projekte/BZK_Kienbaum/00_Titel.jpg
 projectpage: /projekte/BZK_Kienbaum/05.jpg
 color: '#a3917b'
 images:
