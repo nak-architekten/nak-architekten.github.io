@@ -2,7 +2,7 @@
 layout: post
 categories:
 - projekt
-- startseite
+# - startseite
 date: 2013-09-01
 published: true
 title: Umbau und Neubau der Förderschule Steinwald-Schule
@@ -12,7 +12,7 @@ tags:
 - Schule
 - Sporthalle 
 - Bestand
-homepage: /projekte/SWS_BerlinMarienfelde/00_Titel.jpg
+# homepage: /projekte/SWS_BerlinMarienfelde/00_Titel.jpg
 projectpage: /projekte/SWS_BerlinMarienfelde/01.jpg
 color: '#666b91'
 images:
