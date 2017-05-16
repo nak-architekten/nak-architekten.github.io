@@ -2,7 +2,7 @@
 layout: post
 categories:
 - projekt
-- startseite
+# - startseite
 date: 2017-02-23
 published: true
 title: Alice Salomon Hochschule Berlin Marzahn-Hellersdorf
@@ -12,8 +12,8 @@ tags:
 - Wettbewerb
 - Institut
 projectpage: /projekte/WBW_ASH_BerlinHellersdorf/00_Projektpage.jpg
-homepage: /projekte/WBW_ASH_BerlinHellersdorf/01.jpg
-news: 2. Preis - Alice Salomon Hochschule Berlin Marzahn-Hellersdorf
+# homepage: /projekte/WBW_ASH_BerlinHellersdorf/01.jpg
+# news: 2. Preis - Alice Salomon Hochschule Berlin Marzahn-Hellersdorf
 images:
 - /projekte/WBW_ASH_BerlinHellersdorf/01.jpg
 - /projekte/WBW_ASH_BerlinHellersdorf/02.jpg
