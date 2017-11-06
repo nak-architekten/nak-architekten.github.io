@@ -2,7 +2,7 @@
 layout: post
 categories:
 - projekt
-- startseite
+# - startseite
 date: 2010-10-01
 published: true
 title: Umbau einer bestehenden KFZ-Halle in eine Mensa mit Ganztagesbetrieb für die Max-Delbrück-Oberschule
@@ -11,7 +11,7 @@ permalink: /projekte/MDS_BerlinPankow/
 tags: 
 - Bildung
 projectpage: /projekte/MDS_BerlinPankow/01.jpg 
-homepage: /projekte/MDS_BerlinPankow/04.jpg
+# homepage: /projekte/MDS_BerlinPankow/04.jpg
 color: '#8f9859'
 images:
 - /projekte/MDS_BerlinPankow/01.jpg

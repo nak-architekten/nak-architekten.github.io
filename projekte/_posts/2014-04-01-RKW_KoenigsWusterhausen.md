@@ -2,6 +2,7 @@
 layout: post
 categories:
 - projekt
+- startseite
 date: 2016-06-10 # 2014-04-01
 published: true
 title: Rathaus Königs Wusterhausen
@@ -10,6 +11,7 @@ permalink: /projekte/RKW_KoenigsWusterhausen/
 tags: 
 - Buero
 - Bestand
+homepage: /projekte/RKW_KoenigsWusterhausen/00_Titel.jpg
 projectpage: /projekte/RKW_KoenigsWusterhausen/02.jpg 
 color: '#d0c1a4'
 images:

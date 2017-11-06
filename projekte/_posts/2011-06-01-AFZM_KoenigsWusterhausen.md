@@ -2,6 +2,7 @@
 layout: post
 categories:
 - projekt
+- startseite
 date: 2011-06-01
 published: true
 title: Mensa mit Freizeitbereichen am Campus des Aus- und Fortbildungzentrums des Landes Brandenburg
@@ -10,20 +11,21 @@ permalink: /projekte/AFZM_KoenigsWusterhausen/
 tags: 
 - Institut
 - Gemeinschaftshaus
-projectpage: /projekte/AFZM_Mensa/01.jpg 
+homepage: /projekte/AFZM_KoenigsWusterhausen/00_Titel.jpg
+projectpage: /projekte/AFZM_KoenigsWusterhausen/01.jpg 
 color: '#fdfae7'
 images:
-- /projekte/AFZM_Mensa/01.jpg
-- /projekte/AFZM_Mensa/02.jpg
-- /projekte/AFZM_Mensa/03.jpg
-- /projekte/AFZM_Mensa/04.jpg
-- /projekte/AFZM_Mensa/05.jpg
-- /projekte/AFZM_Mensa/06.jpg
-- /projekte/AFZM_Mensa/07.jpg
-- /projekte/AFZM_Mensa/08.jpg
-- /projekte/AFZM_Mensa/09.jpg
-- /projekte/AFZM_Mensa/10.jpg
-- /projekte/AFZM_Mensa/11.jpg
+- /projekte/AFZM_KoenigsWusterhausen/01.jpg
+- /projekte/AFZM_KoenigsWusterhausen/02.jpg
+- /projekte/AFZM_KoenigsWusterhausen/03.jpg
+- /projekte/AFZM_KoenigsWusterhausen/04.jpg
+- /projekte/AFZM_KoenigsWusterhausen/05.jpg
+- /projekte/AFZM_KoenigsWusterhausen/06.jpg
+- /projekte/AFZM_KoenigsWusterhausen/07.jpg
+- /projekte/AFZM_KoenigsWusterhausen/08.jpg
+- /projekte/AFZM_KoenigsWusterhausen/09.jpg
+- /projekte/AFZM_KoenigsWusterhausen/10.jpg
+- /projekte/AFZM_KoenigsWusterhausen/11.jpg
 captions:
 - Blick von der Campusstraße
 - Blick von der Campusstraße

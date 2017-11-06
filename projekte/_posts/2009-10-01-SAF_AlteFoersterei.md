@@ -2,6 +2,7 @@
 layout: post
 categories:
 - projekt
+- startseite
 date: 2009-10-01
 published: true
 title: Neubau einer Großsporthalle in der Nähe des Stadions »Alte Försterei« an der Wuhlheide
@@ -9,6 +10,7 @@ shorttitle: Sporthalle »Alte Försterei« Berlin
 permalink: /projekte/SAF_BerlinKoepenick/
 tags: 
 - Sport
+homepage: /projekte/SAF_AlteFoersterei/00_Titel.jpg
 projectpage: /projekte/SAF_AlteFoersterei/01.jpg 
 color: '#5a8bcd'
 images:

@@ -2,7 +2,7 @@
 layout: post
 categories:
 - projekt
-- startseite
+# - startseite
 date: 2016-06-14 # 2014-12-01
 published: true
 title: Zweifeldsporthalle Borgsdorf
@@ -10,7 +10,7 @@ shorttitle: Sporthalle Borgsdorf
 permalink: /projekte/SHB_Borgsdorf/
 tags: 
 - Sporthalle
-homepage: /projekte/SHB_Borgsdorf/00_Titel.jpg
+# homepage: /projekte/SHB_Borgsdorf/00_Titel.jpg
 # news: Sporthalle in Borgsdorf eröffnet! <br/> weitere Informationen!
 projectpage: /projekte/SHB_Borgsdorf/01.jpg
 color: '#abae09'

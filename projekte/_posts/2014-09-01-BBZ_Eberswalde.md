@@ -2,7 +2,7 @@
 layout: post
 categories:
 - projekt
-- startseite
+# - startseite
 date: 2016-06-13 # 2014-09-01
 published: true
 title: Bürgerbildungszentrum »Amadeu Antonio« in Eberswalde
@@ -13,7 +13,7 @@ tags:
 - Gemeinschaftshaus
 - Buero 
 - Denkmal
-homepage: /projekte/BBZ_Eberswalde/00_Titel.jpg
+# homepage: /projekte/BBZ_Eberswalde/00_Titel.jpg
 projectpage: /projekte/BBZ_Eberswalde/03.jpg
 color: '#e1cead'
 images:

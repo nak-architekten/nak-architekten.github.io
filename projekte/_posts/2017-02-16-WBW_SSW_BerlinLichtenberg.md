@@ -2,7 +2,6 @@
 layout: post
 categories:
 - projekt
-- startseite
 date: 2017-02-16
 published: true
 title: Neubau Schulstandort Wartiner Straße
@@ -12,8 +11,6 @@ tags:
 - Wettbewerb
 - Schule
 projectpage: /projekte/WBW_SSW_BerlinLichtenberg/00_Projektpage.jpg
-homepage: /projekte/WBW_SSW_BerlinLichtenberg/05.jpg
-news: 1. Preis - Schulstandort Wartiner Straße Berlin Lichtenberg
 images:
 - /projekte/WBW_SSW_BerlinLichtenberg/01.jpg
 - /projekte/WBW_SSW_BerlinLichtenberg/02.jpg

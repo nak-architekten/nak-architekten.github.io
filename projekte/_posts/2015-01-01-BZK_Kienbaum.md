@@ -10,7 +10,7 @@ shorttitle: Bundesleistungszentrum Kienbaum // Geräteturnhalle
 permalink: /projekte/BZK_Kienbaum/
 tags: 
 - Sporthalle
-homepage: /projekte/BZK_Kienbaum/00_Titel.jpg
+homepage: /projekte/BZK_Kienbaum/00_Titel_v2.jpg
 projectpage: /projekte/BZK_Kienbaum/05.jpg
 color: '#a3917b'
 images:
