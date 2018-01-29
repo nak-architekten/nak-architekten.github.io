@@ -2,7 +2,7 @@
 layout: post
 categories:
 - projekt
-- startseite
+# - startseite
 date: 2017-05-23
 published: true
 title: Grunsdchule für die Europacity in Berlin Mitte
@@ -12,8 +12,8 @@ tags:
 - Wettbewerb
 - Schule
 projectpage: /projekte/WBW_EUR_BerlinMitte/00_Projektpage.jpg
-homepage: /projekte/WBW_EUR_BerlinMitte/01.jpg
-news: 1. Preis - Grunsdchule für die Europacity in Berlin Mitte
+# homepage: /projekte/WBW_EUR_BerlinMitte/01.jpg
+# news: 1. Preis - Grunsdchule für die Europacity in Berlin Mitte
 images:
 - /projekte/WBW_EUR_BerlinMitte/01.jpg
 - /projekte/WBW_EUR_BerlinMitte/02.jpg
