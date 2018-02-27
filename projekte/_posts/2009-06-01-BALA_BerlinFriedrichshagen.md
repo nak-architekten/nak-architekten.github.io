@@ -6,20 +6,20 @@ date: 2009-06-01
 published: true
 title: Neubau eines Atelier- und Wohngebäudes für den Bildhauer Stephan Balkenhol in Berlin
 shorttitle: Atelierhaus Friedrichshagen
-permalink: /projekte/BAL_BerlinFriedrichshagen/
+permalink: /projekte/BALA_BerlinFriedrichshagen/
 tags: 
 - Werkstatt
 - Wohnhaus
-projectpage: /projekte/BAL_Atelierhaus/02_v2.jpg 
+projectpage: /projekte/BALA_BerlinFriedrichshagen/02_v2.jpg 
 color: '#705956'
 images:
-- /projekte/BAL_Atelierhaus/01.jpg
-- /projekte/BAL_Atelierhaus/02_v2.jpg
-- /projekte/BAL_Atelierhaus/03.jpg
-- /projekte/BAL_Atelierhaus/05.jpg
-- /projekte/BAL_Atelierhaus/06.jpg
-- /projekte/BAL_Atelierhaus/07_v2.jpg
-- /projekte/BAL_Atelierhaus/08.jpg
+- /projekte/BALA_BerlinFriedrichshagen/01.jpg
+- /projekte/BALA_BerlinFriedrichshagen/02_v2.jpg
+- /projekte/BALA_BerlinFriedrichshagen/03.jpg
+- /projekte/BALA_BerlinFriedrichshagen/05.jpg
+- /projekte/BALA_BerlinFriedrichshagen/06.jpg
+- /projekte/BALA_BerlinFriedrichshagen/07_v2.jpg
+- /projekte/BALA_BerlinFriedrichshagen/08.jpg
 captions:
 - Baukörper mit Oberlichtsheds und Wohnbereich im Obergeschoss
 - Eingangstor zur Anlieferung großformatiger Skulpturen

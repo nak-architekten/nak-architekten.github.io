@@ -9,9 +9,10 @@ shorttitle: Gründerzentrum STIC Strausberg
 permalink: /projekte/STIC_Strausberg/
 tags: 
 - Buero
-projectpage: /projekte/STIC_Strausberg/01.jpg 
+projectpage: /projekte/STIC_Strausberg/09.jpg 
 color: '#98883e'
 images:
+- /projekte/STIC_Strausberg/09.jpg
 - /projekte/STIC_Strausberg/01.jpg
 - /projekte/STIC_Strausberg/02.jpg
 - /projekte/STIC_Strausberg/03.jpg
@@ -21,6 +22,7 @@ images:
 - /projekte/STIC_Strausberg/07.jpg
 - /projekte/STIC_Strausberg/08.jpg
 captions:
+- Eingang Technologie- und Innovationszentrum
 - Eingang Technologie- und Innovationszentrum
 - Gartenseite mit Konferenzsaal
 - Bei Nacht
