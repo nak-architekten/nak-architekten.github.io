@@ -2,7 +2,7 @@
 layout: post
 categories:
 - projekt
-date: 2017-02-20# 2016-06-01
+date: 2017-02-20 # 2016-06-01
 published: true
 title: Neubau eines Wohngebäudes für den Bildhauer Stephan Balkenhol in Berlin
 shorttitle: Wohnhaus Friedrichshagen
