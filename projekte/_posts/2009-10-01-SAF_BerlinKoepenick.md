@@ -9,7 +9,7 @@ title: Neubau einer Großsporthalle in der Nähe des Stadions »Alte Försterei�
 shorttitle: Sporthalle »Alte Försterei« Berlin
 permalink: /projekte/SAF_BerlinKoepenick/
 tags: 
-- Sport
+- Sporthalle
 homepage: /projekte/SAF_BerlinKoepenick/00_Titel.jpg
 projectpage: /projekte/SAF_BerlinKoepenick/01.jpg 
 color: '#5a8bcd'
