@@ -10,18 +10,18 @@ shorttitle: Sporthalle »Alte Försterei« Berlin
 permalink: /projekte/SAF_BerlinKoepenick/
 tags: 
 - Sport
-homepage: /projekte/SAF_AlteFoersterei/00_Titel.jpg
-projectpage: /projekte/SAF_AlteFoersterei/01.jpg 
+homepage: /projekte/SAF_BerlinKoepenick/00_Titel.jpg
+projectpage: /projekte/SAF_BerlinKoepenick/01.jpg 
 color: '#5a8bcd'
 images:
-- /projekte/SAF_AlteFoersterei/01.jpg
-- /projekte/SAF_AlteFoersterei/02.jpg
-- /projekte/SAF_AlteFoersterei/03.jpg
-- /projekte/SAF_AlteFoersterei/04.jpg
-- /projekte/SAF_AlteFoersterei/05.jpg
-- /projekte/SAF_AlteFoersterei/06.jpg
-- /projekte/SAF_AlteFoersterei/07.jpg
-- /projekte/SAF_AlteFoersterei/08.jpg
+- /projekte/SAF_BerlinKoepenick/01.jpg
+- /projekte/SAF_BerlinKoepenick/02.jpg
+- /projekte/SAF_BerlinKoepenick/03.jpg
+- /projekte/SAF_BerlinKoepenick/04.jpg
+- /projekte/SAF_BerlinKoepenick/05.jpg
+- /projekte/SAF_BerlinKoepenick/06.jpg
+- /projekte/SAF_BerlinKoepenick/07.jpg
+- /projekte/SAF_BerlinKoepenick/08.jpg
 captions:
 - Mit auskragendem Hallenbaukörper
 - Halle und Freisportanlagen

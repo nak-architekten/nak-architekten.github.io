@@ -31,6 +31,8 @@ captions:
 ---
 Das Gebäude ist vorrangig Atelier, wird aber auch als Zweitwohnsitz genutzt. Die sehr zurückhaltende Architektur wird den hohen funktionalen Anforderungen an die Bildhauerwerkstatt gerecht. Der Atelierraum mit einer Abmessung von 7,5 m x 11,0 m und einer Raumhöhe von ca. 6,0 m wird über drei nach Norden ausgerichtete Lichtsheds belichtet. Die großformatigen Skulpturen bzw. Holzstämme werden ebenerdig über ein 3,0 m x 3,60 m hohes Eingangstor geliefert und mit einem 2,5 t Laufkran im Atelier bewegt. Der Wohnbereich befindet sich im Obergeschoss. Der Keller wird als Lager genutzt.
 
+[\>> Wohnhaus](../projekte/BALW_BerlinFriedrichshagen/)
+
 Adresse			|	Berlin-Friedrichshagen
 Bauherr			|	Stephan Balkenhol 
 BGF				|	380 m²
