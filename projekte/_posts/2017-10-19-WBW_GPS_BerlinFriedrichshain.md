@@ -30,10 +30,10 @@ captions:
 - Schnitte
 
 ---
-Auszug aus dem Preisgerichtsprotokoll: »Die Verfasser entwickeln einen spannenden Beitrag mit kompakter Großform. Die versetzte Anordnung des Neubaus zum MEB (Modularer Ergänzungsbau) hält gebührenden Abstand zum Kirchenbau im Südwesten und bindet den MEB in den Stadtraum ein. Die Platzierung des Baukörpers an einer breiten Vorzone zur Pufendorfstraße sowie die Führung des Fußwegs gliedern den Straßenraum und die Anbindung nach Norden auf selbstverständliche Weise... Die Jury würdigt die insgesamt hohen innenräumlichen Qualitäten. Hierbei sind besonders die natürlich belichteten Lernlandschaften und die kommunikative und räumlich gelungene Haupttreppe hervorzuheben. Die tanzend anmutende Fassade ist feinsinnig und für eine Grundschule angemessen. Die äußere Erscheinung nimmt in Material und Ausbildung Bezug auf die überformte Kirche. Insgesamt handelt es sich um einen stadträumlich und innenräumlich gelungenen, gut organisierten und überzeugenden Entwurf.«
+Auszug aus dem Preisgerichtsprotokoll: »Die Verfasser entwickeln einen spannenden Beitrag mit kompakter Großform. Die versetzte Anordnung des Neubaus zum MEB (Modularer Ergänzungsbau) hält gebührenden Abstand zum Kirchenbau im Südwesten und bindet den MEB in den Stadtraum ein. Die Platzierung des Baukörpers an einer breiten Vorzone zur Pufendorfstraße sowie die Führung des Fußwegs gliedern den Straßenraum und die Anbindung nach Norden auf selbstverständliche Weise... Die Jury würdigt die insgesamt hohen innenräumlichen Qualitäten. Hierbei sind besonders die natürlich belichteten Lernlandschaften und die kommunikative und räumlich gelungene Haupttreppe hervorzuheben. Die tanzend anmutende Fassade ist feinsinnig und für eine Grundschule angemessen. Die äußere Erscheinung nimmt in Material und Ausbildung Bezug auf die überformte Kirche. Insgesamt handelt es sich um einen stadträumlich und innenräumlich gelungenen, gut organisierten und überzeugenden Entwurf.«
 
 Adresse					|	Pufendorfstraße 10, 10249 Berlin Friedrichshain-Kreuzberg
-Auslober				|	Land Berlin (Senatsverwaltung für Stadtentwicklung und Wohnen)
+Auslober				|	Land Berlin (Senatsverwaltung für Stadtentwicklung und Wohnen)
 Preisgericht			|	19. Oktober 2017
 Platzierung				|	1. Preis
 Projektteam				|	Michael Filser, Maria Garcia Barrera, Lennard Beckebanze
