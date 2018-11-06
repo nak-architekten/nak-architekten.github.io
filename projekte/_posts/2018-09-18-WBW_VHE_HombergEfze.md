@@ -2,6 +2,7 @@
 layout: post
 categories:
 - projekt
+- startseite
 date: 2018-09-18
 published: true
 title: Neubau Verwaltungsgebäude in Homberg (Efze)
@@ -11,8 +12,8 @@ tags:
 - Wettbewerb
 - Buero
 projectpage: /projekte/WBW_VHE_HombergEfze/00_Projektpage.jpg
-# homepage: /projekte/WBW_VHE_HombergEfze/01.jpg
-# news: 1. Preis - Neubau Verwaltungsgebäude in Homberg (Efze)
+homepage: /projekte/WBW_VHE_HombergEfze/01.jpg
+news: 1. Preis - Neubau Verwaltungsgebäude in Homberg (Efze)
 images:
 - /projekte/WBW_VHE_HombergEfze/01.jpg
 - /projekte/WBW_VHE_HombergEfze/02.jpg

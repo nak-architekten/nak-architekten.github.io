@@ -2,7 +2,7 @@
 layout: post
 categories:
 - projekt
-# - startseite
+- startseite
 date: 2017-09-14
 published: true
 title: Schulstandort Süd in der ehemaligen Bayernkaserne in München
@@ -12,8 +12,8 @@ tags:
 - Wettbewerb
 - Schule
 projectpage: /projekte/WBW_BAY_Muenchen/00_Projektpage.jpg
-# homepage: /projekte/WBW_BAY_Muenchen/02.jpg
-# news: Ein 3. Preis - Schulstandort Süd in der ehemaligen Bayernkaserne in München
+homepage: /projekte/WBW_BAY_Muenchen/02.jpg
+news: Ein 3. Preis - Schulstandort Süd in der ehemaligen Bayernkaserne in München
 images:
 - /projekte/WBW_BAY_Muenchen/01.jpg
 - /projekte/WBW_BAY_Muenchen/02.jpg

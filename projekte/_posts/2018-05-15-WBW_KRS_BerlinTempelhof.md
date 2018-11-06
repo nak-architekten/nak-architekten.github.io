@@ -2,6 +2,7 @@
 layout: post
 categories:
 - projekt
+- startseite
 date: 2018-05-15
 published: true
 title: Kindertagesstätte Rathausstraße in Berlin Tempelhof-Schöneberg
@@ -11,8 +12,8 @@ tags:
 - Wettbewerb
 - Kita
 projectpage: /projekte/WBW_KRS_BerlinTempelhof/00_Projektpage.jpg
-# homepage: /projekte/WBW_KRS_BerlinTempelhof/02.jpg
-# news: 1. Preis - Kindertagesstätte Rathausstraße in Berlin Tempelhof-Schöneberg
+homepage: /projekte/WBW_KRS_BerlinTempelhof/01.jpg 
+news: 1. Preis - Kindertagesstätte Rathausstraße in Berlin Tempelhof-Schöneberg
 images:
 - /projekte/WBW_KRS_BerlinTempelhof/01.jpg
 - /projekte/WBW_KRS_BerlinTempelhof/02.jpg

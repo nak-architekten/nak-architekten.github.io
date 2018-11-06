@@ -11,7 +11,7 @@ permalink: /projekte/RBS_Stahnsdorf/
 tags: 
 - Buero
 - Sporthalle
-homepage: /projekte/RBS_Stahnsdorf/05.jpg
+homepage: /projekte/RBS_Stahnsdorf/06.jpg
 projectpage: /projekte/RBS_Stahnsdorf/05.jpg
 color: '#d58264'
 images:

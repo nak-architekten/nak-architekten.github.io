@@ -2,6 +2,7 @@
 layout: post
 categories:
 - projekt
+- startseite
 date: 2017-04-01
 published: true
 title: Neubau einer Konzertaula für das Georg-Friedrich-Händel-Gymnasium in Berlin Friedrichshain
@@ -10,6 +11,7 @@ permalink: /projekte/GFH_BerlinFriedrichshain/
 tags: 
 - Schule
 - Bestand 
+homepage: /projekte/GFH_BerlinFriedrichshain/08.jpg
 color: '#e4b617'
 images:
 - /projekte/GFH_BerlinFriedrichshain/01.jpg

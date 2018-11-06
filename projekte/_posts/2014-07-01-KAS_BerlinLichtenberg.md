@@ -2,7 +2,7 @@
 layout: post
 categories:
 - projekt
-- startseite
+#- startseite
 date: 2016-06-12 # 2014-07-01
 published: true
 title: Neubau der Förderschule Nils-Holgersson in Berlin
@@ -11,7 +11,7 @@ permalink: /projekte/KAS_BerlinLichtenberg/
 tags: 
 - Schule
 - Sporthalle
-homepage: /projekte/KAS_BerlinLichtenberg/00_Titel_v2.jpg
+# homepage: /projekte/KAS_BerlinLichtenberg/00_Titel_v2.jpg
 # news: // Sporthalle in Borgsdorf eröffnet!
 projectpage: /projekte/KAS_BerlinLichtenberg/01_v2.jpg
 color: '#ceab8d'

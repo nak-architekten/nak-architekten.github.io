@@ -2,7 +2,7 @@
 layout: post
 categories:
 - projekt
-- startseite
+#- startseite
 date: 2011-06-01
 published: true
 title: Mensa mit Freizeitbereichen am Campus des Aus- und Fortbildungzentrums des Landes Brandenburg
@@ -11,7 +11,7 @@ permalink: /projekte/AFZM_KoenigsWusterhausen/
 tags: 
 - Institut
 - Gemeinschaftshaus
-homepage: /projekte/AFZM_KoenigsWusterhausen/00_Titel.jpg
+#homepage: /projekte/AFZM_KoenigsWusterhausen/00_Titel.jpg
 projectpage: /projekte/AFZM_KoenigsWusterhausen/01.jpg 
 color: '#fdfae7'
 images:

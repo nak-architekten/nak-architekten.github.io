@@ -2,7 +2,7 @@
 layout: post
 categories:
 - projekt
-- startseite
+#- startseite
 date: 2016-06-19 # 2015-06-21
 published: true
 title: Schulgebäude des »Montessorizentrums« in Freising
@@ -10,7 +10,7 @@ shorttitle: Montessorizentrum Freising // Schule
 permalink: /projekte/MZFS_Freising/
 tags: 
 - Schule
-homepage: /projekte/MZFS_Freising/05.jpg
+#homepage: /projekte/MZFS_Freising/05.jpg
 projectpage: /projekte/MZFS_Freising/01.jpg
 color: '#d0beb0'
 images:
