@@ -35,7 +35,7 @@ Auslober				|	Land Berlin // Senatsverwaltung für Stadtentwicklung und Wohnen
 Preisgericht			|	15. Mai 2018
 Platzierung				|	1. Preis
 Projektteam				|	Arthur Numrich, Matthias Gall, Theresa Grave
-Tech. Gebäudeausrüstung	|	[KMG Ingenieurgesellschaft](http://www.kmg-berlin.de)
+Tech. Gebäudeausrüstung	|	[KMG Ingenieurgesellschaft](http://www.kmg-berlin.de)
                         |    
 Weitere Informationen       |   [CompetitionLine](https://www.competitionline.com/de/ergebnisse/283335) 
 							| 	[Baunetz](https://www.baunetz.de/meldungen/Meldungen-Numrich_Albrecht_Klumpp_gewinnen_Wettbewerb_fuer_Kindertagesstaette_5405813.html)

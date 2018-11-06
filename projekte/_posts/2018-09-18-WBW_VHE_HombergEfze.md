@@ -5,7 +5,7 @@ categories:
 - startseite
 date: 2018-09-18
 published: true
-title: Neubau Verwaltungsgebäude in Homberg (Efze)
+title: Neubau Verwaltungsgebäude in Homberg (Efze)
 shorttitle: 1. PREIS // Verwaltungsgebäude Homberg
 permalink: /projekte/WBW_VHE_HombergEfze/
 tags: 
@@ -42,7 +42,7 @@ Preisgericht			|	18. September 2018
 Platzierung				|	1. Preis
 Projektteam				|	Arthur Numrich, Matthias Gall, Lennart Beckebanze
 Landschaftsarchitekten	|	[KuBuS Freiraumplanung](http://www.kubus-freiraum.de)
-Tech. Gebäudeausrüstung	|	[KMG Ingenieurgesellschaft](http://www.kmg-berlin.de)
+Tech. Gebäudeausrüstung	|	[KMG Ingenieurgesellschaft](http://www.kmg-berlin.de)
                         |    
 Weitere Informationen       |   [CompetitionLine](https://www.competitionline.com/de/ergebnisse/292316) 
 
