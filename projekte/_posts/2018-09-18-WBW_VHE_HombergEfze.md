@@ -13,7 +13,7 @@ tags:
 - Buero
 projectpage: /projekte/WBW_VHE_HombergEfze/00_Projektpage.jpg
 homepage: /projekte/WBW_VHE_HombergEfze/01.jpg
-news: 1. Preis - Neubau Verwaltungsgebäude in Homberg (Efze)
+news: 1. Preis - Neubau Verwaltungsgebäude in Homberg (Efze) <br />
 images:
 - /projekte/WBW_VHE_HombergEfze/01.jpg
 - /projekte/WBW_VHE_HombergEfze/02.jpg

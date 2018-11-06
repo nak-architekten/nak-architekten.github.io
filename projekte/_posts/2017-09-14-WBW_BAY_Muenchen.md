@@ -13,7 +13,7 @@ tags:
 - Schule
 projectpage: /projekte/WBW_BAY_Muenchen/00_Projektpage.jpg
 homepage: /projekte/WBW_BAY_Muenchen/02.jpg
-news: Ein 3. Preis - Schulstandort Süd in der ehemaligen Bayernkaserne in München
+news: Ein 3. Preis - Schulstandort Süd in der ehemaligen Bayernkaserne in München <br />
 images:
 - /projekte/WBW_BAY_Muenchen/01.jpg
 - /projekte/WBW_BAY_Muenchen/02.jpg

@@ -13,7 +13,7 @@ tags:
 - Kita
 projectpage: /projekte/WBW_KRS_BerlinTempelhof/00_Projektpage.jpg
 homepage: /projekte/WBW_KRS_BerlinTempelhof/01.jpg 
-news: 1. Preis - Kindertagesstätte Rathausstraße in Berlin Tempelhof-Schöneberg
+news: 1. Preis - Kindertagesstätte Rathausstraße in Berlin Tempelhof-Schöneberg <br />
 images:
 - /projekte/WBW_KRS_BerlinTempelhof/01.jpg
 - /projekte/WBW_KRS_BerlinTempelhof/02.jpg
