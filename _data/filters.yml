@@ -28,12 +28,19 @@
     - Wohnhaus
     - Wohnheim
 
-- name: Wettbewerbe und Studien
+- name: Kultur
+  tags:
+    - Museum
+    - Konzertsaal
+    - Gemeindehaus
+    - Atelier
+ 
+- name: Wettbewerbe &amp; Studien
   tags:
     - Wettbewerb
     - Studie
 
-- name: Denkmale und Bestand
+- name: Denkmale &amp; Bestand
   tags:
     - Bestand
     - Denkmal
