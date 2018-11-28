@@ -11,6 +11,7 @@ tags:
 - Wettbewerb
 - Buero
 - Denkmal
+- Museum
 projectpage: /projekte/WBW_JSR_JettingenScheppach/00_Projektpage.jpg
 images:
 - /projekte/WBW_JSR_JettingenScheppach/01.jpg

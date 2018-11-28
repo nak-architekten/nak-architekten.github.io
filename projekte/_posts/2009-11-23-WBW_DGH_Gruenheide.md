@@ -10,6 +10,7 @@ permalink: /projekte/WBW_DGH_Gruenheide/
 tags: 
 - Wettbewerb
 - Gemeinschaftshaus
+- Gemeindehaus
 projectpage: /projekte/WBW_DGH_Gruenheide/00_Projektpage.jpg
 images:
 - /projekte/WBW_DGH_Gruenheide/01.jpg

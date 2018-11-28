@@ -11,6 +11,7 @@ permalink: /projekte/GFH_BerlinFriedrichshain/
 tags: 
 - Schule
 - Bestand 
+- Konzertsaal
 homepage: /projekte/GFH_BerlinFriedrichshain/08.jpg
 color: '#e4b617'
 images:

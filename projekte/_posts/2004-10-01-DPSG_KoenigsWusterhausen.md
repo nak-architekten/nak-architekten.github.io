@@ -8,7 +8,8 @@ title: Dorfgemeinschaftshaus im Stadtteil Diepensee von Königs Wusterhausen
 shorttitle: Dorfgemeinschaftshaus Diepensee
 permalink: /projekte/DPSG_KoenigsWusterhausen/
 tags: 
-- Gemeinschaftshaus
+- Gemeinschaftshaus 
+- Gemeindehaus
 projectpage: /projekte/DPSG_KoenigsWusterhausen/01.jpg 
 color: '#c57e62'
 images:

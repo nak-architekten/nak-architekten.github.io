@@ -13,6 +13,7 @@ tags:
 - Gemeinschaftshaus
 - Wohnheim
 - Denkmal
+- Gemeindehaus
 projectpage: /projekte/WBW_FFE_Erlangen/00_Projektpage.jpg
 images:
 - /projekte/WBW_FFE_Erlangen/01.jpg

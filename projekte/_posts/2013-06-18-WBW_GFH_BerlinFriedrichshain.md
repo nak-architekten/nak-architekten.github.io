@@ -10,7 +10,8 @@ permalink: /projekte/WBW_GFH_BerlinFriedrichshain/
 tags: 
 - Wettbewerb
 - Schule
-- Bestand 
+- Bestand
+- Konzertsaal 
 projectpage: /projekte/WBW_GFH_BerlinFriedrichshain/00_Projektpage.jpg 
 color: '#eecf65'
 images:
