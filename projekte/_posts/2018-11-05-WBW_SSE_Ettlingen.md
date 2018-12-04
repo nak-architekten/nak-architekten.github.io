@@ -32,7 +32,7 @@ captions:
 ---
 Auszug aus dem Preisgerichtsprotokoll: »Die städtebauliche Setzung des Neubauvolumens überzeugt. Insbesondere wird positiv das freistellen der westlichen Schmalseite des bestehenden Schulgebäudes hervorgehoben. Der an der Scheffelstraße entstehende großzügige Vorplatz kann Treffpunkt der Schüler und gleichermaßen Ort des Ankommens sein. Die topografischen Gegebenheiten können durch die Tiefe des Platzes gut überbrückt werden. Die Zugänge zum Neubau überzeugen ebenso wie das großzügige Foyer und Windfanghalle, die den Verbund zwischen Alt- und Neubau bestens herstellt. Der gesamte Mensabereich ist großzügig ausgeformt. Hervorgehoben wird die schöne Südwestorientierung mit vorgelagertem Außenbereich (Terrasse). Der Entwurf zeichnet sich insbesondere durch den geschickten Umgang mit dem Bestandsbau und die klare Setzung der neuen Volumina aus.«
 
-Adresse					|	Scheffelstr.1, 76275 Ettlingen
+Adresse					|	Scheffelstrasse 1, 76275 Ettlingen
 Auslober				|	Stadt Ettlingen
 Preisgericht			|	5. November 2018
 Platzierung				|	1. Preis

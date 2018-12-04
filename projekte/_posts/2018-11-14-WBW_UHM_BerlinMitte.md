@@ -31,7 +31,7 @@ captions:
 ---
 Auszug aus dem Preisgerichtsprotokoll: »Der Entwurf erzählt durch einen sehr feinfühligen Umgang mit dem Bestand die wechselvolle Historie des Gebäudes. Die bestehende Struktur des Marinehauses mit den unterschiedlichen Schichten seiner Substanz bleibt erhalten und wird vom Verfasser als Collage interpretiert, der neue Schichten hinzugefügt werden. Auch Widersprüche in der heterogenen Struktur des Gebäudes werden vom Verfasser als identitätsprägend verstanden und sichtbar belassen. Die bestehenden Lufträume werden erhalten und durch neue ergänzt. Es entstehen Durchblicke von Geschoss zu Geschoss, die sich wie ein Netz durch das Gebäude ziehen. Der Weg durch das Gebäude wird dadurch auch zu einem Spaziergang durch seine Geschichte. Wichtigstes neu hinzugefügtes Element des Entwurfes ist der neue Saal unter dem Dach. Er zitiert mit seiner gewölbten, transparenten Decke den ehemaligen Ballsaal des Gebäudes und macht gleichzeitig auch das imposante Dachtragwerk zu einem Teil dieses neuen Raumes… Der Entwurf überzeugt insgesamt durch einen sensiblen und angemessenen Umgang mit dem Bestand.«
 
-Adresse					|	Scheffelstr.1, 76275 Ettlingen
+Adresse					|	Am Köllnischen Park 4, 10179 Berlin
 Auslober				|	Land Berlin, vertreten durch die BIM Berliner Immobilienmanagement GmbH
 Preisgericht			|	14. November 2018
 Platzierung				|	2. Preis
