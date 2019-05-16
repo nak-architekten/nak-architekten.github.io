@@ -27,8 +27,8 @@ captions:
 - Perspektive von Süden
 - Städtebaulicher Strukturplan
 - Lageplan
-- Ansicht Süd und Schnitt OstWest
-- Ansicht Ost und Schnitt NordSüd 
+- Ansicht Süd und Schnitt Ost-West
+- Ansicht Ost und Schnitt Nord-Süd 
 - Fassadendetail
 - Perspektive Freitreppe und Loggia zum Park
 
