@@ -2,7 +2,7 @@
 layout: post
 categories:
 - projekt
-- startseite
+#- startseite
 date: 2017-10-19
 published: true
 title: Grundschulstandort Pufendorfstraße in Berlin Friedrichshain
@@ -12,8 +12,8 @@ tags:
 - Wettbewerb
 - Schule
 projectpage: /projekte/WBW_GPS_BerlinFriedrichshain/00_Projektpage.jpg
-homepage: /projekte/WBW_GPS_BerlinFriedrichshain/01.jpg
-news: 1. Preis - Grundschule Pufendorfstraße in Berlin Friedrichshain <br />
+#homepage: /projekte/WBW_GPS_BerlinFriedrichshain/01.jpg
+#news: 1. Preis - Grundschule Pufendorfstraße in Berlin Friedrichshain <br />
 images:
 - /projekte/WBW_GPS_BerlinFriedrichshain/01.jpg
 - /projekte/WBW_GPS_BerlinFriedrichshain/02.jpg
