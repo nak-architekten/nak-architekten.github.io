@@ -9,18 +9,15 @@ shorttitle: IM BAU // OSZ Lise Meitner Berlin
 permalink: /projekte/WBW_OSZ_BerlinNeukoelln/
 tags: 
 - Wettbewerb
-- Schule
-- Institut
-projectpage: /projekte/WBW_OSZ_Lise-Meitner/07.jpg
-color: '#d2cecb'
+projectpage: /projekte/WBW_OSZ_BerlinNeukoelln/00_Projektpage.jpg
 images:
-- /projekte/WBW_OSZ_Lise-Meitner/01.jpg
-- /projekte/WBW_OSZ_Lise-Meitner/02_v2.jpg
-- /projekte/WBW_OSZ_Lise-Meitner/03_v2.jpg
-- /projekte/WBW_OSZ_Lise-Meitner/04_v2.jpg
-- /projekte/WBW_OSZ_Lise-Meitner/07.jpg
-- /projekte/WBW_OSZ_Lise-Meitner/05.jpg
-- /projekte/WBW_OSZ_Lise-Meitner/06.jpg
+- /projekte/WBW_OSZ_BerlinNeukoelln/01.jpg
+- /projekte/WBW_OSZ_BerlinNeukoelln/02_v2.jpg
+- /projekte/WBW_OSZ_BerlinNeukoelln/03_v2.jpg
+- /projekte/WBW_OSZ_BerlinNeukoelln/04_v2.jpg
+- /projekte/WBW_OSZ_BerlinNeukoelln/07.jpg
+- /projekte/WBW_OSZ_BerlinNeukoelln/05.jpg
+- /projekte/WBW_OSZ_BerlinNeukoelln/06.jpg
 captions:
 - Außenperspektive – Aktueller Entwurfsstand
 - Modell
@@ -31,6 +28,8 @@ captions:
 - Baustelle Juli 2016
 ---
 Der kompakte Baukörper begünstigt nicht nur ein ökonomisch und ökologisch effizientes Schulgebäude sondern schafft auch vielfältige Kommunikationsmöglichkeiten. Das interne Erschliessungskonzept aus 2-geschossigen, miteinander verbundenen Lufträumen, die sich spiralförmig über die Geschosse anordnen, verstärkt diese Qualität. Die Verlängerung der Lufträume zur Gebäudeaußenseite bildet auf jeder Etage eine Loggia als optischen Kontrapunkt zur, durch Lisenen gegliederten, hinterlüfteten Metallfassade.
+
+[\>> Projekt](../projekte/OSZ_BerlinNeukoelln/)
 
 Adresse			|	Rudower Straße 184, 12352 Berlin
 Auslober		|	Senatsverwaltung für Stadtentwicklung und Umwelt
