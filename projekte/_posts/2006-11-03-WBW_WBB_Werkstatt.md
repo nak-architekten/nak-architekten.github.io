@@ -9,8 +9,6 @@ shorttitle: 1. PREIS // Sozialtherapeutische Werkstätten Berlin
 permalink: /projekte/WBW_WBB_BerlinZehlendorf/
 tags: 
 - Wettbewerb
-- Werkstatt
-- Bestand
 projectpage: /projekte/WBW_WBB_Werkstatt/00_Projektpage.jpg
 images:
 - /projekte/WBW_WBB_Werkstatt/01.jpg

@@ -9,8 +9,6 @@ shorttitle: 1. PREIS // Humboldt-Gymnasium Köln
 permalink: /projekte/WBW_KTWH_Koeln/
 tags: 
 - Wettbewerb
-- Schule
-- Denkmal
 projectpage: /projekte/WBW_KTWH_Koeln/00_Projektpage.jpg
 images:
 - /projekte/WBW_KTWH_Koeln/01.jpg

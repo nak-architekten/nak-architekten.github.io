@@ -11,7 +11,6 @@ tags:
 - Wettbewerb
 - Bestand
 - Kita
-- Gemeinschaftshaus
 projectpage: /projekte/WBW_KNK_Kyritz/00_Projektpage.jpg
 images:
 - /projekte/WBW_KNK_Kyritz/01.jpg

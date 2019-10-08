@@ -9,8 +9,6 @@ shorttitle: 1. PREIS // HTW Berlin // FKI
 permalink: /projekte/WBW_FKI_BerlinOberschoeneweide/
 tags: 
 - Wettbewerb
-- Institut
-- Buero
 projectpage: /projekte/WBW_FKI_BerlinOberschoeneweide/00_Projektpage.jpg
 images:
 - /projekte/WBW_FKI_BerlinOberschoeneweide/01.jpg

@@ -9,9 +9,6 @@ shorttitle: 1. PREIS // G.-F.-Händel-Gymnasium Berlin // Konzertaula
 permalink: /projekte/WBW_GFH_BerlinFriedrichshain/
 tags: 
 - Wettbewerb
-- Schule
-- Bestand
-- Konzertsaal 
 projectpage: /projekte/WBW_GFH_BerlinFriedrichshain/00_Projektpage.jpg 
 color: '#eecf65'
 images:

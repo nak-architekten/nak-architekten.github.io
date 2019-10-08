@@ -10,7 +10,6 @@ shorttitle: 1. PREIS // Grundschule Werneuchen
 permalink: /projekte/WBW_GRW_Werneuchen/
 tags: 
 - Wettbewerb
-- Bestand
 - Schule
 projectpage: /projekte/WBW_GRW_Werneuchen/00_Projektpage.jpg
 homepage: /projekte/WBW_GRW_Werneuchen/01.jpg

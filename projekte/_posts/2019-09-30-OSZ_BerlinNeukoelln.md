@@ -10,7 +10,7 @@ shorttitle: DEMNÄCHST // OSZ »Lise Meitner« Berlin
 permalink: /projekte/OSZ_BerlinNeukoelln/
 tags: 
 - Schule
-- Istitut
+- Institut
 projectpage: /projekte/OSZ_BerlinNeukoelln/00_Projektpage.jpg
 homepage: /projekte/OSZ_BerlinNeukoelln/06.jpg
 news: Demnächst Fertigstellung - OSZ »Lise Meitner« in Berlin <br />

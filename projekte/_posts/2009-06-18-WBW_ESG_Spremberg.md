@@ -9,8 +9,6 @@ shorttitle: 1. PREIS // Erwin-Strittmatter-Gymnasium Spremberg
 permalink: /projekte/WBW_ESG_Spremberg/
 tags: 
 - Wettbewerb
-- Schule
-- Denkmal
 projectpage: /projekte/WBW_ESG_Spremberg/00_Projektpage.jpg
 images:
 - /projekte/WBW_ESG_Spremberg/01.jpg
