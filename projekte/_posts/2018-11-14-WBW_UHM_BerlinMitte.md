@@ -2,7 +2,6 @@
 layout: post
 categories:
 - projekt
-- startseite
 date: 2018-11-14
 published: true
 title: Umbau und Sanierung Marinehaus am Köllnischen Park in Berlin Mitte
@@ -13,8 +12,7 @@ tags:
 - Denkmal
 - Museum
 projectpage: /projekte/WBW_UHM_BerlinMitte/00_Projektpage.jpg
-homepage: /projekte/WBW_UHM_BerlinMitte/01.jpg
-news: 2. Preis - Marinehaus am Köllnischen Park in Berlin Mitte <br />
+
 images:
 - /projekte/WBW_UHM_BerlinMitte/01.jpg
 - /projekte/WBW_UHM_BerlinMitte/02.jpg

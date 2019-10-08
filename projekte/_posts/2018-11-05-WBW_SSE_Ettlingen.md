@@ -2,7 +2,6 @@
 layout: post
 categories:
 - projekt
-- startseite
 date: 2018-11-05
 published: true
 title: Umbau und Erweiterung Schillerschule in Ettlingen
@@ -12,8 +11,7 @@ tags:
 - Wettbewerb
 - Schule
 projectpage: /projekte/WBW_SSE_Ettlingen/00_Projektpage.jpg
-homepage: /projekte/WBW_SSE_Ettlingen/03.jpg
-news: 1. Preis - Erweiterung Schillerschule in Ettlingen <br />
+
 images:
 - /projekte/WBW_SSE_Ettlingen/01.jpg
 - /projekte/WBW_SSE_Ettlingen/02.jpg

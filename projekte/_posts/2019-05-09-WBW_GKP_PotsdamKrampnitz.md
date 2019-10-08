@@ -2,7 +2,6 @@
 layout: post
 categories:
 - projekt
-- startseite
 date: 2019-05-09
 published: true
 title: Grundschule und Sporthalle auf dem ehemaligen Kasernengelände Krampnitz in Potsdam
@@ -13,8 +12,6 @@ tags:
 - Bestand
 - Schule
 projectpage: /projekte/WBW_GKP_PotsdamKrampnitz/00_Projektpage.jpg
-homepage: /projekte/WBW_GKP_PotsdamKrampnitz/01.jpg
-news: Ankauf - Grundschule und Sporthalle auf dem ehemaligen Kasernengelände Krampnitz in Potsdam <br />
 images:
 - /projekte/WBW_GKP_PotsdamKrampnitz/01.jpg
 - /projekte/WBW_GKP_PotsdamKrampnitz/02.jpg

@@ -3,7 +3,7 @@ layout: post
 categories:
 - projekt
 date: 2017-11-01
-published: true
+published: false
 title: Coworking Space IM.PULS
 shorttitle: Coworking Space Berlin Adlershof
 permalink: /projekte/WISTA_BerlinAdleshof/

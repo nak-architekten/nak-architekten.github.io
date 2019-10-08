@@ -2,7 +2,6 @@
 layout: post
 categories:
 - projekt
-- startseite
 date: 2019-05-06
 published: true
 title: Umbau Kita und Neubau Nachbarschaftshaus in Kyritz
@@ -14,8 +13,6 @@ tags:
 - Kita
 - Gemeinschaftshaus
 projectpage: /projekte/WBW_KNK_Kyritz/00_Projektpage.jpg
-homepage: /projekte/WBW_KNK_Kyritz/01.jpg
-news: 1. Preis - Kita und Nachbarschaftshaus in Kyritz <br />
 images:
 - /projekte/WBW_KNK_Kyritz/01.jpg
 - /projekte/WBW_KNK_Kyritz/02.jpg

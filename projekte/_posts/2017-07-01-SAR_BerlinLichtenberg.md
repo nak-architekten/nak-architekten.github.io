@@ -2,7 +2,6 @@
 layout: post
 categories:
 - projekt 
-- startseite
 date: 2017-10-01
 published: true
 title: Denkmalgerechte Sanierung der Schule am Rathaus in Berlin Lichtenberg
@@ -11,7 +10,7 @@ permalink: /projekte/SAR_BerlinLichtenberg/
 tags: 
 - Schule
 - Denkmal
-homepage: /projekte/SAR_BerlinLichtenberg/04.jpg
+#homepage: /projekte/SAR_BerlinLichtenberg/04.jpg
 projectpage: /projekte/SAR_BerlinLichtenberg/00_Projektpage.jpg 
 color: '#5295c6'
 images:
