@@ -9,7 +9,6 @@ shorttitle: 1. PREIS // Hegermühlen-Grundschule // Sporthalle
 permalink: /projekte/WBW_SHS_Strausberg/
 tags: 
 - Wettbewerb
-- Sporthalle
 projectpage: /projekte/WBW_SHS_Strausberg/00_Projektpage.jpg
 images:
 - /projekte/WBW_SHS_Strausberg/01.jpg
@@ -20,7 +19,10 @@ captions:
 - Grundriss
 - Ansichten
 ---
+
 TEXT 
+
+[\>> Projekt](../projekte/SHS_Strausberg/)
 
 Adresse				    |	Hegermühlenstraße, 15344 Strausberg
 Bauherr				    |	Stadt Strausberg 
