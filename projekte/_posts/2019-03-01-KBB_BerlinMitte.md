@@ -19,9 +19,9 @@ images:
 - /projekte/KBB_BerlinMitte/02.jpg
 - /projekte/KBB_BerlinMitte/03.jpg
 captions:
-- Haupteingang von der Hegermühlenstraße
-- Zuschauertribüne und Sporthalle
-- 3-Fach Sporthalle
+- Buch- und Museumsladen im Martin-Gropius-Bau mit Glasdach
+- Innenhof mit Glasdach
+- Detail Glasdach
 
 ---
 

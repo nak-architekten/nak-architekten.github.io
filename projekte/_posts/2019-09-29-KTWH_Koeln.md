@@ -32,13 +32,19 @@ captions:
 - Fassadenstruktur vor dem neuen Kammermusiksaal
 ---
 
-Der Erweiterungsbau schließt sich an das denkmalgeschützte Humboldt-Gymnasium (mit musikgymnasialem Zweig) des Architekten Karl Band aus den 50er-Jahren an und fügt sich durch seine leicht polygonale Ausformung und durch seine in der Farbgebung variierende Materialität in das bestehende Ensemble. Durch die Anordnung des neuen Baukörpers entsteht gefasster Eingangshof. Der Kammermusiksaal mit 160 Plätzen liegt im Erdgeschoss hinter Filtermauerwerk und ist dem öffentlichen Raum zugewandt. Der Saal dient neben der internen schulischen Nutzung auch für öffentliche Konzerte und Auftritte der Schule. Die innere sich über alle Geschosse erstreckende zentrale Treppenhalle hat Sichtbetonwände und in verschiedenen Grüntönen hervorgehobene bekleidete Türnischen zu den Klassenräumen. Im Erweiterungsbau befinden sich 28 Klassenräume, 6 Fachräume, eine Lehrküche mit Speiseraum sowie die Schulbibliothek und der Kammermusiksaal.
+Der Erweiterungsbau schließt sich an das denkmalgeschützte Humboldt-Gymnasium (mit musikgymnasialem Zweig) des Architekten Karl Band aus den 50er-Jahren an und fügt sich durch seine leicht polygonale Ausformung und durch seine in der Farbgebung variierende Materialität in das bestehende Ensemble. Durch die Anordnung des neuen Baukörpers entsteht gefasster Eingangshof. Der Kammermusiksaal mit 160 Plätzen liegt im Erdgeschoss hinter Filtermauerwerk und ist dem öffentlichen Raum zugewandt. Der Saal dient neben der internen schulischen Nutzung auch für öffentliche Konzerte und Auftritte der Schule. Die innere sich über alle Geschosse erstreckende zentrale Treppenhalle hat Sichtbetonwände und in verschiedenen Grüntönen hervorgehobene bekleidete Türnischen zu den Klassenräumen. Im Erweiterungsbau befinden sich 28 Klassenräume, 6 Fachräume, eine Lehrküche mit Speiseraum sowie die Schulbibliothek und der Kammermusiksaal. 
+
+Der Erweiterungsbau wurde nach den Zielvorgaben des Passivhausnachweises ausgeführt.
 
 [\>> Wettbewerb](../projekte/WBW_KTWH_Koeln/)
 
-Adresse				|	Kartäuserwall 40, 50676 Köln
-Bauherr				|	Gebäudewirtschaft der Stadt Köln
-BGF					|	5.683 m²
-Fertigstellung		|	August 2019
-Projektteam			|	Arthur Numrich, Ulrike Vogel, Julian Wagner
-Projektfotos		|	Ulrike Lauber, Ulrike Vogel (NAK Architekten)
+Adresse					|		Kartäuserwall 40, 50676 Köln
+Bauherr					|		Gebäudewirtschaft der Stadt Köln
+BGF						|		5.683 m²
+Fertigstellung			|		August 2019
+Projektteam				|		Arthur Numrich, Ulrike Vogel, Julian Wagner
+Bauleitung 				|		[BN-Architekten GmbH](https://bn-a.de/home/)
+Statik 					| 		[IDK Kleinjohann GmbH & CoKG](http://www.idk-koeln.de/home/)
+Haustechnik 			| 		[W33 Ingenieurgesellschaft mbH](https://www.w33-berlin.de)
+Bauphysik und Akustik 	| 		[Graner und Partner Ingenieure](http://www.graner-ingenieure.de)
+Projektfotos			|		Ulrike Lauber, Ulrike Vogel (NAK Architekten)
