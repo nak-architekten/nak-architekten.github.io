@@ -9,7 +9,6 @@ shorttitle: 4. PREIS // Anna-Freud-Schule Berlin
 permalink: /projekte/WBW_AFS_BerlinCharlottenburgNord/
 tags: 
 - Wettbewerb
-- Schule
 projectpage: /projekte/WBW_AFS_BerlinCharlottenburgNord/00_Projektpage.jpg
 images:
 - /projekte/WBW_AFS_BerlinCharlottenburgNord/01.jpg
@@ -26,7 +25,9 @@ captions:
 - Skizze Forum
 - Modellfoto
 ---
-Die in den 60er Jahren von Hans Scharoun, Otto Bartning, Arno Häring und anderen entwickelte Idee einer aufgelockerten, durchgrünten Stadtlandschaft wird durch den geplanten Baukörper des neuen Schulgebäudes fortgesetzt und weitergeführt. Im heterogenen städtebaulichen Umfeld wirkt der kompakte Solitär mit seinen nahezu gleichwertigen Raumkanten ordnend und beruhigend. Im Erdgeschoß verzahnt sich das Gebäude gezielt mit der Umgebung. Durch die Setzung der dreigeschossigen Schule entsteht im Zusammenspiel mit den Bestandsbauten zum Halemweg ein großzügiger Vorplatz. Gleichzeitig gelingt eine eindeutige Adressbildung. Es werden klare Außenräume definiert. Die Gebäudekanten bilden die bauliche Abgrenzung des Schulgeländes zu den öffentlichen Bereichen im Südwesten mit dem Vorplatz und dem öffentlichen Fuß- und Radweg.
+Die in den 60er Jahren von Hans Scharoun, Otto Bartning, Arno Häring und anderen entwickelte Idee einer aufgelockerten, durchgrünten Stadtlandschaft wird durch den geplanten Baukörper des neuen Schulgebäudes fortgesetzt und weitergeführt. Im heterogenen städtebaulichen Umfeld wirkt der kompakte Solitär mit seinen nahezu gleichwertigen Raumkanten ordnend und beruhigend. Im Erdgeschoß verzahnt sich das Gebäude gezielt mit der Umgebung. Durch die Setzung der dreigeschossigen Schule entsteht im Zusammenspiel mit den Bestandsbauten zum Halemweg ein großzügiger Vorplatz. Gleichzeitig gelingt eine eindeutige Adressbildung. Es werden klare Außenräume definiert. Die Gebäudekanten bilden die bauliche Abgrenzung des Schulgeländes zu den öffentlichen Bereichen im Südwesten mit dem Vorplatz und dem öffentlichen Fuß- und Radweg. 
+
+[\>> Projekt](../projekte/AFS_BerlinCharlottenburgNord/)
 
 Adresse					|	Halemweg 22, 13627 Berlin
 Auslober				|	Senatsverwaltung für Stadtentwicklung und Umwelt, Land Berlin
