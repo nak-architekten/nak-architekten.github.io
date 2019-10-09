@@ -5,7 +5,7 @@ categories:
 - startseite
 date: 2019-10-01 #2019-10-01
 published: true
-title: Oberstufenzentrum »Lise Meitner« in Berlin Neukölln
+title: Oberstufenzentrum »Lise-Meitner-Schule«  für Chemie, Physik und Biologie in Berlin Neukölln
 shorttitle: DEMNÄCHST // OSZ »Lise Meitner« Berlin
 permalink: /projekte/OSZ_BerlinNeukoelln/
 tags: 
