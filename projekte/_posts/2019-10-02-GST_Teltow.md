@@ -5,8 +5,8 @@ categories:
 #- startseite
 date: 2019-05-07 #2019-10-02
 published: true
-title: Oberstufenzentrum »Anna-Freud-Schule« für Sozialwesen in Berlin Charlottenburg Nord
-shorttitle: IN PLANUNG // OSZ »Anna Freud« Berlin
+title: Neubau der Gesamtschule »Schule für kreatives und digitales Lernen« in Teltow
+shorttitle: IN PLANUNG // Gesamtschule Teltow
 permalink: /projekte/GST_Teltow/
 tags: 
 - Schule
@@ -30,7 +30,9 @@ captions:
 - Zentrales Treppenhaus
 ---
 
-Im heterogenen städtebaulichen Umfeld wirkt der kompakte Solitär mit seinen nahezu gleichwertigen Raumkanten ordnend und beruhigend. Durch die Setzung der dreigeschossigen Schule entsteht im Zusammenspiel mit den Bestandsbauten zum Halemweg ein großzügiger Vorplatz. Gleichzeitig gelingt eine eindeutige Adressbildung und es werden klare Außenräume definiert. Der robuste Bau wird aus Ortbeton mit vorgehängter Fertigbetonfassade erstellt. Um der lokalen architektonischen Bedeutung dieses Bauwerks gerecht zu werden, setzt der Neubau der Gleichförmigkeit der umgebenden Fassaden eine Modulation der Fertigteile entgegen: Innerhalb des strikten Konstruktionsrasters wird ein simples geometrisches Motiv seriell wiederholt. Durch dessen variable Orientierung moduliert es die Fassade und es entsteht eine subtile Variation von unterschiedlich schattierten Flächen.
+Der Landkreis Potsdam-Mittelmark beabsichtigt, eine 4- bis 5-zügige Gesamtschule als Ganztagsschule mit Stammklassenprinzip, Gemeinsamem Lernen (GL), einer Zweifeld‐Sporthalle, einem Sportplatz und Außenanlagen neu zu bauen. In Zusammenarbeit mit dem Bauherren und dem zukünftigen Nutzer – der Gesamtschule für kreatives und digitales Lernen – wurde eine offene Lernlandschaft entworfen, welche die aktuellen pädagogischen Konzepte im Schulbau auf besondere baulichen Weise umsetzt. 
+Um einen zentralen offenen Erschließungsraum ordnen sich sternförmig die Lernhäuser an. Die einzelnen Lernhäuser werden als große Nutzungseinheiten mit einem zentralen Forum geplant. In diesen Lernhäusern befinden sich neben den Klassenräumen auch kleine Räume für die Projektarbeit sowie ein flexibel nutzbarer Lagerraum, welcher ebenfalls als dezentraler Lehrerstützpunkt genutzt werden kann.
+Mit dem Schulgebäude wird ebenfalls eine Zweifeld-Sporthalle geplant, welche direkt mit dem Schulgebäude verbunden ist. 
 
 Adresse					|		Mahlower Straße 146, 14531 Teltow
 Bauherr					|		Landkreis Potsdam Mittelmark
