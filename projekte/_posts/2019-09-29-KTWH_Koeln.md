@@ -14,7 +14,7 @@ tags:
 - Bestand
 projectpage: /projekte/KTWH_Koeln/00_Projektpage_N.jpg
 homepage: /projekte/KTWH_Koeln/06.jpg
-news: Erweiterung Humboldt-Gymnasiums mit Kammermusiksaal in Köln <br />
+news: Erweiterung Humboldt-Gymnasium mit Kammermusiksaal in Köln <br />
 color: '#825854'
 images:
 - /projekte/KTWH_Koeln/01_N.jpg
