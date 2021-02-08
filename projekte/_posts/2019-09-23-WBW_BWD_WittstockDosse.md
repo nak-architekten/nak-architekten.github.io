@@ -2,7 +2,6 @@
 layout: post
 categories:
 - projekt
-- startseite
 date: 2019-09-23
 published: true
 title: Schulzentrum im Bildungscampus »Alte Tuchfabrik« Wittstock/Dosse
@@ -14,7 +13,6 @@ tags:
 - Schule
 projectpage: /projekte/WBW_BWD_WittstockDosse/00_Projektpage.jpg
 homepage: /projekte/WBW_BWD_WittstockDosse/01.jpg
-news: 1. Preis - Schulzentrum »Alte Tuchfabrik« in Wittstock/Dosse <br />
 images:
 - /projekte/WBW_BWD_WittstockDosse/01.jpg
 - /projekte/WBW_BWD_WittstockDosse/02.jpg

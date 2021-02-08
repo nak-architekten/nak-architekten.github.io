@@ -13,7 +13,6 @@ tags:
 - Institut
 projectpage: /projekte/OSZ_BerlinNeukoelln/00_Projektpage_N.jpg
 homepage: /projekte/OSZ_BerlinNeukoelln/06.jpg
-news: OSZ »Lise Meitner« in Berlin <br />
 color: '#4383C2'
 images:
 - /projekte/OSZ_BerlinNeukoelln/01_N.jpg

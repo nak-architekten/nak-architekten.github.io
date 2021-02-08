@@ -2,7 +2,6 @@
 layout: post
 categories:
 - projekt
-- startseite
 date: 2019-05-08 #2019-03-01
 published: true
 title: Glasdach im Buchladen des Martin-Gropius-Baus in Berlin

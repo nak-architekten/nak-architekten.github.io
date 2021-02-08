@@ -10,17 +10,17 @@ permalink: /projekte/HUMM_BerlinPrenzlauerBerg/
 tags: 
 - Schule
 - Denkmal
-projectpage: /projekte/HUMM_Mensa/04.jpg 
+projectpage: /projekte/HUMM_BerlinPrenzlauerBerg/04.jpg 
 color: '#bda384'
 images:
-- /projekte/HUMM_Mensa/01.jpg
-- /projekte/HUMM_Mensa/02.jpg
-- /projekte/HUMM_Mensa/03.jpg
-- /projekte/HUMM_Mensa/04.jpg
-- /projekte/HUMM_Mensa/05.jpg
-- /projekte/HUMM_Mensa/06.jpg
-- /projekte/HUMM_Mensa/07.jpg
-- /projekte/HUMM_Mensa/08.jpg
+- /projekte/HUMM_BerlinPrenzlauerBerg/01.jpg
+- /projekte/HUMM_BerlinPrenzlauerBerg/02.jpg
+- /projekte/HUMM_BerlinPrenzlauerBerg/03.jpg
+- /projekte/HUMM_BerlinPrenzlauerBerg/04.jpg
+- /projekte/HUMM_BerlinPrenzlauerBerg/05.jpg
+- /projekte/HUMM_BerlinPrenzlauerBerg/06.jpg
+- /projekte/HUMM_BerlinPrenzlauerBerg/07.jpg
+- /projekte/HUMM_BerlinPrenzlauerBerg/08.jpg
 captions:
 - Mensaeingang und Atrium mit Freitreppe zum Schulhof
 - Mensaeingang im Souterrain

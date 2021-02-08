@@ -2,7 +2,6 @@
 layout: post
 categories:
 - projekt
-#- startseite
 date: 2019-05-10 #2019-10-01
 published: true
 title: Oberstufenzentrum »Anna-Freud-Schule« für Sozialwesen in Berlin Charlottenburg Nord
@@ -12,7 +11,6 @@ tags:
 - Schule
 projectpage: /projekte/AFS_BerlinCharlottenburgNord/00_Projektpage.jpg
 #homepage: /projekte/AFS_BerlinCharlottenburgNord/06.jpg
-#news: Demnächst Fertigstellung - OSZ »Anna Freud« in Berlin <br />
 color: '#b18e50'
 images:
 - /projekte/AFS_BerlinCharlottenburgNord/01.jpg

@@ -2,7 +2,7 @@
 layout: post
 categories:
 - projekt
-- startseite
+#- startseite
 date: 2019-09-22 #2019-09-23
 published: true
 title: Neubau der Grundschule »Im Rosenpark« Werneuchen
@@ -13,7 +13,6 @@ tags:
 - Schule
 projectpage: /projekte/WBW_GRW_Werneuchen/00_Projektpage.jpg
 homepage: /projekte/WBW_GRW_Werneuchen/01.jpg
-news: 1. Preis - Grundschule »Im Rosenpark« in Werneuchen <br />
 images:
 - /projekte/WBW_GRW_Werneuchen/01.jpg
 - /projekte/WBW_GRW_Werneuchen/02.jpg

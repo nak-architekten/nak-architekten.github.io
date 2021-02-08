@@ -2,7 +2,6 @@
 layout: post
 categories:
 - projekt
-#- startseite
 date: 2019-05-07 #2019-10-02
 published: true
 title: Neubau der Gesamtschule »Schule für kreatives und digitales Lernen« in Teltow
@@ -12,7 +11,6 @@ tags:
 - Schule
 projectpage: /projekte/GST_Teltow/00_Projektpage.jpg
 #homepage: /projekte/GST_Teltow/06.jpg
-#news: Demnächst Fertigstellung - OSZ »Anna Freud« in Berlin <br />
 color: '#c9e4ef'
 images:
 - /projekte/GST_Teltow/01.jpg
