@@ -11,6 +11,7 @@ tags:
 - Werkstatt
 - Wohnhaus
 - Atelier
+- Highlight
 projectpage: /projekte/BALA_BerlinFriedrichshagen/02_v2.jpg 
 color: '#705956'
 images:

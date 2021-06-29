@@ -10,6 +10,7 @@ permalink: /projekte/TSL_Leipzig/
 tags: 
 - Schule
 - Denkmal
+- Highlight
 projectpage: /projekte/TSL_Thomasschule/01.jpg 
 color: '#afa0ba'
 images:

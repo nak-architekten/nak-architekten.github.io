@@ -37,6 +37,6 @@ Auslober				|	Stadt Werneuchen
 Preisgericht			|	23. September 2019
 Platzierung				|	1. Preis
 Projektteam				|	Arthur Numrich, Matthias Gall
-Visualisierung	|	Burak Camgöz (NAK Architekten)
+Visualisierung			|	Burak Camgöz (NAK Architekten)
                         |    
 Weitere Informationen       |   [CompetitionLine](https://www.competitionline.com/de/ergebnisse/337069) 

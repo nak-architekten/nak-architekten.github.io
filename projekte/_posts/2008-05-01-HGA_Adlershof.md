@@ -10,6 +10,7 @@ permalink: /projekte/HGA_BerlinAdlershof/
 tags: 
 - Sport
 - Denkmal
+- Highlight
 projectpage: /projekte/HGA_Adlershof/01.jpg 
 color: '#928775'
 images:

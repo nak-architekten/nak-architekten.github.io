@@ -2,7 +2,7 @@
 layout: post
 categories:
 - projekt
-- startseite
+#- startseite
 date: 2019-04-01 #2018-04-01
 published: true
 title: Sportmehrzweckhalle in Strausberg
@@ -10,7 +10,7 @@ shorttitle: Sportmehrzweckhalle Strausberg
 permalink: /projekte/SHS_Strausberg/
 tags: 
 - Sporthalle
-homepage: /projekte/SHS_Strausberg/07.jpg
+#homepage: /projekte/SHS_Strausberg/07.jpg
 projectpage: /projekte/SHS_Strausberg/00_Projektpage.jpg
 color: '#7a5d57'
 images:

@@ -11,6 +11,7 @@ permalink: /projekte/AFZM_KoenigsWusterhausen/
 tags: 
 - Institut
 - Gemeinschaftshaus
+- Highlight
 #homepage: /projekte/AFZM_KoenigsWusterhausen/00_Titel.jpg
 projectpage: /projekte/AFZM_KoenigsWusterhausen/01.jpg 
 color: '#fdfae7'

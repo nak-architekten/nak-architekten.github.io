@@ -2,7 +2,7 @@
 layout: post
 categories:
 - projekt
-- startseite
+#v- startseite
 date: 2020-08-26
 published: true
 title: Neubau Integrierte Sekundarschule »Am Breiten Luch« in Berlin-Lichtenberg
@@ -13,7 +13,7 @@ tags:
 - Wettbewerb
 projectpage: /projekte/WBW_ISS_BerlinLichtenberg/00_Projektpage.jpg
 homepage: /projekte/WBW_ISS_BerlinLichtenberg/01.jpg
-news: 2. Preis - Neubau Integrierte Sekundarschule »Am Breiten Luch« in <br />Berlin-Lichtenberg
+#news: 2. Preis - Neubau Integrierte Sekundarschule »Am Breiten Luch« in <br />Berlin-Lichtenberg
 images:
 - /projekte/WBW_ISS_BerlinLichtenberg/01.jpg
 - /projekte/WBW_ISS_BerlinLichtenberg/02.jpg

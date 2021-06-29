@@ -10,6 +10,7 @@ permalink: /projekte/DAI_BerlinDahlem/
 tags: 
 - Institut 
 - Bestand
+- Highlight
 projectpage: /projekte/DAI_BerlinDahlem/07_v2.jpg 
 color: '#acd6ee'
 images:

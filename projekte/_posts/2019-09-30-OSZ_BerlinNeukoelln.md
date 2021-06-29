@@ -2,7 +2,7 @@
 layout: post
 categories:
 - projekt
-- startseite
+#- startseite
 date: 2019-10-01 #2019-10-01
 published: true
 title: »Lise-Meitner-Schule« Oberstufenzentrum für Chemie, Physik und Biologie in Berlin Neukölln
@@ -11,8 +11,9 @@ permalink: /projekte/OSZ_BerlinNeukoelln/
 tags: 
 - Schule
 - Institut
+- Highlight
 projectpage: /projekte/OSZ_BerlinNeukoelln/00_Projektpage_N.jpg
-homepage: /projekte/OSZ_BerlinNeukoelln/06.jpg
+#homepage: /projekte/OSZ_BerlinNeukoelln/06.jpg
 color: '#4383C2'
 images:
 - /projekte/OSZ_BerlinNeukoelln/01_N.jpg

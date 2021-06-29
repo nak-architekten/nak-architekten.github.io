@@ -1,3 +1,7 @@
+- name: Ausgewählte Projekte
+  tags: 
+    - Highlight
+
 - name: Bildung
   tags:
     - Bildung

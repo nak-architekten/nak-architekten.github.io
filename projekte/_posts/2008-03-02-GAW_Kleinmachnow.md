@@ -9,6 +9,7 @@ shorttitle: Weinberg-Gymnasium Kleinmachnow // Sporthalle
 permalink: /projekte/GAW_Kleinmachnow/
 tags: 
 - Sport
+- Highlight
 projectpage: /projekte/GAW_Kleinmachnow/01.jpg 
 color: '#eee3cd'
 images:

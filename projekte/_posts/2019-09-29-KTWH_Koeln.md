@@ -2,7 +2,7 @@
 layout: post
 categories:
 - projekt
-- startseite
+#- startseite
 date: 2019-09-30 #2019-08-01
 published: true
 title: Erweiterung des Humboldt-Gymnasiums mit Kammermusiksaal in Köln
@@ -12,8 +12,9 @@ tags:
 - Schule
 - Konzertsaal
 - Bestand
+- Highlight
 projectpage: /projekte/KTWH_Koeln/00_Projektpage_N.jpg
-homepage: /projekte/KTWH_Koeln/06.jpg
+#homepage: /projekte/KTWH_Koeln/06.jpg
 color: '#825854'
 images:
 - /projekte/KTWH_Koeln/01_N.jpg

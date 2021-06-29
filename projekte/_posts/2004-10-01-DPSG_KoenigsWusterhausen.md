@@ -10,6 +10,7 @@ permalink: /projekte/DPSG_KoenigsWusterhausen/
 tags: 
 - Gemeinschaftshaus 
 - Gemeindehaus
+- Highlight
 projectpage: /projekte/DPSG_KoenigsWusterhausen/01.jpg 
 color: '#c57e62'
 images:

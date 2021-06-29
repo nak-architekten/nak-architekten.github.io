@@ -2,7 +2,7 @@
 layout: post
 categories:
 - projekt
-- startseite
+#- startseite
 date: 2020-10-27
 published: true
 title: Neubau Hortgebäude »Kyritzer Straße« in Eberswalde
@@ -13,7 +13,7 @@ tags:
 - Wettbewerb
 projectpage: /projekte/WBW_K17_Eberswalde/00_Projektpage.jpg
 homepage: /projekte/WBW_K17_Eberswalde/01.jpg
-news: 1. Preis - Neubau Hortgebäude in der Kyritzer Straße in Eberswalde
+#news: 1. Preis - Neubau Hortgebäude in der Kyritzer Straße in Eberswalde
 images:
 - /projekte/WBW_K17_Eberswalde/01.jpg
 - /projekte/WBW_K17_Eberswalde/02.jpg

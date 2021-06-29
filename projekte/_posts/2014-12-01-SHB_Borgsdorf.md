@@ -10,6 +10,7 @@ shorttitle: Sporthalle Borgsdorf
 permalink: /projekte/SHB_Borgsdorf/
 tags: 
 - Sporthalle
+- Highlight
 # homepage: /projekte/SHB_Borgsdorf/00_Titel.jpg
 # news: Sporthalle in Borgsdorf eröffnet! <br/> weitere Informationen!
 projectpage: /projekte/SHB_Borgsdorf/01.jpg
