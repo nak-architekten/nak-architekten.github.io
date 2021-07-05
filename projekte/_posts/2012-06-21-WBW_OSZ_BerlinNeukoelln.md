@@ -5,7 +5,7 @@ categories:
 date: 2012-06-21
 published: true
 title: Neubau des Oberstufenzentrums Lise Meitner mit Schwerpunkt Chemie, Physik, Biologie und Informatik
-shorttitle: IM BAU // OSZ Lise Meitner Berlin
+shorttitle: 1. Preis // OSZ Lise Meitner Berlin
 permalink: /projekte/WBW_OSZ_BerlinNeukoelln/
 tags: 
 - Wettbewerb

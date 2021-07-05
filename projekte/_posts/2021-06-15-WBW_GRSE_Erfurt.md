@@ -29,8 +29,9 @@ captions:
 - Blick in die Eingangshalle der Grundschule 
 - Schnitte und Ansichten 
 - Modellfoto 
-
 ---
+
+Auszug aus dem Preisgerichtsprotokoll: »Dem aus drei Baukörpern (Sporthalle, Grundschule, Gymnasium) bestehende Ensemble gelingt durch den Versatz der Volumina eine selbstverständliche Arrondierung des nördlich angrenzenden Wohnquartiers und gleichzeitig die Adressbildung nach Süden. [...] Die räumliche Gliederung in einen Vorplatz mit den Eingängen zu Sporthalle und Grundschule, den abgeschirmt im Norden liegenden Pausenhof für die Jüngeren und den Aufenthaltsbereich für die Schüler des Gymnasiums mit öffentlicherem Charakter ist klar und überzeugend. [...] Der Eingang zur Grundschule liegt gut auffindbar am zentralen Scharnier des Quartiers. Von dort führt eine großzügige innere Erschließung über das Foyer, vorbei an einer Freitreppe zur gemeinsam genutzten Mensa und der Aula. In der Fortführung dieses inneren „Boulevards“ erreicht man dann auch das Gymnasium mit großzügigem Foyer, Hörsaal und wiederum dem Element der Freitreppe. Beide Schulbaukörper bieten aufgrund ihrer Grundfläche vielfältige Möglichkeiten zur Ausformulierung von Lernlandschaften und Clustern. [...] Die Gestaltung der Baukörper mit einem Betonsockel und in den Obergeschossen einer Vorsatzschale in hellem Klinker wirkt angenehm ruhig und im Ausdruck einer Schule angemessen. [...] Insgesamt handelt es um einen sehr stimmigen Entwurf, der auf städtebaulicher Ebene qualitätsvolle Räume schafft und das Preisgericht auch in seiner Gestaltung und der inneren Organisation überzeugt.«
 
 
 
