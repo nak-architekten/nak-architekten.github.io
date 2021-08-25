@@ -50,6 +50,6 @@ Tragwerksplanung		|		[IBH Ingenieurbüro für Hochbau, Statik und Konstruktion
 Haustechnik				|		[IFB Ingenieure GmbH](https://ifb.info)
 Bauphysik 				|		[ISRW  Klapdor Berlin](https://www.isrw-klapdor.de)
 Freianlagen				|		[k1 Landschaftsarchitekten](http://www.k1-berlin.de)
-Projektfotos			|		Adel Bikulov
+Projektfotos			|		[Adel Bikulov](https://www.fzwanzig.com)
                                	|    
 Weitere Informationen   |   	[Baunetz](https://www.baunetz.de/meldungen/Meldungen-Numrich_Albrecht_Klumpp_in_Berlin-Neukoelln_7694999.html) 

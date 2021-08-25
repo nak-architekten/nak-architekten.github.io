@@ -11,7 +11,7 @@ permalink: /projekte/WBW_HAB_Hammelburg/
 tags: 
 - Schule
 - Wettbewerb 
-- Highlight
+#- Highlight
 projectpage: /projekte/WBW_HAB_Hammelburg/00_Projektpage.jpg
 homepage: /projekte/WBW_HAB_Hammelburg/01.jpg
 news: 1. PREIS - Entwicklung des Schulzentrums in Hammelburg
