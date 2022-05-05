@@ -24,12 +24,13 @@ images:
 - /projekte/WBW_LGH_Langenhagen/07.jpg
 
 captions:
-- Städtebauliche Anordnung und Baukörperform der Grundschule  
+- Neuer Eingangsbereich der Schule  
 - Lageplan
-- Grundriss Erdgeschoss 
-- Grundriss 1. Obergeschoss 
-- Blick ins große Forum mit Sitztreppen 
-- Ansichten und Schnitte 
+- Modellfoto der Baukörper
+- Modellfoto des Eingangsplatzes
+- Ansicht und Detailschnitt
+- Prototypischer Grundriss der Lernlandschaften
+- Innenraum der Lernlandschaften
 ---
 
 Auszug aus dem Preisgerichtsprotokoll: »Die Arbeit ... versucht mit dem Erhalt der Trakte E, F und G und der Ergänzung durch ähnliche kubusartige Gebäudestrukturen einen campusartigen Charakter herzustellen. Untereinander werden die Kuben durch gedeckte Gänge verbunden. Die neuen Gebäude sind 4-geschossig. Städtebaulich erreichen die Verfasser einen klaren, adressbildenden Eingang und eine große, bessere Anbindung des Stadtparks an das Zentrum. ... Im Inneren der Schule entstehen vielfältige nutzbare Räume in einfacher und Orientierung bietender Clusterstruktur. Jede Klassenstufe ist über je zwei Kuben verteilt und bietet neben den Unterrichtsräumen auch Lehrerstation, Differenzierungsräume und Lerninseln. ... Die Lage der Klassenstufen auf den Gelände ist wohl überlegt. ... Mit einem Energiemonitoring erfüllt der Entwurf gut die Anforderungen an Nachhaltigkeit und energetische Effizienz [...].«
