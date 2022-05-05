@@ -2,7 +2,6 @@
 layout: post
 categories:
 - projekt
-- startseite
 date: 2021-07-07
 published: true
 title: Neubau der »Joseph-Müller-Grundschule« in Groß Düngen

@@ -2,7 +2,6 @@
 layout: post
 categories:
 - projekt
-- startseite
 date: 2021-03-24
 published: true
 title: Entwicklung des Schulzentrums in Hammelburg mit Realisierung der Neubauten Gymnasium, Mensa und Zweifachsporthalle
