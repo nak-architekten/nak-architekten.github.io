@@ -2,7 +2,7 @@
 layout: post
 categories:
 - projekt
-- startseite
+#- startseite
 date: 2021-05-11
 published: true
 title: Neubau einer Doppelsporthalle in der Hermann-Neuberger-Sportschule in Saarbrücken
@@ -12,8 +12,8 @@ tags:
 - Sporthalle
 - Wettbewerb 
 projectpage: /projekte/WBW_LSVS_Saarbruecken/00_Projektpage.jpg
-homepage: /projekte/WBW_LSVS_Saarbruecken/01.jpg
-news: ANKAUF - Doppelsporthalle in der Hermann-Neuberger-Sportschule in Saarbrücken
+#homepage: /projekte/WBW_LSVS_Saarbruecken/01.jpg
+#news: ANKAUF - Doppelsporthalle in der Hermann-Neuberger-Sportschule in Saarbrücken
 images:
 - /projekte/WBW_LSVS_Saarbruecken/01.jpg
 - /projekte/WBW_LSVS_Saarbruecken/02.jpg

@@ -2,7 +2,7 @@
 layout: post
 categories:
 - projekt
-- startseite
+#- startseite
 date: 2021-06-15
 published: true
 title: Neubau Schulcampus »Greifswalder Straße« in Erfurt
@@ -12,8 +12,8 @@ tags:
 - Schule
 - Wettbewerb 
 projectpage: /projekte/WBW_GRSE_Erfurt/00_Projektpage.jpg
-homepage: /projekte/WBW_GRSE_Erfurt/01.jpg
-news: 2. PREIS - Neubau Schulcampus »Greifswalder Straße« in Erfurt
+#homepage: /projekte/WBW_GRSE_Erfurt/01.jpg
+#news: 2. PREIS - Neubau Schulcampus »Greifswalder Straße« in Erfurt
 images:
 - /projekte/WBW_GRSE_Erfurt/01.jpg 
 - /projekte/WBW_GRSE_Erfurt/02.jpg 
