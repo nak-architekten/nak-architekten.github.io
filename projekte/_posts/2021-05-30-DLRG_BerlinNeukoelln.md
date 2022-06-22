@@ -1,19 +1,20 @@
 ---
 layout: post
 categories:
-- projekt
-date: 2021-05-30
+- projekt 
+- startseite
+date: 2021-05-01
 published: true
 title: Neubau des DLRG Jugend- und Ausbildungszentrums in Berlin-Neukölln
-shorttitle: DLRG Ausbildungszentrum Berlin-Neukölln
+shorttitle: DLRG Ausbildungszentrum Berlin
 permalink: /projekte/DLRG_BerlinNeukoelln/
 tags: 
 - Sporthalle
 - Werkstatt
 - Highlight
 projectpage: /projekte/DLRG_BerlinNeukoelln/00_Projektpage.jpg
-#homepage: /projekte/DLRG_BerlinNeukoelln/01.jpg
-#news: ANKAUF - Doppelsporthalle in der Hermann-Neuberger-Sportschule in Saarbrücken
+homepage: /projekte/DLRG_BerlinNeukoelln/06.jpg
+news: DLRG in Berlin-Neukölln
 color: '#b4c58f'
 images:
 - /projekte/DLRG_BerlinNeukoelln/01.jpg
