@@ -2,7 +2,7 @@
 layout: post
 categories:
 - projekt
-- startseite
+#- startseite
 date: 2021-12-01
 published: true
 title: Neu- und Umbau der Integrierten Gesamtschule in Langenhagen
@@ -12,8 +12,8 @@ tags:
 - Schule
 - Wettbewerb 
 projectpage: /projekte/WBW_LGH_Langenhagen/00_Projektpage.jpg
-homepage: /projekte/WBW_LGH_Langenhagen/01.jpg
-news: 2. PREIS - Neu- und Umbau der Integrierten Gesamtschule in Langenhagen
+# homepage: /projekte/WBW_LGH_Langenhagen/01.jpg
+# news: 2. PREIS - Neu- und Umbau der Integrierten Gesamtschule in Langenhagen
 images:
 - /projekte/WBW_LGH_Langenhagen/01.jpg 
 - /projekte/WBW_LGH_Langenhagen/02.jpg 

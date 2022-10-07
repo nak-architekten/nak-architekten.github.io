@@ -2,7 +2,7 @@
 layout: post
 categories:
 - projekt
-- startseite
+#- startseite
 date: 2022-06-02
 published: true
 title: Gymnasium Wriezener Straße und Festhalle in Strausberg
@@ -13,8 +13,8 @@ tags:
 - Gemeindehaus
 - Wettbewerb 
 projectpage: /projekte/WBW_GYM_Strausberg/00_Projektpage.jpg
-homepage: /projekte/WBW_GYM_Strausberg/01.jpg
-news: ANKAUF (Realisierungsteil) | 1. PREIS (Ideenteil) - Gymnasium Wriezener Straße und Festhalle in Strausberg
+# homepage: /projekte/WBW_GYM_Strausberg/01.jpg
+# news: ANKAUF (Realisierungsteil) | 1. PREIS (Ideenteil) - Gymnasium Wriezener Straße und Festhalle in Strausberg
 images:
 - /projekte/WBW_GYM_Strausberg/01.jpg 
 - /projekte/WBW_GYM_Strausberg/02.jpg 
