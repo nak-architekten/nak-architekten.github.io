@@ -32,16 +32,16 @@ images:
 - /projekte/VAK_BerlinMoabit/12.jpg
 - /projekte/VAK_BerlinMoabit/13.jpg
 captions:
-- Blick von Garten
-- Blick von Garten
+- Blick vom Garten
+- Blick vom Garten
 - Flexible Raumaufteilung im Obergeschoss
 - Saal im Erdgeschoss
 - Loggia
-- Blick von Garten
+- Blick vom Garten
 - Holztreppe 
 - Holztreppe
 - Saal im Obergeschoss 
-- Blick von Garten
+- Blick vom Garten
 - Terrasse
 - Flexible Raumaufteilung im Obergeschoss
 - Loggia
@@ -53,7 +53,7 @@ Die Holzkonstruktion des Hauses bleibt im Innenraum vollständig sichtbar und s
 
 
 Adresse					|		Turmstraße 86, 10559 Berlin Moabit
-Auslober				|		BIM Berliner Immobilienmanagement GmbH
+Bauherr					|		BIM Berliner Immobilienmanagement GmbH
 BGF						|		1.050 m²
 Fertigstellung			|		Mai 2022
 Projektteam				|		Grant Kelly, Nancy Zimmermann, Leo Faust, mrbs Architekten (Bauleitung)

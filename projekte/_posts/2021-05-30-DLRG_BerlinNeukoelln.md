@@ -43,7 +43,7 @@ Die innere Gliederung in 3 Funktionsbereiche findet im Äußeren ihre Entsprech
 
 
 Adresse					|		Severingstrasse 2, 12351 Berlin Neukölln
-Auslober				|		Facility Management Bezirksamt Neukölln
+Bauherr					|		Facility Management Bezirksamt Neukölln
 BGF						|		460 m²
 Fertigstellung			|		Mai 2021
 Projektteam				|		Adel Bikulov, Ralf Nägele, Hans-Jürgen Keisel, Mitja Wiesner (Bauleitung)

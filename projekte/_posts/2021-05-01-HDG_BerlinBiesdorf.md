@@ -51,7 +51,7 @@ Das Haus der Zukunft am ukb ist ein öffentlichkeitswirksamer Neubau des Unfall
 
 
 Adresse					|		Blumberger Damm 2k, 12683 Berlin Marzahn-Hellersdorf
-Auslober				|		Unfallkrankenhaus Berlin ukb
+Bauherr					|		Unfallkrankenhaus Berlin ukb
 BGF						|		1.450 m²
 Fertigstellung			|		MAi 2021
 Projektteam				|		Grant Kelly, Riccardo Turcato, Martin Kranich, Mirko Gebhardt (Bauleitung)

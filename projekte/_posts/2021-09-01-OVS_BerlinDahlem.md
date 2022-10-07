@@ -30,12 +30,12 @@ images:
 - /projekte/OVS_BerlinDahlem/10.jpg
 captions:
 - Ensemble mit Bestandsbau der Weiterbildung rechts
-- Blick von Garten
+- Blick vom Garten
 - Flurbereich
 - Treppenhaus
 - Büroraum
 - Vorplatz mit Eingangsbereich
-- Blick von Garten 
+- Blick vom Garten 
 - Vorplatz mit Eingangsbereich
 - Kunst am Bau von Stephane Leonard
 - Fensterdetail
@@ -46,7 +46,7 @@ Das geisteswissenschafliche Institutsgebäude dient zur Entlastung der benachba
 
 
 Adresse					|		Otto-von-Simson-Straße 14, 14195 Berlin
-Auslober				|		Freie Universität Berlin
+Bauherr					|		Freie Universität Berlin
 BGF						|		1.172 m²
 Fertigstellung			|		September 2021
 Projektteam				|		Karl-Friedrich Müller, Martin Kranich, Ingenieurbüro Hauer (Bauleitung)
