@@ -35,5 +35,5 @@ Adresse			|	Diehloer Straße 66, 15890 Eisenhüttenstadt
 Bauherr			|	Landkreis Oder-Spree 
 BGF				|	1.660 m² 
 Fertigstellung	|	November 2013 
-Projektteam		|	Arthur Numrich, Ulrike Vogel, Ralf Nägele 
+Projektteam		|	Arthur Numrich, Ulrike Vogel, Milanko Moraske, Ralf Nägele 
 Projektfotos	|	Erik-Jan Ouwerkerk

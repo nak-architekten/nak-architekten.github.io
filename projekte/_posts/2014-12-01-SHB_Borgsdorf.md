@@ -40,7 +40,7 @@ Adresse			|	Bahnhofstraße 33b, 16540 Hohen Neuendorf
 Bauherr			|	Stadt Hohen Neuendorf
 BGF				|	2.400 m²
 Fertigstellung	|	Dezember 2014
-Projektteam	    |	Tiemo Klumpp, Ulrike Vogel, Julian Wagner, Michael Filser
+Projektteam	    |	Tiemo Klumpp, Ulrike Vogel, Milanko Moraske, Julian Wagner, Michael Filser
 Bauleitung		|	[Ingenieurbüro Hauer](http://ibhauer.de)
 Haustechnik	    |	[MMP Ingenieure](http://www.mmp-ingenieure.de)
 Außenanlagen	|	[Landschaftsarchitekturbüro Armbruster](http://armbruster-landschaftsarchitektur.de)

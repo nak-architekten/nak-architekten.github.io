@@ -52,7 +52,7 @@ Adresse					|		Kartäuserwall 40, 50676 Köln
 Bauherr					|		Gebäudewirtschaft der Stadt Köln
 BGF						|		5.683 m²
 Fertigstellung			|		August 2019
-Projektteam				|		Arthur Numrich, Ulrike Vogel, Julian Wagner, Michael Filser
+Projektteam				|		Arthur Numrich, Ulrike Vogel, Milanko Moraske, Julian Wagner, Michael Filser
 Bauleitung 				|		[BN-Architekten GmbH](https://bn-a.de/home/)
 Statik 					| 		[IDK Kleinjohann GmbH & CoKG](http://www.idk-koeln.de/home/)
 Haustechnik 			| 		[W33 Ingenieurgesellschaft mbH](https://www.w33-berlin.de)

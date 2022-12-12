@@ -43,7 +43,7 @@ Adresse				|	Gute Änger 32, 85356 Freising
 Bauherr				|	Montessori Landkreis Freising e.V.
 BGF					|	6.370 m²
 Fertigstellung		|	Juni 2015
-Projektteam			|	Tiemo Klumpp, Inka Reckhaus, Moritz Müller-Werther, Ulrike Vogel
+Projektteam			|	Tiemo Klumpp, Inka Reckhaus, Moritz Müller-Werther, Ulrike Vogel, Milanko Moraske
 Projektfotos		|	[Nina Straßgütl](http://www.ninastrg.de/) 
                     |    
 Weitere Informationen    |   [Baunetz](http://www.baunetz.de/meldungen/Meldungen-Montessorizentrum_in_Freising_4592549.html)
