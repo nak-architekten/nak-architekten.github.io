@@ -10,7 +10,6 @@ shorttitle: ANKAUF // Grundschule Karlsdorf
 permalink: /projekte/WBW_SGK_KarlsdorfNeuthard/
 tags: 
 - Schule
-- Gemeindehaus
 - Wettbewerb 
 projectpage: /projekte/WBW_SGK_KarlsdorfNeuthard/00_Projektpage.jpg
 # homepage: /projekte/WBW_SGK_KarlsdorfNeuthard/01.jpg
