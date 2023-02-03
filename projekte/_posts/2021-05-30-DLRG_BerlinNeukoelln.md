@@ -12,7 +12,7 @@ tags:
 - Sporthalle
 - Werkstatt
 - Highlight
-projectpage: /projekte/DLRG_BerlinNeukoelln/00_Projektpage.jpg
+projectpage: /projekte/DLRG_BerlinNeukoelln/00_Projektpage_V1.jpg
 homepage: /projekte/DLRG_BerlinNeukoelln/06.jpg
 news: DLRG in Berlin-Neukölln
 color: '#b4c58f'

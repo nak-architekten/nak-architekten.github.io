@@ -2,7 +2,7 @@
 layout: post
 categories:
 - projekt
-- startseite
+#- startseite
 date: 2021-05-30
 published: true
 title: Haus der Zukunft am Unfallkrankenhaus Berlin in Marzahn-Hellersdorf
@@ -12,38 +12,34 @@ tags:
 - Werkstatt
 - Krankenhaus
 - Highlight
-projectpage: /projekte/HDG_BerlinBiesdorf/00_Projektpage.jpg
+projectpage: /projekte/HDG_BerlinBiesdorf/00_Projektpage_v1.jpg
 homepage: /projekte/HDG_BerlinBiesdorf/04.jpg
 news: Haus der Zukunft am Unfallkrankenhaus Berlin
 color: '#e9d0b6'
 images:
+- /projekte/HDG_BerlinBiesdorf/14.jpg
 - /projekte/HDG_BerlinBiesdorf/01.jpg
+- /projekte/HDG_BerlinBiesdorf/13.jpg
+- /projekte/HDG_BerlinBiesdorf/06.jpg
+- /projekte/HDG_BerlinBiesdorf/04.jpg
 - /projekte/HDG_BerlinBiesdorf/02.jpg
 - /projekte/HDG_BerlinBiesdorf/03.jpg
-- /projekte/HDG_BerlinBiesdorf/04.jpg
-- /projekte/HDG_BerlinBiesdorf/05.jpg
-- /projekte/HDG_BerlinBiesdorf/06.jpg
 - /projekte/HDG_BerlinBiesdorf/07.jpg
-- /projekte/HDG_BerlinBiesdorf/08.jpg
 - /projekte/HDG_BerlinBiesdorf/09.jpg
 - /projekte/HDG_BerlinBiesdorf/10.jpg
 - /projekte/HDG_BerlinBiesdorf/11.jpg
-- /projekte/HDG_BerlinBiesdorf/12.jpg
-- /projekte/HDG_BerlinBiesdorf/13.jpg
 captions:
+- Eingang vom Blumenberger Damm 
 - Blick vom Blumenberger Damm
-- Zentrum für Notfalltraining
-- Zentrum für Notfalltraining
-- Foyer
-- Dachterrasse
 - Baukörper
-- Innenraum 
-- Innenraum
+- Baukörper
+- Foyer
+- Zentrum für Notfalltraining
+- Zentrum für Notfalltraining
+- Innenraum mit Dachterrasse
 - Smart Living and Health Center (SLHC)
 - Smart Living and Health Center (SLHC)
 - Eingang vom Blumenberger Damm 
-- Baukörper 
-- Baukörper
 
 ---
 

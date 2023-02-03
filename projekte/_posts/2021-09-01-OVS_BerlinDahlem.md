@@ -12,7 +12,7 @@ tags:
 - Buero
 - Institut
 - Bestand
-- Highlight
+#- Highlight
 projectpage: /projekte/OVS_BerlinDahlem/00_Projektpage.jpg
 homepage: /projekte/OVS_BerlinDahlem/09.jpg
 news: Institutsgebäude für die FU Berlin
@@ -52,7 +52,7 @@ Fertigstellung			|		September 2021
 Projektteam				|		Karl-Friedrich Müller, Martin Kranich, Ingenieurbüro Hauer (Bauleitung)
 Tragwerksplanung		|		[ahw Ingenieure GmbH](https://www.ahw-ing.com/)
 Haustechnik				|		[B4 Plan Ingenieurgesellschaft mbH](https://b4-plan.de)
-Bauphysik				| 		[AHW Ingenieure GmbH](https://www.ahw-ing.com/)
+Bauphysik				|		[AHW Ingenieure GmbH](https://www.ahw-ing.com/)
 Freianlagen				|		[Kubus Freiraum Berlin](https://www.kubus-freiraum.de/)
 Kunst am Bau 			| 		[Stephane Leonard](https://stephaneleonard.net)
 						|
