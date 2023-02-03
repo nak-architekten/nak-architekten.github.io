@@ -15,7 +15,7 @@ tags:
 projectpage: /projekte/HDG_BerlinBiesdorf/00_Projektpage_v1.jpg
 homepage: /projekte/HDG_BerlinBiesdorf/04.jpg
 news: Haus der Zukunft am Unfallkrankenhaus Berlin
-color: '#e9d0b6'
+color: '#facb6f'
 images:
 - /projekte/HDG_BerlinBiesdorf/14.jpg
 - /projekte/HDG_BerlinBiesdorf/01.jpg
