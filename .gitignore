@@ -2,4 +2,6 @@ _site
 .sass-cache
 _config.local.yml
 _config.yml
+.gitignore
 CNAME
+.DS_Store
