@@ -26,6 +26,8 @@ captions:
 ---
 Auszug aus dem Preisgerichtsprotokoll: »Der Entwurf erreicht durch die vorgeschlagene Lage der Baukörper eine klare Gliederung der Außenräume in Schulhof, Sportplatz und Vorplatz. Diese Bereiche sind in den getroffenen städtebaulichen Setzungen sinnvoll angeordnet, klar ablesbar und auch funktional getrennt. Die Maßstäblichkeit des viergeschossigen Schulbaukörpers und der eingeschossigen Sporthalle fügt sich in den städtebaulichen Kontext der Umgebung. Die Körnung der geplanten Baukörper finden in den Volumina der beiden angrenzenden Schulen eine Fortführung. Städtebaulich kann der Entwurf, besonders mit seiner gegliederten Vorzone, einen Mittelpunkt zum neu entstehenden Schulcampus bilden. Das Preisgericht würdigt die hohe, sowohl außenräumliche als auch innenräumliche Qualität des Entwurfs.«
 
+[\>> Projekt](../projekte/WAR_BerlinLichtenberg)
+
 Adresse					|	Wartiner Straße 1-3, 13057 Berlin Lichtenberg
 Auslober				|	Land Berlin, Bezirk Lichtenberg von Berlin
 Preisgericht			|	16. Februar 2017

@@ -31,6 +31,6 @@ Ausloberin						|	Gebäudewirtschaft der Stadt Köln
 Preisgericht					|	28. August 2009
 Platzierung						|	1. Preis
 BGF								|	5.685 m²
-Projektteam						|	Arthur Numrich, Tiemo Klumpp, Ulrike Vogel, Julian Wagner, Michael Filser, Christian Schmidt
+Projektteam						|	Michael Filser, Christian Schmidt
                             |    
 Weitere Informationen       |   [CompetitionLine](https://www.competitionline.com/de/ergebnisse/16937)

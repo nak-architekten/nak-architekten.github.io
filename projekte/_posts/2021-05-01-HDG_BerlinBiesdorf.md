@@ -11,7 +11,7 @@ permalink: /projekte/HDG_BerlinBiesdorf/
 tags: 
 - Werkstatt
 - Krankenhaus
-- Highlight
+#- Highlight
 projectpage: /projekte/HDG_BerlinBiesdorf/00_Projektpage_v1.jpg
 homepage: /projekte/HDG_BerlinBiesdorf/04.jpg
 news: Haus der Zukunft am Unfallkrankenhaus Berlin
