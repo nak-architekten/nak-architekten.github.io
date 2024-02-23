@@ -2,7 +2,7 @@
 layout: post
 categories:
 - projekt
-- startseite
+#- startseite
 date: 2021-09-01
 published: true
 title: Institutsgebäude für die Geisteswissenschaften der FU in Berlin-Dahlem
@@ -15,7 +15,7 @@ tags:
 #- Highlight
 projectpage: /projekte/OVS_BerlinDahlem/00_Projektpage.jpg
 homepage: /projekte/OVS_BerlinDahlem/09.jpg
-news: Institutsgebäude für die FU Berlin
+#news: Institutsgebäude für die FU Berlin
 color: '#6d96bd'
 images:
 - /projekte/OVS_BerlinDahlem/01.jpg
