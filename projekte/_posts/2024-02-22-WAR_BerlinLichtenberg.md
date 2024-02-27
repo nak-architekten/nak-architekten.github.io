@@ -30,17 +30,18 @@ images:
 - /projekte/WAR_BerlinLichtenberg/11.jpg
 
 captions:
--  
--  
+-  Haupteingang von der Wartiner Straße 
 - Ansicht Eingangsseite mit Verbindungsdach zum MEB
-- Foyer mit Kaskadentreppe und Kunst am Bau von Jasmin Alt
-- Blick vom Foyer in die Sporthalle
-- Dreifeldsporthalle
-- Kaskadentreppe mit Kunst am Bau von Jasmin Alt
-- Lernfläche am Innenhof
-- Gruppenräume an der Lernfläche 
-- Innenhof mit Auferstehungskirche im Hintergrund 
-- Bärenkopf Baukeramik als Notablauf
+- Pasenhof
+- Mensa 
+- Aula 
+- Haupterschliessung 
+- Haupterschliessung
+- Lernfläche 
+- Loggia  
+- Innenhof 
+- Haupteingang 
+- Betonstruktur
 
 ---
 
