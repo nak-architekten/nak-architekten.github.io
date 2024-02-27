@@ -31,8 +31,7 @@ images:
 
 captions:
 -  Haupteingang von der Wartiner Straße 
-- Ansicht Eingangsseite mit Verbindungsdach zum MEB
-- Pasenhof
+- Pausenhof
 - Mensa 
 - Aula 
 - Haupterschliessung 
