@@ -3,7 +3,7 @@ layout: post
 categories:
 - projekt
 - startseite
-date: 2024-02-01
+date: 2023-07-01
 published: true
 title: Integrierte Sekundarschule mit Dreifeldsporthalle in der Wartiner Straße in Berlin Lichtenberg
 shorttitle: Integrierte Sekundarschule Berlin

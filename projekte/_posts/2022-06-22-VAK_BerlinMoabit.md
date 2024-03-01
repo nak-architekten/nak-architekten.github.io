@@ -2,7 +2,7 @@
 layout: post
 categories:
 - projekt
-- startseite
+#- startseite
 date: 2022-06-22
 published: true
 title: Erweiterungsbau für die Verwaltungsakademie in Berlin-Moabit
@@ -14,8 +14,8 @@ tags:
 - Denkmal
 - Highlight
 projectpage: /projekte/VAK_BerlinMoabit/00_Projektpage.jpg
-homepage: /projekte/VAK_BerlinMoabit/09.jpg
-news: VAK in Berlin Moabit
+#homepage: /projekte/VAK_BerlinMoabit/09.jpg
+#news: VAK in Berlin Moabit
 color: '#e9b06f'
 images:
 - /projekte/VAK_BerlinMoabit/01.jpg

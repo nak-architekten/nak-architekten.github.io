@@ -13,8 +13,8 @@ tags:
 - Werkstatt
 - Highlight
 projectpage: /projekte/DLRG_BerlinNeukoelln/00_Projektpage_V1.jpg
-homepage: /projekte/DLRG_BerlinNeukoelln/06.jpg
-news: DLRG in Berlin-Neukölln
+homepage: /projekte/DLRG_BerlinNeukoelln/02.jpg
+news: DLRG Jugend- und Ausbildungszentrum in Berlin-Neukölln
 color: '#b4c58f'
 images:
 - /projekte/DLRG_BerlinNeukoelln/01.jpg
