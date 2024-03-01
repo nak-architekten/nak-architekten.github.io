@@ -12,32 +12,32 @@ tags:
 - Schule
 - Sporthalle
 - Highlight
-projectpage: /projekte/GEM_BerlinMitte/00_Projektpage.jpg
+projectpage: /projekte/GEM_BerlinMitte/00_Projektpage_V.jpg
 homepage: /projekte/GEM_BerlinMitte/03.jpg
 news: Grundschule für die Europacity in Berlin Mitte
 color: '#ebd02d'
 images:
-- /projekte/GEM_BerlinMitte/01.jpg
-- /projekte/GEM_BerlinMitte/02.jpg
-- /projekte/GEM_BerlinMitte/03.jpg
+- /projekte/GEM_BerlinMitte/01_V.jpg
+- /projekte/GEM_BerlinMitte/02_V.jpg
+- /projekte/GEM_BerlinMitte/03_V.jpg
 - /projekte/GEM_BerlinMitte/04.jpg
-- /projekte/GEM_BerlinMitte/05.jpg
+- /projekte/GEM_BerlinMitte/05_V.jpg
 - /projekte/GEM_BerlinMitte/06.jpg
-- /projekte/GEM_BerlinMitte/07.jpg
 - /projekte/GEM_BerlinMitte/08.jpg
-- /projekte/GEM_BerlinMitte/09.jpg
-- /projekte/GEM_BerlinMitte/10.jpg
+- /projekte/GEM_BerlinMitte/09_V.jpg
+- /projekte/GEM_BerlinMitte/10_V.jpg
+- /projekte/GEM_BerlinMitte/11_V.jpg
 captions:
-- Blick von der Chausseestraße Richtung Norden
-- Blick vom Pausenhof
+- Städtebauliche Situation an der Chausseestraße
+- Fassade von der Chausseestraße 
 - Eingangsfoyer
 - Treppenhalle mit Kunst am Bau von Jorn Ebner (»Zu den Sternen«)
-- Haupttreppe mit Aufenthaltsbereich und Loggia
+- Haupttreppe mit Aufenthaltsbereichen 
 - Aufenthaltsbereich mit Loggia
 - Gemeinsames Forum an einer Loggia 
-- Gemeinsames Forum an einer Loggia
-- Fassade am Eingangsbereich 
-- Blick von der Chausseestraße
+- Klassenzimmer 
+- Dreifeldsporthalle  
+- Blick von Norden 
 
 ---
 
@@ -59,6 +59,4 @@ Bauleitung 				| 		[PMS AG](https://www.pms-ag.de)
 Tragwerksplanung		|		[Pichler Ingenieure GmbH](http://www.pichleringenieure.com)
 Haustechnik				|		[W33 Ingenieurgesellschaft mbH](https://www.w33-berlin.de)
 Freianlagen				|		[Kubus Freiraum Berlin](https://www.kubus-freiraum.de/)
-Projektfotos			|		[Adel Bikulov](https://www.fzwanzig.com)
-
-
+Projektfotos			|		[Adel Bikulov](https://www.fzwanzig.com) (Bilder 4/6/7/8/9), [Adrian Schulz](https://adrianschulz.de) (Bilder 1/2/3/5/10)
