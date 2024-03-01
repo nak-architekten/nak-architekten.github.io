@@ -13,9 +13,9 @@ tags:
 - Sporthalle
 - Highlight
 projectpage: /projekte/GEM_BerlinMitte/00_Projektpage_V.jpg
-homepage: /projekte/GEM_BerlinMitte/03.jpg
-news: Grundschule für die Europacity in Berlin Mitte
-color: '#ebd02d'
+homepage: /projekte/GEM_BerlinMitte/03_V.jpg
+news: Grundschule am Nordhafen für die Europacity in Berlin Mitte
+color: '#76744d'
 images:
 - /projekte/GEM_BerlinMitte/01_V.jpg
 - /projekte/GEM_BerlinMitte/02_V.jpg
